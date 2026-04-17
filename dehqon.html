@@ -60,7 +60,6 @@
             max-width: 400px;
         }
 
-        /* Timer bo'limi */
         .timer-section {
             background: #2c2c2c;
             border-radius: 60px;
@@ -116,7 +115,6 @@
             color: white;
         }
 
-        /* 3D Zar bo'limi */
         .dice-section {
             background: #e9e2c7;
             border-radius: 48px;
@@ -143,7 +141,7 @@
             height: 100%;
             position: relative;
             transform-style: preserve-3d;
-            transition: transform 0.1s ease;
+            transition: transform 0.05s ease;
             cursor: pointer;
         }
 
@@ -160,19 +158,15 @@
             font-size: 4rem;
             font-weight: bold;
             border: 2px solid #d9b650;
+            background: #fff8f0;
         }
 
-        /* 6 tomonni joylash */
-        .front  { transform: translateZ(100px); background: #fff8f0; }
-        .back   { transform: rotateY(180deg) translateZ(100px); background: #fff8f0; }
-        .right  { transform: rotateY(90deg) translateZ(100px); background: #fff8f0; }
-        .left   { transform: rotateY(-90deg) translateZ(100px); background: #fff8f0; }
-        .top    { transform: rotateX(90deg) translateZ(100px); background: #fff8f0; }
-        .bottom { transform: rotateX(-90deg) translateZ(100px); background: #fff8f0; }
-
-        .face .dot {
-            font-size: 5rem;
-        }
+        .front  { transform: translateZ(100px); }
+        .back   { transform: rotateY(180deg) translateZ(100px); }
+        .right  { transform: rotateY(90deg) translateZ(100px); }
+        .left   { transform: rotateY(-90deg) translateZ(100px); }
+        .top    { transform: rotateX(90deg) translateZ(100px); }
+        .bottom { transform: rotateX(-90deg) translateZ(100px); }
 
         .roll-btn {
             background: #7a5a3a;
@@ -213,11 +207,6 @@
             color: #6b5a3a;
             text-align: center;
         }
-
-        @keyframes pulse {
-            0% { transform: scale(1); }
-            100% { transform: scale(1.02); }
-        }
     </style>
 </head>
 <body>
@@ -228,7 +217,6 @@
     </h1>
     <div class="sub">🎲 Vaqtni boshqaring, zarni tashlang</div>
 
-    <!-- TIMER QISMI -->
     <div class="timer-section">
         <div class="timer-label">⏱️ MUHOKAMA VAQTI</div>
         <div class="timer-display" id="timerDisplay">02:00</div>
@@ -239,18 +227,17 @@
         </div>
     </div>
 
-    <!-- 3D ZAR QISMI -->
     <div class="dice-section">
         <div class="dice-title">🎲 TALON (ZAR) 🎲</div>
         
         <div class="scene">
             <div class="dice-3d" id="dice3d">
                 <div class="face front"><span class="dot">⚀</span></div>
-                <div class="face back"><span class="dot">⚁</span></div>
+                <div class="face back"><span class="dot">⚅</span></div>
                 <div class="face right"><span class="dot">⚂</span></div>
                 <div class="face left"><span class="dot">⚃</span></div>
                 <div class="face top"><span class="dot">⚄</span></div>
-                <div class="face bottom"><span class="dot">⚅</span></div>
+                <div class="face bottom"><span class="dot">⚁</span></div>
             </div>
         </div>
         
@@ -270,7 +257,7 @@
 <script>
     // =============== TIMER ===============
     let timerInterval = null;
-    let timeLeft = 120; // 2 daqiqa = 120 sekund
+    let timeLeft = 120;
     const timerDisplay = document.getElementById('timerDisplay');
     
     function updateTimerDisplay() {
@@ -305,42 +292,30 @@
     });
     
     document.getElementById('timerResetBtn').addEventListener('click', () => {
-        if(timerInterval) {
-            clearInterval(timerInterval);
-            timerInterval = null;
-        }
+        if(timerInterval) clearInterval(timerInterval);
+        timerInterval = null;
         timeLeft = 120;
         updateTimerDisplay();
     });
     
-    // =============== 3D ZAR (3-4 soniya animatsiya) ===============
+    // =============== 3D ZAR - TUZATILGAN VERSIYA ===============
     const dice3d = document.getElementById('dice3d');
     const resultMessageDiv = document.getElementById('resultMessage');
     let isRolling = false;
     let rollTimeout = null;
     let animationInterval = null;
     
-    // Tasodifiy aylanish burchaklarini yaratish
-    function getRandomRotation() {
-        // Har bir o'q bo'yicha 2-3 to'liq aylanish + tasodifiy yakuniy burchak
-        const x = (Math.floor(Math.random() * 4) + 2) * 360 + Math.floor(Math.random() * 360);
-        const y = (Math.floor(Math.random() * 4) + 2) * 360 + Math.floor(Math.random() * 360);
-        const z = (Math.floor(Math.random() * 4) + 2) * 360 + Math.floor(Math.random() * 360);
-        return { x, y, z };
-    }
-    
-    // Yakuniy burchakni 1-6 natijasiga moslab belgilash (old tomoni qaysi raqam ko'rinsin)
-    // Biz har bir natija uchun old tomonni belgilaymiz (front face)
-    function getFinalRotationForNumber(num) {
-        // Standart kub: front = 1, back = 6, right = 3, left = 4, top = 2, bottom = 5
-        // Natijaga mos keladigan rotatsiya (old tomonda kerakli raqam)
+    // Raqamga mos keladigan to'liq rotatsiya (old tomonda kerakli raqam ko'rinadi)
+    // Standart kub joylashuvi:
+    // front = 1, back = 6, right = 3, left = 4, top = 5, bottom = 2
+    function getRotationForNumber(num) {
         switch(num) {
-            case 1: return { x: 0, y: 0, z: 0 };        // front = 1
-            case 2: return { x: -90, y: 0, z: 0 };      // top = 2
-            case 3: return { x: 0, y: 90, z: 0 };       // right = 3
-            case 4: return { x: 0, y: -90, z: 0 };      // left = 4
-            case 5: return { x: 90, y: 0, z: 0 };       // bottom = 5
-            case 6: return { x: 0, y: 180, z: 0 };      // back = 6
+            case 1: return { x: 0, y: 0, z: 0 };           // front = 1
+            case 2: return { x: 90, y: 0, z: 0 };          // bottom = 2 (pastki tomondan oldinga)
+            case 3: return { x: 0, y: -90, z: 0 };         // right = 3
+            case 4: return { x: 0, y: 90, z: 0 };          // left = 4
+            case 5: return { x: -90, y: 0, z: 0 };         // top = 5
+            case 6: return { x: 0, y: 180, z: 0 };         // back = 6
             default: return { x: 0, y: 0, z: 0 };
         }
     }
@@ -356,31 +331,33 @@
         }
     }
     
+    function getRandomRotation() {
+        const x = Math.floor(Math.random() * 720) + 360;
+        const y = Math.floor(Math.random() * 720) + 360;
+        const z = Math.floor(Math.random() * 360);
+        return { x, y, z };
+    }
+    
     function rollDice() {
         if(isRolling) return;
         isRolling = true;
         stopRollingAnimation();
         
-        // Animatsiya davomiyligi: 3.5 soniya (3500ms)
-        const animationDuration = 3500; // 3.5 sekund
+        const animationDuration = 3500;
         const startTime = Date.now();
         
-        // Har 50ms da tasodifiy rotatsiya qilish
         animationInterval = setInterval(() => {
             const elapsed = Date.now() - startTime;
             if(elapsed >= animationDuration) {
-                // Animatsiya tugadi
                 clearInterval(animationInterval);
                 animationInterval = null;
                 
-                // Yakuniy natijani aniqlash (1-6)
                 const finalNumber = Math.floor(Math.random() * 6) + 1;
-                const finalRot = getFinalRotationForNumber(finalNumber);
+                const finalRot = getRotationForNumber(finalNumber);
                 dice3d.style.transform = `rotateX(${finalRot.x}deg) rotateY(${finalRot.y}deg) rotateZ(${finalRot.z}deg)`;
                 
-                // Natijaga mos xabar
-                let message = '';
                 const symbols = ['⚀', '⚁', '⚂', '⚃', '⚄', '⚅'];
+                let message = '';
                 if(finalNumber === 1) message = '🌊 Suv toshqini! Hosil yarmiga kamaydi.';
                 else if(finalNumber === 3) message = '🏜️ Qurg‘oqchilik! Hosil yarmiga kamaydi.';
                 else if(finalNumber === 6) message = '🌀 Tabiiy ofat! Hosil yarmiga kamaydi.';
@@ -391,20 +368,18 @@
                 return;
             }
             
-            // Har bir intervalda tasodifiy tez aylantirish
             const randX = Math.floor(Math.random() * 720);
             const randY = Math.floor(Math.random() * 720);
             const randZ = Math.floor(Math.random() * 360);
             dice3d.style.transform = `rotateX(${randX}deg) rotateY(${randY}deg) rotateZ(${randZ}deg)`;
-        }, 30); // 30ms da bir marta tez aylanish
+        }, 30);
         
-        // Xavfsizlik uchun: 4 soniyadan keyin majburan to'xtatish
         rollTimeout = setTimeout(() => {
             if(isRolling) {
                 if(animationInterval) clearInterval(animationInterval);
                 animationInterval = null;
                 const finalNumber = Math.floor(Math.random() * 6) + 1;
-                const finalRot = getFinalRotationForNumber(finalNumber);
+                const finalRot = getRotationForNumber(finalNumber);
                 dice3d.style.transform = `rotateX(${finalRot.x}deg) rotateY(${finalRot.y}deg) rotateZ(${finalRot.z}deg)`;
                 const symbols = ['⚀', '⚁', '⚂', '⚃', '⚄', '⚅'];
                 let message = '';
@@ -420,10 +395,7 @@
     
     document.getElementById('rollDiceBtn').addEventListener('click', rollDice);
     
-    // Dastlabki holat: 1 raqami old tomonda
     dice3d.style.transform = 'rotateX(0deg) rotateY(0deg) rotateZ(0deg)';
-    
-    // Qo'shimcha: timer tugaganda ovozsiz ogohlantirish
     updateTimerDisplay();
 </script>
 </body>
