@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "q_ch8_001",
+        "topic": "Database Concepts",
+        "text": "State what is meant by a primary key in a relational database.",
+        "answer": "A unique identifier for a table / an attribute or set of attributes that uniquely identifies each tuple/record in a table.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_002",
+        "topic": "Database Concepts",
+        "text": "State what is meant by a foreign key in a relational database.",
+        "answer": "A set of attributes in one table that refer to the primary key in another table.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_003",
+        "topic": "Database Concepts",
+        "text": "State what is meant by a candidate key.",
+        "answer": "An attribute or smallest set of attributes in a table where no tuple has the same value / a field that could be a primary key.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_004",
+        "topic": "Database Concepts",
+        "text": "State what is meant by a secondary key.",
+        "answer": "A candidate key that is an alternative to the primary key / an additional key used to locate specific data.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_005",
+        "topic": "Database Concepts",
+        "text": "State what is meant by a tuple in a relational database.",
+        "answer": "A row in a table / one instance of an entity.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_006",
+        "topic": "Database Concepts",
+        "text": "State what is meant by an attribute in a relational database.",
+        "answer": "An individual data item stored for an entity / a column in a table.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_007",
+        "topic": "Database Concepts",
+        "text": "State what is meant by an entity in a relational database.",
+        "answer": "Anything that can have data stored about it / a person, place, event, or object about which data is stored.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_008",
+        "topic": "Database Concepts",
+        "text": "State what is meant by referential integrity.",
+        "answer": "A database property that does not contain any values of a foreign key that are not matched to the corresponding primary key.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_009",
+        "topic": "Normalisation",
+        "text": "State what is meant by First Normal Form (1NF).",
+        "answer": "A database where entities do not contain repeated groups of attributes / no repeating groups.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_010",
+        "topic": "Normalisation",
+        "text": "State what is meant by Second Normal Form (2NF).",
+        "answer": "Entities are in 1NF and any non-key attributes depend upon the whole primary key / no partial dependencies.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_011",
+        "topic": "Normalisation",
+        "text": "State what is meant by Third Normal Form (3NF).",
+        "answer": "Entities are in 2NF and all non-key attributes are independent / no non-key dependencies / no transitive dependencies.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_012",
+        "topic": "Normalisation",
+        "text": "State what is meant by a composite key.",
+        "answer": "A set of attributes that form a primary key to provide a unique identifier for a table.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_013",
+        "topic": "DBMS",
+        "text": "State what DBMS stands for.",
+        "answer": "Database Management System.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_014",
+        "topic": "DBMS",
+        "text": "State what is meant by a data dictionary.",
+        "answer": "Metadata / data about data in the database / stores information about the structure of the database.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_015",
+        "topic": "DBMS",
+        "text": "State what is meant by a logical schema.",
+        "answer": "A data model for a specific database that is independent of the DBMS used to build it / shows the structure of the database and its relationships.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_016",
+        "topic": "DBMS",
+        "text": "State one purpose of a query processor in a DBMS.",
+        "answer": "To process and execute queries written in SQL / to allow a user to perform searches to find specific data.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_017",
+        "topic": "DBMS",
+        "text": "State one purpose of a developer interface in a DBMS.",
+        "answer": "To allow a developer to write queries in SQL / to create tables, forms, and reports.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_018",
+        "topic": "SQL",
+        "text": "State what DDL stands for.",
+        "answer": "Data Definition Language.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_019",
+        "topic": "SQL",
+        "text": "State what DML stands for.",
+        "answer": "Data Manipulation Language.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_020",
+        "topic": "SQL",
+        "text": "State the purpose of the CREATE DATABASE SQL command.",
+        "answer": "To create a new database.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_021",
+        "topic": "SQL",
+        "text": "State the purpose of the CREATE TABLE SQL command.",
+        "answer": "To create a table definition / to define a new table in a database.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_022",
+        "topic": "SQL",
+        "text": "State the purpose of the ALTER TABLE SQL command.",
+        "answer": "To change the definition of a table (e.g., add, modify, or delete columns).",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_023",
+        "topic": "SQL",
+        "text": "State the purpose of the PRIMARY KEY SQL command.",
+        "answer": "To add a primary key to a table.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_024",
+        "topic": "SQL",
+        "text": "State the purpose of the FOREIGN KEY ... REFERENCES SQL command.",
+        "answer": "To add a foreign key to a table that links to a primary key in another table.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_025",
+        "topic": "SQL",
+        "text": "State the purpose of the SELECT FROM SQL command.",
+        "answer": "To fetch/retrieve data from a database.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_026",
+        "topic": "SQL",
+        "text": "State the purpose of the WHERE SQL clause.",
+        "answer": "To include only rows in a query that match a given condition / to filter results.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_027",
+        "topic": "SQL",
+        "text": "State the purpose of the ORDER BY SQL clause.",
+        "answer": "To sort the results from a query by a given column alphabetically or numerically.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_028",
+        "topic": "SQL",
+        "text": "State the purpose of the GROUP BY SQL clause.",
+        "answer": "To arrange data into groups / to group rows that have the same values.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_029",
+        "topic": "SQL",
+        "text": "State the purpose of the COUNT SQL function.",
+        "answer": "To count the number of rows where the column is not NULL.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_030",
+        "topic": "SQL",
+        "text": "State the purpose of the SUM SQL function.",
+        "answer": "To return the sum of all the values in a column.",
+        "score": 1
+    },
+    {
+        "id": "q_ch8_031",
+        "topic": "Database Concepts",
+        "text": "A database has a table STUDENT with fields: StudentID, FirstName, LastName, DateOfBirth. Identify the primary key and justify your choice.",
+        "answer": "StudentID is the primary key. [1] Because it uniquely identifies each student / no two students have the same StudentID. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_032",
+        "topic": "Database Concepts",
+        "text": "Explain two differences between a primary key and a foreign key.",
+        "answer": "1. Primary key uniquely identifies a record; foreign key references a primary key in another table. [1] 2. Primary key cannot be NULL; foreign key can be NULL. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_033",
+        "topic": "Database Concepts",
+        "text": "Describe two disadvantages of a file-based approach to data storage.",
+        "answer": "1. Data redundancy/wasted storage space because data is duplicated. [1] 2. Data inconsistency because data altered by one application may not be updated by another. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_034",
+        "topic": "Database Concepts",
+        "text": "Describe two advantages of a relational database compared to a file-based approach.",
+        "answer": "1. Reduced data redundancy as data is stored once in linked tables. [1] 2. Improved data integrity/consistency as changes in one table automatically reflect in related tables. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_035",
+        "topic": "Database Concepts",
+        "text": "Explain what is meant by a one-to-many relationship. Give an example.",
+        "answer": "One record in table A can be linked to many records in table B, but each record in table B links to only one record in table A. [1] Example: one customer can have many orders. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_036",
+        "topic": "Database Concepts",
+        "text": "Explain what is meant by a many-to-many relationship. Give an example.",
+        "answer": "Many records in table A can link to many records in table B. [1] Example: students can take many classes; classes can have many students. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_037",
+        "topic": "Normalisation",
+        "text": "A table has a composite primary key (StudentID, SubjectID). The attribute TeacherName depends only on SubjectID. Which normal form is violated and why?",
+        "answer": "Second Normal Form (2NF) is violated. [1] Because TeacherName has a partial dependency on part of the composite key (SubjectID) not the whole key. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_038",
+        "topic": "Normalisation",
+        "text": "A table has attributes: EmployeeID, Department, ManagerName. ManagerName depends on Department. Which normal form is violated and why?",
+        "answer": "Third Normal Form (3NF) is violated. [1] Because ManagerName is a non-key attribute that depends on Department (another non-key attribute) / transitive dependency. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_039",
+        "topic": "Normalisation",
+        "text": "A table has repeating groups (Subject1, Subject2, Subject3). Which normal form is violated and why?",
+        "answer": "First Normal Form (1NF) is violated. [1] Because the table contains repeating groups of attributes. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_040",
+        "topic": "DBMS",
+        "text": "Describe two ways a DBMS can improve data security.",
+        "answer": "1. User accounts and passwords to prevent unauthorised access. [1] 2. Access rights to manage what actions authorised users can perform (read/write/delete). [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_041",
+        "topic": "DBMS",
+        "text": "Describe two items stored in a data dictionary.",
+        "answer": "1. Table names and field/attribute names. [1] 2. Data types and validation rules for each field. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_042",
+        "topic": "SQL",
+        "text": "Write an SQL statement to create a database called SchoolDB.",
+        "answer": "CREATE DATABASE SchoolDB;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_043",
+        "topic": "SQL",
+        "text": "Write an SQL statement to delete the table called Student from a database.",
+        "answer": "DROP TABLE Student;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_044",
+        "topic": "SQL",
+        "text": "Write an SQL statement to insert a new student with ID 'S1301', FirstName 'Peter', LastName 'Probert' into the Student table.",
+        "answer": "INSERT INTO Student(StudentID, FirstName, LastName) VALUES('S1301', 'Peter', 'Probert');",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_045",
+        "topic": "SQL",
+        "text": "Write an SQL statement to delete the student with StudentID 'S1301' from the Student table.",
+        "answer": "DELETE FROM Student WHERE StudentID = 'S1301';",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_046",
+        "topic": "SQL",
+        "text": "Write an SQL statement to display all records from the Student table.",
+        "answer": "SELECT * FROM Student;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_047",
+        "topic": "SQL",
+        "text": "Write an SQL statement to display the FirstName and LastName of all students from the Student table.",
+        "answer": "SELECT FirstName, LastName FROM Student;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_048",
+        "topic": "SQL",
+        "text": "Write an SQL statement to display all students with ClassID '7A' from the Student table.",
+        "answer": "SELECT * FROM Student WHERE ClassID = '7A';",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_049",
+        "topic": "SQL",
+        "text": "Write an SQL statement to display students ordered by LastName in ascending order.",
+        "answer": "SELECT * FROM Student ORDER BY LastName ASC;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_050",
+        "topic": "SQL",
+        "text": "Write an SQL statement to count the number of students in the Student table.",
+        "answer": "SELECT COUNT(*) FROM Student;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_051",
+        "topic": "SQL",
+        "text": "Write an SQL statement to update the ClassID of student 'S1276' to '7C'.",
+        "answer": "UPDATE Student SET ClassID = '7C' WHERE StudentID = 'S1276';",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_052",
+        "topic": "E-R Diagrams",
+        "text": "In an E-R diagram, what does a line connecting two entities represent?",
+        "answer": "A relationship between the two entities. [1] The ends of the line show the cardinality (e.g., 1:M, M:M). [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_053",
+        "topic": "Database Concepts",
+        "text": "Explain what is meant by a candidate key. Give an example.",
+        "answer": "An attribute or smallest set of attributes in a table where no tuple has the same value / could be a primary key. [1] Example: In a Student table, StudentID and Email could both be candidate keys. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_054",
+        "topic": "DBMS",
+        "text": "Describe two benefits of using a DBMS over a file-based approach.",
+        "answer": "1. Reduced data redundancy because data is stored in linked tables. [1] 2. Program-data independence so changes to data structure do not require programs to be rewritten. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_055",
+        "topic": "SQL",
+        "text": "Write an SQL statement to add a column 'Email' of type VARCHAR(100) to the Student table.",
+        "answer": "ALTER TABLE Student ADD Email VARCHAR(100);",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_056",
+        "topic": "SQL",
+        "text": "Write an SQL statement to display the average mark from a column called Mark in a table called ExamResults.",
+        "answer": "SELECT AVG(Mark) FROM ExamResults;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_057",
+        "topic": "SQL",
+        "text": "Write an SQL statement to display the total marks from a column called Mark in a table called ExamResults.",
+        "answer": "SELECT SUM(Mark) FROM ExamResults;",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_058",
+        "topic": "Database Concepts",
+        "text": "Explain the purpose of an index in a database.",
+        "answer": "A data structure built from one or more columns to speed up searching for data. [1] It allows faster retrieval of records without scanning the entire table. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_059",
+        "topic": "Normalisation",
+        "text": "A table has attributes: OrderID, ProductID, ProductName, Quantity. ProductName depends only on ProductID. Why is this not in 2NF?",
+        "answer": "The primary key is (OrderID, ProductID) - a composite key. [1] ProductName has a partial dependency on ProductID (part of the key), not the whole key. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_060",
+        "topic": "SQL",
+        "text": "Write an SQL statement to create a table called Teacher with fields: TeacherID (INTEGER, primary key), TeacherName (VARCHAR(50)), Subject (VARCHAR(30)).",
+        "answer": "CREATE TABLE Teacher (TeacherID INTEGER PRIMARY KEY, TeacherName VARCHAR(50), Subject VARCHAR(30));",
+        "score": 2
+    },
+    {
+        "id": "q_ch8_061",
+        "topic": "Database Concepts",
+        "text": "Describe three limitations of a file-based approach to data storage and retrieval.",
+        "answer": "1. Data redundancy/wasted storage space as data items are duplicated by separate applications. [1] 2. Data inconsistency as data altered by one application may not be updated by another. [1] 3. Program-data dependence as changes to data structure require programs to be rewritten. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_062",
+        "topic": "Database Concepts",
+        "text": "Describe three advantages of using a relational database instead of a file-based approach.",
+        "answer": "1. Reduced data redundancy because data is stored only once in linked tables. [1] 2. Improved data integrity/consistency as changes in one table automatically update in related tables. [1] 3. Program-data independence so changes to data structure do not require programs to be rewritten. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_063",
+        "topic": "Normalisation",
+        "text": "Describe the three normal forms (1NF, 2NF, 3NF) in database design.",
+        "answer": "1NF: No repeating groups of attributes / data is atomic. [1] 2NF: In 1NF and no partial dependencies / all non-key attributes depend on whole primary key. [1] 3NF: In 2NF and no non-key dependencies / no transitive dependencies. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_064",
+        "topic": "E-R Diagrams",
+        "text": "A school database has entities: STUDENT, TEACHER, CLASS. A teacher can teach many classes. A class has one teacher. Students can be in one class. Draw the E-R diagram showing all relationships and cardinalities.",
+        "answer": "STUDENT ---(many)--- CLASS (one-to-many). [1] CLASS ---(many)--- TEACHER (many-to-one / one-to-many from teacher to class). [1] Correct cardinality symbols (crow's feet or 1:M notation). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_065",
+        "topic": "DBMS",
+        "text": "Describe three features of a DBMS that help maintain data integrity.",
+        "answer": "1. Referential integrity ensures foreign keys match primary keys in related tables. [1] 2. Validation rules ensure data entered meets specified criteria. [1] 3. Data dictionary stores metadata and enforces data type constraints. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_066",
+        "topic": "DBMS",
+        "text": "Describe three security measures a DBMS can provide.",
+        "answer": "1. User accounts and passwords to prevent unauthorised access. [1] 2. Access rights to control read/write/delete permissions for different users. [1] 3. Regular backups and encryption to protect data from loss or theft. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_067",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a table called ORDER with fields: OrderID (INTEGER, primary key), CustomerID (INTEGER, foreign key referencing Customer table), OrderDate (DATE), TotalAmount (REAL).",
+        "answer": "CREATE TABLE ORDER (OrderID INTEGER PRIMARY KEY, CustomerID INTEGER, OrderDate DATE, TotalAmount REAL, FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID));",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_068",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the FirstName, LastName, and the number of orders each customer has placed. Use tables: Customer(CustomerID, FirstName, LastName) and Orders(OrderID, CustomerID).",
+        "answer": "SELECT Customer.FirstName, Customer.LastName, COUNT(Orders.OrderID) AS NumberOfOrders FROM Customer LEFT JOIN Orders ON Customer.CustomerID = Orders.CustomerID GROUP BY Customer.CustomerID;",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_069",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the StudentID, FirstName, LastName, and average mark for each student from tables: Student(StudentID, FirstName, LastName) and Marks(StudentID, SubjectID, Mark).",
+        "answer": "SELECT Student.StudentID, Student.FirstName, Student.LastName, AVG(Marks.Mark) AS AvgMark FROM Student INNER JOIN Marks ON Student.StudentID = Marks.StudentID GROUP BY Student.StudentID;",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_070",
+        "topic": "Normalisation",
+        "text": "A table has attributes: OrderID, CustomerID, CustomerName, CustomerAddress, OrderDate. CustomerName and CustomerAddress depend on CustomerID. Identify the normal form and explain how to normalise to 3NF.",
+        "answer": "Currently in 1NF (assuming no repeating groups). [1] It violates 2NF/3NF because CustomerName and CustomerAddress depend on CustomerID, not OrderID. [1] Normalise by splitting into two tables: Orders(OrderID, CustomerID, OrderDate) and Customers(CustomerID, CustomerName, CustomerAddress). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_071",
+        "topic": "Database Concepts",
+        "text": "Explain the difference between a one-to-one, one-to-many, and many-to-many relationship. Give an example of each.",
+        "answer": "1-to-1: One record in A links to one record in B (e.g., person and passport). [1] 1-to-many: One record in A links to many in B (e.g., customer and orders). [1] Many-to-many: Many records in A link to many in B (e.g., students and classes). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_072",
+        "topic": "SQL",
+        "text": "Write an SQL script to display all students (FirstName, LastName) who have a mark greater than 80 in subject 'CS1'. Use tables: Student(StudentID, FirstName, LastName), Marks(StudentID, SubjectID, Mark), Subject(SubjectID, SubjectName).",
+        "answer": "SELECT Student.FirstName, Student.LastName FROM Student INNER JOIN Marks ON Student.StudentID = Marks.StudentID INNER JOIN Subject ON Marks.SubjectID = Subject.SubjectID WHERE Subject.SubjectName = 'CS1' AND Marks.Mark > 80;",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_073",
+        "topic": "DBMS",
+        "text": "Describe three tasks performed by a query processor in a DBMS.",
+        "answer": "1. Interprets DDL statements and records them in the data dictionary. [1] 2. Compiles DML statements into low-level instructions. [1] 3. Executes queries and optimises them for efficient retrieval. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_074",
+        "topic": "Normalisation",
+        "text": "A library database has a single table: Loan(MemberID, MemberName, BookID, BookTitle, DateBorrowed, DateReturned). MemberName depends on MemberID. BookTitle depends on BookID. Explain why this is not in 3NF and how to normalise it.",
+        "answer": "Violates 2NF and 3NF. MemberName depends on part of key (MemberID); BookTitle depends on part of key (BookID). [1] Normalise into: Member(MemberID, MemberName). [1] Book(BookID, BookTitle). [1] Loan(MemberID, BookID, DateBorrowed, DateReturned). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_075",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a table called STUDENT_SUBJECT with a composite primary key (StudentID, SubjectID) and foreign keys referencing Student(StudentID) and Subject(SubjectID).",
+        "answer": "CREATE TABLE STUDENT_SUBJECT (StudentID INTEGER, SubjectID INTEGER, PRIMARY KEY (StudentID, SubjectID), FOREIGN KEY (StudentID) REFERENCES Student(StudentID), FOREIGN KEY (SubjectID) REFERENCES Subject(SubjectID));",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_076",
+        "topic": "Database Concepts",
+        "text": "Explain the importance of referential integrity in a relational database. Give an example.",
+        "answer": "Ensures that every foreign key value matches an existing primary key value in the related table. [1] Prevents orphaned records. [1] Example: An Order cannot have a CustomerID that does not exist in the Customer table. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_077",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the total number of orders placed by each customer, only including customers who have placed more than 5 orders. Tables: Customer(CustomerID, CustomerName), Orders(OrderID, CustomerID).",
+        "answer": "SELECT Customer.CustomerName, COUNT(Orders.OrderID) AS TotalOrders FROM Customer INNER JOIN Orders ON Customer.CustomerID = Orders.CustomerID GROUP BY Customer.CustomerID HAVING COUNT(Orders.OrderID) > 5;",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_078",
+        "topic": "Normalisation",
+        "text": "A table has attributes: EmployeeID, EmployeeName, DepartmentID, DepartmentName, DepartmentHead. DepartmentName and DepartmentHead depend on DepartmentID. Explain the normalisation steps to reach 3NF.",
+        "answer": "Step 1: Ensure 1NF - no repeating groups (assume satisfied). [1] Step 2: Remove partial dependencies to reach 2NF - EmployeeName depends on EmployeeID, DepartmentName/Head depend on DepartmentID. Split into Employee(EmployeeID, EmployeeName, DepartmentID) and Department(DepartmentID, DepartmentName, DepartmentHead). [1] Step 3: No transitive dependencies in 3NF - already satisfied. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_079",
+        "topic": "DBMS",
+        "text": "Describe three ways a DBMS uses a data dictionary.",
+        "answer": "1. Stores metadata about tables, attributes, data types, and validation rules. [1] 2. Records relationships between tables and key constraints. [1] 3. Stores information about physical storage and indexing for optimisation. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_080",
+        "topic": "SQL",
+        "text": "Write an SQL script to update the salary of all employees in the 'Sales' department by 10%. Tables: Employee(EmployeeID, EmployeeName, Salary, DepartmentID), Department(DepartmentID, DepartmentName).",
+        "answer": "UPDATE Employee SET Salary = Salary * 1.10 WHERE DepartmentID IN (SELECT DepartmentID FROM Department WHERE DepartmentName = 'Sales');",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_081",
+        "topic": "Database Concepts",
+        "text": "Explain the purpose of a secondary key in a database. Give an example.",
+        "answer": "A candidate key that is not chosen as the primary key but can be used to locate specific data. [1] It provides an alternative way to search/find records. [1] Example: In a Student table with StudentID as primary key, Email could be a secondary key. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_082",
+        "topic": "SQL",
+        "text": "Write an SQL script to delete all orders placed before January 1, 2023 from the Orders table.",
+        "answer": "DELETE FROM Orders WHERE OrderDate < '2023-01-01';",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_083",
+        "topic": "Normalisation",
+        "text": "A university database has a table: Enrolment(StudentID, StudentName, ModuleCode, ModuleName, LecturerID, LecturerName). StudentName depends on StudentID. ModuleName depends on ModuleCode. LecturerName depends on LecturerID. Identify the normal form and normalise to 3NF.",
+        "answer": "Currently in 1NF (assuming no repeating groups). [1] Normalise to: Student(StudentID, StudentName). [1] Module(ModuleCode, ModuleName, LecturerID). [1] Lecturer(LecturerID, LecturerName). [1] Enrolment(StudentID, ModuleCode). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_084",
+        "topic": "DBMS",
+        "text": "Describe three benefits of using a logical schema in database design.",
+        "answer": "1. Provides a platform-independent model of the database structure. [1] 2. Shows relationships between entities using methods like E-R diagrams. [1] 3. Allows designers to plan the database before implementation in a specific DBMS. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_085",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the product name and total quantity sold for products that have sold more than 100 units. Tables: Product(ProductID, ProductName), Sales(ProductID, Quantity).",
+        "answer": "SELECT Product.ProductName, SUM(Sales.Quantity) AS TotalSold FROM Product INNER JOIN Sales ON Product.ProductID = Sales.ProductID GROUP BY Product.ProductID HAVING SUM(Sales.Quantity) > 100;",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_086",
+        "topic": "Database Concepts",
+        "text": "Explain the difference between a tuple and an attribute in a relational database.",
+        "answer": "A tuple is a row in a table representing one instance of an entity. [1] An attribute is a column in a table representing a single data item stored for an entity. [1] Together, attributes define the structure of tuples. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_087",
+        "topic": "SQL",
+        "text": "Write an SQL script to add a foreign key constraint to an existing table ORDER that links CustomerID to the primary key of the CUSTOMER table.",
+        "answer": "ALTER TABLE ORDER ADD FOREIGN KEY (CustomerID) REFERENCES CUSTOMER(CustomerID);",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_088",
+        "topic": "Normalisation",
+        "text": "A hospital database has a table: Appointment(AppointmentID, PatientID, PatientName, DoctorID, DoctorName, AppointmentDate). PatientName depends on PatientID. DoctorName depends on DoctorID. Explain why this is not in 3NF and how to normalise it.",
+        "answer": "Violates 2NF and 3NF. PatientName depends on PatientID (part of key). DoctorName depends on DoctorID (non-key). [1] Normalise to: Patient(PatientID, PatientName). [1] Doctor(DoctorID, DoctorName). [1] Appointment(AppointmentID, PatientID, DoctorID, AppointmentDate). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_089",
+        "topic": "DBMS",
+        "text": "Describe three features of a developer interface in a DBMS.",
+        "answer": "1. Allows writing and executing SQL queries directly. [1] 2. Provides tools to create tables, forms, and reports. [1] 3. Includes debugging and optimisation features for query development. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_090",
+        "topic": "SQL",
+        "text": "Write an SQL script to find the second highest salary from an Employee table with columns EmployeeID, EmployeeName, Salary.",
+        "answer": "SELECT MAX(Salary) FROM Employee WHERE Salary < (SELECT MAX(Salary) FROM Employee);",
+        "score": 3
+    },
+    {
+        "id": "q_ch8_091",
+        "topic": "Normalisation",
+        "text": "A school database initially has a single table with attributes: StudentID, StudentName, ClassID, ClassName, TeacherID, TeacherName, SubjectID, SubjectName, Mark. StudentName depends on StudentID. ClassName depends on ClassID. TeacherName depends on TeacherID. SubjectName depends on SubjectID. Normalise this database to 3NF. Show all tables with primary keys underlined.",
+        "answer": "Student(StudentID, StudentName). [1] Class(ClassID, ClassName, TeacherID). [1] Teacher(TeacherID, TeacherName). [1] Subject(SubjectID, SubjectName). [1] Mark(StudentID, ClassID, SubjectID, Mark). [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_092",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a fully normalised database for a library system with tables: Member, Book, Loan. Include appropriate primary keys, foreign keys, and data types.",
+        "answer": "CREATE TABLE Member (MemberID INTEGER PRIMARY KEY, MemberName VARCHAR(100), Email VARCHAR(100)); [1] CREATE TABLE Book (BookID INTEGER PRIMARY KEY, Title VARCHAR(200), Author VARCHAR(100), ISBN VARCHAR(20)); [1] CREATE TABLE Loan (LoanID INTEGER PRIMARY KEY, MemberID INTEGER, BookID INTEGER, DateBorrowed DATE, DateReturned DATE, FOREIGN KEY (MemberID) REFERENCES Member(MemberID), FOREIGN KEY (BookID) REFERENCES Book(BookID)); [2]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_093",
+        "topic": "Database Concepts",
+        "text": "Describe four problems of a file-based approach that are solved by a relational database management system (RDBMS).",
+        "answer": "1. Data redundancy - solved by storing data in linked tables, reducing duplication. [1] 2. Data inconsistency - solved by storing data once, so updates are seen by all applications. [1] 3. Program-data dependence - solved by separating data structure from applications. [1] 4. Limited query capability - solved by SQL and query processors for complex searches. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_094",
+        "topic": "E-R Diagrams",
+        "text": "Draw an E-R diagram for a hospital database with entities: PATIENT, DOCTOR, APPOINTMENT, WARD. A patient has one doctor. A doctor has many patients. A patient has many appointments. An appointment has one doctor and one patient. A ward has many patients. A patient is in one ward.",
+        "answer": "PATIENT ---(1)--- DOCTOR (1-to-many from doctor to patient). [1] PATIENT ---(M)--- APPOINTMENT (1-to-many). [1] DOCTOR ---(1)--- APPOINTMENT (1-to-many). [1] WARD ---(1)--- PATIENT (1-to-many). [1] Correct cardinality symbols and entity boxes. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_095",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the customer name, order date, and total amount for all orders placed in December 2024. Sort by customer name then order date. Tables: Customer(CustomerID, CustomerName), Orders(OrderID, CustomerID, OrderDate, TotalAmount).",
+        "answer": "SELECT Customer.CustomerName, Orders.OrderDate, Orders.TotalAmount FROM Customer INNER JOIN Orders ON Customer.CustomerID = Orders.CustomerID WHERE Orders.OrderDate BETWEEN '2024-12-01' AND '2024-12-31' ORDER BY Customer.CustomerName ASC, Orders.OrderDate ASC;",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_096",
+        "topic": "Normalisation",
+        "text": "A company database has a table: Project(ProjectID, ProjectName, EmployeeID, EmployeeName, HoursWorked, Role). EmployeeName depends on EmployeeID. A project has many employees. Normalise this table to 3NF. Show each table with primary keys underlined and foreign keys indicated.",
+        "answer": "Project(ProjectID, ProjectName). [1] Employee(EmployeeID, EmployeeName). [1] Assignment(ProjectID, EmployeeID, Role, HoursWorked). [1] Primary keys: ProjectID, EmployeeID, composite (ProjectID, EmployeeID). [1] Foreign keys: ProjectID references Project, EmployeeID references Employee. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_097",
+        "topic": "SQL",
+        "text": "Write an SQL script to find all students who have taken both subject 'CS1' and subject 'CS2'. Tables: Student(StudentID, StudentName), Enrolment(StudentID, SubjectCode).",
+        "answer": "SELECT Student.StudentID, Student.StudentName FROM Student INNER JOIN Enrolment E1 ON Student.StudentID = E1.StudentID INNER JOIN Enrolment E2 ON Student.StudentID = E2.StudentID WHERE E1.SubjectCode = 'CS1' AND E2.SubjectCode = 'CS2';",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_098",
+        "topic": "DBMS",
+        "text": "Describe four ways a DBMS ensures data integrity.",
+        "answer": "1. Referential integrity constraints ensure foreign keys match primary keys. [1] 2. Validation rules check data before entry (range, format, presence). [1] 3. Data type constraints ensure correct data types are used. [1] 4. Uniqueness constraints prevent duplicate primary keys/candidate keys. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_099",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a table called SALES with fields: SaleID (INTEGER, primary key), ProductID (INTEGER, foreign key to PRODUCT), Quantity (INTEGER), SaleDate (DATE), Discount (REAL). Include a check constraint that Quantity must be greater than 0.",
+        "answer": "CREATE TABLE SALES (SaleID INTEGER PRIMARY KEY, ProductID INTEGER, Quantity INTEGER CHECK (Quantity > 0), SaleDate DATE, Discount REAL, FOREIGN KEY (ProductID) REFERENCES PRODUCT(ProductID));",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_100",
+        "topic": "Normalisation",
+        "text": "A table has attributes: OrderID, ProductID, ProductName, Quantity, UnitPrice, CustomerID, CustomerName. ProductName depends on ProductID. CustomerName depends on CustomerID. Explain the normalisation steps to reach 3NF.",
+        "answer": "Step 1: 1NF - no repeating groups (assume satisfied). [1] Step 2: Remove partial dependencies to reach 2NF. Split into: Order(OrderID, CustomerID), Product(ProductID, ProductName, UnitPrice), OrderItem(OrderID, ProductID, Quantity). [1] Step 3: Remove transitive dependencies to reach 3NF. Split Customer(CustomerID, CustomerName) from Order. [1] Final tables: Customer(CustomerID, CustomerName), Product(ProductID, ProductName, UnitPrice), Orders(OrderID, CustomerID), OrderItem(OrderID, ProductID, Quantity). [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_101",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the top 5 best-selling products by total quantity sold. Tables: Product(ProductID, ProductName), Sales(ProductID, Quantity).",
+        "answer": "SELECT Product.ProductName, SUM(Sales.Quantity) AS TotalSold FROM Product INNER JOIN Sales ON Product.ProductID = Sales.ProductID GROUP BY Product.ProductID ORDER BY TotalSold DESC LIMIT 5;",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_102",
+        "topic": "Database Concepts",
+        "text": "Explain the purpose of a composite key. Give an example of when a composite key is necessary.",
+        "answer": "A primary key made from two or more attributes when no single attribute uniquely identifies a record. [1] Necessary when there is a many-to-many relationship. [1] Example: In a STUDENT_SUBJECT table, (StudentID, SubjectID) forms a composite key because a student can take many subjects and a subject can have many students. [2]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_103",
+        "topic": "SQL",
+        "text": "Write an SQL script to add a new column 'LastUpdated' of type DATE to the Product table, then update this column to the current date for all rows.",
+        "answer": "ALTER TABLE Product ADD LastUpdated DATE; [2] UPDATE Product SET LastUpdated = CURRENT_DATE; [2]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_104",
+        "topic": "Normalisation",
+        "text": "A university database has a single table: CourseEnrolment(StudentID, StudentName, CourseCode, CourseName, LecturerID, LecturerName, Grade). StudentName depends on StudentID. CourseName depends on CourseCode. LecturerName depends on LecturerID. Normalise to 3NF and identify all primary keys.",
+        "answer": "Student(StudentID, StudentName). [1] Course(CourseCode, CourseName, LecturerID). [1] Lecturer(LecturerID, LecturerName). [1] Enrolment(StudentID, CourseCode, Grade). [1] Primary keys: StudentID, CourseCode, LecturerID, composite (StudentID, CourseCode). [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_105",
+        "topic": "DBMS",
+        "text": "Describe four benefits of using a data dictionary in a DBMS.",
+        "answer": "1. Centralises metadata for easy management and documentation. [1] 2. Enforces data consistency by storing validation rules and data types. [1] 3. Improves data integrity by defining constraints (primary/foreign keys). [1] 4. Facilitates database maintenance and impact analysis when changes are needed. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_106",
+        "topic": "SQL",
+        "text": "Write an SQL script to find employees who earn more than the average salary in their department. Tables: Employee(EmployeeID, EmployeeName, Salary, DepartmentID), Department(DepartmentID, DepartmentName).",
+        "answer": "SELECT E.EmployeeName, E.Salary, D.DepartmentName FROM Employee E INNER JOIN Department D ON E.DepartmentID = D.DepartmentID WHERE E.Salary > (SELECT AVG(Salary) FROM Employee WHERE DepartmentID = E.DepartmentID);",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_107",
+        "topic": "E-R Diagrams",
+        "text": "A company database has entities: EMPLOYEE, DEPARTMENT, PROJECT, WORKS_ON. An employee works in one department. A department has many employees. An employee can work on many projects. A project can have many employees. Draw the E-R diagram including all entities and relationships with cardinalities.",
+        "answer": "EMPLOYEE ---(many)--- DEPARTMENT (many-to-one). [1] EMPLOYEE ---(M)--- WORKS_ON ---(M)--- PROJECT (many-to-many through junction table). [1] Correct cardinality symbols (crow's feet). [1] All four entities shown correctly. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_108",
+        "topic": "SQL",
+        "text": "Write an SQL script to delete all products that have never been ordered. Tables: Product(ProductID, ProductName), OrderItem(OrderItemID, OrderID, ProductID, Quantity).",
+        "answer": "DELETE FROM Product WHERE ProductID NOT IN (SELECT DISTINCT ProductID FROM OrderItem);",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_109",
+        "topic": "Normalisation",
+        "text": "A table has attributes: InvoiceID, CustomerID, CustomerName, CustomerAddress, ProductID, ProductName, Quantity, UnitPrice, InvoiceDate. CustomerName/Address depend on CustomerID. ProductName depends on ProductID. InvoiceDate depends on InvoiceID. Normalise to 3NF.",
+        "answer": "Customer(CustomerID, CustomerName, CustomerAddress). [1] Product(ProductID, ProductName, UnitPrice). [1] Invoice(InvoiceID, CustomerID, InvoiceDate). [1] InvoiceItem(InvoiceID, ProductID, Quantity). [1] All primary keys underlined. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_110",
+        "topic": "DBMS",
+        "text": "Describe four features of a DBMS that support concurrent access to data.",
+        "answer": "1. Record/table locking prevents simultaneous updates causing data loss. [1] 2. Transaction management ensures atomicity (all or nothing) of operations. [1] 3. Timestamp ordering resolves conflicts between concurrent transactions. [1] 4. Isolation levels control how transactions interact with each other. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_111",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a view called 'ActiveCustomers' showing CustomerID, CustomerName, and total amount spent, for customers who have spent more than $1000. Tables: Customer(CustomerID, CustomerName), Orders(OrderID, CustomerID, TotalAmount).",
+        "answer": "CREATE VIEW ActiveCustomers AS SELECT Customer.CustomerID, Customer.CustomerName, SUM(Orders.TotalAmount) AS TotalSpent FROM Customer INNER JOIN Orders ON Customer.CustomerID = Orders.CustomerID GROUP BY Customer.CustomerID HAVING SUM(Orders.TotalAmount) > 1000;",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_112",
+        "topic": "Database Concepts",
+        "text": "Explain the concept of program-data independence in a relational database and why it is beneficial.",
+        "answer": "The separation of data structure from the application programs that use the data. [1] Changes to the database structure (adding/removing tables/columns) do not require changes to application programs that do not use those structures. [1] Beneficial because it reduces maintenance costs, improves flexibility, and allows database evolution without breaking existing applications. [2]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_113",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the month-by-month total sales for the year 2024. Tables: Sales(SaleID, SaleDate, Amount). Output columns: Month, TotalSales.",
+        "answer": "SELECT MONTH(SaleDate) AS Month, SUM(Amount) AS TotalSales FROM Sales WHERE YEAR(SaleDate) = 2024 GROUP BY MONTH(SaleDate) ORDER BY MONTH(SaleDate);",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_114",
+        "topic": "Normalisation",
+        "text": "A table has attributes: BookingID, RoomID, RoomType, RatePerNight, CustomerID, CustomerName, CheckInDate, CheckOutDate. RoomType and RatePerNight depend on RoomID. CustomerName depends on CustomerID. Normalise to 3NF.",
+        "answer": "Room(RoomID, RoomType, RatePerNight). [1] Customer(CustomerID, CustomerName). [1] Booking(BookingID, RoomID, CustomerID, CheckInDate, CheckOutDate). [1] Primary keys: RoomID, CustomerID, BookingID. [1] Foreign keys: RoomID, CustomerID. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_115",
+        "topic": "SQL",
+        "text": "Write an SQL script to find customers who have placed orders in every month of 2024. Tables: Customer(CustomerID, CustomerName), Orders(OrderID, CustomerID, OrderDate).",
+        "answer": "SELECT Customer.CustomerID, Customer.CustomerName FROM Customer WHERE NOT EXISTS (SELECT DISTINCT MONTH(OrderDate) FROM Orders WHERE YEAR(OrderDate) = 2024 EXCEPT SELECT DISTINCT MONTH(OrderDate) FROM Orders WHERE Orders.CustomerID = Customer.CustomerID AND YEAR(OrderDate) = 2024);",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_116",
+        "topic": "DBMS",
+        "text": "Describe four methods a DBMS uses to improve query performance.",
+        "answer": "1. Indexing on frequently searched columns to speed up data retrieval. [1] 2. Query optimisation to choose the most efficient execution plan. [1] 3. Caching frequently accessed data in memory. [1] 4. Partitioning large tables into smaller segments for parallel processing. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_117",
+        "topic": "SQL",
+        "text": "Write an SQL script to display the running total of sales for each day. Tables: Sales(SaleID, SaleDate, Amount). Output: SaleDate, DailyTotal, RunningTotal.",
+        "answer": "SELECT SaleDate, SUM(Amount) AS DailyTotal, SUM(SUM(Amount)) OVER (ORDER BY SaleDate) AS RunningTotal FROM Sales GROUP BY SaleDate ORDER BY SaleDate;",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_118",
+        "topic": "Normalisation",
+        "text": "A table has attributes: StudentID, StudentName, SubjectCode, SubjectName, TeacherID, TeacherName, ExamDate, Grade. StudentName depends on StudentID. SubjectName depends on SubjectCode. TeacherName depends on TeacherID. Normalise to 3NF.",
+        "answer": "Student(StudentID, StudentName). [1] Subject(SubjectCode, SubjectName, TeacherID). [1] Teacher(TeacherID, TeacherName). [1] Exam(StudentID, SubjectCode, ExamDate, Grade). [1] Primary keys: StudentID, SubjectCode, TeacherID, composite (StudentID, SubjectCode). [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_119",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a table called AUDIT_LOG that automatically records the date, time, user, and action performed whenever a record is deleted from the Employee table.",
+        "answer": "CREATE TABLE AUDIT_LOG (LogID INTEGER PRIMARY KEY, TableName VARCHAR(50), Action VARCHAR(20), RecordID INTEGER, UserName VARCHAR(50), ActionDate DATE, ActionTime TIME); [2] CREATE TRIGGER Employee_Delete_Trigger AFTER DELETE ON Employee FOR EACH ROW INSERT INTO AUDIT_LOG (TableName, Action, RecordID, UserName, ActionDate, ActionTime) VALUES ('Employee', 'DELETE', OLD.EmployeeID, USER(), CURRENT_DATE, CURRENT_TIME); [2]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_120",
+        "topic": "Database Concepts",
+        "text": "Explain the difference between logical schema and physical schema in a database.",
+        "answer": "Logical schema describes the structure of the database (tables, attributes, relationships) independent of how data is stored. [2] Physical schema describes how data is actually stored on storage media (file organisation, indexing, partitioning). [2]",
+        "score": 4
+    },
+    {
+        "id": "q_ch8_121",
+        "topic": "Normalisation",
+        "text": "A hospital database has the following unnormalised table: PATIENT_RECORD(PatientID, PatientName, PatientAddress, DoctorID, DoctorName, DoctorSpeciality, AppointmentID, AppointmentDate, Diagnosis, Prescription). A patient can have multiple appointments and multiple doctors. A doctor can treat many patients. An appointment has one diagnosis and prescription. Normalise this database to 3NF. Show all tables with primary keys underlined and foreign keys indicated.",
+        "answer": "Patient(PatientID, PatientName, PatientAddress). [1] Doctor(DoctorID, DoctorName, DoctorSpeciality). [1] Appointment(AppointmentID, PatientID, DoctorID, AppointmentDate, Diagnosis, Prescription). [1] Primary keys: PatientID, DoctorID, AppointmentID. [1] Foreign keys: Appointment.PatientID references Patient, Appointment.DoctorID references Doctor. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_122",
+        "topic": "SQL",
+        "text": "Write a comprehensive SQL script to create a fully normalised database for an online bookstore with the following requirements: - Store customer details (ID, name, email, address) - Store book details (ISBN, title, author, price, publisher) - Store orders (order ID, customer ID, order date, status) - Store order items (order ID, ISBN, quantity, unit price) - Store publisher details (publisher ID, name, address) Include all primary keys, foreign keys, and appropriate data types.",
+        "answer": "CREATE TABLE Customer (CustomerID INTEGER PRIMARY KEY, CustomerName VARCHAR(100), Email VARCHAR(100) UNIQUE, Address VARCHAR(200)); [1] CREATE TABLE Publisher (PublisherID INTEGER PRIMARY KEY, PublisherName VARCHAR(100), PublisherAddress VARCHAR(200)); [1] CREATE TABLE Book (ISBN VARCHAR(20) PRIMARY KEY, Title VARCHAR(200), Author VARCHAR(100), Price REAL, PublisherID INTEGER, FOREIGN KEY (PublisherID) REFERENCES Publisher(PublisherID)); [1] CREATE TABLE Orders (OrderID INTEGER PRIMARY KEY, CustomerID INTEGER, OrderDate DATE, Status VARCHAR(20), FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID)); [1] CREATE TABLE OrderItem (OrderID INTEGER, ISBN VARCHAR(20), Quantity INTEGER, UnitPrice REAL, PRIMARY KEY (OrderID, ISBN), FOREIGN KEY (OrderID) REFERENCES Orders(OrderID), FOREIGN KEY (ISBN) REFERENCES Book(ISBN)); [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_123",
+        "topic": "SQL",
+        "text": "Write an SQL script to answer the following queries for the online bookstore database from q_ch8_122: 1. Find the top 5 customers by total spending. 2. Find books that have never been ordered. 3. Find the monthly sales total for 2024. 4. Find customers who ordered more than 5 different books. 5. Find the bestselling author (by quantity sold).",
+        "answer": "1. SELECT Customer.CustomerName, SUM(OrderItem.Quantity * OrderItem.UnitPrice) AS TotalSpent FROM Customer INNER JOIN Orders ON Customer.CustomerID = Orders.CustomerID INNER JOIN OrderItem ON Orders.OrderID = OrderItem.OrderID GROUP BY Customer.CustomerID ORDER BY TotalSpent DESC LIMIT 5; [1] 2. SELECT * FROM Book WHERE ISBN NOT IN (SELECT DISTINCT ISBN FROM OrderItem); [1] 3. SELECT MONTH(OrderDate) AS Month, SUM(OrderItem.Quantity * OrderItem.UnitPrice) AS TotalSales FROM Orders INNER JOIN OrderItem ON Orders.OrderID = OrderItem.OrderID WHERE YEAR(OrderDate) = 2024 GROUP BY MONTH(OrderDate); [1] 4. SELECT Customer.CustomerName, COUNT(DISTINCT OrderItem.ISBN) AS DistinctBooks FROM Customer INNER JOIN Orders ON Customer.CustomerID = Orders.CustomerID INNER JOIN OrderItem ON Orders.OrderID = OrderItem.OrderID GROUP BY Customer.CustomerID HAVING COUNT(DISTINCT OrderItem.ISBN) > 5; [1] 5. SELECT Book.Author, SUM(OrderItem.Quantity) AS TotalSold FROM Book INNER JOIN OrderItem ON Book.ISBN = OrderItem.ISBN GROUP BY Book.Author ORDER BY TotalSold DESC LIMIT 1; [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_124",
+        "topic": "Normalisation",
+        "text": "A company database has the following unnormalised table: EMPLOYEE_PROJECT(EmployeeID, EmployeeName, EmployeeDepartment, ProjectID, ProjectName, ProjectBudget, HoursWorked, Role, SupervisorID, SupervisorName). EmployeeName depends on EmployeeID. EmployeeDepartment depends on EmployeeID. ProjectName depends on ProjectID. ProjectBudget depends on ProjectID. SupervisorName depends on SupervisorID. An employee can work on multiple projects. A project has many employees. Normalise to 3NF. Show all tables and explain each normalisation step.",
+        "answer": "Step 1: 1NF - No repeating groups (assume satisfied). [1] Step 2: 2NF - Remove partial dependencies. Split into: Employee(EmployeeID, EmployeeName, EmployeeDepartment, SupervisorID). Project(ProjectID, ProjectName, ProjectBudget). Assignment(EmployeeID, ProjectID, HoursWorked, Role). Supervisor(SupervisorID, SupervisorName). [2] Step 3: 3NF - Remove transitive dependencies. SupervisorName moved to Supervisor table. Employee now has SupervisorID as foreign key. [1] Final tables: Employee(EmployeeID, EmployeeName, EmployeeDepartment, SupervisorID). Project(ProjectID, ProjectName, ProjectBudget). Assignment(EmployeeID, ProjectID, HoursWorked, Role). Supervisor(SupervisorID, SupervisorName). [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_125",
+        "topic": "DBMS",
+        "text": "Describe five functions of a Database Management System (DBMS) and explain how each function addresses limitations of file-based systems.",
+        "answer": "1. Data dictionary management: stores metadata centrally, eliminating program-data dependence. [1] 2. Data storage management: manages physical storage, improving efficiency. [1] 3. Data transformation and presentation: converts between logical and physical formats. [1] 4. Security management: provides user accounts, passwords, access rights - prevents unauthorised access. [1] 5. Multi-user access control: uses locking and transactions to prevent data corruption from concurrent access. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_126",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a database for a university with the following requirements: - Students: ID, name, date of birth, email, major department - Departments: code, name, head of department - Courses: code, title, credits, department code - Enrolment: student ID, course code, semester, year, grade - Lecturers: ID, name, department code - Teaching assignment: lecturer ID, course code, semester, year Include all constraints: primary keys, foreign keys, NOT NULL, UNIQUE, CHECK (grade in A-F, credits > 0).",
+        "answer": "CREATE TABLE Department (DeptCode VARCHAR(10) PRIMARY KEY, DeptName VARCHAR(100) NOT NULL UNIQUE, HeadOfDept VARCHAR(100)); [1] CREATE TABLE Student (StudentID INTEGER PRIMARY KEY, StudentName VARCHAR(100) NOT NULL, DOB DATE, Email VARCHAR(100) UNIQUE, DeptCode VARCHAR(10), FOREIGN KEY (DeptCode) REFERENCES Department(DeptCode)); [1] CREATE TABLE Course (CourseCode VARCHAR(10) PRIMARY KEY, Title VARCHAR(100) NOT NULL, Credits INTEGER CHECK (Credits > 0), DeptCode VARCHAR(10), FOREIGN KEY (DeptCode) REFERENCES Department(DeptCode)); [1] CREATE TABLE Lecturer (LecturerID INTEGER PRIMARY KEY, LecturerName VARCHAR(100) NOT NULL, DeptCode VARCHAR(10), FOREIGN KEY (DeptCode) REFERENCES Department(DeptCode)); [1] CREATE TABLE Enrolment (StudentID INTEGER, CourseCode VARCHAR(10), Semester VARCHAR(10), Year INTEGER, Grade CHAR(1) CHECK (Grade IN ('A','B','C','D','E','F')), PRIMARY KEY (StudentID, CourseCode, Semester, Year), FOREIGN KEY (StudentID) REFERENCES Student(StudentID), FOREIGN KEY (CourseCode) REFERENCES Course(CourseCode)); [1] CREATE TABLE Teaches (LecturerID INTEGER, CourseCode VARCHAR(10), Semester VARCHAR(10), Year INTEGER, PRIMARY KEY (LecturerID, CourseCode, Semester, Year), FOREIGN KEY (LecturerID) REFERENCES Lecturer(LecturerID), FOREIGN KEY (CourseCode) REFERENCES Course(CourseCode)); [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_127",
+        "topic": "E-R Diagrams",
+        "text": "A car rental company database has entities: CUSTOMER, VEHICLE, BRANCH, RENTAL, PAYMENT. A customer can make many rentals. A vehicle can be rented many times. A rental is for one vehicle and one customer. A rental is made at one branch and returned to one branch (could be different). A rental has one payment. A payment is for one rental. Draw a complete E-R diagram showing all entities, attributes (at least two per entity), relationships, and cardinalities.",
+        "answer": "CUSTOMER(CustomerID, Name, LicenseNo, Phone) ---(1:M)--- RENTAL. [1] VEHICLE(VehicleID, Make, Model, Year, RegNo) ---(1:M)--- RENTAL. [1] BRANCH(BranchID, Location, Phone) ---(1:M)--- RENTAL (as PickupBranch) and ---(1:M)--- RENTAL (as ReturnBranch). [1] RENTAL(RentalID, PickupDate, ReturnDate, TotalAmount) ---(1:1)--- PAYMENT. [1] PAYMENT(PaymentID, Amount, PaymentDate, Method). [1] Correct cardinality symbols (crow's feet) and entity boxes. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_128",
+        "topic": "Normalisation",
+        "text": "A shipping company database has the following unnormalised table: SHIPMENT(ShipmentID, Origin, Destination, CustomerID, CustomerName, CustomerAddress, ItemID, ItemDescription, Weight, Quantity, ShipDate, DeliveryDate, CarrierID, CarrierName, CarrierRate). Normalise this table to 3NF. For each normalisation step, explain why the table is not in that normal form and how your changes address the violation.",
+        "answer": "1NF to 2NF: Table has repeating groups (multiple items per shipment). Split into Shipment(ShipmentID, Origin, Destination, CustomerID, ShipDate, DeliveryDate, CarrierID) and ShipmentItem(ShipmentID, ItemID, Quantity). [2] 2NF to 3NF: CustomerName/Address depend on CustomerID (partial dependency if CustomerID is not primary key). CarrierName/Rate depend on CarrierID. Split further: Customer(CustomerID, CustomerName, CustomerAddress). Carrier(CarrierID, CarrierName, CarrierRate). Item(ItemID, ItemDescription, Weight). [2] Final tables: Shipment, ShipmentItem, Customer, Carrier, Item. All primary keys identified. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_129",
+        "topic": "SQL",
+        "text": "Write an SQL script to perform the following complex analysis on a sales database: Tables: Sales(SaleID, SaleDate, CustomerID, Amount), Customer(CustomerID, CustomerName, JoinDate), Product(ProductID, ProductName, Category), SaleItem(SaleID, ProductID, Quantity, UnitPrice). 1. Find the top 3 selling products in each category. 2. Find customers who have purchased products from at least 3 different categories. 3. Calculate the month-over-month growth rate of sales. 4. Find the customer lifetime value (total spent) for each customer. 5. Identify products that are frequently bought together (appear in same sale).",
+        "answer": "1. WITH RankedProducts AS (SELECT Category, ProductName, SUM(Quantity) AS TotalSold, ROW_NUMBER() OVER (PARTITION BY Category ORDER BY SUM(Quantity) DESC) AS rn FROM Product INNER JOIN SaleItem ON Product.ProductID = SaleItem.ProductID GROUP BY Category, ProductName) SELECT * FROM RankedProducts WHERE rn <= 3; [1] 2. SELECT CustomerID, CustomerName FROM Customer WHERE CustomerID IN (SELECT CustomerID FROM Sales INNER JOIN SaleItem ON Sales.SaleID = SaleItem.SaleID INNER JOIN Product ON SaleItem.ProductID = Product.ProductID GROUP BY CustomerID HAVING COUNT(DISTINCT Category) >= 3); [1] 3. WITH MonthlySales AS (SELECT YEAR(SaleDate) AS Year, MONTH(SaleDate) AS Month, SUM(Amount) AS TotalSales FROM Sales GROUP BY YEAR(SaleDate), MONTH(SaleDate)) SELECT Year, Month, TotalSales, (TotalSales - LAG(TotalSales) OVER (ORDER BY Year, Month)) / LAG(TotalSales) OVER (ORDER BY Year, Month) * 100 AS GrowthRate FROM MonthlySales; [1] 4. SELECT Customer.CustomerID, CustomerName, SUM(Amount) AS LifetimeValue FROM Customer INNER JOIN Sales ON Customer.CustomerID = Sales.CustomerID GROUP BY Customer.CustomerID; [1] 5. SELECT SI1.ProductID AS Product1, SI2.ProductID AS Product2, COUNT(*) AS TimesBoughtTogether FROM SaleItem SI1 INNER JOIN SaleItem SI2 ON SI1.SaleID = SI2.SaleID AND SI1.ProductID < SI2.ProductID GROUP BY SI1.ProductID, SI2.ProductID ORDER BY TimesBoughtTogether DESC LIMIT 10; [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_130",
+        "topic": "Database Concepts",
+        "text": "Explain five differences between a file-based approach and a relational database approach to data storage.",
+        "answer": "1. Data redundancy: File-based has high redundancy; relational has minimal redundancy through linked tables. [1] 2. Data consistency: File-based often inconsistent; relational maintains consistency via referential integrity. [1] 3. Program-data dependence: File-based programs depend on data structure; relational provides independence. [1] 4. Query capability: File-based limited to predefined queries; relational supports complex SQL queries. [1] 5. Data security: File-based has limited security; relational provides user accounts, access rights, views. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_131",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a trigger that automatically updates a stock level when an order is placed, and prevents orders if stock is insufficient. Tables: Product(ProductID, ProductName, StockLevel, ReorderLevel), Orders(OrderID, OrderDate, CustomerID), OrderItem(OrderID, ProductID, Quantity).",
+        "answer": "CREATE TRIGGER CheckStock BEFORE INSERT ON OrderItem FOR EACH ROW BEGIN DECLARE current_stock INTEGER; SELECT StockLevel INTO current_stock FROM Product WHERE ProductID = NEW.ProductID; IF current_stock < NEW.Quantity THEN SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'Insufficient stock'; ELSE UPDATE Product SET StockLevel = StockLevel - NEW.Quantity WHERE ProductID = NEW.ProductID; END IF; END; [5]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_132",
+        "topic": "Normalisation",
+        "text": "A university database has a table: STUDENT_COURSE(StudentID, StudentName, StudentMajor, CourseCode, CourseName, Credits, InstructorID, InstructorName, InstructorDepartment, Grade, Semester, Year). Normalise this table to 3NF. Explain each normalisation step and justify why each new table is in the respective normal form.",
+        "answer": "1NF: No repeating groups (assume satisfied). [1] 2NF: Remove partial dependencies. StudentName, StudentMajor depend on StudentID. CourseName, Credits depend on CourseCode. InstructorName, InstructorDepartment depend on InstructorID. Split into: Student(StudentID, StudentName, StudentMajor). Course(CourseCode, CourseName, Credits, InstructorID). Instructor(InstructorID, InstructorName, InstructorDepartment). Enrolment(StudentID, CourseCode, Grade, Semester, Year). [2] 3NF: Check for transitive dependencies. In Course table, InstructorID is foreign key to Instructor - no transitive dependency. In Enrolment, all attributes depend on composite key. In Student and Instructor, all depend on primary key. All tables in 3NF. [2]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_133",
+        "topic": "DBMS",
+        "text": "Describe five ways a Database Administrator (DBA) can use a DBMS to ensure data security.",
+        "answer": "1. Create user accounts with unique usernames and strong passwords. [1] 2. Assign access rights (GRANT/REVOKE) to control read/write/delete permissions per table. [1] 3. Create views to restrict user access to specific columns or rows. [1] 4. Implement encryption for sensitive data at rest and in transit. [1] 5. Configure regular automated backups and audit logging to track all database activities. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_134",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a stored procedure that calculates and displays the sales summary for a given year. The summary should include: total sales, average order value, number of orders, best-selling product, and worst-selling product. Tables: Sales(SaleID, SaleDate, CustomerID, Amount), SaleItem(SaleID, ProductID, Quantity), Product(ProductID, ProductName).",
+        "answer": "CREATE PROCEDURE SalesSummary(IN p_year INTEGER) BEGIN SELECT SUM(Amount) AS TotalSales, AVG(Amount) AS AvgOrderValue, COUNT(*) AS NumOrders FROM Sales WHERE YEAR(SaleDate) = p_year; SELECT ProductName, SUM(Quantity) AS TotalSold FROM Product INNER JOIN SaleItem ON Product.ProductID = SaleItem.ProductID INNER JOIN Sales ON SaleItem.SaleID = Sales.SaleID WHERE YEAR(SaleDate) = p_year GROUP BY Product.ProductID ORDER BY TotalSold DESC LIMIT 1; SELECT ProductName, SUM(Quantity) AS TotalSold FROM Product INNER JOIN SaleItem ON Product.ProductID = SaleItem.ProductID INNER JOIN Sales ON SaleItem.SaleID = Sales.SaleID WHERE YEAR(SaleDate) = p_year GROUP BY Product.ProductID ORDER BY TotalSold ASC LIMIT 1; END; [5]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_135",
+        "topic": "E-R Diagrams",
+        "text": "Design an E-R diagram for a hotel booking system with the following requirements: - Hotels have ID, name, address, star rating. - Rooms have room number, type, price per night, and belong to one hotel. - Customers have ID, name, email, phone. - Bookings have check-in date, check-out date, total price, and link to one customer and one room. - Payments have payment ID, amount, payment date, method, and link to one booking. - Staff have ID, name, position, and work at one hotel. Include all entities, attributes, relationships, and cardinalities.",
+        "answer": "HOTEL(HotelID, Name, Address, StarRating) ---(1:M)--- ROOM. [1] HOTEL ---(1:M)--- STAFF. [1] ROOM(RoomNumber, Type, PricePerNight) ---(1:M)--- BOOKING. [1] CUSTOMER(CustomerID, Name, Email, Phone) ---(1:M)--- BOOKING. [1] BOOKING(BookingID, CheckInDate, CheckOutDate, TotalPrice) ---(1:1)--- PAYMENT. [1] PAYMENT(PaymentID, Amount, PaymentDate, Method). [1] Correct cardinality symbols and entity boxes. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_136",
+        "topic": "SQL",
+        "text": "Write an SQL script to find duplicate records in a Customer table and merge them. Tables: Customer(CustomerID, CustomerName, Email, Phone, Address). Duplicate criteria: same Email address. Keep the record with the most recent CustomerID (highest value).",
+        "answer": "-- Find duplicates SELECT Email, COUNT(*) AS DuplicateCount FROM Customer GROUP BY Email HAVING COUNT(*) > 1; [1] -- Identify records to keep and delete WITH KeepRecords AS (SELECT MAX(CustomerID) AS KeepID, Email FROM Customer GROUP BY Email) UPDATE Orders SET CustomerID = (SELECT KeepID FROM KeepRecords WHERE KeepRecords.Email = Customer.Email) WHERE CustomerID IN (SELECT CustomerID FROM Customer WHERE Email IN (SELECT Email FROM Customer GROUP BY Email HAVING COUNT(*) > 1) AND CustomerID NOT IN (SELECT KeepID FROM KeepRecords)); [2] DELETE FROM Customer WHERE CustomerID NOT IN (SELECT KeepID FROM KeepRecords); [2]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_137",
+        "topic": "Normalisation",
+        "text": "A manufacturing database has a table: PRODUCTION(ProductionID, ProductID, ProductName, ProductCategory, MachineID, MachineName, OperatorID, OperatorName, Shift, QuantityProduced, Date, DefectCount). Normalise to 3NF. Identify all primary keys, foreign keys, and explain each normalisation step.",
+        "answer": "Step 1 - 1NF: No repeating groups (assume satisfied). [1] Step 2 - 2NF: Remove partial dependencies. ProductName/Category depend on ProductID. MachineName depends on MachineID. OperatorName depends on OperatorID. Split into: Product(ProductID, ProductName, ProductCategory). Machine(MachineID, MachineName). Operator(OperatorID, OperatorName). Production(ProductionID, ProductID, MachineID, OperatorID, Shift, QuantityProduced, Date, DefectCount). [2] Step 3 - 3NF: No transitive dependencies. All non-key attributes in each table depend only on primary key. All tables in 3NF. [1] Foreign keys: Production.ProductID references Product, Production.MachineID references Machine, Production.OperatorID references Operator. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_138",
+        "topic": "DBMS",
+        "text": "Explain five advantages of using a DBMS over a file-based system for a large organisation with multiple departments sharing data.",
+        "answer": "1. Data sharing: Multiple departments can access the same data concurrently with proper access controls. [1] 2. Reduced redundancy: Data stored once, eliminating duplicate storage across departments. [1] 3. Data consistency: Updates made by one department are immediately visible to all others. [1] 4. Improved security: Granular access rights control what each department can see/modify. [1] 5. Backup and recovery: Centralised backup procedures ensure data can be recovered after failures. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_139",
+        "topic": "SQL",
+        "text": "Write an SQL script to implement a hierarchical (tree) structure for an employee reporting hierarchy. Tables: Employee(EmployeeID, EmployeeName, ManagerID). Write queries to: 1. Find all subordinates of a given manager (direct and indirect). 2. Find the management chain (all managers) for a given employee. 3. Find the number of levels in the hierarchy.",
+        "answer": "-- 1. Find all subordinates (recursive CTE) WITH RECURSIVE Subordinates AS (SELECT EmployeeID, EmployeeName, ManagerID FROM Employee WHERE ManagerID = 100 UNION ALL SELECT E.EmployeeID, E.EmployeeName, E.ManagerID FROM Employee E INNER JOIN Subordinates S ON E.ManagerID = S.EmployeeID) SELECT * FROM Subordinates; [2] -- 2. Find management chain WITH RECURSIVE ManagementChain AS (SELECT EmployeeID, EmployeeName, ManagerID FROM Employee WHERE EmployeeID = 500 UNION ALL SELECT E.EmployeeID, E.EmployeeName, E.ManagerID FROM Employee E INNER JOIN ManagementChain M ON E.EmployeeID = M.ManagerID) SELECT * FROM ManagementChain WHERE EmployeeID != 500; [2] -- 3. Find number of levels WITH RECURSIVE Levels AS (SELECT EmployeeID, 1 AS Level FROM Employee WHERE ManagerID IS NULL UNION ALL SELECT E.EmployeeID, L.Level + 1 FROM Employee E INNER JOIN Levels L ON E.ManagerID = L.EmployeeID) SELECT MAX(Level) AS HierarchyLevels FROM Levels; [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_140",
+        "topic": "Database Concepts",
+        "text": "Explain the ACID properties of database transactions and why they are important for data integrity.",
+        "answer": "Atomicity: A transaction is all-or-nothing; if any part fails, the entire transaction is rolled back. [1] Consistency: A transaction brings the database from one valid state to another, preserving all constraints. [1] Isolation: Concurrent transactions do not interfere with each other; results are as if transactions ran sequentially. [1] Durability: Once committed, a transaction's changes persist even after system failure. [1] These properties ensure data integrity by preventing partial updates, maintaining constraints, avoiding conflicts, and guaranteeing persistence of committed changes. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_141",
+        "topic": "SQL",
+        "text": "Write an SQL script to partition a large Sales table by year and create indexes to optimise queries. Include: 1. Table creation with partitioning. 2. Index creation on commonly queried columns. 3. Query to retrieve sales for a specific month efficiently using partition pruning.",
+        "answer": "-- 1. Partitioned table CREATE TABLE Sales (SaleID INTEGER, SaleDate DATE, CustomerID INTEGER, Amount REAL) PARTITION BY RANGE (YEAR(SaleDate)) (PARTITION p2022 VALUES LESS THAN (2023), PARTITION p2023 VALUES LESS THAN (2024), PARTITION p2024 VALUES LESS THAN (2025), PARTITION pFuture VALUES LESS THAN MAXVALUE); [2] -- 2. Indexes CREATE INDEX idx_sales_date ON Sales(SaleDate); CREATE INDEX idx_sales_customer ON Sales(CustomerID); CREATE INDEX idx_sales_amount ON Sales(Amount); [1] -- 3. Query with partition pruning SELECT SUM(Amount) AS MonthlyTotal FROM Sales WHERE SaleDate BETWEEN '2024-03-01' AND '2024-03-31'; -- Only p2024 partition is scanned [2]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_142",
+        "topic": "Normalisation",
+        "text": "A school database has the following unnormalised table: STUDENT_RECORD(StudentID, StudentName, ParentID, ParentName, ParentPhone, ClassID, ClassName, TeacherID, TeacherName, SubjectID, SubjectName, Mark, Term). Normalise this table to 3NF. Show all tables with primary keys underlined and foreign keys indicated.",
+        "answer": "Student(StudentID, StudentName). [1] Parent(ParentID, ParentName, ParentPhone). [1] StudentParent(StudentID, ParentID). [1] Class(ClassID, ClassName, TeacherID). [1] Teacher(TeacherID, TeacherName). [1] Subject(SubjectID, SubjectName). [1] Result(StudentID, ClassID, SubjectID, Mark, Term). [1] Primary keys: StudentID, ParentID, ClassID, TeacherID, SubjectID, composite (StudentID, ClassID, SubjectID, Term). [1] Foreign keys: StudentParent references Student/Parent, Class.TeacherID references Teacher, Result references Student/Class/Subject. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_143",
+        "topic": "DBMS",
+        "text": "Describe five features of a DBMS that support data recovery after system failure.",
+        "answer": "1. Transaction log: Records all changes before they are applied to the database. [1] 2. Checkpoints: Periodically synchronise log with database to reduce recovery time. [1] 3. Rollback: Undoes incomplete transactions when system restarts. [1] 4. Redo: Re-applies committed transactions that were not written to disk before failure. [1] 5. Backup and restore: Full database backups that can be restored and then roll-forward using transaction logs. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_144",
+        "topic": "SQL",
+        "text": "Write an SQL script to create a full-text search capability for a blog database. Tables: BlogPost(PostID, Title, Content, AuthorID, PublishDate), Author(AuthorID, AuthorName). Create indexes for full-text search, and write queries to: 1. Find posts containing specific keywords. 2. Find posts ranked by relevance. 3. Find posts by the same author about similar topics.",
+        "answer": "-- 1. Full-text indexes CREATE FULLTEXT INDEX ft_title_content ON BlogPost(Title, Content); [1] -- 2. Keyword search with relevance SELECT PostID, Title, MATCH(Title, Content) AGAINST('database normalisation' IN NATURAL LANGUAGE MODE) AS Relevance FROM BlogPost WHERE MATCH(Title, Content) AGAINST('database normalisation' IN NATURAL LANGUAGE MODE) ORDER BY Relevance DESC; [2] -- 3. Similar posts by same author SELECT P2.PostID, P2.Title FROM BlogPost P1 INNER JOIN BlogPost P2 ON P1.AuthorID = P2.AuthorID AND P1.PostID != P2.PostID WHERE MATCH(P1.Title, P1.Content) AGAINST(P2.Title IN NATURAL LANGUAGE MODE) AND P1.PostID = 100; [2]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_145",
+        "topic": "E-R Diagrams",
+        "text": "Design an E-R diagram for a social media platform database with the following requirements: - Users have ID, name, email, join date, date of birth. - Posts have ID, content, timestamp, and are made by one user. - Comments have ID, content, timestamp, made by one user on one post. - Likes can be given by a user to a post or comment. - Friendships are bidirectional between users. - Groups have ID, name, description, created by a user. - Group membership allows users to join groups. Include all entities, attributes, relationships, and cardinalities.",
+        "answer": "USER(UserID, Name, Email, JoinDate, DOB) ---(1:M)--- POST. [1] USER ---(1:M)--- COMMENT. [1] POST ---(1:M)--- COMMENT. [1] USER ---(M:M)--- LIKES (junction: LikeID, Type, TargetID). [1] USER ---(M:M)--- FRIENDSHIP (junction with status). [1] USER ---(1:M)--- GROUP (created by). [1] USER ---(M:M)--- GROUP_MEMBERSHIP. [1] GROUP(GroupID, Name, Description, CreatorID). [1] Correct cardinality symbols. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_146",
+        "topic": "SQL",
+        "text": "Write an SQL script to analyse customer purchasing patterns using market basket analysis. Tables: Transaction(TranID, CustomerID, TranDate), TransactionItem(TranID, ProductID). Write queries to: 1. Find the support (frequency) of each product. 2. Find pairs of products frequently bought together (confidence). 3. Find association rules with lift > 1.5.",
+        "answer": "-- 1. Product support SELECT ProductID, COUNT(DISTINCT TranID) AS Support FROM TransactionItem GROUP BY ProductID; [1] -- 2. Product pairs (confidence) SELECT TI1.ProductID AS Product1, TI2.ProductID AS Product2, COUNT(*) AS PairCount, (SELECT COUNT(*) FROM TransactionItem WHERE ProductID = TI1.ProductID) AS Product1Count, CAST(COUNT(*) AS REAL) / (SELECT COUNT(*) FROM TransactionItem WHERE ProductID = TI1.ProductID) AS Confidence FROM TransactionItem TI1 INNER JOIN TransactionItem TI2 ON TI1.TranID = TI2.TranID AND TI1.ProductID < TI2.ProductID GROUP BY TI1.ProductID, TI2.ProductID; [2] -- 3. Association rules with lift > 1.5 WITH RuleMetrics AS (SELECT TI1.ProductID AS Antecedent, TI2.ProductID AS Consequent, COUNT(*) AS PairCount, CAST(COUNT(*) AS REAL) / (SELECT COUNT(*) FROM TransactionItem WHERE ProductID = TI1.ProductID) AS Confidence, (SELECT CAST(COUNT(DISTINCT TranID) AS REAL) FROM Transaction WHERE TranID IN (SELECT TranID FROM TransactionItem WHERE ProductID = TI2.ProductID)) / (SELECT CAST(COUNT(*) AS REAL) FROM Transaction) AS ConsequentSupport FROM TransactionItem TI1 INNER JOIN TransactionItem TI2 ON TI1.TranID = TI2.TranID AND TI1.ProductID != TI2.ProductID GROUP BY TI1.ProductID, TI2.ProductID) SELECT *, Confidence / ConsequentSupport AS Lift FROM RuleMetrics WHERE Confidence / ConsequentSupport > 1.5; [2]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_147",
+        "topic": "Normalisation",
+        "text": "A cinema booking database has the following unnormalised table: BOOKING(BookingID, CustomerID, CustomerName, CustomerPhone, ShowID, MovieID, MovieTitle, MovieDuration, ScreenID, ScreenCapacity, SeatNumbers, BookingDate, TotalPrice). Normalise to 3NF. Show all tables and explain each normalisation step.",
+        "answer": "Step 1 - 1NF: SeatNumbers contains multiple seats (repeating group). Remove to separate table. [1] Step 2 - 2NF: Remove partial dependencies. CustomerName/Phone depend on CustomerID. MovieTitle/Duration depend on MovieID. ScreenCapacity depends on ScreenID. Split into: Customer(CustomerID, CustomerName, CustomerPhone). Movie(MovieID, MovieTitle, MovieDuration). Screen(ScreenID, ScreenCapacity). Show(ShowID, MovieID, ScreenID). [2] Step 3 - 3NF: No transitive dependencies. Booking(BookingID, CustomerID, ShowID, BookingDate, TotalPrice). BookedSeat(BookingID, SeatNumber). [1] Final tables: Customer, Movie, Screen, Show, Booking, BookedSeat. All primary keys underlined, foreign keys indicated. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_148",
+        "topic": "DBMS",
+        "text": "Explain five types of database indexes and when each is most appropriate.",
+        "answer": "1. B-tree index: Default index, good for equality and range queries on ordered data. [1] 2. Hash index: Best for exact equality lookups, not for range queries. [1] 3. Bitmap index: Efficient for low-cardinality columns (e.g., gender, status). [1] 4. Clustered index: Determines physical order of table data; good for range scans. [1] 5. Full-text index: Optimised for searching text within large string columns. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_149",
+        "topic": "SQL",
+        "text": "Write an SQL script to implement a slowly changing dimension (Type 2) for tracking customer address history. Tables: Customer(CustomerID, CustomerName, CurrentAddress, EffectiveDate, EndDate, IsCurrent). Write procedures to: 1. Insert a new customer. 2. Update a customer's address (close old record, insert new). 3. Query the customer's address as of a specific date.",
+        "answer": "-- 1. Insert new customer CREATE PROCEDURE InsertCustomer(IN p_CustomerID INTEGER, IN p_Name VARCHAR(100), IN p_Address VARCHAR(200), IN p_Date DATE) BEGIN INSERT INTO Customer (CustomerID, CustomerName, CurrentAddress, EffectiveDate, EndDate, IsCurrent) VALUES (p_CustomerID, p_Name, p_Address, p_Date, '9999-12-31', 1); END; [2] -- 2. Update address CREATE PROCEDURE UpdateCustomerAddress(IN p_CustomerID INTEGER, IN p_NewAddress VARCHAR(200), IN p_ChangeDate DATE) BEGIN UPDATE Customer SET EndDate = p_ChangeDate, IsCurrent = 0 WHERE CustomerID = p_CustomerID AND IsCurrent = 1; INSERT INTO Customer (CustomerID, CustomerName, CurrentAddress, EffectiveDate, EndDate, IsCurrent) SELECT CustomerID, CustomerName, p_NewAddress, p_ChangeDate, '9999-12-31', 1 FROM Customer WHERE CustomerID = p_CustomerID AND IsCurrent = 0 ORDER BY EndDate DESC LIMIT 1; END; [2] -- 3. Query address as of specific date CREATE FUNCTION GetAddressAsOf(p_CustomerID INTEGER, p_Date DATE) RETURNS VARCHAR(200) BEGIN DECLARE v_Address VARCHAR(200); SELECT CurrentAddress INTO v_Address FROM Customer WHERE CustomerID = p_CustomerID AND EffectiveDate <= p_Date AND EndDate > p_Date; RETURN v_Address; END; [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch8_150",
+        "topic": "Database Concepts",
+        "text": "Explain the concept of database normalisation and its five benefits. Also explain three potential drawbacks of over-normalisation.",
+        "answer": "Normalisation: Process of organising data to reduce redundancy and improve integrity by splitting tables and defining relationships. [1] Benefits: 1. Eliminates data redundancy/repetition. [1] 2. Reduces storage space. [1] 3. Improves data integrity and consistency. [1] 4. Simplifies maintenance (update anomalies eliminated). [1] 5. Provides logical database design. [1] Drawbacks of over-normalisation: 1. More joins required for queries, reducing performance. [1] 2. Increased complexity for developers writing queries. [1] 3. May be unnecessary for small/simple databases. [1]",
+        "score": 5
+    }
+]

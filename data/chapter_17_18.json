@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "q_17_18_01_001",
+        "topic": "Symmetric Encryption",
+        "text": "State the name of the encryption method where the same key is used to encrypt and decrypt a message.",
+        "answer": "Symmetric (encryption).",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_002",
+        "topic": "Asymmetric Encryption",
+        "text": "In asymmetric encryption, which key is kept secret by the owner?",
+        "answer": "Private key.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_003",
+        "topic": "Cryptography",
+        "text": "What is the term for the original message before it is encrypted?",
+        "answer": "Plaintext.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_004",
+        "topic": "Cryptography",
+        "text": "What is the term for the encrypted, unreadable form of a message?",
+        "answer": "Ciphertext.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_005",
+        "topic": "SSL/TLS",
+        "text": "State the protocol that is indicated by a small green closed padlock in a web browser's address bar.",
+        "answer": "SSL (Secure Sockets Layer) or TLS (Transport Layer Security).",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_006",
+        "topic": "Digital Signatures",
+        "text": "State the purpose of a digital signature.",
+        "answer": "To validate the authenticity of a digital document / to verify the sender.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_007",
+        "topic": "Digital Certificates",
+        "text": "Which commercial organisation issues a digital certificate?",
+        "answer": "Certificate Authority (CA).",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_008",
+        "topic": "Heuristic",
+        "text": "In the A* algorithm, what does the heuristic (h) value represent?",
+        "answer": "An estimate of the distance from a node to the goal / an informed guess.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_009",
+        "topic": "Machine Learning",
+        "text": "Give an example of a real-world application that uses supervised learning.",
+        "answer": "Spam detection / email categorisation.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_010",
+        "topic": "Machine Learning",
+        "text": "Which type of machine learning uses labelled data for training?",
+        "answer": "Supervised learning.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_011",
+        "topic": "Machine Learning",
+        "text": "Which type of machine learning learns based on 'reward and punishment'?",
+        "answer": "Reinforcement learning.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_012",
+        "topic": "Deep Learning",
+        "text": "State the structure that deep learning algorithms are based on.",
+        "answer": "Artificial neural network.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_013",
+        "topic": "Data",
+        "text": "What is the term for data where the target answer is already known and the object is fully recognised?",
+        "answer": "Labelled data.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_014",
+        "topic": "Quantum Cryptography",
+        "text": "State the basic unit of quantum information used in quantum cryptography.",
+        "answer": "Qubit (quantum bit).",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_015",
+        "topic": "Graph Algorithms",
+        "text": "State the name of the algorithm that finds the shortest path between two nodes using a heuristic approach.",
+        "answer": "A* (A-star) algorithm.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_016",
+        "topic": "SSL/TLS",
+        "text": "Which is more modern and secure, SSL or TLS?",
+        "answer": "TLS (Transport Layer Security).",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_017",
+        "topic": "Digital Signatures",
+        "text": "What is produced when a message is put through a hashing algorithm?",
+        "answer": "A digest.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_018",
+        "topic": "Asymmetric Encryption",
+        "text": "In asymmetric encryption, if you encrypt a message with a user's public key, which key is used to decrypt it?",
+        "answer": "The matching private key.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_019",
+        "topic": "AI",
+        "text": "What does AI stand for?",
+        "answer": "Artificial Intelligence.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_020",
+        "topic": "Symmetric Encryption",
+        "text": "State one major disadvantage of symmetric encryption.",
+        "answer": "Key distribution problem / risk of key being intercepted.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_021",
+        "topic": "Deep Learning",
+        "text": "What is the layer called that sits between the input layer and the output layer in a neural network?",
+        "answer": "Hidden layer.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_022",
+        "topic": "Graph Algorithms",
+        "text": "State the name of the algorithm that finds the shortest path but does not use a heuristic.",
+        "answer": "Dijkstra's algorithm.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_023",
+        "topic": "Digital Certificates",
+        "text": "State one item of information commonly found on a digital certificate.",
+        "answer": "Public key / Serial number / Validity dates / Issuer name.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_024",
+        "topic": "AI",
+        "text": "Which type of AI has superior performance to a human in one specific task?",
+        "answer": "Narrow AI.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_025",
+        "topic": "Data",
+        "text": "What is the term for data where objects are undefined and need to be manually recognised?",
+        "answer": "Unlabelled data.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_026",
+        "topic": "Machine Learning",
+        "text": "Which type of learning identifies hidden patterns from input data without being trained on the 'right' answer?",
+        "answer": "Unsupervised learning.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_027",
+        "topic": "SSL/TLS",
+        "text": "In TLS, which protocol permits the server and client to authenticate each other?",
+        "answer": "Handshake protocol.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_028",
+        "topic": "Cryptography",
+        "text": "What is the process of altering data into a form that is unreadable to unauthorised parties called?",
+        "answer": "Encryption.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_029",
+        "topic": "AI",
+        "text": "Which subset of AI is concerned with systems that learn without being explicitly programmed?",
+        "answer": "Machine learning.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_01_030",
+        "topic": "Heuristic",
+        "text": "State a method used to calculate heuristic distances in a grid-based graph.",
+        "answer": "Manhattan method.",
+        "score": 1
+    },
+    {
+        "id": "q_17_18_02_001",
+        "topic": "Digital Certificates",
+        "text": "State two items commonly found on a digital certificate.",
+        "answer": "Any two from: public key, serial number, version number, expiration date, name of certificate holder, issuer name, digital signature of CA.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_002",
+        "topic": "Asymmetric Encryption",
+        "text": "Give two differences between symmetric and asymmetric encryption.",
+        "answer": "MP1: Symmetric uses one key / asymmetric uses two keys (public and private). MP2: Symmetric key is shared / asymmetric public key is shared and private key is kept secret.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_003",
+        "topic": "Quantum Cryptography",
+        "text": "State two benefits of using quantum cryptography.",
+        "answer": "Any two from: provides security based on laws of physics / virtually unbreakable / eavesdropping can be detected / longer keys can be used.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_004",
+        "topic": "Quantum Cryptography",
+        "text": "State two drawbacks of using quantum cryptography.",
+        "answer": "Any two from: limited range / requires dedicated fibre optic line / high cost / polarisation of light may be altered.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_005",
+        "topic": "SSL/TLS",
+        "text": "State two functions of SSL/TLS protocols.",
+        "answer": "Any two from: encryption of data / authentication of client and server / data integrity / data compression.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_006",
+        "topic": "SSL/TLS",
+        "text": "State two situations where the use of SSL/TLS would be appropriate.",
+        "answer": "Any two from: when transmitting authentication data (e.g. passwords) / when transmitting data that must be protected from modification / when transmitting non-public data.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_007",
+        "topic": "Machine Learning",
+        "text": "State two differences between supervised and unsupervised learning.",
+        "answer": "MP1: Supervised uses labelled data / unsupervised uses unlabelled data. MP2: Supervised requires initial human input/training / unsupervised does not.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_008",
+        "topic": "Digital Signatures",
+        "text": "Explain how a digital signature is produced before a message is sent.",
+        "answer": "MP1: The message is hashed to produce a message digest. MP2: The message digest is encrypted with the sender's private key to form the digital signature.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_009",
+        "topic": "Digital Signatures",
+        "text": "Explain how a digital signature is checked on receipt to ensure the message has not been altered.",
+        "answer": "MP1: The digital signature is decrypted with the sender's public key to recover the digest. MP2: The received message is hashed and compared. If they are the same, the message has not been altered.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_010",
+        "topic": "Deep Learning",
+        "text": "State two reasons for using deep learning.",
+        "answer": "Any two from: makes good use of unstructured data / outperforms other methods if data size is large / effective at identifying hidden patterns / provides more accurate outcomes with more hidden layers.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_011",
+        "topic": "Graph Algorithms",
+        "text": "State two differences between Dijkstra's algorithm and the A* algorithm.",
+        "answer": "MP1: A* uses a heuristic / Dijkstra does not. MP2: A* tries to find a better path using a heuristic function / Dijkstra explores all possible routes.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_012",
+        "topic": "Digital Certificates",
+        "text": "Explain the role of a digital certificate in creating a digital signature.",
+        "answer": "MP1: The digital certificate provides the public key. MP2: The public key validates the private key used to create the digital signature.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_013",
+        "topic": "Asymmetric Encryption",
+        "text": "State two differences between a public key and a private key.",
+        "answer": "MP1: Public key is known to everyone / private key is kept secret. MP2: Public key encrypts / private key decrypts (in standard usage).",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_014",
+        "topic": "Machine Learning",
+        "text": "Describe two characteristics of reinforcement learning.",
+        "answer": "MP1: The system learns based on feedback / reward and punishment. MP2: The agent learns automatically without labelled data.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_015",
+        "topic": "SSL/TLS",
+        "text": "State two differences between SSL and TLS.",
+        "answer": "Any two from: TLS is more modern / TLS has better security / TLS can be extended with new authentication methods / TLS uses session caching.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_016",
+        "topic": "Deep Learning",
+        "text": "State two features of deep learning.",
+        "answer": "MP1: Uses artificial neural networks with a high number of hidden layers. MP2: Learns by finding hidden patterns undetectable to humans.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_017",
+        "topic": "Cryptography",
+        "text": "State two security concerns when data is transmitted.",
+        "answer": "Any two from: confidentiality, authenticity, integrity, non-repudiation.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_018",
+        "topic": "Digital Certificates",
+        "text": "State how a digital certificate is obtained.",
+        "answer": "MP1: Enquiry made to Certificate Authority (CA). MP2: Enquirer's details checked by CA. MP3: CA creates/issues certificate that includes the enquirer's public key.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_019",
+        "topic": "Quantum Cryptography",
+        "text": "State two possible benefits of quantum key distribution (QKD).",
+        "answer": "Any two from: eavesdropping can be identified / integrity of key can be guaranteed / longer/more secure keys can be exchanged.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_020",
+        "topic": "Graph Algorithms",
+        "text": "State the purpose of Dijkstra's algorithm.",
+        "answer": "To find the optimal / shortest / most cost-effective route between two nodes in a graph based on distance / cost / time.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_021",
+        "topic": "Graph Algorithms",
+        "text": "State the purpose of the A* algorithm.",
+        "answer": "To find the shortest route between nodes using a heuristic approach to achieve better performance.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_022",
+        "topic": "Machine Learning",
+        "text": "Give two examples of supervised learning applications.",
+        "answer": "Any two from: spam detection, email categorisation, credit scoring, weather prediction.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_023",
+        "topic": "Deep Learning",
+        "text": "State two applications of deep learning.",
+        "answer": "Any two from: face recognition, photograph enhancement, turning monochrome photos into colour, chatbots, computer-assisted translation.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_024",
+        "topic": "SSL/TLS",
+        "text": "State two functions of the TLS Handshake protocol.",
+        "answer": "MP1: Permits the web server and client to authenticate each other. MP2: Allows them to agree on encryption algorithms.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_025",
+        "topic": "Cryptography",
+        "text": "State two reasons for using key cryptography.",
+        "answer": "Any two from: to ensure message is authentic / to ensure only intended receiver understands the message / to ensure message has not been altered / non-repudiation.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_026",
+        "topic": "Machine Learning",
+        "text": "State two differences between machine learning and deep learning.",
+        "answer": "MP1: Machine learning needs a small amount of data / deep learning needs large amounts. MP2: Machine learning features need to be manually coded / deep learning learns features from the data itself.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_027",
+        "topic": "Digital Certificates",
+        "text": "State two purposes of a digital certificate.",
+        "answer": "MP1: To authenticate/prove the identity of a website or individual. MP2: To provide the public key for encryption.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_028",
+        "topic": "Back Propagation",
+        "text": "State two characteristics of back propagation.",
+        "answer": "MP1: Errors are propagated back into the neural network. MP2: Weightings are adjusted to minimise the difference between actual and expected outputs.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_029",
+        "topic": "Asymmetric Encryption",
+        "text": "State two methods of key cryptography.",
+        "answer": "Symmetric and asymmetric.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_02_030",
+        "topic": "AI",
+        "text": "State two examples of where AI is used.",
+        "answer": "Any two from: smart home devices, search engines, news generation, chatbots, face recognition.",
+        "score": 2
+    },
+    {
+        "id": "q_17_18_03_001",
+        "topic": "Floating Point",
+        "text": "The denary number 513 cannot be stored accurately as a normalised floating-point number in a system with 10 bits mantissa and 6 bits exponent. Explain the reason for this.",
+        "answer": "MP1: Requires 11 bits / more than 10 bits to store accurately / maximum positive number that can be stored is 511. MP2: Denary 513 in binary is 1000000001 / Normalised: 0.1000000001. MP3: Results in overflow.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_002",
+        "topic": "Digital Signatures",
+        "text": "Explain how a digital signature is used to verify a message when it is received.",
+        "answer": "MP1: The message together with the digital signature is decrypted using the receiver's private key. MP2: The digital signature is decrypted with the sender's public key to recover the message digest sent. MP3: The decrypted message is hashed and the two digests are compared. If they are the same, the message has not been altered.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_003",
+        "topic": "Asymmetric Encryption",
+        "text": "Describe the process of asymmetric encryption when Fred sends a confidential document to Sheila.",
+        "answer": "MP1: Sheila's computer generates a matching pair of keys (private and public). MP2: Sheila sends her public key to Fred. MP3: Fred encrypts the document using Sheila's public key to create ciphertext. MP4: Fred sends the ciphertext to Sheila. MP5: Sheila uses her private key to decrypt the ciphertext.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_004",
+        "topic": "Digital Certificates",
+        "text": "Explain how a digital certificate is obtained by an organisation.",
+        "answer": "MP1: The organisation requests a certificate from a Certificate Authority (CA). MP2: The organisation sends its public key to the CA. MP3: The organisation provides information to prove its identity. MP4: The CA verifies the organisation's identity. MP5: The CA generates/issues the certificate including the organisation's public key.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_005",
+        "topic": "SSL/TLS",
+        "text": "Explain how SSL/TLS protocols are used when a client-server communication is initiated.",
+        "answer": "MP1: An SSL/TLS connection is initiated by the client. MP2: Every new session begins with a handshake. MP3: The client requests the digital certificate from the server. MP4: The client verifies the server's digital certificate and obtains the server's public key. MP5: Encryption algorithms are agreed and symmetric session keys are generated.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_006",
+        "topic": "Deep Learning",
+        "text": "Describe what is meant by deep learning.",
+        "answer": "MP1: Deep learning is a branch of machine learning. MP2: It uses artificial neural networks with a high number of hidden layers. MP3: It structures algorithms in layers: input layer, hidden layers and output layer. MP4: It learns by finding hidden patterns undetectable to humans. MP5: It is trained using large quantities of unlabelled data.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_007",
+        "topic": "Machine Learning",
+        "text": "Explain how artificial neural networks enable machine learning.",
+        "answer": "MP1: Artificial neural networks are intended to replicate the way human brains work. MP2: Weights/values are assigned for each connection between nodes. MP3: Data is input at the input layer and passed into the system. MP4: Data is analysed at each subsequent hidden layer where characteristics are extracted. MP5: This process of training/learning is repeated many times to achieve optimum outputs. MP6: Back propagation of errors corrects any errors that have been made.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_008",
+        "topic": "Back Propagation",
+        "text": "Describe the back propagation of errors method in machine learning.",
+        "answer": "MP1: Initial outputs are compared to expected outputs. MP2: Weightings are adjusted to minimise the difference between actual and expected outputs. MP3: Calculus is used to find the error gradient in the obtained outputs. MP4: The results are fed back into the neural network. MP5: Weightings of each neuron/node are adjusted as a result of the feedback. MP6: The process repeats until results are more accurate.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_009",
+        "topic": "Graph Algorithms",
+        "text": "Explain the use of graphs to aid Artificial Intelligence (AI).",
+        "answer": "MP1: Artificial Neural Networks can be represented using graphs. MP2: Graphs provide structures for relationships between nodes. MP3: AI problems can be defined/solved as finding a path in a graph. MP4: Graphs may be analysed by a range of algorithms (e.g. A*/Dijkstra). MP5: Used in machine learning.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_010",
+        "topic": "Machine Learning",
+        "text": "Explain what is meant by Reinforcement Learning.",
+        "answer": "MP1: Reinforcement learning is a machine learning technique based on feedback/reward/punishment. MP2: An agent learns to behave in an environment by performing actions and seeing the results. MP3: For each good action, the agent gets positive feedback/reward. MP4: The agent learns automatically without labelled data. MP5: Adjusts node weightings to achieve the correct outcome.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_011",
+        "topic": "Quantum Cryptography",
+        "text": "Explain the purpose of quantum cryptography.",
+        "answer": "MP1: To produce a virtually unbreakable encryption system. MP2: Using the laws/principles of quantum mechanics/properties of photons. MP3: Detects eavesdropping because the properties of photons change. MP4: To protect security of data transmitted over fibre optic cables. MP5: To enable the use of longer keys.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_012",
+        "topic": "SSL/TLS",
+        "text": "Explain the purpose of the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols.",
+        "answer": "MP1: SSL and TLS provide communications security over the internet/network. MP2: They provide encryption. MP3: They enable two parties to identify and authenticate each other. MP4: They communicate with confidentiality and integrity.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_013",
+        "topic": "Deep Learning",
+        "text": "Explain the reason for having multiple hidden layers in an artificial neural network.",
+        "answer": "MP1: Enables deep learning to take place. MP2: Where the problem has a higher level of complexity, it requires more layers to solve. MP3: To enable the neural network to learn and make decisions on its own. MP4: To improve the accuracy of the result.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_014",
+        "topic": "Digital Certificates",
+        "text": "Explain why a digital certificate is required to validate a digital signature.",
+        "answer": "MP1: A digital certificate provides a public key. MP2: The public key validates the private key used to create the digital signature. MP3: It makes a digital signature virtually impossible to spoof. MP4: Provides non-repudiation.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_015",
+        "topic": "Machine Learning",
+        "text": "Explain the difference between supervised and unsupervised learning.",
+        "answer": "MP1: Supervised learning uses labelled data / unsupervised learning uses unlabelled data. MP2: Labelled data means known outcomes are applied to specific inputs. MP3: Supervised learning requires initial human input/training. MP4: Unsupervised learning searches for hidden patterns/structures/clusters within the data.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_016",
+        "topic": "AI",
+        "text": "Describe what is meant by Artificial Neural Networks.",
+        "answer": "MP1: Artificial neural networks are designed to work in the same way as the human brain. MP2: They provide the architecture and algorithms for learning from data. MP3: They have a large number of connected processing units/nodes. MP4: They are arranged in layers and work together to process data.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_017",
+        "topic": "Digital Signatures",
+        "text": "Describe how a digital signature is produced using a hashing algorithm.",
+        "answer": "MP1: The plaintext message is put through a hashing algorithm which produces a digest. MP2: The digest is a fixed-size numeric representation of the message. MP3: The sender's private key and digest are put through an encryption algorithm to produce the digital signature.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_018",
+        "topic": "Quantum Cryptography",
+        "text": "Explain how quantum key distribution (QKD) works.",
+        "answer": "MP1: The sender uses a light source to generate photons. MP2: Photons are sent through random polarisers giving different polarisations. MP3: Polarised photons travel along fibre optic cable. MP4: At the destination, beam splitters and photon detectors are used. MP5: The process is repeated until the whole encryption key is transmitted.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_019",
+        "topic": "SSL/TLS",
+        "text": "Describe the purpose of the TLS Record protocol.",
+        "answer": "MP1: Can be used with or without encryption. MP2: Contains the data being transmitted over the network/internet. MP3: Responsible for securing application data. MP4: Ensures integrity and authenticity during transmission.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_020",
+        "topic": "Graph Algorithms",
+        "text": "Describe how Dijkstra's algorithm finds the shortest path between two nodes.",
+        "answer": "MP1: Give the start vertex a final value of 0. MP2: Give each connected vertex a working value. MP3: Assign the smallest working value as a final value. MP4: Repeat until the end vertex is reached. MP5: Trace the route back from the end vertex to the start vertex.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_021",
+        "topic": "Machine Learning",
+        "text": "Explain what is meant by semi-supervised (active) learning.",
+        "answer": "MP1: Makes use of both labelled and unlabelled data. MP2: Interactively queries source data to produce a desired output. MP3: Uses a small amount of labelled data combined with large amounts of unlabelled data. MP4: Used for cost reasons (unlabelled data is less expensive).",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_022",
+        "topic": "Deep Learning",
+        "text": "Explain how deep learning can be used for face recognition.",
+        "answer": "MP1: Artificial neural networks are used. MP2: Features such as distance between eyes, width of nose, shape of cheek bones are identified. MP3: Each pixel is assigned a binary value. MP4: The system compares two facial images using these data points.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_023",
+        "topic": "Cryptography",
+        "text": "Explain what is meant by non-repudiation in the context of data transmission.",
+        "answer": "MP1: Neither the sender nor the recipient can deny that they were part of the data transmission. MP2: Digital signatures help ensure non-repudiation. MP3: The private key acts as a unique identifier for the sender.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_024",
+        "topic": "Asymmetric Encryption",
+        "text": "Explain how the two keys in asymmetric encryption can be used to send a verified message.",
+        "answer": "MP1: The sender encrypts the message with their own private key. MP2: The recipient decrypts the message with the sender's public key. MP3: This verifies the sender's identity (since only the sender has the matching private key).",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_025",
+        "topic": "Digital Certificates",
+        "text": "Explain what is meant by a self-signed digital certificate.",
+        "answer": "MP1: A digital certificate produced by a user rather than a commercial CA. MP2: Used for personal websites. MP3: Web browsers may show a security warning because the certificate is not from a trusted CA.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_026",
+        "topic": "Machine Learning",
+        "text": "Explain the difference between labelled and unlabelled data.",
+        "answer": "MP1: Labelled data has known target answers and objects are fully recognised. MP2: Unlabelled data has undefined objects that need to be manually recognised. MP3: Supervised learning uses labelled data / unsupervised learning uses unlabelled data.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_027",
+        "topic": "Deep Learning",
+        "text": "Explain how deep learning can be used for text mining.",
+        "answer": "MP1: Deep learning algorithms analyse large amounts of text. MP2: The system translates text and determines which genre/category the text belongs to. MP3: Artificial neural networks identify patterns in the text data.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_028",
+        "topic": "Quantum Cryptography",
+        "text": "State two possible drawbacks of using quantum cryptography.",
+        "answer": "MP1: Limited range / requires dedicated fibre optic line. MP2: High cost of purchasing/maintaining equipment. MP3: Polarisation of light can change during transmission.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_029",
+        "topic": "AI",
+        "text": "Explain the difference between Narrow AI, General AI and Strong AI.",
+        "answer": "MP1: Narrow AI has superior performance to a human in one specific task. MP2: General AI has similar performance to a human in any intellectual task. MP3: Strong AI has superior performance to a human in many tasks.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_03_030",
+        "topic": "SSL/TLS",
+        "text": "Explain the purpose of session caching in TLS.",
+        "answer": "MP1: Avoids the need to utilise as much computer time for each connection. MP2: TLS can establish a new session or attempt to resume an existing session. MP3: Using existing sessions considerably boosts system performance.",
+        "score": 3
+    },
+    {
+        "id": "q_17_18_04_001",
+        "topic": "Digital Signatures",
+        "text": "Explain how a digital signature can be checked on receipt to ensure that the message has not been altered during transmission.",
+        "answer": "MP1: The message together with the digital signature is decrypted using the receiver's private key. MP2: The digital signature received is decrypted with the sender's public key to recover the message digest sent. MP3: The decrypted message received is hashed with the agreed hashing algorithm to reproduce the message digest of the message received. MP4: The two message digests are compared. MP5: If they are the same, the message has not been altered. MP6: If they are different, the message has been altered.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_002",
+        "topic": "SSL/TLS",
+        "text": "Explain how SSL/TLS protocols are used when a client-server communication is initiated.",
+        "answer": "MP1: An SSL/TLS connection is initiated by an application/client. MP2: Every new session begins with a handshake as defined by the SSL/TLS protocols. MP3: The client requests the digital certificate from the server. MP4: The server sends the digital certificate to the client. MP5: The client verifies the server's digital certificate and obtains the server's public key. MP6: The encryption algorithms are agreed. MP7: The symmetric session keys are generated/defined. MP8: A secure session is established between client and server.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_003",
+        "topic": "Quantum Cryptography",
+        "text": "Give two benefits and two drawbacks of quantum cryptography.",
+        "answer": "Benefits: MP1: Provides security based on laws of physics rather than mathematical algorithms, so more secure. MP2: Virtually unbreakable. MP3: Eavesdropping can be detected. Drawbacks: MP4: Lacks many vital features such as digital signature. MP5: High cost of purchasing/maintaining equipment. MP6: Currently only works over relatively short distances.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_004",
+        "topic": "Machine Learning",
+        "text": "Explain how supervised learning and unsupervised learning differ from each other.",
+        "answer": "MP1: Supervised learning uses labelled data / unsupervised learning uses unlabelled data. MP2: Labelled data means known outcomes are applied to specific inputs. MP3: Supervised learning requires initial human input/training. MP4: Unsupervised learning does not require human input/training. MP5: With unlabelled data, outcomes are not known. MP6: Unsupervised learning searches for hidden patterns/structures/clusters within the data.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_005",
+        "topic": "Deep Learning",
+        "text": "Explain how artificial neural networks enable deep learning.",
+        "answer": "MP1: Artificial neural networks are intended to replicate the way human brains work. MP2: Weights/values are assigned for each connection between nodes. MP3: Data is input at the input layer and passed into the system. MP4: They are analysed at each subsequent hidden layer where characteristics are extracted. MP5: This process of training/learning is repeated many times to achieve optimum outputs. MP6: Decisions can be made without being specifically programmed. MP7: The output layer provides the results. MP8: Back propagation of errors will be used to correct any errors that have been made.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_006",
+        "topic": "Digital Certificates",
+        "text": "Explain the process by which an organisation may acquire its digital certificate.",
+        "answer": "MP1: The organisation requests a certificate from a Certificate Authority (CA). MP2: The organisation sends its public key to the CA. MP3: The organisation gathers all the information required by the CA to obtain their certificate, including information to prove their identity. MP4: The CA verifies the organisation's identity. MP5: The CA generates/issues the certificate including the organisation's public key (and other information).",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_007",
+        "topic": "Back Propagation",
+        "text": "Describe the back propagation of errors method in machine learning.",
+        "answer": "MP1: Initial outputs are compared to expected outputs. MP2: Weightings are adjusted to minimise the difference between actual and expected outputs. MP3: Calculus is used to find the error gradient in the obtained outputs. MP4: The results are fed back into the neural network. MP5: Weightings of each neuron/node are adjusted as a result of the feedback. MP6: The process repeats until results are more accurate. MP7: This can be used in both supervised and unsupervised networks.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_008",
+        "topic": "Asymmetric Encryption",
+        "text": "Describe the process of asymmetric encryption when sending a secure message.",
+        "answer": "MP1: The recipient generates a matching pair of keys (public and private). MP2: The recipient makes the public key available to anyone who wishes to send them secure transmissions. MP3: The sender obtains the recipient's public key. MP4: The sender uses the recipient's public key to encrypt the message/plaintext to create ciphertext. MP5: The sender sends the ciphertext to the recipient. MP6: The recipient uses their private key to decrypt the ciphertext.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_009",
+        "topic": "Digital Signatures",
+        "text": "Describe how a digital signature is produced and verified.",
+        "answer": "MP1: The message is hashed with an agreed hashing algorithm to produce a message digest. MP2: The message digest is encrypted with the sender's private key to form the digital signature. MP3: The message together with the digital signature is sent. MP4: The digital signature is decrypted with the sender's public key to recover the message digest sent. MP5: The decrypted message received is hashed to reproduce the message digest of the message received. MP6: The two message digests are compared. MP7: If they are the same, the message has not been altered.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_010",
+        "topic": "Graph Algorithms",
+        "text": "Describe how Dijkstra's algorithm finds the shortest path between two nodes. Include the steps involved.",
+        "answer": "MP1: Give the start vertex a final value of 0. MP2: Give each vertex connected to the vertex we have just given a final value to a working (temporary) value. MP3: If a vertex already has a working value, only replace it with another working value if it is a lower value. MP4: Check the working value of any vertex that has not yet been assigned a final value. MP5: Assign the smallest value to this vertex; this is now its final value. MP6: Repeat steps 2 and 3 until the end vertex is reached, and all vertices have been assigned a final value. MP7: Trace the route back from the end vertex to the start vertex to find the shortest path.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_011",
+        "topic": "SSL/TLS",
+        "text": "Describe the purpose and function of the Application Layer in the TCP/IP protocol suite.",
+        "answer": "MP1: To provide services / interface with the user. MP2: To provide mechanisms for securing communication e.g. encryption/authentication. MP3: To define/provide protocols used to allow the exchange of data/communication. MP4: Error detection and recovery mechanisms to handle application specific errors.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_012",
+        "topic": "Deep Learning",
+        "text": "Explain what is meant by deep learning and outline the reasons for using it.",
+        "answer": "MP1: Deep learning learns by finding hidden patterns that are undetectable to humans. MP2: It structures algorithms in layers: input layer, hidden layers and output layer. MP3: To create an artificial neural network to learn and make intelligent decisions on its own. MP4: It is trained using large quantities of unlabelled data. MP5: Deep learning requires/uses a large number of hidden layers. MP6: The larger the number of layers, the higher the level of success.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_013",
+        "topic": "Quantum Cryptography",
+        "text": "Describe how quantum key distribution (QKD) is used to securely send encryption keys.",
+        "answer": "MP1: The sender uses a light source to generate photons. MP2: The photons are sent through four random polarisers which give one of four possible polarisations and bit values. MP3: The polarised photon travels along a fibre optic cable to its destination. MP4: At the destination, there are two beam splitters and two photon detectors. MP5: One of the two beam splitters is chosen at random and the photon detectors are read. MP6: The whole process is repeated until the whole of the encryption key has been transmitted. MP7: The recipient sends back the sequence of beam splitters used to the sender. MP8: The sender compares this sequence to the polarisation sequence used at the sending station.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_014",
+        "topic": "Machine Learning",
+        "text": "Describe the characteristics of supervised learning, unsupervised learning and reinforcement learning.",
+        "answer": "MP1: Supervised learning uses labelled data and predicts future outcomes based on past data. MP2: Unsupervised learning identifies hidden patterns from input data without being trained on the 'right' answer. MP3: Reinforcement learning learns on the basis of 'reward and punishment' when carrying out an action. MP4: Supervised learning requires both input and output values in the training process. MP5: Unsupervised learning uses unlabelled data. MP6: Reinforcement learning uses trial and error to determine which action gives the optimal outcome.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_015",
+        "topic": "Digital Certificates",
+        "text": "Describe the items commonly found on a digital certificate and explain their purpose.",
+        "answer": "MP1: Version number / serial number - identifies the certificate. MP2: Name of certificate issuer / Certificate Authority. MP3: Validity (start date and expiry date) - ensures certificate is current. MP4: Certificate holder's public key - used for encryption. MP5: Company details / identifier - identifies the owner. MP6: Digital signature of CA - verifies authenticity.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_016",
+        "topic": "Asymmetric Encryption",
+        "text": "Explain how asymmetric encryption provides confidentiality, authenticity and non-repudiation.",
+        "answer": "MP1: Confidentiality - encrypting with recipient's public key ensures only recipient can decrypt with private key. MP2: Authenticity - encrypting with sender's private key allows recipient to verify sender using sender's public key. MP3: Non-repudiation - private key is unique to the sender, so they cannot deny sending the message. MP4: Digital signatures combine hashing and asymmetric encryption to provide all three.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_017",
+        "topic": "SSL/TLS",
+        "text": "Describe the two main layers of TLS and their functions.",
+        "answer": "MP1: Record protocol - can be used with or without encryption, contains the data being transmitted. MP2: Handshake protocol - permits the web server and client to authenticate each other. MP3: Record protocol - responsible for securing application data and ensuring its integrity and authenticity. MP4: Handshake protocol - allows them to agree on encryption algorithms. MP5: A secure session between client and server is then established.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_018",
+        "topic": "Deep Learning",
+        "text": "Explain how deep learning can be used for photograph enhancement and turning monochrome photos into colour.",
+        "answer": "MP1: Deep learning uses artificial neural networks. MP2: For photograph enhancement, the system is trained by comparing smartphone photos with DSLR photos. MP3: A large number of photographs are used to test the model. MP4: For colourisation, the system is trained by searching websites for data. MP5: It recognises features and maps a particular colour to an object. MP6: The result is an accurate coloured image.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_019",
+        "topic": "Graph Algorithms",
+        "text": "Describe the A* algorithm and explain how it differs from Dijkstra's algorithm.",
+        "answer": "MP1: A* algorithm finds the shortest route between nodes but uses an additional heuristic approach. MP2: The heuristic (h) value is an 'intelligent guess' on how far to go to reach the destination. MP3: Each node has g (movement cost), h (heuristic), and f (g+h) values. MP4: Dijkstra's algorithm does not use a heuristic. MP5: A* tries to find a better path using a heuristic function. MP6: Dijkstra's algorithm explores all possible routes.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_020",
+        "topic": "Digital Signatures",
+        "text": "Explain the purpose of a hashing algorithm in creating a digital signature.",
+        "answer": "MP1: The plaintext message is put through a hashing algorithm. MP2: This produces a fixed-size numeric representation called a digest. MP3: The digest is much smaller than the original message. MP4: The digest is encrypted with the sender's private key to form the digital signature. MP5: This process saves processing time because only the digest (not the whole message) is encrypted.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_021",
+        "topic": "Machine Learning",
+        "text": "Describe the characteristics of semi-supervised (active) learning and give an example of its use.",
+        "answer": "MP1: Makes use of both labelled and unlabelled data to train algorithms. MP2: Interactively queries the source data and produces a desired output. MP3: Uses a small amount of labelled data combined with large amounts of unlabelled data. MP4: This is for cost reasons (unlabelled data is less expensive). MP5: Example: classification of web pages into categories using a web crawler.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_022",
+        "topic": "Quantum Cryptography",
+        "text": "Explain how quantum cryptography detects eavesdropping.",
+        "answer": "MP1: Photons oscillate in various directions and produce a sequence of random bits. MP2: The properties of photons change if they are observed/intercepted. MP3: Any eavesdropping can be identified because the state will be changed. MP4: The integrity of the key once transferred can be guaranteed. MP5: The sender and recipient can detect if a third party has tried to intercept the key.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_023",
+        "topic": "AI",
+        "text": "Explain the relationship between Artificial Intelligence, Machine Learning and Deep Learning.",
+        "answer": "MP1: Deep learning is a subset of machine learning. MP2: Machine learning is a subset of AI. MP3: AI is the broad concept of machines with cognitive abilities. MP4: Machine learning enables machines to make decisions based on past data. MP5: Deep learning uses artificial neural networks with multiple hidden layers. MP6: All three are hierarchical, with deep learning being the most specialised.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_024",
+        "topic": "Digital Certificates",
+        "text": "Describe the role of a Certificate Authority (CA) in the digital certificate process.",
+        "answer": "MP1: A CA is a commercial organisation used to generate digital certificates. MP2: The CA independently validates the identity of the certificate owner. MP3: The CA verifies the organisation's identity before issuing a certificate. MP4: The CA generates/issues the certificate including the organisation's public key. MP5: The digital certificate is digitally signed by the CA using the CA's private key.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_025",
+        "topic": "Back Propagation",
+        "text": "Explain the two types of back propagation: static and recurrent.",
+        "answer": "MP1: Static back propagation maps static inputs to a static output. MP2: Mapping is instantaneous in static back propagation. MP3: Recurrent back propagation is not instantaneous. MP4: Training a network/model is more difficult with recurrent than with static. MP5: With recurrent, activation is fed forward until a fixed value is achieved.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_026",
+        "topic": "SSL/TLS",
+        "text": "Explain the purpose of session caching in TLS and how it improves performance.",
+        "answer": "MP1: Opening a TLS session requires considerable computer time due to complex cryptographic processes. MP2: Session caching can avoid the need to utilise as much computer time for each connection. MP3: TLS can either establish a new session or attempt to resume an existing session. MP4: Using existing sessions can considerably boost system performance. MP5: Session caching allows a previous computer session to be 'remembered'.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_027",
+        "topic": "Deep Learning",
+        "text": "Explain how deep learning can be used for chatbots.",
+        "answer": "MP1: Chatbots interact through instant messaging. MP2: They artificially replicate patterns of human interactions using machine learning. MP3: Typed messages or voice recordings make use of predefined scripts and machine learning. MP4: When a question is asked, a chatbot responds using the information known at the time. MP5: Deep learning helps the chatbot learn from past interactions.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_028",
+        "topic": "Asymmetric Encryption",
+        "text": "Describe the key distribution problem in symmetric encryption and explain how asymmetric encryption solves it.",
+        "answer": "MP1: In symmetric encryption, both sender and recipient need the same secret key. MP2: The sender must supply the key to the recipient electronically. MP3: This key could be intercepted by an eavesdropper. MP4: Asymmetric encryption uses two keys - a public key and a private key. MP5: Only the public key is shared; the private key is kept secret. MP6: The private key never needs to be transmitted, eliminating the risk of interception.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_029",
+        "topic": "Machine Learning",
+        "text": "Explain the concept of regression in machine learning and give an example of its use.",
+        "answer": "MP1: Regression is a way of analysing data before it is input into a system. MP2: It is used to make predictions from given data by learning a relationship between input and output. MP3: It helps understand how the value of a dependent variable changes when independent variables change. MP4: This makes it a valuable tool in prediction applications. MP5: Example: weather forecasting.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_04_030",
+        "topic": "Digital Signatures",
+        "text": "Describe the four main purposes of digital signatures.",
+        "answer": "MP1: Authentication - identifying who sent the data and verifying the source is legitimate. MP2: Non-repudiation - neither the sender nor the recipient can deny they were part of the transmission. MP3: Data integrity - data should reach its destination without any changes. MP4: Confidentiality - only the intended recipient should be able to read the data.",
+        "score": 4
+    },
+    {
+        "id": "q_17_18_05_001",
+        "topic": "Dijkstra's Algorithm",
+        "text": "Calculate the shortest distance between the base and each of the other towns in the diagram using Dijkstra's algorithm. Show your working and write your answers in the table provided. (A diagram of towns with weighted edges would be provided in the exam)",
+        "answer": "MP1: Initialisation: setting Base to 0 and the rest of the towns to infinity. MP2: Evidence to show values at nodes being updated. MP3: Evidence to show 'visited node(s)'. MP4: Evidence to show calculation of at least one route. MP5: Evidence to show more than one route has been calculated for at least one town. MP6: Correct final values for all towns.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_002",
+        "topic": "A* Algorithm",
+        "text": "Find the shortest path between the Home and School nodes using the A* algorithm. Show your working in the table provided. (A graph with g and h values would be provided)",
+        "answer": "MP1: Correct calculation of node B (from Home). MP2: Correct calculation of node C (from Home). MP3: Correct calculation of node B and node E (from A). MP4: Correct calculation of node F and School (from E). MP5: Correct calculation of School (from F). MP6: Correct final path identified (Home → A → E → F → School).",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_003",
+        "topic": "Digital Signatures",
+        "text": "Explain how a digital signature is produced and how it can be checked on receipt to ensure the message has not been altered. Include the roles of hashing algorithms and public/private keys.",
+        "answer": "MP1: The message is hashed with an agreed hashing algorithm to produce a message digest. MP2: The message digest is encrypted with the sender's private key to form the digital signature. MP3: The message together with the digital signature is sent. MP4: The digital signature received is decrypted with the sender's public key to recover the message digest sent. MP5: The decrypted message received is hashed to reproduce the message digest of the message received. MP6: The two message digests are compared. MP7: If they are the same, the message has not been altered. MP8: If they are different, the message has been altered.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_004",
+        "topic": "SSL/TLS",
+        "text": "Explain how SSL/TLS protocols are used to establish a secure connection between a client and a server. Include the role of digital certificates and the handshake process.",
+        "answer": "MP1: An SSL/TLS connection is initiated by an application/client. MP2: Every new session begins with a handshake as defined by the SSL/TLS protocols. MP3: The client requests the digital certificate from the server. MP4: The server sends the digital certificate to the client. MP5: The client verifies the server's digital certificate (checks digital signature, validity dates, domain match). MP6: The client obtains the server's public key from the certificate. MP7: The encryption algorithms are agreed. MP8: The symmetric session keys are generated/defined. MP9: A secure session is established between client and server.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_005",
+        "topic": "Deep Learning",
+        "text": "Explain what is meant by deep learning and describe how artificial neural networks enable deep learning. Include the roles of input layers, hidden layers and output layers.",
+        "answer": "MP1: Deep learning is a branch of machine learning that uses artificial neural networks. MP2: It makes use of artificial neural networks to work in a similar manner to the human brain. MP3: It is a structure consisting of many interconnected layers. MP4: Input, hidden and output layers - the input layer feeds the first hidden layer, the last hidden layer feeds the output. MP5: Weights/values are assigned for each connection between nodes. MP6: Data is input at the input layer and passed into the system. MP7: They are analysed at each subsequent hidden layer where characteristics are extracted. MP8: This process of training/learning is repeated many times to achieve optimum outputs. MP9: Back propagation of errors will be used to correct any errors that have been made. MP10: The output layer provides the results.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_006",
+        "topic": "Quantum Cryptography",
+        "text": "Explain how quantum cryptography works and describe its benefits and drawbacks.",
+        "answer": "MP1: Quantum cryptography utilises the physics of photons and their physical quantum properties. MP2: Photons oscillate in various directions and produce a sequence of random bits. MP3: The sender uses a light source to generate photons and sends them through random polarisers. MP4: Polarised photons travel along fibre optic cable to the destination. MP5: Benefits: Provides security based on laws of physics, virtually unbreakable, eavesdropping can be detected. MP6: Drawbacks: Limited range, requires dedicated fibre optic line, high cost, polarisation of light can change.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_007",
+        "topic": "Digital Certificates",
+        "text": "Describe the process of obtaining a digital certificate from a Certificate Authority (CA) and explain the items commonly found on a digital certificate.",
+        "answer": "MP1: The organisation requests a certificate from a Certificate Authority (CA). MP2: The organisation sends its public key to the CA. MP3: The organisation provides information to prove its identity. MP4: The CA verifies the organisation's identity. MP5: The CA generates/issues the certificate including the organisation's public key. MP6: Items on certificate: version number, serial number, name of certificate issuer, validity dates, company details, public key, digital signature of CA. MP7: The digital signature is created by condensing all certificate details and putting it through a hashing algorithm, then encrypted with the CA's private key.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_008",
+        "topic": "Back Propagation",
+        "text": "Describe the back propagation of errors method in machine learning. Include how weightings are adjusted and the role of calculus.",
+        "answer": "MP1: Initial outputs from the system are compared to expected outputs. MP2: Weightings are adjusted to minimise the difference between actual and expected results. MP3: Calculus is used to find the error gradient in the obtained outputs. MP4: The results are fed back into the neural networks. MP5: Weightings on each neuron are adjusted as a result of the feedback. MP6: The process (training) is repeated until the desired outputs are obtained or errors are within acceptable limits. MP7: Once errors have been eliminated (or reduced to acceptable limits), the neural network is functioning correctly. MP8: This can be used in both supervised and unsupervised networks.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_009",
+        "topic": "Asymmetric Encryption",
+        "text": "Describe the process of asymmetric encryption and explain how it provides confidentiality, authenticity and non-repudiation.",
+        "answer": "MP1: Asymmetric encryption uses two keys - a public key (known to everyone) and a private key (kept secret). MP2: For confidentiality: sender encrypts with recipient's public key, recipient decrypts with their private key. MP3: For authenticity: sender encrypts with their private key, recipient decrypts with sender's public key. MP4: Non-repudiation: the private key is unique to the sender, so they cannot deny sending the message. MP5: Digital signatures combine hashing and asymmetric encryption. MP6: The message is hashed to produce a digest, then encrypted with the sender's private key. MP7: The recipient decrypts the digest with the sender's public key and compares it to their own hash of the message.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_010",
+        "topic": "Machine Learning",
+        "text": "Describe the differences between supervised learning, unsupervised learning, reinforcement learning and semi-supervised (active) learning. Include examples of each.",
+        "answer": "MP1: Supervised learning uses labelled data and predicts future outcomes based on past data. Example: spam detection. MP2: Unsupervised learning identifies hidden patterns from input data without being trained on the 'right' answer. Example: product marketing. MP3: Reinforcement learning learns on the basis of 'reward and punishment' using trial and error. Example: search engines, online games. MP4: Semi-supervised learning uses both labelled and unlabelled data, mainly unlabelled for cost reasons. Example: web page classification. MP5: Supervised requires both input and output values in training. MP6: Unsupervised makes use of density estimation and k-mean clustering.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_011",
+        "topic": "Graph Algorithms",
+        "text": "Calculate the shortest path between two nodes using Dijkstra's algorithm. Show all working including the initialisation, updating of values, and final path. (A graph would be provided)",
+        "answer": "MP1: Initialisation: setting start node to 0 and all other nodes to infinity. MP2: Evidence to show values at nodes being updated. MP3: Evidence to show 'visited node(s)'. MP4: Evidence to show calculation of at least one route. MP5: Evidence to show more than one route has been calculated for at least one node. MP6: Correct final values for all nodes. MP7: Correct final path identified by tracing back from end node to start node.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_012",
+        "topic": "SSL/TLS",
+        "text": "Explain the purpose and function of SSL/TLS protocols. Describe how they are used when a client-server communication is initiated and the role of session caching.",
+        "answer": "MP1: SSL/TLS provide communications security over the internet/network and provide encryption. MP2: They enable two parties to identify and authenticate each other. MP3: An SSL/TLS connection is initiated by an application/client with a handshake. MP4: The client requests the digital certificate from the server and verifies it. MP5: Encryption algorithms are agreed and symmetric session keys are generated. MP6: Session caching avoids the need to use as much computer time for each connection. MP7: TLS can either establish a new session or attempt to resume an existing session. MP8: Using existing sessions can considerably boost system performance.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_013",
+        "topic": "Deep Learning",
+        "text": "Explain how deep learning can be used for face recognition and photograph enhancement. Include the role of artificial neural networks.",
+        "answer": "MP1: Deep learning uses artificial neural networks with multiple hidden layers. MP2: For face recognition: features such as distance between eyes, width of nose, shape of cheek bones are identified. MP3: Each pixel is assigned a binary value and the system compares two facial images. MP4: For photograph enhancement: the system is trained by comparing smartphone photos with DSLR photos. MP5: A large number of photographs are used to test the model. MP6: The deep learning system learns from the data and becomes increasingly accurate. MP7: Back propagation of errors adjusts weightings to improve results.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_014",
+        "topic": "Digital Certificates",
+        "text": "Describe the process of acquiring a digital certificate and explain how a digital signature is created from a digital certificate.",
+        "answer": "MP1: The organisation requests a certificate from a Certificate Authority (CA). MP2: The organisation sends its public key to the CA and provides information to prove its identity. MP3: The CA verifies the organisation's identity. MP4: The CA generates/issues the certificate including the organisation's public key. MP5: The digital signature is created by condensing all of the certificate details. MP6: The condensed details are put through a hashing algorithm (e.g. MD4/5). MP7: The number generated is then put through an encryption algorithm together with the CA's private key. MP8: This produces a digital signature.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_015",
+        "topic": "Machine Learning",
+        "text": "Explain the concept of regression in machine learning and describe how back propagation of errors is used to train neural networks.",
+        "answer": "MP1: Regression is used to make predictions from given data by learning a relationship between input and output. MP2: It helps understand how the value of a dependent variable changes when independent variables change. MP3: Back propagation: initial outputs are compared to expected outputs. MP4: Weightings are adjusted to minimise the difference between actual and expected results. MP5: Calculus is used to find the error gradient in the obtained outputs. MP6: The results are fed back into the neural network and weightings are adjusted. MP7: The process repeats until results are more accurate. MP8: Regression is a valuable tool in prediction applications such as weather forecasting.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_016",
+        "topic": "Quantum Cryptography",
+        "text": "Describe the process of quantum key distribution (QKD) and explain how it detects eavesdropping.",
+        "answer": "MP1: The sender uses a light source to generate photons. MP2: Photons are sent through four random polarisers giving one of four possible polarisations and bit values. MP3: The polarised photon travels along a fibre optic cable to its destination. MP4: At the destination, there are two beam splitters and two photon detectors. MP5: One of the two beam splitters is chosen at random and the photon detectors are read. MP6: The whole process is repeated until the whole encryption key has been transmitted. MP7: The recipient sends back the sequence of beam splitters used to the sender. MP8: The sender compares this sequence to the polarisation sequence used. MP9: Any eavesdropping changes the state of the photons, which can be detected.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_017",
+        "topic": "AI",
+        "text": "Explain the relationship between Artificial Intelligence, Machine Learning and Deep Learning. Describe the characteristics of Narrow AI, General AI and Strong AI.",
+        "answer": "MP1: Deep learning is a subset of machine learning. MP2: Machine learning is a subset of AI. MP3: AI is the broad concept of machines with cognitive abilities such as problem solving and learning. MP4: Machine learning enables machines to make decisions based on past data without being explicitly programmed. MP5: Deep learning uses artificial neural networks with multiple hidden layers to think like a human. MP6: Narrow AI has superior performance to a human in one specific task. MP7: General AI has similar performance to a human in any intellectual task. MP8: Strong AI has superior performance to a human in many tasks.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_018",
+        "topic": "Digital Signatures",
+        "text": "Explain the purpose of a hashing algorithm in creating a digital signature. Describe how a digital signature is produced and verified.",
+        "answer": "MP1: A hashing algorithm converts a data string into a fixed-size numeric string (digest). MP2: The plaintext message is put through a hashing algorithm to produce a digest. MP3: The digest is much smaller than the original message, saving processing time. MP4: The digest is encrypted with the sender's private key to form the digital signature. MP5: The message and digital signature are sent to the recipient. MP6: The recipient decrypts the digital signature with the sender's public key to recover the digest. MP7: The recipient puts the plaintext through the same hashing algorithm to produce another digest. MP8: If the two digests are the same, the message has not been altered.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_019",
+        "topic": "Graph Algorithms",
+        "text": "Find the shortest path between the Start node and each of the nodes in the graph using Dijkstra's algorithm. Show your working on the graph or in the working space. (A graph with weighted edges would be provided)",
+        "answer": "MP1: Initialisation: setting Start to 0 and the rest of the nodes to infinity. MP2: Evidence to show values at nodes being updated. MP3: Evidence to show 'visited node(s)'. MP4: Evidence to show calculation of at least one route. MP5: Evidence to show more than one route has been calculated for at least one node. MP6: Correct final values for all nodes. MP7: All working clearly shown.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_020",
+        "topic": "Deep Learning",
+        "text": "Explain how deep learning can be used for computer-assisted translation (CAT) and text mining. Include the tools used in CAT.",
+        "answer": "MP1: Computer-assisted translation (CAT) uses deep learning algorithms to help in the translation process. MP2: CAT uses terminology databases (linguistic databases that grow and 'learn' from translations). MP3: CAT uses translation memories (automatically insert known translations for certain words, phrases or sentences). MP4: Text mining uses deep learning to analyse large amounts of text. MP5: The system translates text and determines which genre/category the text belongs to. MP6: Artificial neural networks identify patterns in the text data. MP7: This helps overcome difficulties with words or phrases with double meanings or idioms.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_021",
+        "topic": "Asymmetric Encryption",
+        "text": "Describe how asymmetric encryption can be used to send a secure message from a sender to a recipient. Explain the roles of the public key and private key.",
+        "answer": "MP1: The recipient generates a matching pair of keys (public and private) using an encryption algorithm. MP2: The recipient makes the public key available to anyone who wishes to send them secure transmissions. MP3: The sender obtains the recipient's public key. MP4: The sender uses the recipient's public key to encrypt the message/plaintext to create ciphertext. MP5: The sender sends the ciphertext to the recipient. MP6: The recipient uses their private key to decrypt the ciphertext. MP7: Only the private key can decrypt messages encrypted with the matching public key. MP8: The private key never needs to be transmitted, ensuring security.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_022",
+        "topic": "SSL/TLS",
+        "text": "Explain the purpose of the Transport Layer Security (TLS) protocol. Describe the two main layers of TLS and their functions, and explain the role of session caching.",
+        "answer": "MP1: TLS ensures security and privacy of data between devices and users when communicating over a network. MP2: TLS is formed of two main layers: Record protocol and Handshake protocol. MP3: Record protocol can be used with or without encryption and contains the data being transmitted. MP4: Record protocol is responsible for securing application data and ensuring its integrity and authenticity. MP5: Handshake protocol permits the web server and client to authenticate each other. MP6: Handshake protocol allows them to agree on encryption algorithms. MP7: Session caching avoids the need to utilise as much computer time for each connection. MP8: TLS can either establish a new session or attempt to resume an existing session, boosting performance.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_023",
+        "topic": "Machine Learning",
+        "text": "Describe the characteristics of supervised learning, unsupervised learning and reinforcement learning. Give an example of each and explain when each would be used.",
+        "answer": "MP1: Supervised learning uses labelled data and predicts future outcomes based on past data. Example: spam detection. MP2: Used when known input and associated outputs are given for training. MP3: Unsupervised learning identifies hidden patterns from input data without being trained on the 'right' answer. Example: product marketing. MP4: Used when only input data is given and outcomes are not known. MP5: Reinforcement learning learns on the basis of 'reward and punishment' using trial and error. Example: search engines, online games. MP6: Used when the system needs to learn from its own experiences without labelled data.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_024",
+        "topic": "Quantum Cryptography",
+        "text": "Explain the purpose of quantum cryptography and describe how quantum key distribution (QKD) works. Include the benefits and drawbacks.",
+        "answer": "MP1: Quantum cryptography utilises the physics of photons to produce a virtually unbreakable encryption system. MP2: It helps protect the security of data being transmitted over fibre optic cables. MP3: QKD uses quantum mechanics to facilitate the secure transmission of encryption keys. MP4: Benefits: provides security based on laws of physics, virtually unbreakable, eavesdropping can be detected. MP5: Drawbacks: requires dedicated line and specialist hardware (expensive), limited range (about 250km), polarisation of light can be altered. MP6: QKD uses qubits as the basic unit of quantum data. MP7: The state of a qubit can be 0, 1, or both 0 and 1 simultaneously.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_025",
+        "topic": "Digital Certificates",
+        "text": "Describe the process of obtaining a digital certificate from a Certificate Authority (CA) and explain how a digital signature is created from a digital certificate. Include the role of hashing algorithms.",
+        "answer": "MP1: The organisation requests a certificate from a Certificate Authority (CA). MP2: The organisation sends its public key to the CA and provides information to prove its identity. MP3: The CA verifies the organisation's identity. MP4: The CA generates/issues the certificate including the organisation's public key. MP5: The digital signature is created by condensing all of the certificate details. MP6: The condensed details are put through a hashing algorithm (e.g. MD4/5) to produce a digest. MP7: The digest is then put through an encryption algorithm together with the CA's private key. MP8: This produces a digital signature that verifies the certificate's authenticity.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_026",
+        "topic": "Graph Algorithms",
+        "text": "Calculate the shortest path between the Start node and each of the nodes in the graph using Dijkstra's algorithm. Show your working on the graph or in the working space. (A graph with weighted edges would be provided - similar to past paper question 8 from 2023)",
+        "answer": "MP1: Initialisation: setting Start to 0 and the rest of the nodes to infinity. MP2: Evidence to show values at nodes being updated. MP3: Evidence to show 'visited node(s)'. MP4: Evidence to show calculation of at least one route. MP5: Evidence to show more than one route has been calculated for at least one node. MP6: Correct final values for all nodes (e.g., T=6, V=10, W=13, X=18, Y=21, Z=28). MP7: All working clearly shown on the diagram or in the working space.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_027",
+        "topic": "Deep Learning",
+        "text": "Explain how deep learning can be used for turning monochrome photos into colour and for chatbots. Include the role of artificial neural networks and training data.",
+        "answer": "MP1: Deep learning uses artificial neural networks with multiple hidden layers. MP2: For colourisation, the system is trained by searching websites for data. MP3: It recognises features and maps a particular colour to an object. MP4: The result is an accurate coloured image. MP5: For chatbots, they interact through instant messaging and artificially replicate patterns of human interactions. MP6: Typed messages or voice recordings make use of predefined scripts and machine learning. MP7: When a question is asked, a chatbot responds using the information known at the time. MP8: Deep learning helps the chatbot learn from past interactions to improve responses.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_028",
+        "topic": "Asymmetric Encryption",
+        "text": "Describe the process of asymmetric encryption and explain how it solves the key distribution problem inherent in symmetric encryption.",
+        "answer": "MP1: In symmetric encryption, both sender and recipient need the same secret key. MP2: The sender must supply the key to the recipient electronically, risking interception (key distribution problem). MP3: Asymmetric encryption uses two keys - a public key (known to everyone) and a private key (kept secret). MP4: Only the public key is shared; the private key never needs to be transmitted. MP5: The sender encrypts the message with the recipient's public key. MP6: The recipient decrypts the message with their matching private key. MP7: The private key is never transmitted, eliminating the risk of interception. MP8: This completely solves the key distribution problem.",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_029",
+        "topic": "Machine Learning",
+        "text": "Explain the differences between machine learning and deep learning. Include the amount of data required, feature identification, and the reasoning behind decisions.",
+        "answer": "MP1: Machine learning enables machines to make decisions on their own based on past data. MP2: Deep learning enables machines to make decisions using an artificial neural network. MP3: Machine learning needs only a small amount of data to carry out training. MP4: Deep learning needs large amounts of data during the training stages. MP5: In machine learning, most features need to be identified in advance and manually coded. MP6: Deep learning learns the features of the data from the data itself. MP7: Machine learning has clear rules explaining why each stage was made. MP8: Deep learning's reasoning may be difficult to understand (black box).",
+        "score": 5
+    },
+    {
+        "id": "q_17_18_05_030",
+        "topic": "Digital Signatures",
+        "text": "Explain how a digital signature is produced using a hashing algorithm and asymmetric encryption. Describe how the digital signature is verified on receipt.",
+        "answer": "MP1: The plaintext message is put through a hashing algorithm which produces a fixed-size digest. MP2: The digest is a numeric representation of the message content. MP3: The digest is encrypted with the sender's private key to form the digital signature. MP4: The plaintext and digital signature are sent as two separate files. MP5: The recipient puts the digital signature through a decryption algorithm using the sender's public key to produce a digest. MP6: The recipient puts the plaintext through the same hashing algorithm to produce another digest. MP7: The two digests are compared. MP8: If they are the same, the document has been sent correctly and has not been tampered with. MP9: If they are different, the message has been altered.",
+        "score": 5
+    }
+]

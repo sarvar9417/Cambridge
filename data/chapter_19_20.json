@@ -1,0 +1,1051 @@
+[
+    {
+        "id": "q_19_20_01_001",
+        "topic": "Linear Search",
+        "text": "State the worst-case time complexity of a linear search algorithm using Big O notation.",
+        "answer": "O(n).",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_002",
+        "topic": "Binary Search",
+        "text": "State the worst-case time complexity of a binary search algorithm using Big O notation.",
+        "answer": "O(log n).",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_003",
+        "topic": "Binary Search",
+        "text": "State the condition that must be true for an array to be searchable using a binary search.",
+        "answer": "The array/list must be sorted (in order).",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_004",
+        "topic": "Bubble Sort",
+        "text": "State the worst-case time complexity of a bubble sort algorithm using Big O notation.",
+        "answer": "O(n^2).",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_005",
+        "topic": "Insertion Sort",
+        "text": "State the worst-case time complexity of an insertion sort algorithm using Big O notation.",
+        "answer": "O(n^2).",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_006",
+        "topic": "Stack",
+        "text": "What does LIFO stand for in the context of a stack data structure?",
+        "answer": "Last In First Out.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_007",
+        "topic": "Queue",
+        "text": "What does FIFO stand for in the context of a queue data structure?",
+        "answer": "First In First Out.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_008",
+        "topic": "Linked List",
+        "text": "What value is commonly used to represent a null pointer in a linked list?",
+        "answer": "-1 (or 0 or None).",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_009",
+        "topic": "Binary Tree",
+        "text": "What is the maximum number of child nodes a node can have in a binary tree?",
+        "answer": "Two.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_010",
+        "topic": "Graph",
+        "text": "What is the term for a list of nodes connected by edges between two given nodes in a graph?",
+        "answer": "Path.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_011",
+        "topic": "Graph",
+        "text": "What is the term for a list of nodes that return to the same node in a graph?",
+        "answer": "Cycle.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_012",
+        "topic": "Dictionary",
+        "text": "What is the name of the ADT that consists of key-value pairs where the key is used to find the value?",
+        "answer": "Dictionary.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_013",
+        "topic": "Recursion",
+        "text": "What is the term for the terminating solution in a recursive function that is not recursive?",
+        "answer": "Base case.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_014",
+        "topic": "Recursion",
+        "text": "What is the term for the part of a recursive function that calls itself?",
+        "answer": "General case.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_015",
+        "topic": "Programming Paradigms",
+        "text": "What is the name of the programming paradigm that uses self-contained objects containing methods and data?",
+        "answer": "Object-Oriented Programming (OOP).",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_016",
+        "topic": "OOP",
+        "text": "What is the name of the template that defines the methods and data of a certain type of object in OOP?",
+        "answer": "Class.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_017",
+        "topic": "OOP",
+        "text": "What is the name for an occurrence of an object during the execution of a program?",
+        "answer": "Instance.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_018",
+        "topic": "OOP",
+        "text": "What is the name of the OOP feature where methods and data from one class are copied to another class?",
+        "answer": "Inheritance.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_019",
+        "topic": "OOP",
+        "text": "What is the name of the OOP feature that allows methods to be redefined for derived classes?",
+        "answer": "Polymorphism.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_020",
+        "topic": "OOP",
+        "text": "What is the name of the method that initialises a new object in OOP?",
+        "answer": "Constructor.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_021",
+        "topic": "OOP",
+        "text": "What is the name of the method that gets the value of a property in OOP?",
+        "answer": "Getter.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_022",
+        "topic": "OOP",
+        "text": "What is the name of the method that controls changes to a variable in OOP?",
+        "answer": "Setter.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_023",
+        "topic": "Declarative Programming",
+        "text": "In declarative programming (Prolog), what is a 'thing' that is known called?",
+        "answer": "Fact.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_024",
+        "topic": "Declarative Programming",
+        "text": "In declarative programming (Prolog), what are relationships between facts called?",
+        "answer": "Rules.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_025",
+        "topic": "Declarative Programming",
+        "text": "In Prolog, a variable must begin with which type of letter?",
+        "answer": "Uppercase letter.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_026",
+        "topic": "File Processing",
+        "text": "What is the pseudocode command to open a file for reading?",
+        "answer": "OPENFILE <filename> FOR READ.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_027",
+        "topic": "File Processing",
+        "text": "What is the pseudocode command to read a record from a data file?",
+        "answer": "GETRECORD <filename>, <record>.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_028",
+        "topic": "File Processing",
+        "text": "What is the pseudocode command to write a record to a data file?",
+        "answer": "PUTRECORD <filename>, <record>.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_029",
+        "topic": "Exception Handling",
+        "text": "What is the term for an unexpected event that disrupts the execution of a program?",
+        "answer": "Exception.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_01_030",
+        "topic": "Exception Handling",
+        "text": "What is the pseudocode keyword used to start an exception handling block?",
+        "answer": "TRY.",
+        "score": 1
+    },
+    {
+        "id": "q_19_20_02_001",
+        "topic": "Binary Search",
+        "text": "State two conditions necessary for a binary search to work correctly.",
+        "answer": "MP1: The list/array must be sorted (in order). MP2: The list/array must allow direct access to the middle element.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_002",
+        "topic": "Bubble Sort",
+        "text": "State two characteristics of the bubble sort algorithm.",
+        "answer": "MP1: It compares adjacent items and swaps them if they are in the wrong order. MP2: It works well for short lists and partially sorted lists. MP3: Time complexity is O(n^2) in the worst case.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_003",
+        "topic": "Insertion Sort",
+        "text": "State two characteristics of the insertion sort algorithm.",
+        "answer": "MP1: It sorts by placing each item in turn in the correct position in a sorted list. MP2: It works well for incremental sorting where elements are added one at a time. MP3: It performs better on partially sorted lists than bubble sort.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_004",
+        "topic": "Stack",
+        "text": "State two operations associated with a stack ADT.",
+        "answer": "MP1: Push (add an item to the top of the stack). MP2: Pop (remove an item from the top of the stack).",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_005",
+        "topic": "Queue",
+        "text": "State two operations associated with a queue ADT.",
+        "answer": "MP1: Enqueue (add an item to the rear of the queue). MP2: Dequeue (remove an item from the front of the queue).",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_006",
+        "topic": "Linked List",
+        "text": "State two operations that can be performed on a linked list ADT.",
+        "answer": "MP1: Find an item already stored. MP2: Add a new item. MP3: Delete an existing item.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_007",
+        "topic": "Binary Tree",
+        "text": "State two rules for adding an item to an ordered binary tree.",
+        "answer": "MP1: If the value to be added is less than the current node, branch left. MP2: If the value to be added is greater than or equal to the current node, branch right.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_008",
+        "topic": "Recursion",
+        "text": "State two essential features of a recursive function.",
+        "answer": "MP1: Must have a base case (terminating condition). MP2: Must have a general case that calls itself recursively. MP3: Must change its state and move towards the base case.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_009",
+        "topic": "OOP",
+        "text": "State two differences between a class and an object.",
+        "answer": "MP1: A class is a template / an object is an instance of a class. MP2: A class defines attributes and methods / an object contains actual data. MP3: There is only one class definition / multiple objects can be created from one class.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_010",
+        "topic": "OOP",
+        "text": "State two benefits of encapsulation in OOP.",
+        "answer": "MP1: Data hiding - protects the integrity of an object. MP2: Reduces complexity of programming. MP3: Increases data protection and security of data.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_011",
+        "topic": "Polymorphism",
+        "text": "State what is meant by polymorphism in OOP.",
+        "answer": "MP1: Polymorphism is when methods are redefined for derived classes. MP2: It allows the same method name to behave differently in different classes.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_012",
+        "topic": "Overloading",
+        "text": "State what is meant by overloading in OOP.",
+        "answer": "MP1: Overloading is when a method is defined more than once in a class. MP2: It allows the same method name to be used in different situations (e.g., with different parameters).",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_013",
+        "topic": "Containment",
+        "text": "State what is meant by containment (aggregation) in OOP.",
+        "answer": "MP1: Containment is the process by which one class can contain other classes. MP2: Example: an aeroplane contains wings, seats, a cockpit.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_014",
+        "topic": "Declarative Programming",
+        "text": "State two characteristics of declarative programming.",
+        "answer": "MP1: It uses statements of facts and rules. MP2: It uses a mechanism for setting goals in the form of a query. MP3: The programmer can state facts and rules in any order before writing the query.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_015",
+        "topic": "File Processing",
+        "text": "State two file access modes that can be used when opening a file.",
+        "answer": "MP1: READ - data can be read from the file. MP2: WRITE - data can be written to the file (overwrites existing data). MP3: APPEND - data can be added to the end of the file. MP4: RANDOM - allows both read and write at any position.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_016",
+        "topic": "File Processing",
+        "text": "State two file organisation methods.",
+        "answer": "Serial (chronological order) and Sequential (ordered on a key field).",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_017",
+        "topic": "Exception Handling",
+        "text": "State two causes of exceptions in a program.",
+        "answer": "MP1: Programming errors (e.g., division by zero). MP2: User errors (e.g., entering incorrect data type). MP3: Hardware failure (e.g., losing connection to a printer).",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_018",
+        "topic": "Linear Search",
+        "text": "State two advantages of a linear search over a binary search.",
+        "answer": "MP1: The list does not need to be sorted. MP2: Simpler to implement. MP3: Works well for small lists.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_019",
+        "topic": "Binary Search",
+        "text": "State two advantages of a binary search over a linear search.",
+        "answer": "MP1: Much faster for large lists (O(log n) vs O(n)). MP2: Requires fewer comparisons to find an item.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_020",
+        "topic": "Big O Notation",
+        "text": "State what Big O notation is used to describe.",
+        "answer": "MP1: The performance or complexity of an algorithm. MP2: The time taken to complete a task. MP3: The memory used for a task.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_021",
+        "topic": "Graph",
+        "text": "State two applications where graphs are used as ADTs.",
+        "answer": "MP1: Bus routes (nodes are bus stops, edges connect stops). MP2: Websites (nodes are web pages, edges show links). MP3: Social media networks (nodes are people, edges show friendships).",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_022",
+        "topic": "Recursion",
+        "text": "State two benefits of using recursion in programming.",
+        "answer": "MP1: Recursive solutions can contain fewer programming statements than iterative solutions. MP2: Can solve complex problems in a simpler way than iterative solutions.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_023",
+        "topic": "Recursion",
+        "text": "State one drawback of using recursion.",
+        "answer": "MP1: Heavy use of the stack can lead to stack overflow. MP2: Recursive calls can be less efficient than iterative solutions for simple problems.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_024",
+        "topic": "Low-Level Programming",
+        "text": "State two addressing modes used in low-level programming.",
+        "answer": "Immediate addressing and Direct addressing.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_025",
+        "topic": "OOP",
+        "text": "State two ways to achieve data hiding in OOP.",
+        "answer": "MP1: Declare attributes as PRIVATE. MP2: Use encapsulation to put data and methods together in a class.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_026",
+        "topic": "Declarative Programming",
+        "text": "State what a goal is in declarative programming (Prolog).",
+        "answer": "MP1: A goal is a query written as a statement. MP2: The result is found when the goal is satisfied using the facts and rules available.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_027",
+        "topic": "File Processing",
+        "text": "State the pseudocode command to find a specific address in a random file.",
+        "answer": "SEEK <filename>, <address>.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_028",
+        "topic": "Exception Handling",
+        "text": "State two types of exceptions that can occur when working with files.",
+        "answer": "MP1: Trying to open a file that has not been created. MP2: Reaching the end of a file unexpectedly when trying to read a record. MP3: Trying to write to a file that is read-only.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_029",
+        "topic": "OOP",
+        "text": "State the difference between a getter and a setter in OOP.",
+        "answer": "MP1: A getter returns the value of a property. MP2: A setter updates/changes the value of a property.",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_02_030",
+        "topic": "Binary Tree",
+        "text": "State what is stored in each node of a binary tree data structure.",
+        "answer": "MP1: The data/item value. MP2: A left pointer (to the left child node). MP3: A right pointer (to the right child node).",
+        "score": 2
+    },
+    {
+        "id": "q_19_20_03_001",
+        "topic": "Binary Search",
+        "text": "Describe how a binary search works to find an item in a sorted list. Include the steps involved and the conditions necessary for the search to work.",
+        "answer": "MP1: Find the middle item/index of the list. MP2: Check the value of the middle item against the item being searched for. MP3: If equal, the item is found. MP4: If the search item is greater than the middle item, discard the lower half of the list and set lower bound to middle + 1. MP5: If the search item is less than the middle item, discard the upper half of the list and set upper bound to middle - 1. MP6: Repeat until the item is found or the bounds cross (item not found). MP7: The list must be sorted for binary search to work.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_002",
+        "topic": "Bubble Sort",
+        "text": "Describe how the bubble sort algorithm works to sort a list into ascending order. Include the role of the swap flag.",
+        "answer": "MP1: Compare adjacent items in the list. MP2: If they are in the wrong order, swap them. MP3: Set a swap flag to TRUE when a swap occurs. MP4: Repeat passes through the list until no swaps occur. MP5: Each pass reduces the number of comparisons by one (the largest item bubbles to the end). MP6: The algorithm terminates when a complete pass makes no swaps.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_003",
+        "topic": "Insertion Sort",
+        "text": "Describe how the insertion sort algorithm works to sort a list into ascending order. Include how each element is placed in its correct position.",
+        "answer": "MP1: Start from the second element (index = lowerBound + 1). MP2: Store the current element in a temporary variable (key). MP3: Compare the key with elements to its left. MP4: Shift elements to the right while they are greater than the key. MP5: Insert the key into the correct position. MP6: Repeat for all elements in the list. MP7: The algorithm builds a sorted list one element at a time.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_004",
+        "topic": "Stack",
+        "text": "Describe how a stack can be implemented using a 1D array. Include the operations push and pop in your answer.",
+        "answer": "MP1: Declare a 1D array of fixed size to store stack items. MP2: Use a pointer (TopPointer) to indicate the top of the stack. MP3: Initialise TopPointer to -1 (empty stack). MP4: Push operation: check if stack is not full (TopPointer < MaxSize-1), increment TopPointer, store item at array[TopPointer]. MP5: Pop operation: check if stack is not empty (TopPointer > -1), retrieve item from array[TopPointer], decrement TopPointer. MP6: Return appropriate error messages if stack is full or empty.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_005",
+        "topic": "Queue",
+        "text": "Describe how a circular queue can be implemented using a 1D array. Include the operations enqueue and dequeue in your answer.",
+        "answer": "MP1: Declare a 1D array of fixed size to store queue items. MP2: Use frontPointer and rearPointer to track the front and rear of the queue. MP3: Use queueLength to track the number of items. MP4: Enqueue: check if queue is not full (queueLength < queueFull), increment rearPointer (wrap to 0 if at end), store item, increment queueLength. MP5: Dequeue: check if queue is not empty (queueLength > 0), retrieve item from frontPointer, increment frontPointer (wrap to 0 if at end), decrement queueLength. MP6: The circular structure allows reuse of array space.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_006",
+        "topic": "Linked List",
+        "text": "Describe how to find an item in a linked list. Include the role of the start pointer and null pointer in your answer.",
+        "answer": "MP1: Set itemPointer to startPointer. MP2: While itemPointer is not null and the item is not found: compare myLinkedList[itemPointer] with the search item. MP3: If found, set found flag to TRUE. MP4: If not found, move to the next node using myLinkedListPointers[itemPointer]. MP5: The function returns the item pointer if found, or a null pointer if not found.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_007",
+        "topic": "Linked List",
+        "text": "Describe how to insert an item into a linked list. Include the role of the heap start pointer in your answer.",
+        "answer": "MP1: Check if heapStartPointer is null (list full). MP2: If not full, set tempPointer to startPointer (keep old start). MP3: Set startPointer to heapStartPointer (get next free position). MP4: Update heapStartPointer to myLinkedListPointers[heapStartPointer]. MP5: Store the new item at myLinkedList[startPointer]. MP6: Set the pointer of the new node to tempPointer (link to old start).",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_008",
+        "topic": "Binary Tree",
+        "text": "Describe how to find an item in an ordered binary tree. Include the rules for traversing left or right branches.",
+        "answer": "MP1: Set itemPointer to rootPointer. MP2: While itemPointer is not null and the item is not found: compare the search item with the item at the current node. MP3: If the search item is less than the current node's item, move to the left child (itemPointer = myTree[itemPointer].leftPointer). MP4: If the search item is greater than the current node's item, move to the right child (itemPointer = myTree[itemPointer].rightPointer). MP5: If equal, the item is found. MP6: If itemPointer becomes null, the item is not in the tree.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_009",
+        "topic": "Binary Tree",
+        "text": "Describe how to insert an item into an ordered binary tree. Include the rules for placing new nodes.",
+        "answer": "MP1: If the tree is empty (rootPointer = null), set rootPointer to a new node. MP2: Otherwise, set itemPointer to rootPointer and oldPointer to null. MP3: While itemPointer is not null: set oldPointer = itemPointer. MP4: If the new item is less than the current node's item, set itemPointer = leftPointer and set leftBranch flag to TRUE. MP5: If the new item is greater than or equal to the current node's item, set itemPointer = rightPointer and set leftBranch flag to FALSE. MP6: When itemPointer becomes null, add the new node at the appropriate branch of oldPointer.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_010",
+        "topic": "Graph",
+        "text": "Describe the structure of a graph as an ADT. Include the terms nodes, edges, paths, and cycles in your answer.",
+        "answer": "MP1: A graph is a non-linear data structure consisting of nodes (vertices) and edges. MP2: Edges connect pairs of nodes. MP3: A path is a list of nodes connected by edges between two given nodes. MP4: A cycle is a list of nodes that return to the same node. MP5: Edges may have weights (e.g., distance or cost). MP6: Graphs can be directed (edges have direction) or undirected.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_011",
+        "topic": "Recursion",
+        "text": "Describe the process of recursion using the factorial function as an example. Include the terms base case, general case, winding, and unwinding.",
+        "answer": "MP1: Base case: 0! = 1 (terminating condition). MP2: General case: n! = n * (n-1)! (recursive call). MP3: Winding: recursive calls are made until the base case is reached. MP4: Unwinding: after the base case is reached, values are returned back through each recursive call. MP5: Example: factorial(3) calls factorial(2) calls factorial(1) calls factorial(0) returns 1, then 1*1=1, then 2*1=2, then 3*2=6.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_012",
+        "topic": "OOP",
+        "text": "Describe the structure of a class in OOP. Include attributes, methods, and encapsulation in your answer.",
+        "answer": "MP1: A class is a template defining the methods and data of a certain type of object. MP2: Attributes are the data items in a class (e.g., name, age). MP3: Methods are programmed procedures defined as part of a class (e.g., getName, setName). MP4: Encapsulation is putting data and methods together as a single unit (the class). MP5: Attributes are often declared as PRIVATE to protect data integrity. MP6: Methods are declared as PUBLIC to allow controlled access.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_013",
+        "topic": "Inheritance",
+        "text": "Describe inheritance in OOP. Include the terms base class (superclass), derived class (subclass), and single vs multiple inheritance.",
+        "answer": "MP1: Inheritance is the process by which methods and data from one class (base class/superclass) are copied to another class (derived class/subclass). MP2: The derived class inherits all attributes and methods from the base class. MP3: Single inheritance: a derived class inherits from one superclass only. MP4: Multiple inheritance: a derived class inherits from more than one superclass. MP5: Inheritance allows code reuse and establishes an 'is-a' relationship.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_014",
+        "topic": "Declarative Programming",
+        "text": "Describe how declarative programming (Prolog) works. Include facts, rules, and queries in your answer.",
+        "answer": "MP1: Facts are 'things' that are known (e.g., country(france).). MP2: Rules are relationships between facts (e.g., mother(A,B) IF female(A) AND parent(A,B).). MP3: A query is a goal that asks for information (e.g., language(Country, english)). MP4: Variables in Prolog begin with uppercase letters. MP5: The knowledge base is consulted using queries. MP6: Results are returned in the order facts are stored.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_015",
+        "topic": "File Processing",
+        "text": "Describe the difference between serial file organisation and sequential file organisation.",
+        "answer": "MP1: Serial files store records in chronological order (order of arrival). MP2: Sequential files store records in order of a key field (e.g., sorted by register number). MP3: In serial files, new records are appended to the end. MP4: In sequential files, new records must be inserted in the correct position, requiring the file to be recreated. MP5: Both store records one after the other and need to be accessed one after the other.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_016",
+        "topic": "File Processing",
+        "text": "Describe how to add a record to a random file using a hashing algorithm.",
+        "answer": "MP1: Open the file for RANDOM access. MP2: Use a hashing function on the key field of the record. MP3: The hashing function returns a pointer to an address. MP4: Use SEEK to go to that address in the file. MP5: Use PUTRECORD to write the record at that address. MP6: If the address is already occupied, collision resolution techniques are used (e.g., linear probing, overflow area).",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_017",
+        "topic": "Exception Handling",
+        "text": "Describe what exception handling is and why it is important in programming.",
+        "answer": "MP1: Exception handling is the process of responding to an exception within a program. MP2: An exception is an unexpected event that disrupts program execution. MP3: Exception handling prevents the program from halting unexpectedly. MP4: It makes a program more robust. MP5: The exception routine traps the error and outputs an error message. MP6: This is followed by either an orderly shutdown or recovery if possible.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_018",
+        "topic": "Big O Notation",
+        "text": "Describe the meaning of O(n) and O(log n) time complexity. Give an example algorithm for each.",
+        "answer": "MP1: O(n) describes an algorithm where time grows linearly in direct proportion to n (number of data items). MP2: Example: linear search. MP3: O(log n) describes an algorithm where time goes up linearly as the number of items goes up exponentially. MP4: Example: binary search. MP5: O(log n) is much faster than O(n) for large data sets.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_019",
+        "topic": "Big O Notation",
+        "text": "Describe the meaning of O(n^2) time complexity. Give an example algorithm.",
+        "answer": "MP1: O(n^2) describes an algorithm where time grows linearly in direct proportion to the square of n (number of data items). MP2: Example: bubble sort and insertion sort in the worst case. MP3: As the number of items increases, the time taken increases quadratically. MP4: O(n^2) algorithms become inefficient for large data sets.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_020",
+        "topic": "Dictionary",
+        "text": "Describe what a dictionary ADT is and how it can be implemented from other ADTs.",
+        "answer": "MP1: A dictionary is an ADT that consists of key-value pairs. MP2: The key is used to find the value. MP3: Each key can only appear once. MP4: A dictionary can be implemented using a linked list as part of the definition. MP5: Example declaration: TYPE dictionary DECLARE key : myLinkedList : ARRAY [0:19] OF linkedList DECLARE value : ARRAY [0:19] OF STRING ENDTYPE.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_021",
+        "topic": "Low-Level Programming",
+        "text": "Describe immediate addressing mode in low-level programming. Give an example.",
+        "answer": "MP1: Immediate addressing loads a constant value directly into the accumulator. MP2: The value is part of the instruction itself. MP3: Example: LDM #230 loads the denary number 230 into the accumulator. MP4: Immediate addressing is indicated by the # symbol.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_022",
+        "topic": "Low-Level Programming",
+        "text": "Describe direct addressing mode in low-level programming. Give an example.",
+        "answer": "MP1: Direct addressing loads the contents of a memory location into the accumulator. MP2: The address is given directly in the instruction. MP3: Example: LDD 230 loads the contents of address 230 into the accumulator. MP4: The value at the address is used, not the address itself.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_023",
+        "topic": "Low-Level Programming",
+        "text": "Describe indexed addressing mode in low-level programming. Give an example.",
+        "answer": "MP1: Indexed addressing forms an address by adding the contents of the index register to the given address. MP2: The effective address = <address> + contents of index register. MP3: Example: LDX 230 loads the contents of address (230 + IX) into the accumulator. MP4: Useful for accessing arrays and tables.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_024",
+        "topic": "Polymorphism",
+        "text": "Describe polymorphism in OOP with an example. Include how methods can be redefined in derived classes.",
+        "answer": "MP1: Polymorphism allows methods to be redefined for derived classes. MP2: The same method name behaves differently in different classes. MP3: Example: a base class 'shape' has a method 'area()'. MP4: Derived classes 'circle' and 'rectangle' each redefine the 'area()' method with their own calculations. MP5: The correct method is called based on the object type at runtime.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_025",
+        "topic": "Overloading",
+        "text": "Describe method overloading in OOP with an example.",
+        "answer": "MP1: Overloading allows a method to be defined more than once in a class. MP2: The same method name can be used in different situations. MP3: Overloaded methods typically have different numbers or types of parameters. MP4: Example: a 'hello' method with no parameters prints 'Hello', with one parameter prints 'Hello Name', with two parameters prints 'Hello FirstName LastName'.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_026",
+        "topic": "Constructor",
+        "text": "Describe the purpose of a constructor in OOP. Give an example.",
+        "answer": "MP1: A constructor is a method used to initialise a new object. MP2: Each object is initialised when a new instance is declared. MP3: When an object is initialised, memory is allocated. MP4: Example: In Python, __init__(self, name, staffno) is a constructor. MP5: In VB, Public Sub New(ByVal n As String) is a constructor.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_027",
+        "topic": "Getter and Setter",
+        "text": "Describe the purpose of getters and setters in OOP. Explain why they are used.",
+        "answer": "MP1: A getter is a method that returns the value of a property. MP2: A setter is a method that controls changes to a variable. MP3: When a variable is declared as PRIVATE, only setters can make changes to it. MP4: Getters and setters make the program more robust by controlling access. MP5: They allow validation to be added before changing a value.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_028",
+        "topic": "File Processing",
+        "text": "Describe the difference between sequential access and random access to a file.",
+        "answer": "MP1: Sequential access searches for records one after the other from the start of the file. MP2: Random access allows a record to be found directly without reading other records. MP3: Sequential access is used for serial and sequential files. MP4: Random access is used for random files (using a hashing algorithm on the key field). MP5: Random access is faster for locating specific records in large files.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_029",
+        "topic": "Recursion",
+        "text": "Explain why a stack is a suitable ADT to implement recursion.",
+        "answer": "MP1: A stack is a LIFO (Last In First Out) data structure. MP2: Each recursive call is pushed onto the stack. MP3: When the base case is reached, the stack unwinds by popping values. MP4: The stack maintains the correct order of return addresses and local variables. MP5: This enables backtracking/unwinding to maintain the required order.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_03_030",
+        "topic": "Binary Tree",
+        "text": "Explain why a binary tree is a suitable ADT for storing ordered data.",
+        "answer": "MP1: Binary trees allow fast searching (O(log n) on average). MP2: Each node can have a maximum of two child nodes (left and right). MP3: The ordering rule (left = smaller, right = greater) makes searching efficient. MP4: Insertion and deletion are relatively simple operations. MP5: Binary trees are used in syntax analysis, compression algorithms, and 3D video games.",
+        "score": 3
+    },
+    {
+        "id": "q_19_20_04_001",
+        "topic": "Binary Search",
+        "text": "The array Names[0:99] is in alphabetical order. Write a pseudocode binary search algorithm to find a name input by the user. The algorithm should output whether the name was found and its position if found.",
+        "answer": "MP1: Initialise lowerBound = 0, upperBound = 99, found = FALSE. MP2: OUTPUT 'Enter name to be found', INPUT Target. MP3: REPEAT: Mid = (lowerBound + upperBound) DIV 2. MP4: IF Names[Mid] = Target THEN found = TRUE, OUTPUT 'Found at position', Mid. MP5: ELSE IF Names[Mid] < Target THEN lowerBound = Mid + 1. MP6: ELSE IF Names[Mid] > Target THEN upperBound = Mid - 1. MP7: UNTIL found = TRUE OR lowerBound > upperBound. MP8: IF NOT found THEN OUTPUT 'Item not found'.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_002",
+        "topic": "Bubble Sort",
+        "text": "Write a pseudocode bubble sort algorithm to sort an array of integers into descending order (largest to smallest). Include a swap flag to stop early if the list becomes sorted.",
+        "answer": "MP1: Initialise upperBound = length of array - 1, swap = TRUE. MP2: REPEAT: set swap = FALSE. MP3: FOR index = lowerBound TO upperBound - 1. MP4: IF myList[index] < myList[index + 1] THEN swap elements. MP5: Store temp = myList[index], myList[index] = myList[index + 1], myList[index + 1] = temp. MP6: Set swap = TRUE. MP7: ENDFOR. MP8: upperBound = upperBound - 1. MP9: UNTIL swap = FALSE OR upperBound = 0.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_003",
+        "topic": "Insertion Sort",
+        "text": "Write a pseudocode insertion sort algorithm to sort an array of strings into alphabetical order.",
+        "answer": "MP1: FOR index = lowerBound + 1 TO upperBound. MP2: key = myList[index]. MP3: place = index - 1. MP4: WHILE place >= lowerBound AND myList[place] > key. MP5: myList[place + 1] = myList[place]. MP6: place = place - 1. MP7: ENDWHILE. MP8: myList[place + 1] = key. MP9: NEXT index.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_004",
+        "topic": "Stack",
+        "text": "Write pseudocode for a function Push() that adds a new integer to a stack implemented using a 1D array. The function should check if the stack is full and return an appropriate message.",
+        "answer": "MP1: FUNCTION Push(NewItem : INTEGER) RETURNS STRING. MP2: IF TopPointer = MaxSize - 1 THEN RETURN 'Stack is full'. MP3: ELSE: TopPointer = TopPointer + 1. MP4: StackArray[TopPointer] = NewItem. MP5: RETURN 'Item added'. MP6: ENDIF. MP7: ENDFUNCTION.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_005",
+        "topic": "Stack",
+        "text": "Write pseudocode for a function Pop() that removes an item from a stack implemented using a 1D array. The function should check if the stack is empty and return an appropriate message.",
+        "answer": "MP1: FUNCTION Pop() RETURNS INTEGER. MP2: DECLARE Item : INTEGER. MP3: IF TopPointer = BasePointer - 1 THEN OUTPUT 'Stack is empty, cannot pop'. MP4: ELSE: Item = StackArray[TopPointer]. MP5: TopPointer = TopPointer - 1. MP6: RETURN Item. MP7: ENDIF. MP8: ENDFUNCTION.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_006",
+        "topic": "Queue",
+        "text": "Write pseudocode for a procedure Enqueue() that adds a new item to a circular queue implemented using a 1D array. Include a check for a full queue.",
+        "answer": "MP1: PROCEDURE Enqueue(NewItem : STRING). MP2: IF queueLength = queueFull THEN OUTPUT 'Queue is full, cannot enqueue'. MP3: ELSE: IF rearPointer = queue.length - 1 THEN rearPointer = 0 ELSE rearPointer = rearPointer + 1. MP4: queueLength = queueLength + 1. MP5: queue[rearPointer] = NewItem. MP6: ENDIF. MP7: ENDPROCEDURE.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_007",
+        "topic": "Queue",
+        "text": "Write pseudocode for a function Dequeue() that removes an item from a circular queue implemented using a 1D array. Include a check for an empty queue.",
+        "answer": "MP1: FUNCTION Dequeue() RETURNS STRING. MP2: DECLARE Item : STRING. MP3: IF queueLength = 0 THEN OUTPUT 'Queue is empty, cannot dequeue'. MP4: ELSE: Item = queue[frontPointer]. MP5: IF frontPointer = queue.length - 1 THEN frontPointer = 0 ELSE frontPointer = frontPointer + 1. MP6: queueLength = queueLength - 1. MP7: RETURN Item. MP8: ENDIF. MP9: ENDFUNCTION.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_008",
+        "topic": "Linked List",
+        "text": "Write pseudocode for a function to find an item in a linked list. The function should return the pointer to the item if found, or a null pointer if not found.",
+        "answer": "MP1: FUNCTION find(itemSearch) RETURNS INTEGER. MP2: DECLARE found : BOOLEAN. MP3: itemPointer = startPointer. MP4: found = FALSE. MP5: WHILE (itemPointer <> nullPointer) AND NOT found. MP6: IF myLinkedList[itemPointer] = itemSearch THEN found = TRUE. MP7: ELSE itemPointer = myLinkedListPointers[itemPointer]. MP8: ENDWHILE. MP9: RETURN itemPointer.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_009",
+        "topic": "Linked List",
+        "text": "Write pseudocode for a procedure to insert an item at the start of a linked list. Include a check for a full list.",
+        "answer": "MP1: PROCEDURE linkedListAdd(itemAdd). MP2: IF heapStartPointer = nullPointer THEN OUTPUT 'Linked list full'. MP3: ELSE: tempPointer = startPointer. MP4: startPointer = heapStartPointer. MP5: heapStartPointer = myLinkedListPointers[heapStartPointer]. MP6: myLinkedList[startPointer] = itemAdd. MP7: myLinkedListPointers[startPointer] = tempPointer. MP8: ENDIF. MP9: ENDPROCEDURE.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_010",
+        "topic": "Binary Tree",
+        "text": "Write pseudocode for a function to find an item in an ordered binary tree. The function should return the pointer to the node if found, or a null pointer if not found.",
+        "answer": "MP1: FUNCTION find(itemSearch) RETURNS INTEGER. MP2: itemPointer = rootPointer. MP3: WHILE myTree[itemPointer].item <> itemSearch AND (itemPointer <> nullPointer). MP4: IF myTree[itemPointer].item > itemSearch THEN itemPointer = myTree[itemPointer].leftPointer. MP5: ELSE itemPointer = myTree[itemPointer].rightPointer. MP6: ENDWHILE. MP7: RETURN itemPointer.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_011",
+        "topic": "Binary Tree",
+        "text": "Write pseudocode for a procedure to insert an item into an ordered binary tree. Include checks for a full tree and correct placement.",
+        "answer": "MP1: PROCEDURE nodeAdd(itemAdd). MP2: IF nextFreePointer = nullPointer THEN OUTPUT 'No nodes free'. MP3: ELSE: itemAddPointer = nextFreePointer. MP4: nextFreePointer = myTree[nextFreePointer].leftPointer. MP5: myTree[itemAddPointer].item = itemAdd. MP6: myTree[itemAddPointer].leftPointer = nullPointer. MP7: myTree[itemAddPointer].rightPointer = nullPointer. MP8: IF rootPointer = nullPointer THEN rootPointer = itemAddPointer. MP9: ELSE: traverse tree to find correct position using left/right rules and attach new node.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_012",
+        "topic": "Recursion",
+        "text": "Write a pseudocode recursive function to calculate the factorial of a number n (n!). Include the base case and general case.",
+        "answer": "MP1: FUNCTION factorial(number : INTEGER) RETURNS INTEGER. MP2: IF number = 0 THEN answer = 1 // base case. MP3: ELSE answer = number * factorial(number - 1) // general case. MP4: ENDIF. MP5: RETURN answer. MP6: ENDFUNCTION.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_013",
+        "topic": "Recursion",
+        "text": "Write a pseudocode recursive function to calculate the nth term of the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8...). Include the base case and general case.",
+        "answer": "MP1: FUNCTION fibonacci(number : INTEGER) RETURNS INTEGER. MP2: IF number <= 1 THEN answer = number // base case. MP3: ELSE answer = fibonacci(number - 1) + fibonacci(number - 2) // general case. MP4: ENDIF. MP5: RETURN answer. MP6: ENDFUNCTION.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_014",
+        "topic": "OOP",
+        "text": "Write a pseudocode class definition for a Student class with private attributes name, dateOfBirth, and examMark, and public methods to set and get the exam mark.",
+        "answer": "MP1: CLASS Student. MP2: PRIVATE name : STRING. MP3: PRIVATE dateOfBirth : DATE. MP4: PRIVATE examMark : INTEGER. MP5: PUBLIC PROCEDURE SetExamMark(mark : INTEGER). MP6: examMark = mark. MP7: ENDPROCEDURE. MP8: PUBLIC FUNCTION GetExamMark() RETURNS INTEGER. MP9: RETURN examMark. MP10: ENDFUNCTION. MP11: ENDCLASS.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_015",
+        "topic": "Inheritance",
+        "text": "Write pseudocode class definitions for a base class Shape and a derived class Circle that inherits from Shape. Include appropriate attributes and methods.",
+        "answer": "MP1: CLASS Shape. MP2: PROTECTED areaValue : REAL. MP3: PROTECTED perimeterValue : REAL. MP4: PUBLIC PROCEDURE area(). MP5: OUTPUT 'Area', areaValue. MP6: ENDPROCEDURE. MP7: ENDCLASS. MP8: CLASS Circle INHERITS Shape. MP9: PRIVATE radius : REAL. MP10: PUBLIC PROCEDURE NEW(r : REAL). MP11: radius = r. MP12: ENDPROCEDURE. MP13: PUBLIC OVERRIDE PROCEDURE area(). MP14: areaValue = 3.142 * radius * radius. MP15: OUTPUT 'Area', areaValue. MP16: ENDPROCEDURE. MP17: ENDCLASS.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_016",
+        "topic": "Polymorphism",
+        "text": "Write pseudocode to demonstrate polymorphism. Include a base class Animal with a method makeSound(), and derived classes Dog and Cat that override the makeSound() method.",
+        "answer": "MP1: CLASS Animal. MP2: PUBLIC PROCEDURE makeSound(). MP3: OUTPUT 'Animal makes a sound'. MP4: ENDPROCEDURE. MP5: ENDCLASS. MP6: CLASS Dog INHERITS Animal. MP7: PUBLIC OVERRIDE PROCEDURE makeSound(). MP8: OUTPUT 'Dog barks'. MP9: ENDPROCEDURE. MP10: ENDCLASS. MP11: CLASS Cat INHERITS Animal. MP12: PUBLIC OVERRIDE PROCEDURE makeSound(). MP13: OUTPUT 'Cat meows'. MP14: ENDPROCEDURE. MP15: ENDCLASS. MP16: DECLARE myDog : Dog. MP17: CALL myDog.makeSound() // outputs 'Dog barks'.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_017",
+        "topic": "File Processing",
+        "text": "Write pseudocode to read all records from a serial file and output them. The file contains records of type TStudentRecord. Include opening and closing the file.",
+        "answer": "MP1: DECLARE studentRecord : TStudentRecord. MP2: DECLARE studentFile : STRING. MP3: studentFile = 'studentFile.dat'. MP4: OPENFILE studentFile FOR READ. MP5: counter = 1. MP6: REPEAT. MP7: GETRECORD studentFile, studentRecord[counter]. MP8: OUTPUT studentRecord[counter]. MP9: counter = counter + 1. MP10: UNTIL EOF(studentFile). MP11: CLOSEFILE studentFile.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_018",
+        "topic": "File Processing",
+        "text": "Write pseudocode to append a record to the end of a serial file. The record is of type TStudentRecord and the file name is 'students.dat'.",
+        "answer": "MP1: DECLARE studentRecord : TStudentRecord. MP2: DECLARE studentFile : STRING. MP3: studentFile = 'students.dat'. MP4: OPENFILE studentFile FOR APPEND. MP5: INPUT studentRecord fields (name, registerNumber, dateOfBirth, fullTime). MP6: PUTRECORD studentFile, studentRecord. MP7: CLOSEFILE studentFile.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_019",
+        "topic": "File Processing",
+        "text": "Write pseudocode to find a record in a random file using a hashing algorithm. The hashing function Hash(key) returns an address. The file contains records of type TStudentRecord.",
+        "answer": "MP1: DECLARE studentRecord : TStudentRecord. MP2: DECLARE studentFile : STRING. MP3: DECLARE Address : INTEGER. MP4: studentFile = 'studentFile.dat'. MP5: OPENFILE studentFile FOR RANDOM. MP6: OUTPUT 'Enter student register number'. MP7: INPUT studentRecord.registerNumber. MP8: Address = Hash(studentRecord.registerNumber). MP9: SEEK studentFile, Address. MP10: GETRECORD studentFile, studentRecord. MP11: OUTPUT studentRecord. MP12: CLOSEFILE studentFile.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_020",
+        "topic": "Exception Handling",
+        "text": "Write pseudocode for an exception handling routine that handles division by zero. The routine should ask the user to input two numbers and perform integer division, catching the exception if the second number is zero.",
+        "answer": "MP1: TRY. MP2: OUTPUT 'Enter first number'. MP3: INPUT num1. MP4: OUTPUT 'Enter second number'. MP5: INPUT num2. MP6: answer = num1 / num2. MP7: OUTPUT 'Answer is', answer. MP8: EXCEPT DivideByZeroException. MP9: OUTPUT 'Error: Cannot divide by zero'. MP10: ENDTRY.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_021",
+        "topic": "Low-Level Programming",
+        "text": "Write a short assembly language program to add the contents of address 300 to the contents of address 400 and store the result in address 500. Use LDD, ADD, and STO instructions.",
+        "answer": "MP1: LDD 300 // Load contents of address 300 into ACC. MP2: ADD 400 // Add contents of address 400 to ACC. MP3: STO 500 // Store result in address 500. MP4: END // Return control to operating system.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_022",
+        "topic": "Low-Level Programming",
+        "text": "Explain the difference between indirect addressing and indexed addressing in assembly language. Give an example of each.",
+        "answer": "MP1: Indirect addressing: The address to be used is stored at the given address. Example: LDI 500 - the address 500 contains another address, and the contents of that second address are loaded. MP2: Indexed addressing: The effective address is formed by adding the contents of the index register to the given address. Example: LDX 230 - effective address = 230 + IX. MP3: Indirect addressing allows pointer-based access. MP4: Indexed addressing is useful for array traversal.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_023",
+        "topic": "Declarative Programming",
+        "text": "Write Prolog facts and a rule to represent family relationships. Include facts for male, female, parent. Write a rule to define mother(A,B) where A is the mother of B.",
+        "answer": "MP1: male(ahmed). MP2: male(raul). MP3: female(aisha). MP4: parent(ahmed, raul). MP5: parent(aisha, raul). MP6: mother(A, B) IF female(A) AND parent(A, B).",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_024",
+        "topic": "Containment",
+        "text": "Draw a containment diagram for a University Course. The course contains up to 50 lectures, 3 examinations, and the final mark is the average of the three examination marks.",
+        "answer": "MP1: Course class containing three classes: Lecture (1..50), Examination (3), FinalMark (1). MP2: Diagram with diamond shape at the Course end indicating containment. MP3: Labels showing multiplicities (1..50, 3, 1). MP4: Correct arrows showing direction of containment.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_025",
+        "topic": "Big O Notation",
+        "text": "Compare the performance of a linear search and a binary search using Big O notation. Explain what happens to the search time as the number of items increases.",
+        "answer": "MP1: Linear search has time complexity O(n) - time increases linearly with n. MP2: Binary search has time complexity O(log n) - time increases logarithmically with n. MP3: As n increases, linear search time grows proportionally; binary search time grows much more slowly. MP4: For n=1000, linear search worst case 1000 comparisons; binary search worst case about 10 comparisons. MP5: Binary search requires sorted data; linear search does not.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_026",
+        "topic": "Binary Tree",
+        "text": "Explain how a binary tree can be used to represent an arithmetic expression. Give an example using the expression (A + B) * (C - D).",
+        "answer": "MP1: Each node contains an operator or operand. MP2: Leaves (bottom nodes) contain operands (A, B, C, D). MP3: Internal nodes contain operators (+, -, *). MP4: For (A + B) * (C - D): root is *, left child is + with children A and B, right child is - with children C and D. MP5: In-order traversal gives the infix expression.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_027",
+        "topic": "Dictionary",
+        "text": "Write pseudocode to declare a dictionary ADT using a linked list. The dictionary should store key-value pairs where the key is a string and the value is an integer.",
+        "answer": "MP1: TYPE linkedList. MP2: DECLARE key : STRING. MP3: DECLARE pointer : INTEGER. MP4: ENDTYPE. MP5: TYPE dictionary. MP6: DECLARE items : ARRAY[0:19] OF linkedList. MP7: DECLARE values : ARRAY[0:19] OF INTEGER. MP8: ENDTYPE.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_028",
+        "topic": "Exception Handling",
+        "text": "Describe three exceptions that could occur when reading data from a text file and explain how exception handling can be used to manage them.",
+        "answer": "MP1: File not found exception - occurs when the file does not exist. Handling: output error message and exit gracefully. MP2: End of file exception - occurs when trying to read past the end of the file. Handling: check EOF before reading. MP3: Data type mismatch exception - occurs when the data read does not match the expected type. Handling: use try-catch to catch the exception and output an error message.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_029",
+        "topic": "Recursion",
+        "text": "Explain how a compiler implements recursion in a programming language. Include the role of the stack in your answer.",
+        "answer": "MP1: Recursive code makes use of the stack. MP2: The compiler must produce object code that pushes return addresses onto the stack with each recursive call (winding). MP3: It also pushes values of local variables onto the stack. MP4: After the base case is reached, the object code pops return addresses and local variable values off the stack (unwinding). MP5: The stack ensures the correct order of execution for recursive calls.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_04_030",
+        "topic": "Graph",
+        "text": "Describe how a graph can be used to represent a bus route network. Include nodes, edges, weights, paths, and cycles in your answer.",
+        "answer": "MP1: Nodes represent bus stops. MP2: Edges connect two stops that are next to each other. MP3: Weights on edges represent the distance between stops or the cost of the bus fare. MP4: A path is a sequence of stops from one location to another (e.g., School to Gardens). MP5: A cycle is a sequence of stops that returns to the starting stop (e.g., a circular bus route). MP6: The shortest path can be found using Dijkstra's or A* algorithm.",
+        "score": 4
+    },
+    {
+        "id": "q_19_20_05_001",
+        "topic": "Binary Search",
+        "text": "The array Names[0:99] is in alphabetical order. Write a complete pseudocode binary search algorithm to find a name input by the user. The algorithm should output whether the name was found and its position if found. Include all necessary variable declarations and initialisations.",
+        "answer": "MP1: DECLARE Names : ARRAY[0:99] OF STRING. MP2: DECLARE lowerBound, upperBound, mid, itemPointer : INTEGER. MP3: DECLARE found : BOOLEAN. MP4: DECLARE Target : STRING. MP5: lowerBound = 0, upperBound = 99, found = FALSE. MP6: OUTPUT 'Enter the name to be found', INPUT Target. MP7: REPEAT. MP8: IF lowerBound > upperBound THEN OUTPUT Target, ' does not exist', found = TRUE. MP9: mid = (lowerBound + upperBound) DIV 2. MP10: IF Names[mid] = Target THEN OUTPUT Target, ' was found at location ', mid, found = TRUE. MP11: ELSE IF Names[mid] < Target THEN lowerBound = mid + 1. MP12: ELSE IF Names[mid] > Target THEN upperBound = mid - 1. MP13: UNTIL found = TRUE.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_002",
+        "topic": "Insertion Sort",
+        "text": "Write a complete pseudocode insertion sort algorithm to sort an array of 100 integers into ascending order. The array is called DataArray and is indexed from 1 to 100. Include all variable declarations and a trace table for the first two passes when the first five values are 27, 19, 36, 42, 16.",
+        "answer": "MP1: DECLARE DataArray : ARRAY[1:100] OF INTEGER. MP2: DECLARE Index, Position, Value : INTEGER. MP3: FOR Index = 2 TO 100. MP4: Value = DataArray[Index]. MP5: Position = Index - 1. MP6: WHILE Position >= 1 AND DataArray[Position] > Value. MP7: DataArray[Position + 1] = DataArray[Position]. MP8: Position = Position - 1. MP9: ENDWHILE. MP10: DataArray[Position + 1] = Value. MP11: NEXT Index. MP12: Trace table for first two passes: Initial: [27,19,36,42,16]. Pass 1: Insert 19 -> [19,27,36,42,16]. Pass 2: Insert 36 -> [19,27,36,42,16].",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_003",
+        "topic": "Bubble Sort",
+        "text": "Write a complete pseudocode bubble sort algorithm to sort an array of 100 integers into descending order (largest to smallest). The array is called Scores and is indexed from 1 to 100. Include a swap flag to stop early if the list becomes sorted. Compare the performance of bubble sort and insertion sort using Big O notation.",
+        "answer": "MP1: DECLARE Scores : ARRAY[1:100] OF INTEGER. MP2: DECLARE index, temp, top : INTEGER. MP3: DECLARE swap : BOOLEAN. MP4: top = 100, swap = TRUE. MP5: REPEAT. MP6: swap = FALSE. MP7: FOR index = 1 TO top - 1. MP8: IF Scores[index] < Scores[index + 1] THEN. MP9: temp = Scores[index]. MP10: Scores[index] = Scores[index + 1]. MP11: Scores[index + 1] = temp. MP12: swap = TRUE. MP13: ENDIF. MP14: NEXT index. MP15: top = top - 1. MP16: UNTIL swap = FALSE OR top = 0. MP17: Performance comparison: Both have worst-case O(n^2), but insertion sort performs better on partially sorted lists (fewer swaps).",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_004",
+        "topic": "Linked List",
+        "text": "Write complete pseudocode for a linked list ADT including: initialisation, find an item, insert an item at the start, and delete an item. Use arrays to store the list data and pointers. Include all variable declarations and constant definitions.",
+        "answer": "MP1: CONSTANT nullPointer = -1. MP2: DECLARE myLinkedList : ARRAY[0:11] OF INTEGER. MP3: DECLARE myLinkedListPointers : ARRAY[0:11] OF INTEGER. MP4: DECLARE startPointer, heapStartPointer, index : INTEGER. MP5: Initialisation: FOR index = 0 TO 11: myLinkedListPointers[index] = index + 1. myLinkedListPointers[11] = nullPointer. heapStartPointer = 0, startPointer = nullPointer. MP6: Find function: FUNCTION find(itemSearch) RETURNS INTEGER: itemPointer = startPointer, WHILE itemPointer <> nullPointer AND myLinkedList[itemPointer] <> itemSearch: itemPointer = myLinkedListPointers[itemPointer]. RETURN itemPointer. MP7: Insert procedure: PROCEDURE insert(itemAdd): IF heapStartPointer = nullPointer THEN OUTPUT 'List full' ELSE tempPointer = startPointer, startPointer = heapStartPointer, heapStartPointer = myLinkedListPointers[heapStartPointer], myLinkedList[startPointer] = itemAdd, myLinkedListPointers[startPointer] = tempPointer. MP8: Delete procedure: PROCEDURE delete(itemDelete): IF startPointer = nullPointer THEN OUTPUT 'List empty' ELSE find item and adjust pointers.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_005",
+        "topic": "Binary Tree",
+        "text": "Write complete pseudocode for a binary tree ADT including: node definition, initialisation, find an item, and insert an item. Use a record structure for nodes and arrays to store the tree. Include all variable declarations.",
+        "answer": "MP1: TYPE node. DECLARE item : INTEGER. DECLARE leftPointer : INTEGER. DECLARE rightPointer : INTEGER. ENDTYPE. MP2: DECLARE myTree : ARRAY[0:11] OF node. MP3: DECLARE rootPointer, nextFreePointer : INTEGER. MP4: CONSTANT nullPointer = -1. MP5: Initialisation: rootPointer = nullPointer, nextFreePointer = 0. FOR index = 0 TO 11: myTree[index].leftPointer = index + 1. myTree[11].leftPointer = nullPointer. MP6: Find function: FUNCTION find(itemSearch) RETURNS INTEGER: itemPointer = rootPointer. WHILE itemPointer <> nullPointer AND myTree[itemPointer].item <> itemSearch: IF itemSearch < myTree[itemPointer].item THEN itemPointer = myTree[itemPointer].leftPointer ELSE itemPointer = myTree[itemPointer].rightPointer. RETURN itemPointer. MP7: Insert procedure: PROCEDURE insert(itemAdd): IF nextFreePointer = nullPointer THEN OUTPUT 'No nodes free' ELSE newPointer = nextFreePointer, nextFreePointer = myTree[nextFreePointer].leftPointer, myTree[newPointer].item = itemAdd, myTree[newPointer].leftPointer = nullPointer, myTree[newPointer].rightPointer = nullPointer. IF rootPointer = nullPointer THEN rootPointer = newPointer ELSE traverse to find correct position and attach.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_006",
+        "topic": "Recursion",
+        "text": "Write a pseudocode recursive function to calculate the nth term of the Fibonacci sequence. Complete a trace table for fibonacci(4) showing the winding and unwinding process. Explain why a stack is suitable for implementing recursion.",
+        "answer": "MP1: FUNCTION fibonacci(number : INTEGER) RETURNS INTEGER. MP2: IF number <= 1 THEN RETURN number. MP3: ELSE RETURN fibonacci(number - 1) + fibonacci(number - 2). MP4: Trace table for fibonacci(4): Calls: fib(4) -> fib(3)+fib(2), fib(3) -> fib(2)+fib(1), fib(2) -> fib(1)+fib(0), fib(1)=1, fib(0)=0, back: fib(2)=1, fib(3)=2, fib(4)=3. MP5: Stack is suitable because it is LIFO - each recursive call is pushed onto the stack, and unwinding pops in reverse order.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_007",
+        "topic": "OOP",
+        "text": "Write a complete pseudocode class definition for a Vehicle class with private attributes make, model, year, and mileage. Include a constructor, getters and setters for all attributes, and a method to display vehicle details. Then write a derived class ElectricCar that inherits from Vehicle and adds an attribute batteryCapacity.",
+        "answer": "MP1: CLASS Vehicle. MP2: PRIVATE make : STRING, model : STRING, year : INTEGER, mileage : INTEGER. MP3: PUBLIC PROCEDURE NEW(mk : STRING, md : STRING, yr : INTEGER, mi : INTEGER). MP4: make = mk, model = md, year = yr, mileage = mi. MP5: ENDPROCEDURE. MP6: PUBLIC FUNCTION GetMake() RETURNS STRING: RETURN make. MP7: PUBLIC PROCEDURE SetMake(mk : STRING): make = mk. MP8: PUBLIC FUNCTION GetModel() RETURNS STRING: RETURN model. MP9: PUBLIC PROCEDURE SetModel(md : STRING): model = md. MP10: PUBLIC FUNCTION GetYear() RETURNS INTEGER: RETURN year. MP11: PUBLIC PROCEDURE SetYear(yr : INTEGER): year = yr. MP12: PUBLIC FUNCTION GetMileage() RETURNS INTEGER: RETURN mileage. MP13: PUBLIC PROCEDURE SetMileage(mi : INTEGER): mileage = mi. MP14: PUBLIC PROCEDURE Display(). MP15: OUTPUT 'Make: ', make, ' Model: ', model, ' Year: ', year, ' Mileage: ', mileage. MP16: ENDPROCEDURE. MP17: ENDCLASS. MP18: CLASS ElectricCar INHERITS Vehicle. MP19: PRIVATE batteryCapacity : INTEGER. MP20: PUBLIC PROCEDURE NEW(mk : STRING, md : STRING, yr : INTEGER, mi : INTEGER, bc : INTEGER). MP21: CALL SUPER(mk, md, yr, mi). MP22: batteryCapacity = bc. MP23: ENDPROCEDURE. MP24: PUBLIC FUNCTION GetBatteryCapacity() RETURNS INTEGER: RETURN batteryCapacity. MP25: PUBLIC PROCEDURE SetBatteryCapacity(bc : INTEGER): batteryCapacity = bc. MP26: PUBLIC OVERRIDE PROCEDURE Display(). MP27: CALL SUPER.Display(). MP28: OUTPUT 'Battery Capacity: ', batteryCapacity. MP29: ENDPROCEDURE. MP30: ENDCLASS.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_008",
+        "topic": "Declarative Programming",
+        "text": "Write a Prolog knowledge base with facts about countries, capitals, and continents. Include at least 5 countries. Then write rules to find: (a) all countries in a given continent, (b) the capital of a given country, (c) countries that are in the same continent. Write queries to test your rules.",
+        "answer": "MP1: Facts: country(england). country(france). country(germany). country(japan). country(egypt). MP2: capital(england, london). capital(france, paris). capital(germany, berlin). capital(japan, tokyo). capital(egypt, cairo). MP3: continent(england, europe). continent(france, europe). continent(germany, europe). continent(japan, asia). continent(egypt, africa). MP4: Rule for countries in continent: countries_in_continent(C, Continent) IF country(C) AND continent(C, Continent). MP5: Rule for capital of country: capital_of(Country, Capital) IF capital(Country, Capital). MP6: Rule for same continent: same_continent(C1, C2) IF continent(C1, X) AND continent(C2, X) AND C1 <> C2. MP7: Queries: countries_in_continent(C, europe). capital_of(france, Capital). same_continent(C1, C2).",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_009",
+        "topic": "File Processing",
+        "text": "Write a complete pseudocode program to maintain a sequential file of student records. The program should: (a) allow the user to add a new record in the correct position (sorted by register number), (b) allow the user to find and display a record by register number, (c) allow the user to display all records. Use a temporary file when inserting a new record.",
+        "answer": "MP1: TYPE TStudentRecord. DECLARE name : STRING, registerNumber : INTEGER, dateOfBirth : DATE, fullTime : BOOLEAN. ENDTYPE. MP2: DECLARE studentRecord, newRecord : TStudentRecord. MP3: DECLARE studentFile, newFile : STRING. MP4: DECLARE recordAdded : BOOLEAN. MP5: Add record: INPUT newRecord fields. OPEN studentFile FOR READ, OPEN newFile FOR WRITE. REPEAT GETRECORD studentFile, studentRecord. IF studentRecord.registerNumber < newRecord.registerNumber THEN PUTRECORD newFile, studentRecord. ELSE IF recordAdded = FALSE THEN PUTRECORD newFile, newRecord, recordAdded = TRUE, PUTRECORD newFile, studentRecord. ELSE PUTRECORD newFile, studentRecord. UNTIL EOF(studentFile). IF recordAdded = FALSE THEN PUTRECORD newFile, newRecord. CLOSE both files, rename newFile to studentFile. MP6: Find record: INPUT searchNumber. OPEN studentFile FOR READ. REPEAT GETRECORD studentFile, studentRecord. IF studentRecord.registerNumber = searchNumber THEN OUTPUT studentRecord, found = TRUE. UNTIL EOF(studentFile) OR found = TRUE. IF NOT found THEN OUTPUT 'Not found'. CLOSEFILE. MP7: Display all records: OPEN studentFile FOR READ. REPEAT GETRECORD studentFile, studentRecord. OUTPUT studentRecord. UNTIL EOF(studentFile). CLOSEFILE.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_010",
+        "topic": "Exception Handling",
+        "text": "Write a pseudocode program that reads 10 integers from a text file called 'numbers.txt', stores them in an array, and calculates the average. Use exception handling to manage: (a) file not found, (b) end of file reached before reading 10 numbers, (c) non-integer data in the file. Output appropriate error messages for each exception.",
+        "answer": "MP1: DECLARE numbers : ARRAY[1:10] OF INTEGER. MP2: DECLARE count : INTEGER, sum : INTEGER, average : REAL. MP3: DECLARE fileName : STRING = 'numbers.txt'. MP4: TRY. MP5: OPENFILE fileName FOR READ. MP6: count = 1. MP7: WHILE count <= 10 AND NOT EOF(fileName). MP8: TRY. MP9: GETRECORD fileName, numbers[count]. MP10: sum = sum + numbers[count]. MP11: count = count + 1. MP12: EXCEPT InvalidDataException. MP13: OUTPUT 'Non-integer data found in file', EXIT. MP14: ENDTRY. MP15: ENDWHILE. MP16: CLOSEFILE fileName. MP17: IF count < 10 THEN OUTPUT 'End of file reached before reading 10 numbers'. MP18: ELSE average = sum / 10. OUTPUT 'Average is ', average. MP19: EXCEPT FileNotFoundException. MP20: OUTPUT 'File not found: ', fileName. MP21: ENDTRY.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_011",
+        "topic": "Queue",
+        "text": "Write complete pseudocode for a circular queue ADT using a 1D array of size 10. Include procedures for initialisation, enqueue, and dequeue, and a function to check if the queue is empty. Also include a function to check if the queue is full. Demonstrate the use of your ADT by adding three items (10, 20, 30) and then removing two items.",
+        "answer": "MP1: CONSTANT MaxSize = 10. MP2: DECLARE Queue : ARRAY[0:MaxSize-1] OF INTEGER. MP3: DECLARE frontPointer, rearPointer, queueLength : INTEGER. MP4: PROCEDURE Initialise(): frontPointer = 0, rearPointer = -1, queueLength = 0. MP5: FUNCTION isEmpty() RETURNS BOOLEAN: RETURN queueLength = 0. MP6: FUNCTION isFull() RETURNS BOOLEAN: RETURN queueLength = MaxSize. MP7: PROCEDURE Enqueue(item : INTEGER). MP8: IF isFull() THEN OUTPUT 'Queue is full'. MP9: ELSE: rearPointer = (rearPointer + 1) MOD MaxSize. MP10: Queue[rearPointer] = item. MP11: queueLength = queueLength + 1. MP12: ENDIF. MP13: ENDPROCEDURE. MP14: FUNCTION Dequeue() RETURNS INTEGER. MP15: DECLARE item : INTEGER. MP16: IF isEmpty() THEN OUTPUT 'Queue is empty', RETURN -1. MP17: ELSE: item = Queue[frontPointer]. MP18: frontPointer = (frontPointer + 1) MOD MaxSize. MP19: queueLength = queueLength - 1. MP20: RETURN item. MP21: ENDIF. MP22: ENDFUNCTION. MP23: Demonstration: CALL Initialise(). CALL Enqueue(10), CALL Enqueue(20), CALL Enqueue(30). OUTPUT Dequeue() returns 10. OUTPUT Dequeue() returns 20.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_012",
+        "topic": "Stack",
+        "text": "Write complete pseudocode for a stack ADT using a 1D array of size 10. Include procedures for initialisation, push, and pop, and functions to check if the stack is empty and if it is full. Then write a function to reverse a string using the stack ADT (push each character onto the stack, then pop them off).",
+        "answer": "MP1: CONSTANT MaxSize = 10. MP2: DECLARE StackArray : ARRAY[0:MaxSize-1] OF CHAR. MP3: DECLARE TopPointer : INTEGER. MP4: PROCEDURE Initialise(): TopPointer = -1. MP5: FUNCTION isEmpty() RETURNS BOOLEAN: RETURN TopPointer = -1. MP6: FUNCTION isFull() RETURNS BOOLEAN: RETURN TopPointer = MaxSize - 1. MP7: PROCEDURE Push(item : CHAR). MP8: IF isFull() THEN OUTPUT 'Stack is full'. MP9: ELSE: TopPointer = TopPointer + 1. MP10: StackArray[TopPointer] = item. MP11: ENDIF. MP12: ENDPROCEDURE. MP13: FUNCTION Pop() RETURNS CHAR. MP14: DECLARE item : CHAR. MP15: IF isEmpty() THEN OUTPUT 'Stack is empty', RETURN '#'. MP16: ELSE: item = StackArray[TopPointer]. MP17: TopPointer = TopPointer - 1. MP18: RETURN item. MP19: ENDIF. MP20: ENDFUNCTION. MP21: FUNCTION reverseString(inputString : STRING) RETURNS STRING. MP22: DECLARE i : INTEGER, reversed : STRING = ''. MP23: CALL Initialise(). MP24: FOR i = 1 TO LENGTH(inputString). MP25: CALL Push(inputString[i]). MP26: NEXT i. MP27: WHILE NOT isEmpty(). MP28: reversed = reversed + Pop(). MP29: ENDWHILE. MP30: RETURN reversed. MP31: ENDFUNCTION.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_013",
+        "topic": "Graph",
+        "text": "Describe how Dijkstra's algorithm can be used to find the shortest path between two nodes in a weighted graph. Write pseudocode for Dijkstra's algorithm and explain how it works using an example graph with nodes A, B, C, D, E and weighted edges.",
+        "answer": "MP1: Dijkstra's algorithm finds the shortest path between two nodes in a weighted graph. MP2: Pseudocode: DECLARE distances[]. SET distance[start] = 0, others = infinity. DECLARE visited[] = FALSE. REPEAT: find unvisited node with smallest distance, mark visited. FOR each neighbour: newDistance = distance[current] + edgeWeight. IF newDistance < distance[neighbour] THEN distance[neighbour] = newDistance. UNTIL all nodes visited or end node reached. Trace path back from end to start. MP3: Example: nodes A,B,C,D,E. Edges: A-B(5), A-C(6), B-D(4), B-E(6), C-E(6), D-E(11), D-G(12), E-G(6). Start at A. Shortest path from A to G: A->B->E->G with distance 17. MP4: The algorithm works by repeatedly selecting the unvisited node with the smallest tentative distance and updating distances to its neighbours.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_014",
+        "topic": "Big O Notation",
+        "text": "Explain Big O notation in detail. Describe the time complexity of O(1), O(n), O(log n), O(n^2), and O(2^n). Give an example algorithm for each. Explain how Big O notation is used to compare algorithms.",
+        "answer": "MP1: Big O notation describes the performance or complexity of an algorithm in relation to input size n. MP2: O(1) - constant time: algorithm always takes the same time regardless of input size. Example: checking if a number is even or odd. MP3: O(n) - linear time: time grows linearly with n. Example: linear search. MP4: O(log n) - logarithmic time: time grows linearly as n increases exponentially. Example: binary search. MP5: O(n^2) - quadratic time: time grows proportionally to the square of n. Example: bubble sort, insertion sort. MP6: O(2^n) - exponential time: time doubles with each additional input item. Example: recursive Fibonacci (without memoisation). MP7: Big O is used to compare algorithms by focusing on the worst-case scenario, ignoring constants and lower-order terms.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_015",
+        "topic": "Binary Tree",
+        "text": "Write a complete pseudocode program to create an ordered binary tree of integers. Include functions to: (a) insert a new integer into the tree, (b) search for an integer in the tree, (c) perform an in-order traversal to output all values in sorted order. Use a record structure for nodes and implement the tree using a 1D array of records.",
+        "answer": "MP1: TYPE Node. DECLARE item : INTEGER, leftPtr : INTEGER, rightPtr : INTEGER. ENDTYPE. MP2: DECLARE Tree : ARRAY[1:100] OF Node. MP3: DECLARE rootPtr, nextFree, current, previous : INTEGER. MP4: CONSTANT nullPtr = -1. MP5: PROCEDURE Initialise(): rootPtr = nullPtr, nextFree = 1. FOR i = 1 TO 99: Tree[i].leftPtr = i + 1. Tree[100].leftPtr = nullPtr. MP6: PROCEDURE Insert(value : INTEGER). MP7: IF nextFree = nullPtr THEN OUTPUT 'Tree full'. MP8: ELSE: newNode = nextFree, nextFree = Tree[nextFree].leftPtr. MP9: Tree[newNode].item = value, Tree[newNode].leftPtr = nullPtr, Tree[newNode].rightPtr = nullPtr. MP10: IF rootPtr = nullPtr THEN rootPtr = newNode. MP11: ELSE: current = rootPtr. MP12: WHILE current <> nullPtr: previous = current. MP13: IF value < Tree[current].item THEN current = Tree[current].leftPtr, leftBranch = TRUE. MP14: ELSE current = Tree[current].rightPtr, leftBranch = FALSE. MP15: IF leftBranch THEN Tree[previous].leftPtr = newNode ELSE Tree[previous].rightPtr = newNode. MP16: FUNCTION Search(value : INTEGER) RETURNS INTEGER. MP17: current = rootPtr. MP18: WHILE current <> nullPtr AND Tree[current].item <> value. MP19: IF value < Tree[current].item THEN current = Tree[current].leftPtr ELSE current = Tree[current].rightPtr. MP20: RETURN current. MP21: PROCEDURE InOrder(node : INTEGER). MP22: IF node <> nullPtr THEN CALL InOrder(Tree[node].leftPtr), OUTPUT Tree[node].item, CALL InOrder(Tree[node].rightPtr).",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_016",
+        "topic": "Polymorphism",
+        "text": "Write a complete pseudocode OOP program to demonstrate polymorphism. Create a base class Animal with a method makeSound(). Create derived classes Dog, Cat, and Cow that override the makeSound() method. Create an array of Animal objects and call makeSound() on each object, demonstrating that the correct sound is produced for each animal type.",
+        "answer": "MP1: CLASS Animal. MP2: PUBLIC PROCEDURE makeSound(). MP3: OUTPUT 'Animal makes a sound'. MP4: ENDPROCEDURE. MP5: ENDCLASS. MP6: CLASS Dog INHERITS Animal. MP7: PUBLIC OVERRIDE PROCEDURE makeSound(). MP8: OUTPUT 'Dog barks'. MP9: ENDPROCEDURE. MP10: ENDCLASS. MP11: CLASS Cat INHERITS Animal. MP12: PUBLIC OVERRIDE PROCEDURE makeSound(). MP13: OUTPUT 'Cat meows'. MP14: ENDPROCEDURE. MP15: ENDCLASS. MP16: CLASS Cow INHERITS Animal. MP17: PUBLIC OVERRIDE PROCEDURE makeSound(). MP18: OUTPUT 'Cow moos'. MP19: ENDPROCEDURE. MP20: ENDCLASS. MP21: DECLARE animals : ARRAY[1:3] OF Animal. MP22: animals[1] = NEW Dog(). MP23: animals[2] = NEW Cat(). MP24: animals[3] = NEW Cow(). MP25: FOR i = 1 TO 3. MP26: CALL animals[i].makeSound(). MP27: NEXT i. MP28: Outputs: 'Dog barks', 'Cat meows', 'Cow moos'.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_017",
+        "topic": "Containment",
+        "text": "Write a pseudocode OOP program to demonstrate containment (aggregation). Create a class Engine with attributes horsepower and type. Create a class Wheel with attributes size and position. Create a class Car that contains one Engine object and four Wheel objects. Include a constructor to initialise the contained objects and a method to display all car details.",
+        "answer": "MP1: CLASS Engine. MP2: PRIVATE horsepower : INTEGER, type : STRING. MP3: PUBLIC PROCEDURE NEW(hp : INTEGER, t : STRING). MP4: horsepower = hp, type = t. MP5: ENDPROCEDURE. MP6: PUBLIC PROCEDURE Display(). MP7: OUTPUT 'Engine: ', horsepower, 'HP, ', type. MP8: ENDPROCEDURE. MP9: ENDCLASS. MP10: CLASS Wheel. MP11: PRIVATE size : INTEGER, position : STRING. MP12: PUBLIC PROCEDURE NEW(s : INTEGER, p : STRING). MP13: size = s, position = p. MP14: ENDPROCEDURE. MP15: PUBLIC PROCEDURE Display(). MP16: OUTPUT 'Wheel: ', size, 'inch, ', position. MP17: ENDPROCEDURE. MP18: ENDCLASS. MP19: CLASS Car. MP20: PRIVATE carEngine : Engine. MP21: PRIVATE wheels : ARRAY[1:4] OF Wheel. MP22: PUBLIC PROCEDURE NEW(hp : INTEGER, engineType : STRING, wheelSize : INTEGER). MP23: carEngine = NEW Engine(hp, engineType). MP24: wheels[1] = NEW Wheel(wheelSize, 'Front Left'). MP25: wheels[2] = NEW Wheel(wheelSize, 'Front Right'). MP26: wheels[3] = NEW Wheel(wheelSize, 'Rear Left'). MP27: wheels[4] = NEW Wheel(wheelSize, 'Rear Right'). MP28: ENDPROCEDURE. MP29: PUBLIC PROCEDURE Display(). MP30: CALL carEngine.Display(). MP31: FOR i = 1 TO 4: CALL wheels[i].Display(). MP32: ENDPROCEDURE. MP33: ENDCLASS.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_018",
+        "topic": "Low-Level Programming",
+        "text": "Write an assembly language program to find the largest number in an array of 5 numbers stored at addresses 100 to 104. The program should store the result at address 200. Use LDD, ADD, CMP, JMP, and JPE instructions. The instruction set includes LDM (immediate), LDD (direct), LDI (indirect), LDX (indexed), STO, ADD, SUB, CMP, JMP, JPE, JPN.",
+        "answer": "MP1: LDM #0, STO 200 // initialise max to 0. MP2: LDM #100, STO 201 // set index pointer to start address. MP3: LDM #5, STO 202 // set counter to 5. MP4: LOOP: LDI 201 // load value at address pointed to by 201. MP5: CMP 200 // compare with current max. MP6: JPE SKIP // if equal, skip. MP7: JPN SKIP // if less, skip. MP8: STO 200 // if greater, store new max. MP9: SKIP: LDD 201 // load current index. MP10: ADD #1 // increment index. MP11: STO 201 // store back. MP12: LDD 202 // load counter. MP13: SUB #1 // decrement counter. MP14: STO 202 // store back. MP15: CMP #0 // check if counter is 0. MP16: JPN LOOP // if not zero, repeat. MP17: END: JMP END.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_019",
+        "topic": "Declarative Programming",
+        "text": "Write a Prolog knowledge base for a family tree with facts about parents and genders. Include at least 10 people across 3 generations. Write rules to define: (a) father(X,Y) - X is father of Y, (b) mother(X,Y) - X is mother of Y, (c) grandfather(X,Y) - X is grandfather of Y, (d) sibling(X,Y) - X and Y are siblings, (e) ancestor(X,Y) - X is an ancestor of Y (recursive rule). Test your rules with queries.",
+        "answer": "MP1: Facts: male(john), male(mike), male(tom), female(mary), female(sue), female(ann). MP2: parent(john, mike), parent(mary, mike), parent(mike, tom), parent(sue, tom), parent(tom, ann). MP3: father(X,Y) IF male(X) AND parent(X,Y). MP4: mother(X,Y) IF female(X) AND parent(X,Y). MP5: grandfather(X,Y) IF father(X,Z) AND parent(Z,Y). MP6: sibling(X,Y) IF parent(Z,X) AND parent(Z,Y) AND X <> Y. MP7: ancestor(X,Y) IF parent(X,Y). MP8: ancestor(X,Y) IF parent(X,Z) AND ancestor(Z,Y). MP9: Queries: father(john, Who), mother(Who, tom), grandfather(john, ann), sibling(mike, Who), ancestor(john, ann).",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_020",
+        "topic": "File Processing",
+        "text": "Write a complete pseudocode program to create and maintain a random access file of customer records. Each record has fields: customerID (INTEGER, key field), name (STRING), address (STRING), balance (REAL). Include: (a) a hashing function that returns an address based on customerID (use modulus division), (b) a procedure to add a new record using linear probing for collision resolution, (c) a function to find a record by customerID, (d) a procedure to update a customer's balance.",
+        "answer": "MP1: TYPE TCustomerRecord. DECLARE customerID : INTEGER, name : STRING, address : STRING, balance : REAL. ENDTYPE. MP2: DECLARE customerFile : STRING = 'customers.dat'. MP3: CONSTANT MaxRecords = 100. MP4: FUNCTION Hash(ID : INTEGER) RETURNS INTEGER. MP5: RETURN ID MOD MaxRecords + 1. MP6: ENDFUNCTION. MP7: PROCEDURE AddRecord(record : TCustomerRecord). MP8: OPENFILE customerFile FOR RANDOM. MP9: address = Hash(record.customerID). MP10: originalAddress = address. MP11: REPEAT. MP12: SEEK customerFile, address. MP13: GETRECORD customerFile, tempRecord. MP14: IF tempRecord.customerID = 0 THEN // empty slot. MP15: PUTRECORD customerFile, record. MP16: found = TRUE. MP17: ELSE: address = address MOD MaxRecords + 1 // linear probing. MP18: UNTIL found = TRUE OR address = originalAddress. MP19: IF NOT found THEN OUTPUT 'File full'. MP20: CLOSEFILE customerFile. MP21: ENDPROCEDURE. MP22: FUNCTION FindRecord(ID : INTEGER) RETURNS TCustomerRecord. MP23: OPENFILE customerFile FOR RANDOM. MP24: address = Hash(ID). MP25: REPEAT. MP26: SEEK customerFile, address. MP27: GETRECORD customerFile, record. MP28: IF record.customerID = ID THEN found = TRUE. MP29: ELSE address = address MOD MaxRecords + 1. MP30: UNTIL found = TRUE OR address = Hash(ID). MP31: CLOSEFILE customerFile. MP32: RETURN record. MP33: ENDFUNCTION.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_021",
+        "topic": "Recursion",
+        "text": "Write a pseudocode recursive function to solve the Tower of Hanoi problem. The function should take parameters: n (number of disks), source, target, auxiliary. The function should output the steps to move all disks from source to target. Explain the base case and general case. Trace the function for n=3 with source=A, target=C, auxiliary=B.",
+        "answer": "MP1: PROCEDURE hanoi(n : INTEGER, source : CHAR, target : CHAR, auxiliary : CHAR). MP2: IF n = 1 THEN // base case. MP3: OUTPUT 'Move disk 1 from ', source, ' to ', target. MP4: ELSE // general case. MP5: CALL hanoi(n-1, source, auxiliary, target). MP6: OUTPUT 'Move disk ', n, ' from ', source, ' to ', target. MP7: CALL hanoi(n-1, auxiliary, target, source). MP8: ENDIF. MP9: ENDPROCEDURE. MP10: Trace for n=3, source=A, target=C, auxiliary=B. MP11: Output steps: Move disk 1 from A to C. Move disk 2 from A to B. Move disk 1 from C to B. Move disk 3 from A to C. Move disk 1 from B to A. Move disk 2 from B to C. Move disk 1 from A to C. MP12: Base case: n=1 (move directly). General case: move n-1 disks to auxiliary, move largest disk, move n-1 disks to target.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_022",
+        "topic": "OOP",
+        "text": "Write a complete pseudocode OOP program for a banking system. Create a base class BankAccount with attributes accountNumber, holderName, balance. Include methods deposit(amount), withdraw(amount), and getBalance(). Create a derived class SavingsAccount that inherits from BankAccount and adds an attribute interestRate and a method addInterest(). Create another derived class CurrentAccount that inherits from BankAccount and adds an attribute overdraftLimit and overrides the withdraw() method to allow overdraft within the limit. Demonstrate the use of all classes.",
+        "answer": "MP1: CLASS BankAccount. MP2: PROTECTED accountNumber : INTEGER, holderName : STRING, balance : REAL. MP3: PUBLIC PROCEDURE NEW(accNo : INTEGER, name : STRING, initialBalance : REAL). MP4: accountNumber = accNo, holderName = name, balance = initialBalance. MP5: ENDPROCEDURE. MP6: PUBLIC PROCEDURE deposit(amount : REAL). MP7: balance = balance + amount. MP8: ENDPROCEDURE. MP9: PUBLIC PROCEDURE withdraw(amount : REAL). MP10: IF amount <= balance THEN balance = balance - amount ELSE OUTPUT 'Insufficient funds'. MP11: ENDPROCEDURE. MP12: PUBLIC FUNCTION getBalance() RETURNS REAL: RETURN balance. MP13: ENDCLASS. MP14: CLASS SavingsAccount INHERITS BankAccount. MP15: PRIVATE interestRate : REAL. MP16: PUBLIC PROCEDURE NEW(accNo : INTEGER, name : STRING, initialBalance : REAL, rate : REAL). MP17: CALL SUPER(accNo, name, initialBalance). MP18: interestRate = rate. MP19: ENDPROCEDURE. MP20: PUBLIC PROCEDURE addInterest(). MP21: balance = balance * (1 + interestRate / 100). MP22: ENDPROCEDURE. MP23: ENDCLASS. MP24: CLASS CurrentAccount INHERITS BankAccount. MP25: PRIVATE overdraftLimit : REAL. MP26: PUBLIC PROCEDURE NEW(accNo : INTEGER, name : STRING, initialBalance : REAL, limit : REAL). MP27: CALL SUPER(accNo, name, initialBalance). MP28: overdraftLimit = limit. MP29: ENDPROCEDURE. MP30: PUBLIC OVERRIDE PROCEDURE withdraw(amount : REAL). MP31: IF amount <= balance + overdraftLimit THEN balance = balance - amount ELSE OUTPUT 'Overdraft limit exceeded'. MP32: ENDPROCEDURE. MP33: ENDCLASS.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_023",
+        "topic": "Graph",
+        "text": "Explain how the A* algorithm works and how it differs from Dijkstra's algorithm. Write pseudocode for the A* algorithm. Explain the role of the heuristic function and give an example of a heuristic for a grid-based map.",
+        "answer": "MP1: A* algorithm finds the shortest path between two nodes using a heuristic to guide the search. MP2: Each node has g (cost from start), h (heuristic estimate to goal), and f = g + h. MP3: Pseudocode: OPEN = {start}, CLOSED = {}. While OPEN not empty: current = node in OPEN with smallest f. If current = goal: reconstruct path. Remove current from OPEN, add to CLOSED. For each neighbour: if neighbour in CLOSED: skip. tentative_g = current.g + distance. If neighbour not in OPEN or tentative_g < neighbour.g: neighbour.g = tentative_g, neighbour.h = heuristic(neighbour, goal), neighbour.f = neighbour.g + neighbour.h, neighbour.parent = current, add to OPEN if not already. MP4: Difference from Dijkstra: Dijkstra uses only g (actual cost), A* uses g + h (heuristic) to prioritise nodes closer to goal. MP5: Heuristic for grid: Manhattan distance = |x1-x2| + |y1-y2| (if only up/down/left/right moves).",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_024",
+        "topic": "Binary Tree",
+        "text": "Write a pseudocode recursive function to perform an in-order traversal of a binary tree and output the values in sorted order. Write another recursive function to calculate the height of a binary tree (the number of edges on the longest path from root to leaf). Explain the base cases and recursive cases for both functions.",
+        "answer": "MP1: PROCEDURE inOrder(node : INTEGER). MP2: IF node = nullPointer THEN RETURN. MP3: CALL inOrder(Tree[node].leftPtr). MP4: OUTPUT Tree[node].item. MP5: CALL inOrder(Tree[node].rightPtr). MP6: ENDPROCEDURE. MP7: FUNCTION treeHeight(node : INTEGER) RETURNS INTEGER. MP8: IF node = nullPointer THEN RETURN -1 // base case (empty tree). MP9: ELSE: leftHeight = treeHeight(Tree[node].leftPtr). MP10: rightHeight = treeHeight(Tree[node].rightPtr). MP11: IF leftHeight > rightHeight THEN RETURN leftHeight + 1 ELSE RETURN rightHeight + 1. MP12: ENDFUNCTION. MP13: Explanation for in-order: base case when node is null (do nothing); recursive case: traverse left subtree, process current node, traverse right subtree. MP14: Explanation for height: base case when node is null (return -1); recursive case: height = 1 + max(height(left), height(right)).",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_025",
+        "topic": "Exception Handling",
+        "text": "Write a pseudocode program that reads student marks from a text file and calculates the average, highest, and lowest marks. The file contains one mark per line. Use exception handling to manage: (a) file not found, (b) empty file, (c) non-numeric data, (d) negative marks. Output appropriate error messages and continue processing valid data where possible.",
+        "answer": "MP1: DECLARE marks : ARRAY[1:100] OF INTEGER. MP2: DECLARE count, sum, highest, lowest : INTEGER. MP3: DECLARE fileName : STRING = 'marks.txt'. MP4: TRY. MP5: OPENFILE fileName FOR READ. MP6: count = 0, sum = 0, highest = -1, lowest = 101. MP7: WHILE NOT EOF(fileName). MP8: TRY. MP9: READFILE fileName, mark. MP10: IF mark < 0 THEN OUTPUT 'Negative mark ignored: ', mark. MP11: ELSE: count = count + 1, sum = sum + mark. MP12: IF mark > highest THEN highest = mark. MP13: IF mark < lowest THEN lowest = mark. MP14: ENDIF. MP15: EXCEPT InvalidDataException. MP16: OUTPUT 'Non-numeric data found, record ignored'. MP17: ENDTRY. MP18: ENDWHILE. MP19: CLOSEFILE fileName. MP20: IF count = 0 THEN OUTPUT 'No valid marks found'. MP21: ELSE: average = sum / count. MP22: OUTPUT 'Average: ', average, ' Highest: ', highest, ' Lowest: ', lowest. MP23: EXCEPT FileNotFoundException. MP24: OUTPUT 'File not found: ', fileName. MP25: ENDTRY.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_026",
+        "topic": "Linked List",
+        "text": "Write a complete pseudocode program to implement a linked list for storing a list of names in alphabetical order. Include functions/procedures for: (a) initialisation, (b) insert a new name in the correct alphabetical position, (c) delete a name, (d) find a name, (e) display all names. Use arrays to store the data and pointers. Demonstrate your program by inserting 'John', 'Alice', 'Bob', 'Zoe' and then deleting 'Bob'.",
+        "answer": "MP1: CONSTANT MaxSize = 100, nullPtr = -1. MP2: DECLARE names : ARRAY[1:MaxSize] OF STRING. MP3: DECLARE pointers : ARRAY[1:MaxSize] OF INTEGER. MP4: DECLARE startPtr, heapPtr : INTEGER. MP5: PROCEDURE Initialise(). MP6: FOR i = 1 TO MaxSize-1: pointers[i] = i + 1. pointers[MaxSize] = nullPtr. startPtr = nullPtr, heapPtr = 1. MP7: FUNCTION NewNode() RETURNS INTEGER: newNode = heapPtr, heapPtr = pointers[heapPtr], RETURN newNode. MP8: PROCEDURE Insert(name : STRING). MP9: newNode = NewNode(). IF newNode = nullPtr THEN OUTPUT 'List full'. MP10: names[newNode] = name. MP11: IF startPtr = nullPtr THEN startPtr = newNode, pointers[newNode] = nullPtr. MP12: ELSE IF name < names[startPtr] THEN pointers[newNode] = startPtr, startPtr = newNode. MP13: ELSE: current = startPtr. WHILE pointers[current] <> nullPtr AND names[pointers[current]] < name: current = pointers[current]. pointers[newNode] = pointers[current], pointers[current] = newNode. MP14: PROCEDURE Delete(name : STRING). MP15: IF startPtr = nullPtr THEN OUTPUT 'List empty'. MP16: ELSE IF names[startPtr] = name THEN temp = startPtr, startPtr = pointers[startPtr], pointers[temp] = heapPtr, heapPtr = temp. MP17: ELSE: current = startPtr. WHILE pointers[current] <> nullPtr AND names[pointers[current]] <> name: current = pointers[current]. IF pointers[current] = nullPtr THEN OUTPUT 'Name not found'. ELSE: temp = pointers[current], pointers[current] = pointers[temp], pointers[temp] = heapPtr, heapPtr = temp.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_027",
+        "topic": "Sorting",
+        "text": "Compare the performance of bubble sort and insertion sort for different data scenarios: (a) already sorted data, (b) reverse sorted data, (c) random data, (d) partially sorted data. Use Big O notation and explain how many comparisons and swaps each algorithm makes in each scenario. Which algorithm is generally more efficient and why?",
+        "answer": "MP1: Already sorted: Bubble sort - O(n) with swap flag (one pass, no swaps), Insertion sort - O(n) (each element already in place). Both efficient. MP2: Reverse sorted: Bubble sort - O(n^2) with many swaps, Insertion sort - O(n^2) with many shifts. Both inefficient. MP3: Random data: Bubble sort - O(n^2) average, Insertion sort - O(n^2) average but fewer swaps on average than bubble sort. MP4: Partially sorted: Insertion sort performs better because each element is moved to approximately the right place. Bubble sort still requires many passes. MP5: Insertion sort is generally more efficient because it makes fewer comparisons and swaps on average. MP6: Bubble sort can be improved with early termination flag, but insertion sort still outperforms it for most data distributions.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_028",
+        "topic": "Recursion vs Iteration",
+        "text": "Compare recursion and iteration. Write two versions of a function to calculate the factorial of n: one recursive and one iterative. Discuss the advantages and disadvantages of each approach. Explain when recursion is beneficial and when iteration is preferred.",
+        "answer": "MP1: Recursive factorial: FUNCTION factRec(n): IF n=0 THEN RETURN 1 ELSE RETURN n*factRec(n-1). MP2: Iterative factorial: FUNCTION factIter(n): result=1, FOR i=1 TO n: result=result*i, RETURN result. MP3: Advantages of recursion: simpler code for problems that naturally break into smaller versions (e.g., tree traversal, Tower of Hanoi), fewer lines of code. MP4: Disadvantages of recursion: uses more memory (stack space), risk of stack overflow for deep recursion, slower due to function call overhead. MP5: Advantages of iteration: uses less memory, faster execution, no stack overflow risk. MP6: Disadvantages of iteration: more complex code for naturally recursive problems. MP7: Recursion beneficial when problem is recursive in nature (Fibonacci, factorial, tree traversal, divide-and-conquer). MP8: Iteration preferred for simple loops, when performance is critical, or when recursion depth is large.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_029",
+        "topic": "File Processing",
+        "text": "Write a complete pseudocode program to merge two sequential files (FileA.dat and FileB.dat) into a third sequential file (FileC.dat). Both input files contain student records sorted by registerNumber. The merged file should also be sorted by registerNumber. Each record has fields: registerNumber (INTEGER, key), name (STRING), className (STRING). Handle the case where files have different lengths.",
+        "answer": "MP1: TYPE TStudentRecord. DECLARE registerNumber : INTEGER, name : STRING, className : STRING. ENDTYPE. MP2: DECLARE recordA, recordB, recordC : TStudentRecord. MP3: DECLARE fileA, fileB, fileC : STRING. MP4: fileA = 'FileA.dat', fileB = 'FileB.dat', fileC = 'FileC.dat'. MP5: OPENFILE fileA FOR READ, OPENFILE fileB FOR READ, OPENFILE fileC FOR WRITE. MP6: GETRECORD fileA, recordA. MP7: GETRECORD fileB, recordB. MP8: WHILE NOT EOF(fileA) AND NOT EOF(fileB). MP9: IF recordA.registerNumber < recordB.registerNumber THEN. MP10: PUTRECORD fileC, recordA. MP11: GETRECORD fileA, recordA. MP12: ELSE. MP13: PUTRECORD fileC, recordB. MP14: GETRECORD fileB, recordB. MP15: ENDIF. MP16: ENDWHILE. MP17: WHILE NOT EOF(fileA). MP18: PUTRECORD fileC, recordA. MP19: GETRECORD fileA, recordA. MP20: ENDWHILE. MP21: WHILE NOT EOF(fileB). MP22: PUTRECORD fileC, recordB. MP23: GETRECORD fileB, recordB. MP24: ENDWHILE. MP25: CLOSEFILE fileA, CLOSEFILE fileB, CLOSEFILE fileC.",
+        "score": 5
+    },
+    {
+        "id": "q_19_20_05_030",
+        "topic": "Inheritance and Polymorphism",
+        "text": "Write a complete pseudocode OOP program for a shape hierarchy. Create an abstract base class Shape with abstract methods area() and perimeter(). Create derived classes Circle, Rectangle, and Triangle that implement these methods. Write a function that takes an array of Shape objects and prints the area and perimeter of each shape, demonstrating polymorphism. Include constructors for each derived class to initialise their dimensions.",
+        "answer": "MP1: ABSTRACT CLASS Shape. MP2: PUBLIC ABSTRACT FUNCTION area() RETURNS REAL. MP3: PUBLIC ABSTRACT FUNCTION perimeter() RETURNS REAL. MP4: ENDCLASS. MP5: CLASS Circle INHERITS Shape. MP6: PRIVATE radius : REAL. MP7: PUBLIC PROCEDURE NEW(r : REAL): radius = r. MP8: PUBLIC OVERRIDE FUNCTION area() RETURNS REAL: RETURN 3.142 * radius * radius. MP9: PUBLIC OVERRIDE FUNCTION perimeter() RETURNS REAL: RETURN 2 * 3.142 * radius. MP10: ENDCLASS. MP11: CLASS Rectangle INHERITS Shape. MP12: PRIVATE length : REAL, width : REAL. MP13: PUBLIC PROCEDURE NEW(l : REAL, w : REAL): length = l, width = w. MP14: PUBLIC OVERRIDE FUNCTION area() RETURNS REAL: RETURN length * width. MP15: PUBLIC OVERRIDE FUNCTION perimeter() RETURNS REAL: RETURN 2 * (length + width). MP16: ENDCLASS. MP17: CLASS Triangle INHERITS Shape. MP18: PRIVATE sideA, sideB, sideC : REAL. MP19: PUBLIC PROCEDURE NEW(a : REAL, b : REAL, c : REAL): sideA = a, sideB = b, sideC = c. MP20: PUBLIC OVERRIDE FUNCTION area() RETURNS REAL: s = (sideA + sideB + sideC) / 2, RETURN SQRT(s * (s - sideA) * (s - sideB) * (s - sideC)). MP21: PUBLIC OVERRIDE FUNCTION perimeter() RETURNS REAL: RETURN sideA + sideB + sideC. MP22: ENDCLASS. MP23: PROCEDURE displayShapes(shapes : ARRAY[1:3] OF Shape). MP24: FOR i = 1 TO 3. MP25: OUTPUT 'Area: ', shapes[i].area(), ' Perimeter: ', shapes[i].perimeter(). MP26: NEXT i. MP27: ENDPROCEDURE. MP28: DECLARE myShapes : ARRAY[1:3] OF Shape. MP29: myShapes[1] = NEW Circle(5). MP30: myShapes[2] = NEW Rectangle(4, 6). MP31: myShapes[3] = NEW Triangle(3, 4, 5). MP32: CALL displayShapes(myShapes).",
+        "score": 5
+    }]

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Edexcel CS Quiz | Professional</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <!-- PWA manifest (ixtiyoriy, ikonka bo‘lmasa o‘chiring) -->
+    <!-- <link rel="manifest" href="manifest.json"> -->
+</head>
+<body>
+    <div id="app"></div>
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
+
+    <!-- Asosiy fayllar (export/importsiz, oddiy JavaScript) -->
+    <script src="firebase-config.js"></script>
+    <script src="utils.js"></script>
+    <script src="notifications.js"></script>
+    <script src="confetti.js"></script>
+    <script src="theme.js"></script>
+    <script src="ai-grading.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

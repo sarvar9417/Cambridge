@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "q_ch3_b1_01",
+        "topic": "Memory",
+        "text": "What does RAM stand for?",
+        "answer": "Random Access Memory",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_02",
+        "topic": "Memory",
+        "text": "What does ROM stand for?",
+        "answer": "Read Only Memory",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_03",
+        "topic": "Memory",
+        "text": "State one difference between RAM and ROM.",
+        "answer": "RAM is volatile; ROM is non-volatile / RAM can be written to and read from; ROM can only be read from.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_04",
+        "topic": "Memory",
+        "text": "What is meant by 'volatile' memory?",
+        "answer": "Memory that loses its contents when the power is turned off.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_05",
+        "topic": "Memory",
+        "text": "What is the purpose of cache memory?",
+        "answer": "Stores frequently used data and instructions for faster access by the CPU.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_06",
+        "topic": "Storage Devices",
+        "text": "What does HDD stand for?",
+        "answer": "Hard Disk Drive",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_07",
+        "topic": "Storage Devices",
+        "text": "What does SSD stand for?",
+        "answer": "Solid State Drive",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_08",
+        "topic": "Storage Devices",
+        "text": "State one advantage of an SSD over an HDD.",
+        "answer": "Faster access time / no moving parts / lower power consumption / more reliable.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_09",
+        "topic": "Storage Devices",
+        "text": "What type of laser is used in a Blu-ray disc?",
+        "answer": "Blue laser",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_10",
+        "topic": "Input/Output Devices",
+        "text": "What is the function of a sensor?",
+        "answer": "An input device that reads physical data from its surroundings.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_11",
+        "topic": "Input/Output Devices",
+        "text": "What is the function of an actuator?",
+        "answer": "An electromechanical device (e.g., relay, solenoid, motor) that converts electrical signals into physical action.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_12",
+        "topic": "Input/Output Devices",
+        "text": "What does ADC stand for?",
+        "answer": "Analogue to Digital Converter",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_13",
+        "topic": "Input/Output Devices",
+        "text": "What does DAC stand for?",
+        "answer": "Digital to Analogue Converter",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_14",
+        "topic": "Logic Gates",
+        "text": "Draw the symbol for a NOT gate.",
+        "answer": "A triangle with a small circle at the output.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_15",
+        "topic": "Logic Gates",
+        "text": "How many inputs does a NOT gate have?",
+        "answer": "One",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_16",
+        "topic": "Logic Gates",
+        "text": "What is the output of an AND gate when both inputs are 1?",
+        "answer": "1",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_17",
+        "topic": "Logic Gates",
+        "text": "What is the output of an OR gate when both inputs are 0?",
+        "answer": "0",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_18",
+        "topic": "Logic Gates",
+        "text": "What is the output of a NAND gate when both inputs are 1?",
+        "answer": "0",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_19",
+        "topic": "Logic Gates",
+        "text": "What is the output of a NOR gate when both inputs are 0?",
+        "answer": "1",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_20",
+        "topic": "Logic Gates",
+        "text": "What is the output of an XOR gate when the inputs are 0 and 1?",
+        "answer": "1",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_21",
+        "topic": "Embedded Systems",
+        "text": "Define an embedded system.",
+        "answer": "A microprocessor system built into a larger device to control its operation.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_22",
+        "topic": "Embedded Systems",
+        "text": "Give one example of an embedded system.",
+        "answer": "Washing machine controller / microwave oven / car engine management system.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_23",
+        "topic": "Memory",
+        "text": "What is the difference between SRAM and DRAM?",
+        "answer": "SRAM does not need refreshing; DRAM needs constant refreshing.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_24",
+        "topic": "Memory",
+        "text": "What is PROM?",
+        "answer": "Programmable Read Only Memory (can be programmed once).",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_25",
+        "topic": "Memory",
+        "text": "What is EPROM?",
+        "answer": "Erasable Programmable Read Only Memory (erased using UV light).",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_26",
+        "topic": "Memory",
+        "text": "What is EEPROM?",
+        "answer": "Electrically Erasable Programmable Read Only Memory.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_27",
+        "topic": "Input/Output Devices",
+        "text": "What type of sensor would be used to detect if a door is open?",
+        "answer": "Pressure sensor / magnetic sensor / infrared sensor.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_28",
+        "topic": "Input/Output Devices",
+        "text": "What type of sensor would be used to detect light levels?",
+        "answer": "Light sensor / LDR (Light Dependent Resistor).",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_29",
+        "topic": "Input/Output Devices",
+        "text": "What is the purpose of a touchscreen?",
+        "answer": "Acts as both an input and output device; allows selection by touch.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b1_30",
+        "topic": "Logic Gates",
+        "text": "What is a truth table?",
+        "answer": "A table showing all possible input combinations and the corresponding output of a logic gate or circuit.",
+        "score": 1
+    },
+    {
+        "id": "q_ch3_b2_01",
+        "topic": "Memory",
+        "text": "Describe two differences between RAM and ROM.",
+        "answer": "1. RAM is volatile, ROM is non-volatile. 2. RAM can be written to and read from; ROM can only be read from.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_02",
+        "topic": "Memory",
+        "text": "Explain why DRAM needs to be constantly refreshed.",
+        "answer": "DRAM stores data as charge in capacitors; the charge leaks away over time and must be recharged (refreshed) to retain data.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_03",
+        "topic": "Memory",
+        "text": "State two advantages of SRAM over DRAM.",
+        "answer": "Faster access time / does not need refreshing / lower power consumption (when accessed at moderate frequencies).",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_04",
+        "topic": "Storage Devices",
+        "text": "Describe the principal operation of a magnetic hard disk drive.",
+        "answer": "Data is stored magnetically on spinning platters; read/write heads move across the platter surfaces to read or write data.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_05",
+        "topic": "Storage Devices",
+        "text": "State two advantages of a Solid State Drive (SSD) over a Hard Disk Drive (HDD).",
+        "answer": "Faster data access / no moving parts (more reliable) / lower power consumption / quieter operation.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_06",
+        "topic": "Storage Devices",
+        "text": "Describe how data is read from a CD-ROM.",
+        "answer": "A laser shines onto the disc surface; light reflects differently from pits and lands; the changes in reflection are detected and interpreted as binary data.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_07",
+        "topic": "Input/Output Devices",
+        "text": "Describe the function of a Digital to Analogue Converter (DAC).",
+        "answer": "Converts digital data into an analogue electric current that can drive devices such as speakers, motors, or actuators.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_08",
+        "topic": "Input/Output Devices",
+        "text": "Describe the function of an Analogue to Digital Converter (ADC).",
+        "answer": "Converts analogue data (e.g., from a sensor) into digital data that a computer can process.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_09",
+        "topic": "Input/Output Devices",
+        "text": "Explain the difference between a sensor and an actuator.",
+        "answer": "A sensor is an input device that measures physical properties; an actuator is an output device that produces physical action based on electrical signals.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_10",
+        "topic": "Logic Gates",
+        "text": "Complete the truth table for a NAND gate with inputs A and B.",
+        "answer": "00:1, 01:1, 10:1, 11:0",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_11",
+        "topic": "Logic Gates",
+        "text": "Complete the truth table for a NOR gate with inputs A and B.",
+        "answer": "00:1, 01:0, 10:0, 11:0",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_12",
+        "topic": "Logic Gates",
+        "text": "Complete the truth table for an XOR gate with inputs A and B.",
+        "answer": "00:0, 01:1, 10:1, 11:0",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_13",
+        "topic": "Embedded Systems",
+        "text": "State two characteristics of an embedded system.",
+        "answer": "Dedicated to a single task / built into a larger system / contains a processor, memory, and I/O.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_14",
+        "topic": "Embedded Systems",
+        "text": "State two advantages of using an embedded system.",
+        "answer": "Low cost / small size / low power consumption / dedicated to one task (simple to use).",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_15",
+        "topic": "Memory",
+        "text": "Explain the difference between PROM and EPROM.",
+        "answer": "PROM can be programmed once; EPROM can be erased (using UV light) and reprogrammed multiple times.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_16",
+        "topic": "Memory",
+        "text": "Explain the difference between EPROM and EEPROM.",
+        "answer": "EPROM is erased using UV light and must be removed from the device; EEPROM is erased electrically and can be reprogrammed while in the device.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_17",
+        "topic": "Input/Output Devices",
+        "text": "Describe the principal operation of a laser printer.",
+        "answer": "A laser beam creates a static charge on a drum; toner sticks to charged areas; toner is transferred to paper and fused using heat.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_18",
+        "topic": "Input/Output Devices",
+        "text": "Describe the principal operation of an inkjet printer.",
+        "answer": "Tiny nozzles spray droplets of ink onto paper; the print head moves across the page; different coloured inks are combined to create colours.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_19",
+        "topic": "Input/Output Devices",
+        "text": "Describe the principal operation of a microphone.",
+        "answer": "Sound waves cause a diaphragm to vibrate; this moves a coil within a magnetic field, inducing an electric current.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_20",
+        "topic": "Input/Output Devices",
+        "text": "Describe the principal operation of a loudspeaker.",
+        "answer": "An electric current passes through a coil, creating a magnetic field; this interacts with a permanent magnet, causing a cone to vibrate and produce sound.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_21",
+        "topic": "Input/Output Devices",
+        "text": "Explain the difference between capacitive and resistive touchscreens.",
+        "answer": "Capacitive uses the electrical properties of the human body; resistive uses pressure to complete a circuit. Capacitive supports multi-touch; resistive does not.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_22",
+        "topic": "Logic Gates",
+        "text": "Draw the logic circuit for X = A AND (B OR C).",
+        "answer": "An AND gate with inputs A and the output of an OR gate (inputs B and C).",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_23",
+        "topic": "Logic Gates",
+        "text": "Write the Boolean expression for a NAND gate.",
+        "answer": "X = NOT (A AND B) or X = A NAND B",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_24",
+        "topic": "Logic Gates",
+        "text": "Write the Boolean expression for a NOR gate.",
+        "answer": "X = NOT (A OR B) or X = A NOR B",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_25",
+        "topic": "Logic Gates",
+        "text": "What is the output of the logic circuit (A AND B) OR (A AND C) when A=1, B=0, C=1?",
+        "answer": "1",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_26",
+        "topic": "Storage Devices",
+        "text": "State two disadvantages of optical storage compared to magnetic storage.",
+        "answer": "Slower access speed / lower storage capacity / more susceptible to damage (scratches).",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_27",
+        "topic": "Input/Output Devices",
+        "text": "Explain the purpose of a buffer in an input/output device.",
+        "answer": "Temporarily stores data to manage the speed difference between the processor and slower I/O devices.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_28",
+        "topic": "Embedded Systems",
+        "text": "State one drawback of using an embedded system.",
+        "answer": "Difficult to upgrade / difficult to repair / often thrown away rather than repaired (e-waste).",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_29",
+        "topic": "Logic Gates",
+        "text": "Draw the symbol for an AND gate.",
+        "answer": "A D-shaped symbol with two inputs on the left and one output on the right.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b2_30",
+        "topic": "Logic Gates",
+        "text": "Draw the symbol for an OR gate.",
+        "answer": "A curved shield-shaped symbol with two inputs on the left and one output on the right.",
+        "score": 2
+    },
+    {
+        "id": "q_ch3_b3_01",
+        "topic": "Memory",
+        "text": "Compare the use of SRAM and DRAM in a computer system. Give an application for each.",
+        "answer": "SRAM: faster, used for cache memory. DRAM: higher density, lower cost, used for main memory (RAM).",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_02",
+        "topic": "Storage Devices",
+        "text": "Explain the term 'latency' in the context of a hard disk drive.",
+        "answer": "The time it takes for the required sector on a disk to rotate to the read/write head. Also known as rotational delay.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_03",
+        "topic": "Storage Devices",
+        "text": "Explain what is meant by 'disk fragmentation' and how defragmentation software improves performance.",
+        "answer": "Files become scattered across the disk in non-contiguous sectors. Defragmentation reorganises files to be contiguous, reducing head movement and improving access time.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_04",
+        "topic": "Storage Devices",
+        "text": "Describe the principal operation of a 3D printer.",
+        "answer": "Builds up solid objects layer by layer from materials such as powdered resin or metal; uses additive manufacturing.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_05",
+        "topic": "Input/Output Devices",
+        "text": "Explain how a touchscreen detects the point of touch. Describe one technology used.",
+        "answer": "Capacitive: layers of glass act as a capacitor; touching changes the electric field; coordinates are calculated. Resistive: two layers make contact, completing a circuit.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_06",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a Virtual Reality (VR) headset works.",
+        "answer": "Two feeds are sent to LCD/OLED displays; lenses focus the image for each eye; sensors detect head movement to update the image; binaural sound provides 3D audio.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_07",
+        "topic": "Logic Gates",
+        "text": "Draw the logic circuit for X = (A NAND B) OR (B XOR C).",
+        "answer": "A NAND B gate and a B XOR C gate, with their outputs connected to an OR gate.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_08",
+        "topic": "Logic Gates",
+        "text": "Complete the truth table for X = (A AND B) OR NOT C.",
+        "answer": "A=0,B=0,C=0:1; 0,0,1:0; 0,1,0:1; 0,1,1:0; 1,0,0:1; 1,0,1:0; 1,1,0:1; 1,1,1:1",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_09",
+        "topic": "Embedded Systems",
+        "text": "Explain why a microwave oven uses an embedded system rather than a general-purpose computer.",
+        "answer": "An embedded system is cheaper, smaller, consumes less power, and is dedicated to the single task of controlling the microwave.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_10",
+        "topic": "Memory",
+        "text": "Explain why cache memory is typically made from SRAM rather than DRAM.",
+        "answer": "SRAM is faster than DRAM (no refresh cycles) and has lower latency, making it suitable for high-speed cache memory close to the CPU.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_11",
+        "topic": "Storage Devices",
+        "text": "Describe the difference between a CD, DVD, and Blu-ray disc in terms of laser wavelength and storage capacity.",
+        "answer": "CD: red laser (780nm), 700MB. DVD: red laser (650nm), 4.7GB. Blu-ray: blue laser (405nm), 25-50GB. Shorter wavelength allows smaller pits and higher density.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_12",
+        "topic": "Input/Output Devices",
+        "text": "Explain how feedback is used in a control system. Give an example.",
+        "answer": "Output from the system affects subsequent input, allowing the system to adjust itself. Example: central heating uses temperature sensor feedback to turn heater on/off.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_13",
+        "topic": "Logic Gates",
+        "text": "Draw a logic circuit for X = (A OR B) AND (NOT C).",
+        "answer": "An OR gate with inputs A and B; a NOT gate with input C; an AND gate with inputs from the OR gate and NOT gate.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_14",
+        "topic": "Logic Gates",
+        "text": "Write the Boolean expression for the circuit: X = NOT (A AND B) OR (C AND D).",
+        "answer": "X = (A NAND B) OR (C AND D) or X = (NOT(A AND B)) OR (C AND D)",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_15",
+        "topic": "Memory",
+        "text": "Describe the purpose of BIOS and where it is typically stored.",
+        "answer": "Basic Input/Output System; initialises hardware and boots the operating system. Typically stored in ROM or flash memory.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_16",
+        "topic": "Storage Devices",
+        "text": "Explain why solid state drives (SSDs) are more suitable for laptops than hard disk drives (HDDs).",
+        "answer": "SSDs are lighter, consume less power, have no moving parts (more durable for portable devices), and are faster.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_17",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a microphone converts sound into an electrical signal.",
+        "answer": "Sound waves cause a diaphragm to vibrate; a coil attached to the diaphragm moves within a magnetic field, inducing an electric current.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_18",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a loudspeaker converts an electrical signal into sound.",
+        "answer": "Electric current flows through a coil, creating a magnetic field; this interacts with a permanent magnet, causing a cone to vibrate and produce sound waves.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_19",
+        "topic": "Logic Gates",
+        "text": "Complete the truth table for X = (A XOR B) AND NOT C.",
+        "answer": "0,0,0:0; 0,0,1:0; 0,1,0:1; 0,1,1:0; 1,0,0:1; 1,0,1:0; 1,1,0:0; 1,1,1:0",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_20",
+        "topic": "Logic Gates",
+        "text": "Show how an AND gate can be constructed using only NAND gates.",
+        "answer": "Connect two NAND gates in series (first NAND gate output connected to both inputs of second NAND gate).",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_21",
+        "topic": "Logic Gates",
+        "text": "Show how an OR gate can be constructed using only NAND gates.",
+        "answer": "Connect each input to a NAND gate with both inputs tied together (acting as NOT), then connect outputs to a NAND gate.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_22",
+        "topic": "Embedded Systems",
+        "text": "Explain why a car's anti-lock braking system (ABS) is an example of an embedded control system.",
+        "answer": "It is dedicated to a single task (preventing wheel lock), uses sensors to monitor wheel speed, and controls brake pressure automatically using feedback.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_23",
+        "topic": "Memory",
+        "text": "Explain the difference between volatile and non-volatile memory. Give one example of each.",
+        "answer": "Volatile: loses data when power is off (RAM). Non-volatile: retains data when power is off (ROM, HDD, SSD).",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_24",
+        "topic": "Storage Devices",
+        "text": "Describe the principal operation of flash memory.",
+        "answer": "Stores data by controlling the movement of electrons within NAND chips; each cell has a floating gate and a control gate.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_25",
+        "topic": "Input/Output Devices",
+        "text": "Explain the purpose of a printer buffer.",
+        "answer": "Temporarily stores data sent from the computer to the printer; allows the computer to continue processing while the printer prints at its own speed.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_26",
+        "topic": "Logic Gates",
+        "text": "Draw a logic circuit for the expression: X = (A AND NOT B) OR (B AND NOT A).",
+        "answer": "This is an XOR gate: A XOR B. Circuit: A AND NOT B; B AND NOT A; OR gate combining both.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_27",
+        "topic": "Logic Gates",
+        "text": "What is the output of a 3-input AND gate when inputs are 1,1,0?",
+        "answer": "0",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_28",
+        "topic": "Logic Gates",
+        "text": "What is the output of a 3-input OR gate when inputs are 0,0,1?",
+        "answer": "1",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_29",
+        "topic": "Input/Output Devices",
+        "text": "Explain the difference between monitoring and control systems.",
+        "answer": "Monitoring: takes readings but does not take action (e.g., burglar alarm). Control: takes readings AND takes action to change the environment (e.g., central heating).",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b3_30",
+        "topic": "Storage Devices",
+        "text": "Describe one advantage and one disadvantage of using a removable hard disk drive for backups.",
+        "answer": "Advantage: can be stored off-site for security. Disadvantage: slower than internal drives; risk of physical damage or loss.",
+        "score": 3
+    },
+    {
+        "id": "q_ch3_b4_01",
+        "topic": "Memory",
+        "text": "Compare and contrast SRAM, DRAM, PROM, EPROM, and EEPROM. Give an application for each.",
+        "answer": "SRAM: cache (fast). DRAM: main memory (high density). PROM: programmed once (RFID tags). EPROM: erasable with UV (development). EEPROM: electrically erasable (BIOS updates).",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_02",
+        "topic": "Storage Devices",
+        "text": "Explain the differences between magnetic, optical, and solid state storage. Give one example of each.",
+        "answer": "Magnetic: HDD (high capacity, mechanical). Optical: CD/DVD/Blu-ray (laser, removable). Solid state: SSD/flash (no moving parts, fast).",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_03",
+        "topic": "Storage Devices",
+        "text": "Describe the principal operation of a hard disk drive including platters, tracks, sectors, and read/write heads.",
+        "answer": "Platters spin at high speed; surfaces divided into concentric tracks; tracks divided into sectors; read/write heads move across platter surfaces to read/write data.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_04",
+        "topic": "Input/Output Devices",
+        "text": "Describe the stages involved in printing a document using a laser printer.",
+        "answer": "1. Data sent to printer driver. 2. Printer buffer stores data. 3. Drum charged. 4. Laser discharges selected areas. 5. Toner sticks to discharged areas. 6. Toner transferred to paper. 7. Fuser melts toner onto paper.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_05",
+        "topic": "Input/Output Devices",
+        "text": "Describe the stages involved in printing a document using an inkjet printer.",
+        "answer": "1. Data sent to printer driver. 2. Printer buffer stores data. 3. Paper fed in. 4. Print head moves across page, spraying ink droplets. 5. Paper advances. 6. Process repeats until buffer empty.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_06",
+        "topic": "Input/Output Devices",
+        "text": "Explain how OLED screen technology works and give two advantages over LCD.",
+        "answer": "Organic materials between electrodes emit light when current flows; no backlight needed. Advantages: thinner, better contrast, wider viewing angles, lower power consumption.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_07",
+        "topic": "Logic Gates",
+        "text": "Design a logic circuit for a half adder. Show the truth table and Boolean expressions for sum and carry.",
+        "answer": "Sum = A XOR B; Carry = A AND B. Truth table: 00:0,0; 01:1,0; 10:1,0; 11:0,1.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_08",
+        "topic": "Logic Gates",
+        "text": "Design a logic circuit for a full adder using two half adders and an OR gate.",
+        "answer": "First half adder: sum1 = A XOR B, carry1 = A AND B. Second half adder: sum2 = sum1 XOR Cin, carry2 = sum1 AND Cin. Cout = carry1 OR carry2.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_09",
+        "topic": "Logic Gates",
+        "text": "Draw a logic circuit for X = (A NAND B) NOR (C XOR D).",
+        "answer": "A NAND B gate; C XOR D gate; outputs connected to a NOR gate.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_10",
+        "topic": "Embedded Systems",
+        "text": "Explain the advantages and disadvantages of using embedded systems in household appliances.",
+        "answer": "Advantages: low cost, low power, dedicated to task. Disadvantages: difficult to upgrade, hard to repair, often discarded (e-waste).",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_11",
+        "topic": "Storage Devices",
+        "text": "Explain the difference between dual-layer DVD and standard DVD. How does it increase storage capacity?",
+        "answer": "Dual-layer DVD has two recording layers; a transparent spacer separates them; the laser focuses on different layers, effectively doubling capacity.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_12",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a 3D printer uses additive manufacturing to create an object. Include the role of the print head.",
+        "answer": "The print head moves in x, y, and z directions; layers of melted material are built up one at a time from the bottom to create the final object.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_13",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a temperature sensor and an actuator are used to control the temperature in a central heating system.",
+        "answer": "Temperature sensor reads room temperature; if below set point, actuator (valve) opens to allow hot water flow; feedback loop maintains temperature.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_14",
+        "topic": "Logic Gates",
+        "text": "Complete the truth table for the logic circuit: X = (A AND B) OR (B AND C) OR (A AND C). This is a majority circuit.",
+        "answer": "000:0; 001:0; 010:0; 011:1; 100:0; 101:1; 110:1; 111:1",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_15",
+        "topic": "Logic Gates",
+        "text": "Draw a logic circuit for a 2-to-1 multiplexer. The output Y = A when S=0, and Y = B when S=1.",
+        "answer": "Y = (A AND NOT S) OR (B AND S). Circuit: NOT S; A AND NOT S; B AND S; OR gate combining both.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_16",
+        "topic": "Memory",
+        "text": "Explain why a computer uses a hierarchy of memory (registers, cache, RAM, secondary storage).",
+        "answer": "Trade-off between speed, cost, and capacity. Registers fastest but smallest; secondary storage slowest but largest. Hierarchy balances performance and cost.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_17",
+        "topic": "Storage Devices",
+        "text": "Explain the term 'birefringence' in the context of DVD technology and how Blu-ray avoids this problem.",
+        "answer": "Birefringence is refraction of laser light into two beams, causing reading errors. Blu-ray uses a single 1.1mm polycarbonate layer, avoiding the problem.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_18",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a resistive touchscreen works. Give one advantage and one disadvantage.",
+        "answer": "Two layers (polyester and glass) separated by air gap; pressure causes contact, completing a circuit. Advantage: works with any object. Disadvantage: poor sunlight visibility, no multi-touch.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_19",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a capacitive touchscreen works. Give one advantage and one disadvantage.",
+        "answer": "Multiple glass layers form a capacitor; touch changes the electric field; coordinates calculated. Advantage: multi-touch, durable. Disadvantage: only works with bare fingers.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_20",
+        "topic": "Logic Gates",
+        "text": "Design a logic circuit for X = (A XOR B) XOR C. This is a 3-input XOR gate (odd parity generator).",
+        "answer": "Two XOR gates in series: first XOR with inputs A and B; second XOR with output of first and input C.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_21",
+        "topic": "Embedded Systems",
+        "text": "Explain why a modern car contains many embedded systems. Give three examples.",
+        "answer": "Each system is dedicated to a specific task (e.g., ABS, engine management, airbag control, infotainment). They are cost-effective, reliable, and operate in real-time.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_22",
+        "topic": "Logic Gates",
+        "text": "Draw the logic circuit for X = (A AND B) NOR (C OR D).",
+        "answer": "A AND B gate; C OR D gate; outputs connected to a NOR gate.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_23",
+        "topic": "Logic Gates",
+        "text": "Complete the truth table for X = (A NAND B) NAND C.",
+        "answer": "0,0,0:1; 0,0,1:0; 0,1,0:1; 0,1,1:0; 1,0,0:1; 1,0,1:0; 1,1,0:0; 1,1,1:1",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_24",
+        "topic": "Memory",
+        "text": "Explain the difference between static RAM (SRAM) and dynamic RAM (DRAM) in terms of construction and use.",
+        "answer": "SRAM uses flip-flops (transistors), faster, no refresh, used for cache. DRAM uses capacitors and transistors, needs refresh, higher density, used for main memory.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_25",
+        "topic": "Storage Devices",
+        "text": "Describe the difference between single-layer and dual-layer Blu-ray discs.",
+        "answer": "Single-layer: 25GB capacity. Dual-layer: 50GB capacity, two recording layers, laser focuses on different layers to read/write.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_26",
+        "topic": "Input/Output Devices",
+        "text": "Explain the purpose of a virtual reality headset and describe the sensors used to track head movement.",
+        "answer": "Immerses user in virtual environment; uses gyroscopes and accelerometers to detect head movement (rotation, tilt), and LEDs/cameras for positional tracking.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_27",
+        "topic": "Logic Gates",
+        "text": "Show how a NOR gate can be constructed using only NAND gates.",
+        "answer": "Invert each input using NAND gates (both inputs tied together), then NAND the inverted inputs.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_28",
+        "topic": "Logic Gates",
+        "text": "Show how a NAND gate can be constructed using only NOR gates.",
+        "answer": "Invert each input using NOR gates (both inputs tied together), then NOR the inverted inputs.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_29",
+        "topic": "Memory",
+        "text": "Explain what is meant by 'flash memory' and give three applications.",
+        "answer": "A type of EEPROM that stores data in NAND gates. Applications: USB drives, SSDs, memory cards in cameras/phones.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b4_30",
+        "topic": "Logic Gates",
+        "text": "Draw a logic circuit for X = (A OR B) NAND (C OR D).",
+        "answer": "A OR B gate; C OR D gate; outputs connected to a NAND gate.",
+        "score": 4
+    },
+    {
+        "id": "q_ch3_b5_01",
+        "topic": "Memory",
+        "text": "Compare and contrast the different types of ROM: PROM, EPROM, and EEPROM. Explain the advantages of EEPROM for firmware updates.",
+        "answer": "PROM: one-time programmable. EPROM: UV-erasable, must be removed. EEPROM: electrically erasable in-circuit. EEPROM allows updates without removal, ideal for BIOS/firmware.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_02",
+        "topic": "Storage Devices",
+        "text": "Explain the differences between CD, DVD, and Blu-ray technologies in terms of laser wavelength, pit size, track pitch, and storage capacity.",
+        "answer": "CD: 780nm red laser, 1.6μm track pitch, 700MB. DVD: 650nm red laser, 0.74μm track pitch, 4.7GB. Blu-ray: 405nm blue laser, 0.30μm track pitch, 25-50GB.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_03",
+        "topic": "Input/Output Devices",
+        "text": "Describe the complete process of converting analogue sound to digital data using a microphone and ADC, and then back to analogue using a DAC and speaker.",
+        "answer": "Sound waves → microphone → analogue signal → ADC → digital data stored. Playback: digital data → DAC → analogue signal → amplifier → speaker → sound waves.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_04",
+        "topic": "Input/Output Devices",
+        "text": "Explain how a touchscreen can act as both an input and output device. Describe the difference between resistive and capacitive technologies.",
+        "answer": "Output: displays image. Input: detects touch. Resistive: pressure-sensitive, works with any object, no multi-touch. Capacitive: electrical field change, multi-touch, only bare fingers.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_05",
+        "topic": "Logic Gates",
+        "text": "Design a logic circuit that detects when two out of three inputs (A, B, C) are 1. This is a majority vote circuit. Show the truth table and Boolean expression.",
+        "answer": "Expression: X = (A AND B) OR (A AND C) OR (B AND C). Truth table: 3 ones:1; 2 ones:1; otherwise:0.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_06",
+        "topic": "Logic Gates",
+        "text": "Design a 1-bit full adder circuit using only NAND gates. Show the circuit diagram and explain how it works.",
+        "answer": "Full adder requires 9 NAND gates. Sum = (A NAND B) NAND (Cin NAND (A NAND B)) etc. Detailed circuit diagram required.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_07",
+        "topic": "Logic Gates",
+        "text": "Explain how a JK flip-flop works and describe its advantage over an SR flip-flop. Draw the truth table for a JK flip-flop.",
+        "answer": "JK flip-flop has no invalid state; toggles when J=K=1. Truth table: J=0,K=0: no change; J=0,K=1: reset; J=1,K=0: set; J=1,K=1: toggle.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_08",
+        "topic": "Logic Gates",
+        "text": "Explain how an SR flip-flop works. Show the circuit using NOR gates and explain the invalid state.",
+        "answer": "Two cross-coupled NOR gates. S=1,R=0: set (Q=1). S=0,R=1: reset (Q=0). S=0,R=0: hold. S=1,R=1: invalid (both outputs 0).",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_09",
+        "topic": "Embedded Systems",
+        "text": "Evaluate the use of embedded systems in medical devices such as pacemakers. Discuss advantages and potential risks.",
+        "answer": "Advantages: dedicated function, real-time response, small size. Risks: failure could be life-threatening, difficult to update, security vulnerabilities.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_10",
+        "topic": "Storage Devices",
+        "text": "Explain the concept of 'latency' in hard disk drives and compare it with solid state drives. Why do SSDs have lower latency?",
+        "answer": "HDD latency includes seek time (head movement) and rotational delay. SSDs have no moving parts, so access time is nearly constant and much lower.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_11",
+        "topic": "Input/Output Devices",
+        "text": "Describe the process of 3D printing using binder technology. Compare it with direct 3D printing.",
+        "answer": "Binder: two passes per layer (dry powder then binding agent). Direct: print head moves in x,y,z, layers of melted material built up using nozzles.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_12",
+        "topic": "Logic Gates",
+        "text": "Design a 4-bit binary adder using four full adder circuits. Draw the block diagram and explain how carry propagates.",
+        "answer": "Four full adders connected in series; carry output of each connected to carry input of the next. First carry input = 0. Outputs are sum bits and final carry.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_13",
+        "topic": "Memory",
+        "text": "Explain the memory hierarchy in a computer system from fastest to slowest. Justify why each level is necessary.",
+        "answer": "Registers → L1 cache → L2 cache → L3 cache → RAM → SSD → HDD. Trade-off between speed, cost, and capacity; each level balances performance and expense.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_14",
+        "topic": "Logic Gates",
+        "text": "Design a 2-bit comparator circuit that outputs 1 when A = B (where A = A1A0, B = B1B0). Show the truth table and circuit.",
+        "answer": "X = (A0 XOR B0)' AND (A1 XOR B1)'. Use XNOR gates for each bit, then AND the outputs.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_15",
+        "topic": "Storage Devices",
+        "text": "Explain the difference between formatting a hard disk and defragmenting a hard disk. Why is defragmentation not needed for SSDs?",
+        "answer": "Formatting prepares disk for use (creates file system). Defragmentation reorganises files to be contiguous. SSDs have no moving parts, so fragmentation doesn't affect access time.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_16",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a virtual reality headset uses sensors to track head movement and eye movement to create an immersive experience.",
+        "answer": "Gyroscopes/accelerometers track head rotation; LEDs/cameras track position. Infrared sensors track eye movement for depth-of-field effects. Binaural sound provides 3D audio.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_17",
+        "topic": "Logic Gates",
+        "text": "Design a logic circuit for a 4-to-1 multiplexer. Show the truth table and Boolean expression.",
+        "answer": "Output Y = (A AND NOT S1 AND NOT S0) OR (B AND NOT S1 AND S0) OR (C AND S1 AND NOT S0) OR (D AND S1 AND S0).",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_18",
+        "topic": "Memory",
+        "text": "Explain the concept of 'bad sectors' on a hard disk. What is the difference between hard and soft bad sectors?",
+        "answer": "Hard bad sectors: physical damage, cannot be repaired. Soft bad sectors: data corruption, can be repaired by reformatting or writing zeros.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_19",
+        "topic": "Input/Output Devices",
+        "text": "Describe how an anti-lock braking system (ABS) uses sensors, actuators, and feedback to prevent wheel lock. Explain the role of the microprocessor.",
+        "answer": "Magnetic sensors monitor wheel speed; if wheel slows too quickly, microprocessor reduces brake pressure via actuator (valve); feedback loop maintains optimal braking.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_20",
+        "topic": "Logic Gates",
+        "text": "Design a 3-input XOR gate (odd parity generator) using only 2-input XOR gates. Show the circuit and explain the output.",
+        "answer": "Two XOR gates in series: first XOR with inputs A and B; second XOR with output of first and input C. Output is 1 when odd number of inputs are 1.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_21",
+        "topic": "Storage Devices",
+        "text": "Explain the term 'SSD endurance' and why it is a concern for servers. How do manufacturers address this issue?",
+        "answer": "SSD endurance is the number of write operations before failure. Servers have many writes, so SSDs may wear out faster. Manufacturers use wear levelling and over-provisioning.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_22",
+        "topic": "Input/Output Devices",
+        "text": "Describe the differences between direct 3D printing and binder 3D printing. Give an application for each.",
+        "answer": "Direct: melted material extruded from nozzle (FDM), for plastic prototypes. Binder: powder with binding agent, for metal/ceramic objects (e.g., artificial bone).",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_23",
+        "topic": "Logic Gates",
+        "text": "Design a 4-bit binary decoder that outputs a 1 on the line corresponding to the binary input (0000 to 1111).",
+        "answer": "Uses 16 AND gates, each with 4 inputs (some inverted). For input 0011, AND gate with NOT A, NOT B, C, D outputs 1.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_24",
+        "topic": "Memory",
+        "text": "Explain the difference between volatile and non-volatile memory and give examples of where each is used. Why is volatile memory still used?",
+        "answer": "Volatile: RAM (temporary data). Non-volatile: ROM, HDD, SSD (permanent storage). Volatile memory is faster and used for active data/programs.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_25",
+        "topic": "Logic Gates",
+        "text": "Design a logic circuit for a 1-bit ALU that can perform AND, OR, and addition (using a full adder). Use select lines to choose the operation.",
+        "answer": "AND gate, OR gate, full adder; outputs connected to a multiplexer with select lines S0,S1. Addition uses full adder, carry out also output.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_26",
+        "topic": "Input/Output Devices",
+        "text": "Describe how a sensor and actuator are used in a smart home system for temperature control. Explain the role of feedback.",
+        "answer": "Temperature sensor measures room temperature; actuator controls heating valve or AC; feedback loop maintains set temperature by turning heating on/off.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_27",
+        "topic": "Storage Devices",
+        "text": "Explain why defragmentation software is important for HDDs but not for SSDs. What utility is recommended for SSDs instead?",
+        "answer": "HDD fragmentation causes head movement, slowing access. SSDs have no moving parts; TRIM command is used to manage free space and maintain performance.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_28",
+        "topic": "Logic Gates",
+        "text": "Design a 4-bit magnitude comparator that outputs 1 when A > B, 1 when A = B, and 1 when A < B.",
+        "answer": "Compare from MSB to LSB using AND, OR, and XOR gates. A=B: all bit pairs equal. A>B: first differing bit has A=1,B=0.",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_29",
+        "topic": "Memory",
+        "text": "Explain how flash memory stores data using NAND gates. What is the difference between SLC, MLC, and TLC flash?",
+        "answer": "NAND flash uses floating gate transistors. SLC: 1 bit per cell (fastest, most durable). MLC: 2 bits per cell. TLC: 3 bits per cell (cheapest, least durable).",
+        "score": 5
+    },
+    {
+        "id": "q_ch3_b5_30",
+        "topic": "Logic Gates",
+        "text": "Design a 3-to-8 decoder using only NAND gates. Show the circuit diagram and explain how it works.",
+        "answer": "Use three inputs (A,B,C) to select one of eight outputs. Each output is a NAND of a combination of inputs (some inverted). Requires 8 NAND gates with 3 inputs each.",
+        "score": 5
+    }
+]

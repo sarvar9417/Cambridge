@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Bobodehqonning Vasiyati - Timer va Zar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            background: linear-gradient(135deg, #1e4a1e 0%, #2d6a2d 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            background: #fef7e0;
+            border-radius: 48px;
+            box-shadow: 0 30px 50px rgba(0,0,0,0.4);
+            padding: 30px 25px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #3c280a;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        h1 small {
+            font-size: 0.8rem;
+            background: #d9b650;
+            padding: 6px 12px;
+            border-radius: 40px;
+            color: #1e3a1e;
+            font-weight: normal;
+        }
+
+        .sub {
+            border-left: 5px solid #c97e2a;
+            padding-left: 15px;
+            margin: 10px auto 30px auto;
+            color: #4a3b1c;
+            font-style: italic;
+            max-width: 400px;
+        }
+
+        /* Timer bo'limi */
+        .timer-section {
+            background: #2c2c2c;
+            border-radius: 60px;
+            padding: 20px 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+
+        .timer-label {
+            color: #ffd966;
+            font-size: 1rem;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+
+        .timer-display {
+            font-family: 'Courier New', monospace;
+            font-size: 4.5rem;
+            font-weight: bold;
+            background: #000;
+            color: #0f0;
+            display: inline-block;
+            padding: 10px 35px;
+            border-radius: 60px;
+            letter-spacing: 8px;
+            margin: 10px 0;
+            text-shadow: 0 0 5px #0f0;
+        }
+
+        .timer-buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .timer-buttons button {
+            background: #d9b650;
+            border: none;
+            font-size: 1.1rem;
+            font-weight: bold;
+            padding: 10px 28px;
+            border-radius: 40px;
+            cursor: pointer;
+            transition: 0.1s linear;
+            box-shadow: 0 3px 6px rgba(0,0,0,0.3);
+        }
+
+        .timer-buttons button:hover {
+            background: #c2892a;
+            transform: scale(0.97);
+            color: white;
+        }
+
+        /* 3D Zar bo'limi */
+        .dice-section {
+            background: #e9e2c7;
+            border-radius: 48px;
+            padding: 30px 20px;
+            margin-bottom: 20px;
+        }
+
+        .dice-title {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #5a3a1a;
+            margin-bottom: 25px;
+        }
+
+        .scene {
+            width: 200px;
+            height: 200px;
+            margin: 0 auto 30px auto;
+            perspective: 800px;
+        }
+
+        .dice-3d {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.1s ease;
+            cursor: pointer;
+        }
+
+        .face {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            background: white;
+            border-radius: 24px;
+            box-shadow: inset 0 0 15px rgba(0,0,0,0.1), 0 8px 20px rgba(0,0,0,0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            font-weight: bold;
+            border: 2px solid #d9b650;
+        }
+
+        /* 6 tomonni joylash */
+        .front  { transform: translateZ(100px); background: #fff8f0; }
+        .back   { transform: rotateY(180deg) translateZ(100px); background: #fff8f0; }
+        .right  { transform: rotateY(90deg) translateZ(100px); background: #fff8f0; }
+        .left   { transform: rotateY(-90deg) translateZ(100px); background: #fff8f0; }
+        .top    { transform: rotateX(90deg) translateZ(100px); background: #fff8f0; }
+        .bottom { transform: rotateX(-90deg) translateZ(100px); background: #fff8f0; }
+
+        .face .dot {
+            font-size: 5rem;
+        }
+
+        .roll-btn {
+            background: #7a5a3a;
+            color: white;
+            border: none;
+            font-size: 1.5rem;
+            font-weight: bold;
+            padding: 14px 40px;
+            border-radius: 60px;
+            cursor: pointer;
+            transition: 0.1s;
+            box-shadow: 0 5px 0 #4a3a1a;
+            margin-top: 10px;
+        }
+
+        .roll-btn:active {
+            transform: translateY(2px);
+            box-shadow: 0 2px 0 #4a3a1a;
+        }
+
+        .roll-btn:hover {
+            background: #9b6e3e;
+        }
+
+        .result-message {
+            margin-top: 25px;
+            padding: 15px;
+            background: #2c2c2c;
+            border-radius: 50px;
+            color: #ffd966;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+
+        footer {
+            margin-top: 30px;
+            font-size: 0.75rem;
+            color: #6b5a3a;
+            text-align: center;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            100% { transform: scale(1.02); }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>
+        🌾 BOBODEHQONNING VASIYATI
+        <small>Timer va Zar</small>
+    </h1>
+    <div class="sub">🎲 Vaqtni boshqaring, zarni tashlang</div>
+
+    <!-- TIMER QISMI -->
+    <div class="timer-section">
+        <div class="timer-label">⏱️ MUHOKAMA VAQTI</div>
+        <div class="timer-display" id="timerDisplay">02:00</div>
+        <div class="timer-buttons">
+            <button id="timerStartBtn">▶ Boshlash</button>
+            <button id="timerPauseBtn">⏸ To‘xtat</button>
+            <button id="timerResetBtn">🔄 Qayta</button>
+        </div>
+    </div>
+
+    <!-- 3D ZAR QISMI -->
+    <div class="dice-section">
+        <div class="dice-title">🎲 TALON (ZAR) 🎲</div>
+        
+        <div class="scene">
+            <div class="dice-3d" id="dice3d">
+                <div class="face front"><span class="dot">⚀</span></div>
+                <div class="face back"><span class="dot">⚁</span></div>
+                <div class="face right"><span class="dot">⚂</span></div>
+                <div class="face left"><span class="dot">⚃</span></div>
+                <div class="face top"><span class="dot">⚄</span></div>
+                <div class="face bottom"><span class="dot">⚅</span></div>
+            </div>
+        </div>
+        
+        <button class="roll-btn" id="rollDiceBtn">🎲 TOSHNI TASHLA</button>
+        
+        <div class="result-message" id="resultMessage">
+            Zar natijasi bu yerda ko'rinadi
+        </div>
+    </div>
+
+    <footer>
+        📌 1) Timer guruh muhokamasi uchun (2 daqiqa).<br>
+        🎲 2) Zarni tashlang — 3-4 soniya davomida 3D aylanadi va natija chiqadi.
+    </footer>
+</div>
+
+<script>
+    // =============== TIMER ===============
+    let timerInterval = null;
+    let timeLeft = 120; // 2 daqiqa = 120 sekund
+    const timerDisplay = document.getElementById('timerDisplay');
+    
+    function updateTimerDisplay() {
+        let mins = Math.floor(timeLeft / 60);
+        let secs = timeLeft % 60;
+        timerDisplay.textContent = `${mins.toString().padStart(2,'0')}:${secs.toString().padStart(2,'0')}`;
+        if(timeLeft <= 0 && timerInterval) {
+            clearInterval(timerInterval);
+            timerInterval = null;
+            alert("⏰ Vaqt tugadi! Muhokama yakunlandi.");
+        }
+    }
+    
+    document.getElementById('timerStartBtn').addEventListener('click', () => {
+        if(timerInterval) clearInterval(timerInterval);
+        timerInterval = setInterval(() => {
+            if(timeLeft > 0) {
+                timeLeft--;
+                updateTimerDisplay();
+            } else {
+                clearInterval(timerInterval);
+                timerInterval = null;
+            }
+        }, 1000);
+    });
+    
+    document.getElementById('timerPauseBtn').addEventListener('click', () => {
+        if(timerInterval) {
+            clearInterval(timerInterval);
+            timerInterval = null;
+        }
+    });
+    
+    document.getElementById('timerResetBtn').addEventListener('click', () => {
+        if(timerInterval) {
+            clearInterval(timerInterval);
+            timerInterval = null;
+        }
+        timeLeft = 120;
+        updateTimerDisplay();
+    });
+    
+    // =============== 3D ZAR (3-4 soniya animatsiya) ===============
+    const dice3d = document.getElementById('dice3d');
+    const resultMessageDiv = document.getElementById('resultMessage');
+    let isRolling = false;
+    let rollTimeout = null;
+    let animationInterval = null;
+    
+    // Tasodifiy aylanish burchaklarini yaratish
+    function getRandomRotation() {
+        // Har bir o'q bo'yicha 2-3 to'liq aylanish + tasodifiy yakuniy burchak
+        const x = (Math.floor(Math.random() * 4) + 2) * 360 + Math.floor(Math.random() * 360);
+        const y = (Math.floor(Math.random() * 4) + 2) * 360 + Math.floor(Math.random() * 360);
+        const z = (Math.floor(Math.random() * 4) + 2) * 360 + Math.floor(Math.random() * 360);
+        return { x, y, z };
+    }
+    
+    // Yakuniy burchakni 1-6 natijasiga moslab belgilash (old tomoni qaysi raqam ko'rinsin)
+    // Biz har bir natija uchun old tomonni belgilaymiz (front face)
+    function getFinalRotationForNumber(num) {
+        // Standart kub: front = 1, back = 6, right = 3, left = 4, top = 2, bottom = 5
+        // Natijaga mos keladigan rotatsiya (old tomonda kerakli raqam)
+        switch(num) {
+            case 1: return { x: 0, y: 0, z: 0 };        // front = 1
+            case 2: return { x: -90, y: 0, z: 0 };      // top = 2
+            case 3: return { x: 0, y: 90, z: 0 };       // right = 3
+            case 4: return { x: 0, y: -90, z: 0 };      // left = 4
+            case 5: return { x: 90, y: 0, z: 0 };       // bottom = 5
+            case 6: return { x: 0, y: 180, z: 0 };      // back = 6
+            default: return { x: 0, y: 0, z: 0 };
+        }
+    }
+    
+    function stopRollingAnimation() {
+        if(animationInterval) {
+            clearInterval(animationInterval);
+            animationInterval = null;
+        }
+        if(rollTimeout) {
+            clearTimeout(rollTimeout);
+            rollTimeout = null;
+        }
+    }
+    
+    function rollDice() {
+        if(isRolling) return;
+        isRolling = true;
+        stopRollingAnimation();
+        
+        // Animatsiya davomiyligi: 3.5 soniya (3500ms)
+        const animationDuration = 3500; // 3.5 sekund
+        const startTime = Date.now();
+        
+        // Har 50ms da tasodifiy rotatsiya qilish
+        animationInterval = setInterval(() => {
+            const elapsed = Date.now() - startTime;
+            if(elapsed >= animationDuration) {
+                // Animatsiya tugadi
+                clearInterval(animationInterval);
+                animationInterval = null;
+                
+                // Yakuniy natijani aniqlash (1-6)
+                const finalNumber = Math.floor(Math.random() * 6) + 1;
+                const finalRot = getFinalRotationForNumber(finalNumber);
+                dice3d.style.transform = `rotateX(${finalRot.x}deg) rotateY(${finalRot.y}deg) rotateZ(${finalRot.z}deg)`;
+                
+                // Natijaga mos xabar
+                let message = '';
+                const symbols = ['⚀', '⚁', '⚂', '⚃', '⚄', '⚅'];
+                if(finalNumber === 1) message = '🌊 Suv toshqini! Hosil yarmiga kamaydi.';
+                else if(finalNumber === 3) message = '🏜️ Qurg‘oqchilik! Hosil yarmiga kamaydi.';
+                else if(finalNumber === 6) message = '🌀 Tabiiy ofat! Hosil yarmiga kamaydi.';
+                else if(finalNumber === 2 || finalNumber === 4 || finalNumber === 5) message = '🌞 Baraka! Hosil 3 barobar ko‘paydi. Tabriklaymiz!';
+                
+                resultMessageDiv.innerHTML = `🎲 ${symbols[finalNumber-1]} ${finalNumber} — ${message}`;
+                isRolling = false;
+                return;
+            }
+            
+            // Har bir intervalda tasodifiy tez aylantirish
+            const randX = Math.floor(Math.random() * 720);
+            const randY = Math.floor(Math.random() * 720);
+            const randZ = Math.floor(Math.random() * 360);
+            dice3d.style.transform = `rotateX(${randX}deg) rotateY(${randY}deg) rotateZ(${randZ}deg)`;
+        }, 30); // 30ms da bir marta tez aylanish
+        
+        // Xavfsizlik uchun: 4 soniyadan keyin majburan to'xtatish
+        rollTimeout = setTimeout(() => {
+            if(isRolling) {
+                if(animationInterval) clearInterval(animationInterval);
+                animationInterval = null;
+                const finalNumber = Math.floor(Math.random() * 6) + 1;
+                const finalRot = getFinalRotationForNumber(finalNumber);
+                dice3d.style.transform = `rotateX(${finalRot.x}deg) rotateY(${finalRot.y}deg) rotateZ(${finalRot.z}deg)`;
+                const symbols = ['⚀', '⚁', '⚂', '⚃', '⚄', '⚅'];
+                let message = '';
+                if(finalNumber === 1) message = '🌊 Suv toshqini! Hosil yarmiga kamaydi.';
+                else if(finalNumber === 3) message = '🏜️ Qurg‘oqchilik! Hosil yarmiga kamaydi.';
+                else if(finalNumber === 6) message = '🌀 Tabiiy ofat! Hosil yarmiga kamaydi.';
+                else if(finalNumber === 2 || finalNumber === 4 || finalNumber === 5) message = '🌞 Baraka! Hosil 3 barobar ko‘paydi.';
+                resultMessageDiv.innerHTML = `🎲 ${symbols[finalNumber-1]} ${finalNumber} — ${message}`;
+                isRolling = false;
+            }
+        }, 4000);
+    }
+    
+    document.getElementById('rollDiceBtn').addEventListener('click', rollDice);
+    
+    // Dastlabki holat: 1 raqami old tomonda
+    dice3d.style.transform = 'rotateX(0deg) rotateY(0deg) rotateZ(0deg)';
+    
+    // Qo'shimcha: timer tugaganda ovozsiz ogohlantirish
+    updateTimerDisplay();
+</script>
+</body>
+</html>

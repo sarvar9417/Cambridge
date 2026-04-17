@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "q_ch4_b1_01",
+        "topic": "CPU Architecture",
+        "text": "What does CPU stand for?",
+        "answer": "Central Processing Unit",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_02",
+        "topic": "CPU Architecture",
+        "text": "State the function of the Arithmetic Logic Unit (ALU).",
+        "answer": "Performs arithmetic and logical operations.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_03",
+        "topic": "CPU Architecture",
+        "text": "What is the role of the Control Unit (CU)?",
+        "answer": "Controls and coordinates the activities of the CPU by sending control signals.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_04",
+        "topic": "Registers",
+        "text": "What does the acronym PC stand for in processor fundamentals?",
+        "answer": "Program Counter",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_05",
+        "topic": "Registers",
+        "text": "What is stored in the Program Counter (PC)?",
+        "answer": "The address of the next instruction to be fetched/executed.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_06",
+        "topic": "Registers",
+        "text": "State the purpose of the Accumulator (ACC).",
+        "answer": "A general purpose register that stores intermediate results of calculations.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_07",
+        "topic": "CPU Architecture",
+        "text": "What is the function of the system clock?",
+        "answer": "Produces timing signals to synchronise all computer operations.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_08",
+        "topic": "Buses",
+        "text": "Which bus carries the addresses of memory locations?",
+        "answer": "Address bus",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_09",
+        "topic": "Buses",
+        "text": "Is the data bus unidirectional or bidirectional?",
+        "answer": "Bidirectional",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_10",
+        "topic": "Fetch-Execute Cycle",
+        "text": "What happens during the fetch stage of the fetch-execute cycle?",
+        "answer": "The next instruction is fetched from memory and stored in the CIR.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_11",
+        "topic": "Assembly Language",
+        "text": "What is a mnemonic in assembly language?",
+        "answer": "A human-readable representation of a machine code instruction.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_12",
+        "topic": "Assembly Language",
+        "text": "State the difference between machine code and assembly language.",
+        "answer": "Machine code is binary; assembly language uses mnemonics.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_13",
+        "topic": "Registers",
+        "text": "What does MAR stand for?",
+        "answer": "Memory Address Register",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_14",
+        "topic": "Registers",
+        "text": "What does MDR stand for?",
+        "answer": "Memory Data Register (or Memory Buffer Register)",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_15",
+        "topic": "CPU Architecture",
+        "text": "What is the stored program concept?",
+        "answer": "The idea that both instructions and data are stored in memory.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_16",
+        "topic": "Interrupts",
+        "text": "Define an interrupt.",
+        "answer": "A signal sent from a device or software to the processor requesting attention.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_17",
+        "topic": "Interrupts",
+        "text": "What is an Interrupt Service Routine (ISR)?",
+        "answer": "Software that handles an interrupt request.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_18",
+        "topic": "Assembly Language",
+        "text": "What is the function of the 'END' instruction in assembly language?",
+        "answer": "Returns control to the operating system.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_19",
+        "topic": "Bit Manipulation",
+        "text": "What is a logical shift?",
+        "answer": "A shift where bits shifted out are replaced with zeros.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_20",
+        "topic": "CPU Architecture",
+        "text": "What is the IAS (Immediate Access Store)?",
+        "answer": "Another name for primary memory (RAM).",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_21",
+        "topic": "Addressing Modes",
+        "text": "What is immediate addressing?",
+        "answer": "The operand itself is the data value.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_22",
+        "topic": "Registers",
+        "text": "What is the purpose of the Index Register (IX)?",
+        "answer": "Used in indexed addressing; holds a value added to an address.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_23",
+        "topic": "Assembly Language",
+        "text": "What is an assembler?",
+        "answer": "A program that translates assembly language into machine code.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_24",
+        "topic": "Bit Manipulation",
+        "text": "What is a cyclic shift?",
+        "answer": "Bits shifted out of one end are introduced at the other end.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_25",
+        "topic": "CPU Architecture",
+        "text": "What is overclocking?",
+        "answer": "Changing the clock speed to a value higher than the factory setting.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_26",
+        "topic": "Registers",
+        "text": "What is stored in the Current Instruction Register (CIR)?",
+        "answer": "The current instruction being decoded and executed.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_27",
+        "topic": "Assembly Language",
+        "text": "What does the 'IN' instruction do?",
+        "answer": "Inputs a character from the keyboard and stores its ASCII value in ACC.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_28",
+        "topic": "Bit Manipulation",
+        "text": "What is a mask in bit manipulation?",
+        "answer": "A number used with logical operators to identify, remove, or set bits.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_29",
+        "topic": "CPU Architecture",
+        "text": "What is cache memory?",
+        "answer": "High speed memory that stores frequently used data for faster access.",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b1_30",
+        "topic": "Interrupts",
+        "text": "What does ISR stand for?",
+        "answer": "Interrupt Service Routine",
+        "score": 1
+    },
+    {
+        "id": "q_ch4_b2_01",
+        "topic": "Registers",
+        "text": "Describe the role of the Memory Address Register (MAR) in the fetch-execute cycle.",
+        "answer": "Stores the address of the memory location currently being read from or written to.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_02",
+        "topic": "Registers",
+        "text": "Describe the role of the Memory Data Register (MDR) in the fetch-execute cycle.",
+        "answer": "Holds the data which has just been read from memory or is about to be written to memory.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_03",
+        "topic": "Registers",
+        "text": "Describe the role of the Program Counter (PC).",
+        "answer": "Stores the address of the next instruction to be fetched from memory.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_04",
+        "topic": "Registers",
+        "text": "Describe the role of the Accumulator (ACC).",
+        "answer": "A temporary general purpose register that stores numerical values during ALU operations.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_05",
+        "topic": "CPU Architecture",
+        "text": "Describe the function of the Control Unit (CU).",
+        "answer": "Reads an instruction from memory, interprets it, and generates control signals along the control bus.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_06",
+        "topic": "Buses",
+        "text": "Explain the difference between the address bus and the data bus.",
+        "answer": "Address bus carries addresses (unidirectional); data bus carries data (bidirectional).",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_07",
+        "topic": "Buses",
+        "text": "Why is the address bus unidirectional?",
+        "answer": "To prevent addresses being carried back to the CPU, which would be undesirable.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_08",
+        "topic": "CPU Architecture",
+        "text": "Explain how increasing the width of the data bus affects computer performance.",
+        "answer": "Larger word length can be transported, improving overall computer performance.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_09",
+        "topic": "CPU Architecture",
+        "text": "Explain how increasing clock speed can affect computer performance.",
+        "answer": "Higher clock speed means more clock cycles per second, increasing processing speed.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_10",
+        "topic": "Fetch-Execute Cycle",
+        "text": "What is the purpose of incrementing the Program Counter (PC) during the fetch-execute cycle?",
+        "answer": "To point to the address of the next instruction to be fetched.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_11",
+        "topic": "Assembly Language",
+        "text": "Explain the difference between an opcode and an operand.",
+        "answer": "Opcode identifies the operation to be performed; operand identifies the data or address.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_12",
+        "topic": "Assembly Language",
+        "text": "What is the purpose of a two-pass assembler?",
+        "answer": "First pass builds symbol table; second pass generates object code using the symbol table.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_13",
+        "topic": "Addressing Modes",
+        "text": "Describe direct addressing.",
+        "answer": "The operand contains the memory address where the data is stored.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_14",
+        "topic": "Addressing Modes",
+        "text": "Describe indirect addressing.",
+        "answer": "The operand points to a memory location that contains the address of the actual data.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_15",
+        "topic": "Addressing Modes",
+        "text": "Describe indexed addressing.",
+        "answer": "The effective address is formed by adding the contents of the Index Register to the operand.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_16",
+        "topic": "Interrupts",
+        "text": "Describe two possible causes of an interrupt.",
+        "answer": "Hardware fault (e.g., paper jam), software error (e.g., division by zero), I/O process ready.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_17",
+        "topic": "Interrupts",
+        "text": "What is interrupt priority and why is it important?",
+        "answer": "Priorities determine which interrupts are serviced first; ensures critical interrupts are handled quickly.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_18",
+        "topic": "Bit Manipulation",
+        "text": "Describe the difference between a logical shift and an arithmetic shift.",
+        "answer": "Logical shift inserts zeros; arithmetic shift preserves the sign bit (MSB).",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_19",
+        "topic": "Bit Manipulation",
+        "text": "What is the effect of a left shift on a binary number?",
+        "answer": "Multiplies the number by 2 for each shift position (if no overflow occurs).",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_20",
+        "topic": "CPU Architecture",
+        "text": "What is a core in a CPU?",
+        "answer": "A unit made up of an ALU, control unit, and registers; a CPU may contain multiple cores.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_21",
+        "topic": "CPU Architecture",
+        "text": "Explain one advantage of having multiple cores in a processor.",
+        "answer": "Allows parallel processing, where different cores execute different instructions simultaneously.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_22",
+        "topic": "Fetch-Execute Cycle",
+        "text": "What happens during the decode stage of the fetch-execute cycle?",
+        "answer": "The instruction in the CIR is interpreted by the Control Unit.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_23",
+        "topic": "Assembly Language",
+        "text": "What is the purpose of the 'CMP' instruction?",
+        "answer": "Compares the contents of the Accumulator with another value and sets status flags accordingly.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_24",
+        "topic": "Assembly Language",
+        "text": "What is the purpose of the 'JPE' instruction?",
+        "answer": "Jump to a specified address if the previous comparison was True.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_25",
+        "topic": "Registers",
+        "text": "What is the purpose of the Status Register?",
+        "answer": "Contains flags that indicate the status of operations (e.g., carry, overflow, zero, negative).",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_26",
+        "topic": "Interrupts",
+        "text": "Describe what happens to the processor state when an interrupt occurs.",
+        "answer": "Current register contents (including PC) are saved on the stack so the process can resume later.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_27",
+        "topic": "Bit Manipulation",
+        "text": "What is the effect of a right shift on a binary number?",
+        "answer": "Divides the number by 2 for each shift position (integer division).",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_28",
+        "topic": "CPU Architecture",
+        "text": "What is the function of the system clock in the fetch-execute cycle?",
+        "answer": "Produces timing signals on the control bus to ensure synchronisation takes place.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_29",
+        "topic": "Assembly Language",
+        "text": "What does the 'STO' instruction do?",
+        "answer": "Stores the contents of the Accumulator at the specified memory address.",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b2_30",
+        "topic": "Registers",
+        "text": "What is the difference between general purpose and special purpose registers?",
+        "answer": "General purpose registers hold temporary data; special purpose registers have specific functions (e.g., PC, MAR, MDR).",
+        "score": 2
+    },
+    {
+        "id": "q_ch4_b3_01",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Describe the fetch-execute cycle using register transfer notation (RTN).",
+        "answer": "MAR ← [PC]; PC ← [PC] + 1; MDR ← [[MAR]]; CIR ← [MDR]; then execute the instruction.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_02",
+        "topic": "Interrupts",
+        "text": "Explain how interrupts are detected and handled during the fetch-execute cycle.",
+        "answer": "At the end of each F-E cycle, the interrupt register is checked. If a higher priority interrupt exists, the current state is saved, the ISR is called, then state is restored.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_03",
+        "topic": "Assembly Language",
+        "text": "Write assembly language instructions to add the numbers 10 and 20 and store the result in memory location 100.",
+        "answer": "LDM #10; ADD #20; STO 100",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_04",
+        "topic": "Addressing Modes",
+        "text": "Explain the difference between absolute addressing and relative addressing.",
+        "answer": "Absolute addressing uses a fixed memory address; relative addressing uses an offset from the current instruction address.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_05",
+        "topic": "Bit Manipulation",
+        "text": "Perform a logical left shift of 2 places on the binary number 10101100 and show the result.",
+        "answer": "10101100 LSL #2 = 10110000",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_06",
+        "topic": "CPU Architecture",
+        "text": "Explain how cache memory improves CPU performance.",
+        "answer": "Stores frequently used instructions and data close to the CPU; access time is faster than RAM, reducing waiting time.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_07",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program to input a number and output it if it is positive.",
+        "answer": "IN; CMP #0; JPE positive; END; positive: OUT; END",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_08",
+        "topic": "Registers",
+        "text": "Describe the purpose of the Index Register (IX) and give an example of its use.",
+        "answer": "Holds an offset value for indexed addressing; used in loops to access array elements sequentially.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_09",
+        "topic": "Buses",
+        "text": "Explain the role of the control bus in a computer system.",
+        "answer": "Carries control signals from the Control Unit to other components (e.g., read/write signals, clock signals).",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_10",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Explain what happens during the execute stage of the fetch-execute cycle.",
+        "answer": "The decoded instruction is passed as a set of control signals to the appropriate components to carry out the operation.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_11",
+        "topic": "Assembly Language",
+        "text": "Explain the purpose of a symbol table in a two-pass assembler.",
+        "answer": "Stores labels and their corresponding memory addresses during the first pass for use during the second pass.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_12",
+        "topic": "Addressing Modes",
+        "text": "Given that IX = 5 and memory address 200 contains 100, what value is loaded by the instruction LDX 195?",
+        "answer": "Effective address = 195 + 5 = 200; loads the contents of address 200 (which is 100).",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_13",
+        "topic": "Bit Manipulation",
+        "text": "Perform an arithmetic right shift of 2 places on the binary number 11001100 and explain the result.",
+        "answer": "11001100 ASR #2 = 11110011 (the sign bit is preserved; in two's complement this represents -13).",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_14",
+        "topic": "Interrupts",
+        "text": "Explain the role of an Interrupt Service Routine (ISR) and when it is called.",
+        "answer": "ISR is software that handles a specific interrupt; it is called by the processor when an interrupt with sufficient priority occurs.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_15",
+        "topic": "CPU Architecture",
+        "text": "Explain the Von Neumann architecture and its key features.",
+        "answer": "The stored program concept: both instructions and data are stored in the same memory; the CPU can access memory directly.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_16",
+        "topic": "Assembly Language",
+        "text": "Trace the following code: LDM #5; ADD #3; STO 100; LDD 100; OUT; END. What is output?",
+        "answer": "8",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_17",
+        "topic": "Registers",
+        "text": "What flags might be found in a Status Register and what do they indicate?",
+        "answer": "C (carry), N (negative), V (overflow), Z (zero); they indicate the results of arithmetic and logical operations.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_18",
+        "topic": "CPU Architecture",
+        "text": "Explain the difference between dual-core and quad-core processors.",
+        "answer": "Dual-core has 2 cores; quad-core has 4 cores. Quad-core can potentially handle more parallel tasks.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_19",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Why is the Program Counter incremented before the instruction is executed?",
+        "answer": "So that the processor knows the address of the next instruction while the current instruction is being executed.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_20",
+        "topic": "Bit Manipulation",
+        "text": "Use bit manipulation to set bit 3 of the byte 10101010 (bit 0 is LSB). Show your working.",
+        "answer": "10101010 OR 00001000 = 10110010",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_21",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language loop that counts from 1 to 5 and outputs each number.",
+        "answer": "LDM #1; STO counter; loop: LDD counter; OUT; INC ACC; STO counter; CMP #6; JPN loop; END",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_22",
+        "topic": "Addressing Modes",
+        "text": "Explain relative addressing and give a scenario where it is useful.",
+        "answer": "The memory address used is the current memory address added to the operand. Useful for position-independent code (e.g., branch instructions in loops).",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_23",
+        "topic": "Interrupts",
+        "text": "Explain why multiple interrupts can be pending and how priority resolves conflicts.",
+        "answer": "Multiple devices may request attention simultaneously. Higher priority interrupts are serviced first; lower priority interrupts wait.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_24",
+        "topic": "Bit Manipulation",
+        "text": "Use bit manipulation to clear bit 4 of the byte 11111111 (bit 0 is LSB). Show the result.",
+        "answer": "11111111 AND 11101111 = 11101111",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_25",
+        "topic": "CPU Architecture",
+        "text": "Explain how bus width affects the maximum addressable memory.",
+        "answer": "The width of the address bus determines the number of unique addresses: 2^n where n is the bus width.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_26",
+        "topic": "Assembly Language",
+        "text": "What is the difference between the 'JMP' and 'JPE' instructions?",
+        "answer": "JMP is an unconditional jump; JPE jumps only if the previous comparison was True.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_27",
+        "topic": "Registers",
+        "text": "Describe the relationship between MAR and MDR during a read operation.",
+        "answer": "The address is placed in the MAR; the data from that address is then fetched into the MDR.",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_28",
+        "topic": "Assembly Language",
+        "text": "Write assembly code to implement: if ACC > 10 then jump to label HIGH.",
+        "answer": "CMP #10; JPE HIGH",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_29",
+        "topic": "Bit Manipulation",
+        "text": "Perform a cyclic left shift of 3 places on the binary number 10110010 and show the result.",
+        "answer": "10110010 CYL #3 = 10010101",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b3_30",
+        "topic": "CPU Architecture",
+        "text": "Explain the purpose of the Immediate Access Store (IAS).",
+        "answer": "Holds all the data and programs that the processor needs to access; it is another name for primary memory (RAM).",
+        "score": 3
+    },
+    {
+        "id": "q_ch4_b4_01",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Describe the fetch-execute cycle in detail, including all registers involved and their roles.",
+        "answer": "1. PC address copied to MAR. 2. PC incremented. 3. Memory at MAR read into MDR. 4. MDR copied to CIR. 5. CU decodes instruction. 6. Execute stage.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_02",
+        "topic": "Interrupts",
+        "text": "Explain how a printer interrupt is handled during the fetch-execute cycle. Include priority and ISR.",
+        "answer": "Printer sends interrupt; processor checks at the end of the F-E cycle; if priority is higher, saves current state; calls printer ISR; restores state.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_03",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program to find the largest of three numbers stored at addresses 100, 101, and 102.",
+        "answer": "LDD 100; CMP 101; JPE chk2; LDD 101; chk2: CMP 102; JPE end; LDD 102; end: STO 103; END",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_04",
+        "topic": "Addressing Modes",
+        "text": "Compare and contrast direct, indirect, indexed, and immediate addressing modes. Give an example of each.",
+        "answer": "Direct: LDD 100 (loads from 100). Indirect: LDI 100 (loads from address stored at 100). Indexed: LDX 100 (uses IX). Immediate: LDM #100 (loads 100).",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_05",
+        "topic": "Bit Manipulation",
+        "text": "Write an assembly language routine to test if bit 2 of a byte at address 200 is set. If set, output '1', else output '0'.",
+        "answer": "LDD 200; AND #4; CMP #4; JPE set; LDM #48; OUT; JMP end; set: LDM #49; OUT; end: END",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_06",
+        "topic": "CPU Architecture",
+        "text": "Explain the factors that affect computer performance including clock speed, bus width, cache, and number of cores.",
+        "answer": "Clock speed: more cycles/second. Bus width: more data/address per transfer. Cache: faster access. Cores: parallel processing.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_07",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program using indexed addressing to sum 5 numbers stored at addresses 200-204.",
+        "answer": "LDR #0; LDM #0; STO sum; loop: LDX 200; ADD sum; STO sum; INC IX; CMP #5; JPN loop; END",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_08",
+        "topic": "Registers",
+        "text": "Explain the purpose of the Status Register flags (C, N, V, Z) and give an example when each is set.",
+        "answer": "C: carry from addition (255+1). N: negative result (-1). V: overflow (64+64). Z: zero result (5-5).",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_09",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Using RTN, describe the fetch-execute cycle for an instruction that adds the contents of memory address 100 to the ACC.",
+        "answer": "MAR ← [PC]; PC ← [PC]+1; MDR ← [[MAR]]; CIR ← [MDR]; Decode; MAR ← 100; MDR ← [[MAR]]; ACC ← [ACC] + [MDR]",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_10",
+        "topic": "Interrupts",
+        "text": "Explain how multiple interrupts with different priorities are managed by the processor.",
+        "answer": "Interrupts are assigned priority levels (0 to 31). Higher priority interrupts can interrupt lower priority ISRs. An interrupt controller manages the queuing.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_11",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language subroutine that multiplies two numbers using repeated addition.",
+        "answer": "mult: LDM #0; STO result; loop: ADD multiplier; STO result; DEC multiplicand; CMP #0; JPN loop; LDD result; RET",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_12",
+        "topic": "Bit Manipulation",
+        "text": "Explain how bit masking is used to read the status of a specific sensor in an 8-bit sensor register.",
+        "answer": "Use AND with a mask that has a 1 in the sensor's bit position; if the result is not zero, the sensor is triggered. Example: AND #00001000 to read sensor 3.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_13",
+        "topic": "CPU Architecture",
+        "text": "Explain the difference between general purpose and special purpose registers with examples.",
+        "answer": "General purpose registers (e.g., ACC) hold temporary data for calculations. Special purpose registers (e.g., PC, MAR, MDR, CIR, IX, Status Register) have specific functions in the F-E cycle.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_14",
+        "topic": "Assembly Language",
+        "text": "Explain the difference between a one-pass and a two-pass assembler. When would each be used?",
+        "answer": "One-pass: faster, cannot handle forward references. Two-pass: slower but can resolve forward references via a symbol table.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_15",
+        "topic": "Addressing Modes",
+        "text": "Given: IX = 3, memory[100] = 50, memory[50] = 25. What is loaded by LDI 100, LDX 97, and LDD 100?",
+        "answer": "LDI 100: loads from address stored at 100 (which is 50) → loads 25. LDX 97: 97+3 = 100 → loads 50. LDD 100: loads 50.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_16",
+        "topic": "Bit Manipulation",
+        "text": "Write assembly code to toggle (invert) bit 5 of the byte at address 150 without changing other bits.",
+        "answer": "LDD 150; XOR #00100000; STO 150",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_17",
+        "topic": "CPU Architecture",
+        "text": "Explain what happens when a divide-by-zero error occurs. How does the processor handle it?",
+        "answer": "An arithmetic exception triggers an interrupt. The processor saves the current state, calls the exception handler (ISR), which may terminate the program or display an error.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_18",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program to convert an ASCII digit (e.g., '5') to its binary value (e.g., 5).",
+        "answer": "IN; SUB #48; STO result; OUT; END",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_19",
+        "topic": "Interrupts",
+        "text": "Explain the difference between maskable and non-maskable interrupts. Give an example of each.",
+        "answer": "Maskable: can be ignored (e.g., printer interrupt). Non-maskable: cannot be ignored (e.g., power failure, hardware reset).",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_20",
+        "topic": "Registers",
+        "text": "Explain how the stack is used during interrupt handling. What data is pushed and when?",
+        "answer": "When an interrupt occurs, the Program Counter (PC) and Status Register are pushed onto the stack before the ISR executes; they are popped on return.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_21",
+        "topic": "Bit Manipulation",
+        "text": "Write assembly code to pack two 4-bit values (high nibble from address 200, low nibble from address 201) into one byte.",
+        "answer": "LDD 200; AND #11110000; STO temp; LDD 201; LSR #4; OR temp; STO result",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_22",
+        "topic": "CPU Architecture",
+        "text": "Explain the purpose of the system clock and what happens if the clock speed is increased too much.",
+        "answer": "Synchronises operations. If too high: instructions cannot complete in time, leading to unsynchronised operations, overheating, and system instability/crashes.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_23",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program using a subroutine to calculate the factorial of a number (n up to 5).",
+        "answer": "LDM #n; CALL fact; STO result; END; fact: CMP #1; JPE done; STO temp; DEC ACC; CALL fact; MUL temp; done: RET",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_24",
+        "topic": "Addressing Modes",
+        "text": "Explain symbolic addressing in assembly language. Why is it better than absolute addressing?",
+        "answer": "Uses labels instead of numeric addresses. It is easier to read and maintain; the assembler resolves the addresses.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_25",
+        "topic": "Bit Manipulation",
+        "text": "Write assembly code to swap the nibbles (4-bit halves) of a byte in the accumulator.",
+        "answer": "STO temp; LSL #4; STO acc_high; LDD temp; LSR #4; OR acc_high",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_26",
+        "topic": "CPU Architecture",
+        "text": "Explain how increasing the width of the address bus affects the computer's capabilities.",
+        "answer": "A wider address bus allows more memory locations to be directly addressed. For example, a 16-bit bus can address 65536 locations, while a 32-bit bus can address over 4 billion locations.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_27",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program to implement a binary search on a sorted array of 10 numbers.",
+        "answer": "Set low and high; calculate mid = (low+high)/2; compare with target; adjust low or high; loop until found or low > high.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_28",
+        "topic": "Interrupts",
+        "text": "Explain the difference between a hardware interrupt and a software interrupt (trap). Give examples.",
+        "answer": "Hardware interrupt: from an external device (e.g., keyboard, timer). Software interrupt: generated by a program (e.g., division by zero, system call).",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_29",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Describe the role of the Memory Buffer Register (MBR) and how it relates to the MDR.",
+        "answer": "The MBR is often synonymous with the MDR. It holds the data that has been read from memory or is to be written to memory.",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b4_30",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program to count the number of 1s in a byte (population count).",
+        "answer": "LDM #0; STO count; LDD byte; loop: AND #1; ADD count; STO count; LSR byte; CMP #0; JPN loop; LDD count; OUT",
+        "score": 4
+    },
+    {
+        "id": "q_ch4_b5_01",
+        "topic": "CPU Architecture",
+        "text": "Explain the difference between RISC and CISC processor architectures. Give advantages of each and a typical application.",
+        "answer": "RISC: simple instructions, single cycle, pipelining (mobile devices). CISC: complex instructions, fewer lines of code (desktop PCs).",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_02",
+        "topic": "Assembly Language",
+        "text": "Write a complete assembly language program that sorts an array of 10 numbers using bubble sort. Include comments.",
+        "answer": "Detailed program with nested loops: outer loop for passes, inner loop for comparisons and swaps using indexed addressing.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_03",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Explain in detail how pipelining works in a RISC processor. What are the five stages of the pipeline?",
+        "answer": "Pipeline stages: IF (instruction fetch), ID (instruction decode), OF (operand fetch), IE (instruction execute), WB (write back). Multiple instructions are processed simultaneously.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_04",
+        "topic": "Interrupts",
+        "text": "Describe the complete interrupt handling process from interrupt generation to return to the interrupted program.",
+        "answer": "1. Device generates interrupt. 2. Processor checks at the end of the F-E cycle. 3. Saves state (PC, SR on stack). 4. IDT is used to find ISR address. 5. ISR executes. 6. State is restored. 7. Execution resumes.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_05",
+        "topic": "Bit Manipulation",
+        "text": "Write an assembly language program to implement a 4-bit binary counter using bit manipulation and output the count.",
+        "answer": "LDM #0; loop: OUT; ADD #1; AND #00001111; STO ACC; JMP loop (using a mask to wrap after 15).",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_06",
+        "topic": "CPU Architecture",
+        "text": "Explain how pipelining improves processor performance. What happens to the pipeline when a branch instruction is encountered?",
+        "answer": "Pipelining allows multiple instructions to be in different stages simultaneously. On a branch, the pipeline may need to be flushed (branch penalty), reducing efficiency.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_07",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program that uses indirect addressing to implement a stack with push and pop operations.",
+        "answer": "Set a stack pointer; push: DEC SP; STO [SP]; pop: LDD [SP]; INC SP; using indirect addressing with LDI.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_08",
+        "topic": "Registers",
+        "text": "Explain how the Status Register flags (C, N, V, Z) are used in conditional branch instructions. Give examples.",
+        "answer": "CMP instruction sets flags; JPE uses Z flag (True if equal), JPN uses Z flag (False if not equal). Other flags can be used for signed/unsigned comparisons.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_09",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Explain how interrupts are handled differently in a pipelined processor compared to a non-pipelined processor.",
+        "answer": "In a pipelined processor, multiple instructions are in different stages. When an interrupt occurs, instructions in the pipeline may need to be discarded (except the last in WB) before handling the interrupt.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_10",
+        "topic": "CPU Architecture",
+        "text": "Compare the performance impact of increasing clock speed versus increasing the number of cores. When is each approach better?",
+        "answer": "Clock speed: improves single-threaded performance but increases heat and power consumption. Cores: improves multi-threaded performance.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_11",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program to implement a recursive function that calculates the nth Fibonacci number.",
+        "answer": "fib: CMP #1; JPE base; CMP #2; JPE base; DEC ACC; CALL fib; STO temp; DEC ACC; DEC ACC; CALL fib; ADD temp; RET",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_12",
+        "topic": "Interrupts",
+        "text": "Explain how interrupt nesting works. What precautions must be taken to prevent stack overflow?",
+        "answer": "Higher priority interrupts can interrupt lower priority ISRs. The stack must be large enough to accommodate multiple nested interrupts, and interrupts can be masked if necessary.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_13",
+        "topic": "Bit Manipulation",
+        "text": "Write an assembly language program to implement a 3-bit binary counter that counts up on button press (simulated with IN).",
+        "answer": "LDM #0; loop: IN; CMP #1; JPN loop; ADD #1; AND #00000111; OUT; JMP loop",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_14",
+        "topic": "CPU Architecture",
+        "text": "Explain the role of the system clock in pipelining. Why is clock cycle time important?",
+        "answer": "The system clock synchronises all pipeline stages. A shorter clock cycle time allows more instructions to be processed per second, but each stage must complete within one cycle.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_15",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program that implements a linear search on an array of 10 numbers and outputs the index if found.",
+        "answer": "LDR #0; loop: LDX array; CMP target; JPE found; INC IX; CMP #10; JPN loop; LDM #-1; OUT; END; found: LDD IX; OUT",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_16",
+        "topic": "Addressing Modes",
+        "text": "Explain how indexed addressing is used to traverse arrays. Write a code example that sums an array of 10 numbers.",
+        "answer": "Set IX to 0; in a loop, use LDX base_address; add to sum; increment IX; repeat 10 times. Example: LDR #0; LDM #0; loop: LDX array; ADD sum; STO sum; INC IX; CMP #10; JPN loop.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_17",
+        "topic": "Bit Manipulation",
+        "text": "Write an assembly language program to convert an 8-bit binary number to BCD (binary-coded decimal).",
+        "answer": "Repeatedly divide by 10 using subtraction, building BCD digits. Uses loops and bit manipulation. The result is stored in multiple bytes.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_18",
+        "topic": "Fetch-Execute Cycle",
+        "text": "Describe the concept of pipelining and explain the term 'hazard'. What are the different types of hazards?",
+        "answer": "Pipelining allows multiple instructions to be processed simultaneously. Hazards cause pipeline stalls: structural hazards (resource conflict), data hazards (data dependency), control hazards (branches).",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_19",
+        "topic": "CPU Architecture",
+        "text": "Explain the Von Neumann architecture and its limitations. How does the Harvard architecture address these limitations?",
+        "answer": "Von Neumann: single memory for instructions and data (bottleneck). Harvard: separate instruction and data memories, allowing simultaneous access and potentially faster execution.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_20",
+        "topic": "Assembly Language",
+        "text": "Write a complete assembly language program that reads 10 numbers, finds the maximum, minimum, and average.",
+        "answer": "Detailed program: input loop, update max and min, accumulate sum; after the loop, divide sum by 10 for the average.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_21",
+        "topic": "Interrupts",
+        "text": "Explain how a timer interrupt can be used to implement multitasking in a simple operating system.",
+        "answer": "A timer generates periodic interrupts. The ISR saves the current task's state, selects the next task to run, restores its state, and returns, allowing multiple tasks to share the CPU.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_22",
+        "topic": "Registers",
+        "text": "Explain the purpose of the Stack Pointer (SP) register and how it is used during function calls and interrupts.",
+        "answer": "The SP points to the top of the stack. It is used to push return addresses and local variables onto the stack and to pop them off when returning from functions or interrupts.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_23",
+        "topic": "Bit Manipulation",
+        "text": "Write an assembly language program to implement a 4-bit binary adder using bit manipulation (simulate full adder logic).",
+        "answer": "Use AND, XOR, and shifts to simulate addition bit by bit with carry propagation. The program loops through each bit position.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_24",
+        "topic": "CPU Architecture",
+        "text": "Explain the difference between CISC and RISC in terms of instruction format, addressing modes, and pipelining.",
+        "answer": "CISC: variable-length instructions, many addressing modes, harder to pipeline. RISC: fixed-length instructions, fewer addressing modes, easier to pipeline.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_25",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program to convert a temperature from Celsius to Fahrenheit (F = C*9/5 + 32).",
+        "answer": "LDM #celsius; MUL #9; DIV #5; ADD #32; STO fahrenheit; OUT",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_26",
+        "topic": "CPU Architecture",
+        "text": "Explain the function of the Control Unit and the Arithmetic Logic Unit in the fetch-execute cycle.",
+        "answer": "CU: fetches instructions from memory, decodes them, and generates control signals. ALU: performs arithmetic and logical operations as directed by the CU.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_27",
+        "topic": "Assembly Language",
+        "text": "Write an assembly language program that uses a lookup table to convert a 4-bit value to its 7-segment display code.",
+        "answer": "LDM #value; LDX table (with the lookup table stored at addresses 200-215); OUT",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_28",
+        "topic": "Interrupts",
+        "text": "Explain how direct memory access (DMA) works and how it interacts with interrupts. Why is DMA important for performance?",
+        "answer": "A DMA controller transfers data between I/O devices and memory without CPU involvement. It generates an interrupt when the transfer is complete, freeing the CPU for other tasks.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_29",
+        "topic": "Bit Manipulation",
+        "text": "Write an assembly language program to perform binary multiplication of two 4-bit numbers using the shift-and-add algorithm.",
+        "answer": "Initialise result to 0; for each bit in the multiplier: if the bit is 1, add the multiplicand to the result; shift the multiplicand left; shift the multiplier right.",
+        "score": 5
+    },
+    {
+        "id": "q_ch4_b5_30",
+        "topic": "CPU Architecture",
+        "text": "Explain how cache memory works. What is the difference between L1, L2, and L3 cache?",
+        "answer": "Cache stores frequently used data for faster access. L1 is the smallest and fastest (closest to CPU). L2 is larger and slower. L3 is shared among cores and is the largest but slowest.",
+        "score": 5
+    }
+]

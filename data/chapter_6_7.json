@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "q_ch6_01",
+        "topic": "Data Security",
+        "text": "State the difference between the security of data and the privacy of data.",
+        "answer": "Security is protecting data from loss/corruption/unauthorised access; privacy is protecting data from unauthorised access by individuals // keeping personal data confidential.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_02",
+        "topic": "Data Security",
+        "text": "A company uses a firewall to protect its network. State what is meant by a firewall.",
+        "answer": "Software or hardware that sits between a computer and external network that monitors and filters all incoming and outgoing activities // accepts or rejects packets based on criteria.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_03",
+        "topic": "Data Security",
+        "text": "A teacher wants to prevent students from accessing inappropriate websites. State one security measure that can be used.",
+        "answer": "Firewall.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_04",
+        "topic": "Data Integrity",
+        "text": "State what is meant by a checksum.",
+        "answer": "A value calculated from a block of data and transmitted with it to check for errors.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_05",
+        "topic": "Data Integrity",
+        "text": "A system uses even parity. State what is meant by even parity.",
+        "answer": "The number of 1-bits in the byte (including the parity bit) is even.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_06",
+        "topic": "Data Security",
+        "text": "A user receives an email asking them to click a link to update their bank details. State the name of this type of threat.",
+        "answer": "Phishing.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_07",
+        "topic": "Data Security",
+        "text": "Malicious code is installed on a user's computer that redirects them to a fake website without their knowledge. State the name of this type of threat.",
+        "answer": "Pharming.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_08",
+        "topic": "Data Integrity",
+        "text": "State what is meant by a parity bit.",
+        "answer": "An extra bit added to a byte to make the number of 1-bits odd or even.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_09",
+        "topic": "Data Integrity",
+        "text": "A database designer uses a presence check. State what is meant by a presence check.",
+        "answer": "Checks that a field is not left empty.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_10",
+        "topic": "Data Integrity",
+        "text": "State what is meant by a range check.",
+        "answer": "Checks that data entered is between a lower and upper limit.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_11",
+        "topic": "Data Integrity",
+        "text": "State what is meant by a format check.",
+        "answer": "Checks that data has been entered in the agreed format (e.g., dd/mm/yyyy).",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_12",
+        "topic": "Data Integrity",
+        "text": "State what is meant by a length check.",
+        "answer": "Checks that data has the required number of characters.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_13",
+        "topic": "Data Integrity",
+        "text": "State what is meant by a presence check.",
+        "answer": "Checks that a field is not left empty.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_14",
+        "topic": "Data Security",
+        "text": "A company installs anti-virus software. State one purpose of anti-virus software.",
+        "answer": "To detect and remove viruses/malware.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_15",
+        "topic": "Data Security",
+        "text": "State what is meant by encryption.",
+        "answer": "Converting data into cipher text so it cannot be understood without the decryption key.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_16",
+        "topic": "Data Security",
+        "text": "A hacker gains unauthorised access to a computer system with the owner's permission to test security. State the name of this type of hacking.",
+        "answer": "Ethical hacking.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_17",
+        "topic": "Data Security",
+        "text": "State one example of biometric authentication.",
+        "answer": "Fingerprint scan / retina scan / face recognition / voice recognition.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_18",
+        "topic": "Data Integrity",
+        "text": "A data entry operator enters data twice and the computer compares the two entries. State the name of this verification method.",
+        "answer": "Double entry.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_01",
+        "topic": "Ethics",
+        "text": "State what is meant by ethics in a computing context.",
+        "answer": "Moral principles governing an individual's or organisation's behaviour / a code of conduct for professionals.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_02",
+        "topic": "Ethics",
+        "text": "State the name of one professional ethical body for computing professionals.",
+        "answer": "BCS (British Computer Society) / IEEE (Institute of Electrical and Electronics Engineers) / ACM (Association for Computing Machinery).",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_03",
+        "topic": "Software Licensing",
+        "text": "State what is meant by shareware.",
+        "answer": "Software that is free for a trial period, after which a fee is required to continue using it.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_04",
+        "topic": "Software Licensing",
+        "text": "State what is meant by freeware.",
+        "answer": "Software that can be downloaded and used free of charge, but source code cannot be modified.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_05",
+        "topic": "Software Licensing",
+        "text": "State what is meant by commercial software.",
+        "answer": "Software that is sold for a fee and is fully copyright-protected.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_06",
+        "topic": "Software Licensing",
+        "text": "State what is meant by open source software.",
+        "answer": "Software where the source code is freely available and can be modified and redistributed.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_07",
+        "topic": "Software Licensing",
+        "text": "State the name of the organisation that promotes free distribution of software with the four freedoms.",
+        "answer": "Free Software Foundation.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_08",
+        "topic": "Software Licensing",
+        "text": "State what is meant by a product key in software licensing.",
+        "answer": "A unique string of letters/numbers supplied with software to prevent illegal copying.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_09",
+        "topic": "Artificial Intelligence",
+        "text": "State what is meant by Artificial Intelligence (AI).",
+        "answer": "A machine or application that carries out a task requiring intelligence if done by a human.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_10",
+        "topic": "Artificial Intelligence",
+        "text": "A self-driving car uses AI. State one social impact of autonomous vehicles.",
+        "answer": "Potential job losses for drivers / increased safety on roads / people with disabilities gaining mobility.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_11",
+        "topic": "Copyright",
+        "text": "State what is meant by copyright.",
+        "answer": "The legal right of ownership of intellectual property / protects against unauthorised reproduction of work.",
+        "score": 1
+    },
+    {
+        "id": "q_ch7_12",
+        "topic": "Copyright",
+        "text": "A software developer copies code from a copyrighted program into their own software without permission. State the name of this illegal act.",
+        "answer": "Piracy / copyright infringement.",
+        "score": 1
+    },
+    {
+        "id": "q_ch6_19",
+        "topic": "Data Security",
+        "text": "A company stores customer data on its servers. Explain two reasons why the company needs to keep its data secure.",
+        "answer": "1. To prevent unauthorised access/hacking that could lead to identity theft or fraud. [1] 2. To comply with data protection laws and avoid legal penalties/fines. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_20",
+        "topic": "Data Security",
+        "text": "Describe two characteristics of a strong password.",
+        "answer": "1. Contains at least one capital letter. [1] 2. Contains at least one numerical digit and one special character (e.g., @, #, &). [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_21",
+        "topic": "Data Security",
+        "text": "Explain two ways a firewall can protect a computer system.",
+        "answer": "1. Monitors incoming/outgoing traffic and blocks data that does not meet set criteria. [1] 2. Prevents unauthorised access from external networks/hackers. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_22",
+        "topic": "Data Security",
+        "text": "Describe two differences between a virus and spyware.",
+        "answer": "1. A virus replicates itself; spyware does not replicate. [1] 2. A virus damages/corrupts files; spyware records keystrokes/data and sends to third party. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_23",
+        "topic": "Data Security",
+        "text": "Describe two differences between phishing and pharming.",
+        "answer": "1. Phishing requires user action (clicking a link); pharming redirects automatically without user action. [1] 2. Phishing uses fake emails; pharming uses DNS cache poisoning or malicious code on user's computer. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_24",
+        "topic": "Data Integrity",
+        "text": "Describe two methods of data verification during data entry.",
+        "answer": "1. Double entry: data entered twice by two people and compared. [1] 2. Visual check: entered data compared with original document on screen. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_25",
+        "topic": "Data Integrity",
+        "text": "Explain why a check digit is used in barcodes.",
+        "answer": "To detect errors when the barcode number is entered manually [1] such as incorrect digit, transposition, omitted or added digits. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_26",
+        "topic": "Data Integrity",
+        "text": "A system uses odd parity. A byte 10110010 is received. Explain whether an error has occurred.",
+        "answer": "The byte has four 1-bits (even number). [1] Odd parity requires an odd number of 1-bits, so an error has occurred. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_27",
+        "topic": "Data Integrity",
+        "text": "Describe how a checksum is used during data transmission.",
+        "answer": "1. Checksum value calculated from data before transmission and sent with data. [1] 2. Receiver recalculates checksum; if values match, no error; if different, error occurred. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_28",
+        "topic": "Data Integrity",
+        "text": "A database stores phone numbers. Describe two validation checks that could be used on the phone number field.",
+        "answer": "1. Length check: ensure correct number of digits (e.g., 11 digits). [1] 2. Format check: ensure data matches pattern (e.g., 5 digits-space-6 digits). [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_29",
+        "topic": "Data Integrity",
+        "text": "Explain the difference between validation and verification.",
+        "answer": "Validation checks if data is reasonable/within bounds; [1] verification checks if data matches the original source/input. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_30",
+        "topic": "Data Security",
+        "text": "A user receives an email from their 'bank' asking for their login details. Describe two ways to identify this as a phishing email.",
+        "answer": "1. The greeting is generic ('Dear Customer') rather than using their name. [1] 2. The email contains spelling/grammar errors or suspicious link addresses. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_31",
+        "topic": "Data Security",
+        "text": "Explain two ways anti-spyware software protects a computer.",
+        "answer": "1. Detects and removes spyware programs installed without user's knowledge. [1] 2. Prevents keystrokes from being recorded and sent to third parties. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_32",
+        "topic": "Data Integrity",
+        "text": "Describe what is meant by a parity block check.",
+        "answer": "Horizontal and vertical parity check on a block of data being transferred. [1] Allows identification of which bit is in error. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_33",
+        "topic": "Data Integrity",
+        "text": "State two limitations of using a single parity bit for error detection.",
+        "answer": "1. Cannot detect which bit is in error. [1] 2. Cannot detect if two bits have changed (parity may remain correct). [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_13",
+        "topic": "Ethics",
+        "text": "Describe two reasons why a software developer should join a professional ethical body.",
+        "answer": "1. To have clear ethical guidelines to follow in professional situations. [1] 2. To gain recognition of skills/knowledge and access to training/legal advice. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_14",
+        "topic": "Ethics",
+        "text": "A programmer finds a bug in a program that has already been tested but decides not to report it. Explain why this is unethical.",
+        "answer": "1. Not acting in best interest of client/product because the product may fail. [1] 2. Not acting in best interest of profession/company by hiding an error that could cause problems. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_15",
+        "topic": "Software Licensing",
+        "text": "Describe two features of commercial software.",
+        "answer": "1. User must pay a fee to use the software. [1] 2. Source code cannot be accessed or modified by the user. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_16",
+        "topic": "Software Licensing",
+        "text": "Describe two freedoms provided by the Free Software Foundation.",
+        "answer": "1. Freedom to run the software for any legal purpose. [1] 2. Freedom to study, modify, and redistribute the source code. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_17",
+        "topic": "Software Licensing",
+        "text": "Explain two benefits to a customer of using shareware.",
+        "answer": "1. Can try the software free of charge before purchasing. [1] 2. Can determine if software meets their needs without financial risk. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_18",
+        "topic": "Copyright",
+        "text": "Describe two actions that are illegal under software copyright law.",
+        "answer": "1. Making copies of software and selling them. [1] 2. Using copyrighted code in your own software without permission. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_19",
+        "topic": "Artificial Intelligence",
+        "text": "Describe two economic impacts of AI on employment.",
+        "answer": "1. Job losses in medium/low-skilled roles due to automation. [1] 2. Creation of new jobs in AI development, maintenance, and data analysis. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_20",
+        "topic": "Artificial Intelligence",
+        "text": "Describe two positive environmental impacts of AI.",
+        "answer": "1. Helps conserve natural resources (e.g., water) through better monitoring. [1] 2. Improves detection of pollution sources for faster remedial action. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_21",
+        "topic": "Artificial Intelligence",
+        "text": "Describe two negative social impacts of using facial recognition AI in airports.",
+        "answer": "1. Privacy concerns as individuals' biometric data is stored. [1] 2. Potential for false matches leading to innocent people being detained. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_22",
+        "topic": "Ethics",
+        "text": "Explain why a programmer should credit the work of colleagues.",
+        "answer": "1. To avoid plagiarism and respect intellectual property. [1] 2. To maintain professional integrity and trust within the team. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_23",
+        "topic": "Software Licensing",
+        "text": "Describe two methods used to prevent software piracy.",
+        "answer": "1. Product keys required during installation. [1] 2. Software requires CD/DVD in drive or dongle in USB port to run. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_24",
+        "topic": "Artificial Intelligence",
+        "text": "A hospital uses AI to analyse medical scans. Describe two benefits of this use of AI.",
+        "answer": "1. Faster diagnosis allowing earlier treatment. [1] 2. AI can detect patterns humans might miss, improving accuracy. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_25",
+        "topic": "Ethics",
+        "text": "Describe two ways a software engineer can act ethically towards the public.",
+        "answer": "1. Maintain safety, health, and welfare of the public in software design. [1] 2. Be honest and realistic in claims about software capabilities. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_26",
+        "topic": "Software Licensing",
+        "text": "Explain the difference between freeware and free software.",
+        "answer": "Freeware can be used free of charge but source code cannot be modified. [1] Free software allows modification and redistribution of source code. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch7_27",
+        "topic": "Artificial Intelligence",
+        "text": "Describe two applications of AI in everyday life.",
+        "answer": "1. Facial recognition on smartphones for unlocking. [1] 2. Voice assistants (e.g., Siri, Alexa) for natural language processing. [1]",
+        "score": 2
+    },
+    {
+        "id": "q_ch6_34",
+        "topic": "Data Security",
+        "text": "A school uses a network with a firewall. Explain three ways the firewall protects the school's data.",
+        "answer": "1. Examines incoming/outgoing traffic and blocks data that doesn't meet criteria. [1] 2. Prevents unauthorised external access/hacking attempts. [1] 3. Logs all traffic for later interrogation to identify security issues. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_35",
+        "topic": "Data Integrity",
+        "text": "Explain how a parity block check can detect AND locate an error in transmitted data.",
+        "answer": "1. Horizontal parity check on each byte identifies which byte has incorrect parity. [1] 2. Vertical parity check on each column identifies which bit position has incorrect parity. [1] 3. Intersection of row and column identifies exact bit that is incorrect. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_36",
+        "topic": "Data Security",
+        "text": "A company uses biometric authentication. Describe three examples of biometric authentication and how each works.",
+        "answer": "1. Fingerprint scan: compares patterns of ridges/valleys against stored image. [1] 2. Retina scan: uses infra-red to scan blood vessel pattern in retina. [1] 3. Face recognition: analyses facial features and distances between them. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_37",
+        "topic": "Data Security",
+        "text": "Explain three measures a user can take to protect against phishing attacks.",
+        "answer": "1. Do not click on links in suspicious emails; type URLs directly. [1] 2. Check for https and green padlock symbol in address bar. [1] 3. Use anti-phishing toolbars and keep browser updated. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_38",
+        "topic": "Data Integrity",
+        "text": "A database stores dates of birth. Describe three validation checks that could be applied to this field.",
+        "answer": "1. Range check: ensure date is between reasonable limits (e.g., 1900 to current year). [1] 2. Presence check: ensure date of birth is entered. [1] 3. Format check: ensure format matches dd/mm/yyyy. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_39",
+        "topic": "Data Security",
+        "text": "Explain three reasons why a company should regularly back up its data.",
+        "answer": "1. To recover data if hardware fails or is damaged. [1] 2. To restore data if it is corrupted by malware/virus. [1] 3. To recover from accidental deletion by users. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_40",
+        "topic": "Data Integrity",
+        "text": "Using the modulo-11 method with weightings 7,6,5,4,3,2,1, calculate the check digit for the 7-digit number 4156710. Show your working.",
+        "answer": "1. Sum = (7×4)+(6×1)+(5×5)+(4×6)+(3×7)+(2×1)+(1×0) = 28+6+25+24+21+2+0 = 106. [1] 2. 106 ÷ 11 = 9 remainder 7. [1] 3. Check digit = 11 - 7 = 4. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_41",
+        "topic": "Data Security",
+        "text": "Explain three ways encryption protects data during transmission.",
+        "answer": "1. Converts plain text to cipher text using an encryption key. [1] 2. If intercepted, the data cannot be understood without decryption key. [1] 3. Protects against man-in-the-middle attacks and eavesdropping. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_42",
+        "topic": "Data Integrity",
+        "text": "Explain why validation alone cannot guarantee data accuracy. Give an example.",
+        "answer": "1. Validation only checks if data is reasonable/within bounds, not if it is correct. [1] 2. Example: entering age 62 instead of 26 passes range check but is inaccurate. [1] 3. Verification is also needed to compare data with original source. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_28",
+        "topic": "Ethics",
+        "text": "Describe three situations where a software developer would be acting unethically.",
+        "answer": "1. Using copyrighted code from another company without permission. [1] 2. Hiding known bugs from a client to avoid criticism. [1] 3. Sharing confidential company data with a competitor. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_29",
+        "topic": "Software Licensing",
+        "text": "Explain three differences between commercial software and open source software.",
+        "answer": "1. Commercial software requires payment; open source is usually free. [1] 2. Commercial source code is closed; open source code is accessible/modifiable. [1] 3. Commercial software cannot be redistributed; open source can be freely shared. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_30",
+        "topic": "Artificial Intelligence",
+        "text": "Describe three potential negative impacts of AI on society.",
+        "answer": "1. Job losses in manufacturing, transport, and administration due to automation. [1] 2. Privacy concerns from mass surveillance and facial recognition. [1] 3. Bias in AI decision-making (e.g., in criminal justice or hiring). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_31",
+        "topic": "Ethics",
+        "text": "Explain three ways the IEEE Software Engineering Code of Ethics protects the public interest.",
+        "answer": "1. Engineers shall act consistently with public interest and safety. [1] 2. Shall disclose promptly factors that might endanger the public/environment. [1] 3. Shall maintain integrity and independence in professional judgement. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_32",
+        "topic": "Artificial Intelligence",
+        "text": "Describe three environmental benefits of using AI.",
+        "answer": "1. Better prediction of renewable energy needs (solar/wind/tidal). [1] 2. Real-time environmental monitoring to detect pollution quickly. [1] 3. Conservation of natural resources through optimised usage. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_33",
+        "topic": "Software Licensing",
+        "text": "Explain three features of the Open Source Initiative licence.",
+        "answer": "1. Free redistribution: no restriction on selling or giving away software. [1] 2. Source code must be included and distributable. [1] 3. No discrimination against persons, groups, or fields of endeavour. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_43",
+        "topic": "Data Security",
+        "text": "Explain three limitations of using a firewall.",
+        "answer": "1. Cannot prevent individuals using their own modems to bypass firewall. [1] 2. Cannot prevent employee misconduct (e.g., sharing passwords). [1] 3. Cannot prevent users on standalone computers from disabling the firewall. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_44",
+        "topic": "Data Integrity",
+        "text": "A system uses even parity. The received data block is given. Byte 3 has an error. Identify which bit is incorrect. Byte1:10110010, Byte2:01011010, Byte3:11001010, Byte4:01101010, Parity byte:01001010. Explain your answer.",
+        "answer": "1. Byte3 has three 1-bits (odd), so error detected. [1] 2. Column 5 has odd number of 1-bits (from vertical parity). [1] 3. Intersection of Byte3 and column 5 indicates bit 5 is incorrect; should be 1. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_34",
+        "topic": "Ethics",
+        "text": "A programmer outsources work to another country with lower wages and lax ethics. Explain three ethical issues with this approach.",
+        "answer": "1. May violate principle of fair treatment of colleagues/workers. [1] 2. Quality of software may not meet professional standards. [1] 3. May be exploiting lower ethical standards to avoid responsibilities. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_45",
+        "topic": "Data Security",
+        "text": "Describe three characteristics of a strong password policy in an organisation.",
+        "answer": "1. Passwords must contain uppercase, lowercase, numbers, and special characters. [1] 2. Passwords must be changed regularly (e.g., every 90 days). [1] 3. Passwords should not be shared or written down. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_35",
+        "topic": "Artificial Intelligence",
+        "text": "Explain three ethical concerns about using AI for parole decisions in courts.",
+        "answer": "1. AI may contain bias (e.g., racial bias in training data). [1] 2. Lack of transparency in how decisions are made. [1] 3. No mechanism to challenge AI decisions. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_46",
+        "topic": "Data Security",
+        "text": "A company's server was hacked and customer data was stolen. The company did not have adequate security measures. Explain three security measures that could have prevented this breach.",
+        "answer": "1. Firewall to monitor and block unauthorised incoming traffic. [1] 2. Encryption to make stolen data unreadable without decryption key. [1] 3. Strong password policy and two-factor authentication to prevent unauthorised access. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_47",
+        "topic": "Data Integrity",
+        "text": "Explain three situations where a check digit would detect an error during data entry.",
+        "answer": "1. An incorrect digit is entered (e.g., 8180 entered as 8190). [1] 2. A transposition error where two digits are swapped (e.g., 8180 entered as 8108). [1] 3. A digit is omitted or added (e.g., 8180 entered as 818 or 81180). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_48",
+        "topic": "Data Security",
+        "text": "A user wants to protect their online banking. Describe three best practices they should follow.",
+        "answer": "1. Use a strong, unique password for banking and change it regularly. [1] 2. Enable two-factor authentication if available. [1] 3. Check for https and padlock symbol before entering login details. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_36",
+        "topic": "Software Licensing",
+        "text": "Explain three differences between shareware and freeware.",
+        "answer": "1. Shareware has a free trial period; freeware is permanently free. [1] 2. Shareware full version requires payment; freeware has no payment. [1] 3. Shareware may have limited features in trial; freeware has full features. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_37",
+        "topic": "Artificial Intelligence",
+        "text": "Describe three ways AI can help address climate change.",
+        "answer": "1. Analysing complex climate data to make accurate predictions. [1] 2. Optimising renewable energy generation (solar/wind/tidal) based on weather forecasts. [1] 3. Monitoring ecosystems in real-time to detect environmental damage quickly. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_38",
+        "topic": "Ethics",
+        "text": "A software engineer is asked to create software that collects user data without their knowledge. Explain three ethical principles this violates.",
+        "answer": "1. Violates privacy rights of users. [1] 2. Violates principle of acting in public interest (IEEE Code 1). [1] 3. Violates requirement to be honest about software capabilities (IEEE Code 3). [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_49",
+        "topic": "Data Integrity",
+        "text": "Explain three reasons why data might be incorrect even after validation and verification.",
+        "answer": "1. The original source data itself may be incorrect. [1] 2. Validation only checks reasonableness, not accuracy (e.g., age 26 vs 62). [1] 3. Verification only checks against original; if original is wrong, data is wrong. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_39",
+        "topic": "Copyright",
+        "text": "A student copies code from an open source project into their commercial software. Explain three copyright implications.",
+        "answer": "1. Open source licence requires derivative works to also be open source. [1] 2. The student may be violating licence terms by using code in commercial software. [1] 3. The student must credit the original author as required by the licence. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_50",
+        "topic": "Data Security",
+        "text": "Explain three ways anti-virus software detects malware.",
+        "answer": "1. Signature-based detection: compares files against database of known viruses. [1] 2. Heuristic checking: analyses behaviour that could indicate a virus. [1] 3. Quarantines suspicious files for user review or automatic deletion. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch7_40",
+        "topic": "Artificial Intelligence",
+        "text": "Describe three potential positive social impacts of autonomous vehicles.",
+        "answer": "1. Reduced road accidents caused by human error. [1] 2. Increased mobility for elderly and disabled people. [1] 3. Less time spent driving, allowing productive activities during commute. [1]",
+        "score": 3
+    },
+    {
+        "id": "q_ch6_51",
+        "topic": "Data Security",
+        "text": "A company wants to implement a comprehensive data security policy. Describe four measures they should include.",
+        "answer": "1. Firewall to monitor and filter network traffic. [1] 2. Encryption of sensitive data stored and transmitted. [1] 3. Strong password policy with regular changes and two-factor authentication. [1] 4. Regular backups stored in separate location for disaster recovery. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_52",
+        "topic": "Data Integrity",
+        "text": "Describe four types of validation checks that can be applied to a 'Postcode' field in a database. Give an example of data that would fail each check.",
+        "answer": "1. Presence check: empty field fails. [1] 2. Length check: 'SW1A' (too short) fails. [1] 3. Format check: 'SW1A 1AA' matches pattern; 'SW1A1AA' (no space) fails. [1] 4. Existence check: postcode 'AA11AA' not in database fails. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_53",
+        "topic": "Data Security",
+        "text": "Explain four reasons why regular data backups are essential for a business.",
+        "answer": "1. Hardware failure (e.g., hard disk crash) can cause data loss. [1] 2. Malware/virus infection can corrupt or delete data. [1] 3. Accidental deletion by employees can occur. [1] 4. Natural disasters (fire/flood) can destroy physical storage. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_54",
+        "topic": "Data Security",
+        "text": "A bank wants to protect customer data during online transactions. Describe four security measures they should implement.",
+        "answer": "1. Encryption of all data transmitted between client and server. [1] 2. Firewall to block unauthorised access attempts. [1] 3. Two-factor authentication for customer login. [1] 4. Regular security audits and penetration testing. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_55",
+        "topic": "Data Integrity",
+        "text": "Describe how a parity block check works. Include an explanation of how it can locate an error.",
+        "answer": "1. Data is organised into rows (bytes) and columns (bit positions). [1] 2. Horizontal parity check on each byte identifies which row has error. [1] 3. Vertical parity check on each column identifies which column has error. [1] 4. Intersection of row and column pinpoints the exact bit that is incorrect. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_56",
+        "topic": "Data Security",
+        "text": "Explain four differences between phishing and pharming.",
+        "answer": "1. Phishing uses fake emails; pharming uses DNS cache poisoning or malicious code. [1] 2. Phishing requires user action (clicking link); pharming is automatic. [1] 3. Phishing directs to fake website via link; pharming redirects without user knowledge. [1] 4. Phishing can be avoided by not clicking links; pharming harder to avoid as DNS may be infected. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_57",
+        "topic": "Data Integrity",
+        "text": "A data entry form has fields: Name, Age, Email, DateOfBirth. Describe an appropriate validation check for each field.",
+        "answer": "1. Name: presence check (cannot be empty). [1] 2. Age: range check (e.g., 0-120). [1] 3. Email: format check (must contain @ and .). [1] 4. DateOfBirth: format check (dd/mm/yyyy) and range check (not future date). [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_58",
+        "topic": "Data Security",
+        "text": "Explain four ways a firewall can be configured to protect a network.",
+        "answer": "1. Block traffic from specific IP addresses (blacklist). [1] 2. Allow traffic only from trusted IP addresses (whitelist). [1] 3. Block specific ports commonly used by malware. [1] 4. Log all traffic for security auditing. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_59",
+        "topic": "Data Integrity",
+        "text": "Using the modulo-11 method (weightings 7,6,5,4,3,2,1), calculate the check digit for 2131110. Show all steps.",
+        "answer": "1. Sum = (7×2)+(6×1)+(5×3)+(4×1)+(3×1)+(2×1)+(1×0) = 14+6+15+4+3+2+0 = 44. [1] 2. 44 ÷ 11 = 4 remainder 0. [1] 3. If remainder is 0, check digit = 0. [1] 4. Final number: 21311100. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_60",
+        "topic": "Data Security",
+        "text": "Describe four characteristics of biometric authentication and why it is more secure than passwords.",
+        "answer": "1. Uses unique human characteristics (fingerprint, retina, face). [1] 2. Cannot be easily guessed or shared like passwords. [1] 3. Difficult to forge or replicate (accuracy up to 1 in 10 million for retina). [1] 4. User always has the biometric with them; no need to remember. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_61",
+        "topic": "Data Security",
+        "text": "Explain four limitations of anti-virus software.",
+        "answer": "1. Cannot detect new viruses not yet in database (zero-day attacks). [1] 2. May produce false positives (flagging legitimate files as viruses). [1] 3. Requires regular updates to remain effective. [1] 4. Cannot protect against user actions (e.g., disabling the software). [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_62",
+        "topic": "Data Integrity",
+        "text": "Describe four methods of data verification and when each is used.",
+        "answer": "1. Double entry: during data entry, two people enter data and compare. [1] 2. Visual check: during data entry, compare screen with source document. [1] 3. Checksum: during data transfer, value calculated and compared. [1] 4. Parity check: during data transfer, bits counted to detect errors. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_41",
+        "topic": "Ethics",
+        "text": "Describe four obligations of a software engineer under the IEEE Code of Ethics.",
+        "answer": "1. Hold paramount safety, health, and welfare of the public. [1] 2. Be honest and realistic in stating claims based on available data. [1] 3. Reject bribery in all its forms. [1] 4. Treat fairly all persons and not engage in discrimination. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_42",
+        "topic": "Software Licensing",
+        "text": "Describe four features of the Open Source Initiative's licence principles.",
+        "answer": "1. Free redistribution: no royalty or fee for sale. [1] 2. Source code must be included and distributable. [1] 3. No discrimination against persons or groups. [1] 4. License must be technology-neutral. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_43",
+        "topic": "Artificial Intelligence",
+        "text": "Describe four potential negative economic impacts of widespread AI adoption.",
+        "answer": "1. Job losses in medium/low-skilled occupations (manufacturing, admin). [1] 2. Need for massive retraining programmes costing billions. [1] 3. Increased wealth inequality between those with AI skills and those without. [1] 4. Small businesses unable to afford AI technology may fail. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_44",
+        "topic": "Ethics",
+        "text": "A programmer discovers a security flaw in their company's software but is told not to report it. Explain four ethical issues this creates.",
+        "answer": "1. Violates duty to public interest (public could be harmed). [1] 2. Violates duty to client (product is not safe/secure). [1] 3. Violates professional integrity by hiding known error. [1] 4. Violates duty to profession by lowering ethical standards. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_45",
+        "topic": "Software Licensing",
+        "text": "Compare and contrast commercial software and shareware. Give four points of comparison.",
+        "answer": "1. Both require payment: commercial pays before use; shareware pays after trial. [1] 2. Both are copyright-protected; source code cannot be modified. [1] 3. Commercial has no free trial; shareware offers trial period. [1] 4. Commercial may offer full features immediately; shareware trial may have limited features. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_46",
+        "topic": "Artificial Intelligence",
+        "text": "Describe four ethical concerns regarding the use of AI in social media advertising.",
+        "answer": "1. Privacy invasion through mass data collection. [1] 2. Manipulation of user behaviour without consent. [1] 3. Lack of transparency in how algorithms target individuals. [1] 4. Potential for political manipulation (e.g., Cambridge Analytica). [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_63",
+        "topic": "Data Security",
+        "text": "Explain four reasons why encryption alone is not sufficient for data security.",
+        "answer": "1. Encryption does not prevent deletion of files by hackers. [1] 2. If decryption key is stolen, data becomes readable. [1] 3. Encryption does not protect against phishing (user giving away data). [1] 4. Encryption does not prevent malware from capturing data before encryption. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_64",
+        "topic": "Data Integrity",
+        "text": "A system uses even parity. The following 4 bytes are received: 10110010, 11011010, 10101010, 01101010. The parity byte is 00101010. Determine if there is an error and locate it. Explain your steps.",
+        "answer": "1. Check horizontal parity: Byte1 (4 ones-even OK), Byte2 (5 ones-odd ERROR), Byte3 (4 ones-even OK), Byte4 (4 ones-even OK). [1] 2. Check vertical parity column by column against parity byte. [1] 3. Column with mismatch identifies error position. [1] 4. Intersection of Byte2 and that column identifies exact bit. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_47",
+        "topic": "Artificial Intelligence",
+        "text": "Describe four ways AI can improve environmental sustainability.",
+        "answer": "1. Optimising energy grids for renewable sources (solar/wind/tidal). [1] 2. Real-time pollution detection for faster response. [1] 3. Precision agriculture to reduce water and fertiliser use. [1] 4. Monitoring deforestation and wildlife populations via drone AI. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_48",
+        "topic": "Ethics",
+        "text": "Explain four ways a software company can demonstrate ethical behaviour towards its employees.",
+        "answer": "1. Provide fair wages and working conditions. [1] 2. Offer training and professional development opportunities. [1] 3. Credit employees for their work and contributions. [1] 4. Maintain a discrimination-free workplace. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_65",
+        "topic": "Data Security",
+        "text": "Describe four types of malware and the damage each can cause.",
+        "answer": "1. Virus: replicates and corrupts/deletes files. [1] 2. Worm: self-replicates across networks consuming bandwidth. [1] 3. Spyware: records keystrokes and sends data to third party. [1] 4. Trojan horse: disguises as legitimate software to gain access. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_49",
+        "topic": "Software Licensing",
+        "text": "Explain four reasons why a company might choose open source software over commercial software.",
+        "answer": "1. Lower cost (usually free) reducing IT budget. [1] 2. Ability to modify source code to meet specific needs. [1] 3. No vendor lock-in; freedom to switch providers. [1] 4. Community support and rapid bug fixes. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_66",
+        "topic": "Data Integrity",
+        "text": "A hospital enters patient data into a database. Describe four validation checks for the following fields: PatientID (format: 2 letters, 4 digits), Age, BloodType (A+, A-, B+, B-, O+, O-, AB+, AB-), AdmissionDate.",
+        "answer": "1. PatientID: format check - 2 letters followed by 4 digits. [1] 2. Age: range check - between 0 and 120. [1] 3. BloodType: existence check - must be in list of allowed values. [1] 4. AdmissionDate: range check - not future date and not before patient birth. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_50",
+        "topic": "Artificial Intelligence",
+        "text": "Describe four potential positive economic impacts of AI.",
+        "answer": "1. Increased productivity and efficiency in manufacturing. [1] 2. Creation of new jobs in AI development and maintenance. [1] 3. Lower costs for consumers due to automation. [1] 4. New industries and markets created by AI technology. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_67",
+        "topic": "Data Security",
+        "text": "Explain four methods an organisation can use to protect against social engineering attacks.",
+        "answer": "1. Security awareness training for all employees. [1] 2. Strict verification procedures before sharing sensitive data. [1] 3. Regular simulated phishing tests. [1] 4. Clear reporting procedures for suspicious contacts. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_51",
+        "topic": "Ethics",
+        "text": "A software tester finds a critical bug but their manager wants to release the software anyway. Describe four ethical actions the tester can take.",
+        "answer": "1. Report the bug in writing to the manager again. [1] 2. Escalate to higher management or ethics committee. [1] 3. Document concerns to protect themselves professionally. [1] 4. If ignored, consider reporting to appropriate regulatory body. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_68",
+        "topic": "Data Integrity",
+        "text": "Calculate the check digit for ISBN-13 number 978034098382 using the ISBN-13 algorithm (multiply alternately by 1 and 3, sum, divide by 10, subtract from 10). Show all steps.",
+        "answer": "1. Digits: 9,7,8,0,3,4,0,9,8,3,8,2. [1] 2. Sum = (9×1)+(7×3)+(8×1)+(0×3)+(3×1)+(4×3)+(0×1)+(9×3)+(8×1)+(3×3)+(8×1)+(2×3) = 9+21+8+0+3+12+0+27+8+9+8+6 = 111. [1] 3. 111 ÷ 10 = 11 remainder 1. [1] 4. Check digit = 10 - 1 = 9. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch7_52",
+        "topic": "Copyright",
+        "text": "Explain four actions that would violate software copyright laws.",
+        "answer": "1. Making copies of software and selling them. [1] 2. Using software on multiple computers without multi-use licence. [1] 3. Using copyrighted code in your own software without permission. [1] 4. Renting out software without permission to do so. [1]",
+        "score": 4
+    },
+    {
+        "id": "q_ch6_69",
+        "topic": "Data Security",
+        "text": "A large organisation wants to implement a comprehensive data security strategy. Describe five components this strategy should include and explain the purpose of each.",
+        "answer": "1. Firewall: monitors and filters network traffic to block unauthorised access. [1] 2. Encryption: protects data during transmission and storage, making it unreadable without key. [1] 3. Strong authentication: passwords/biometrics/two-factor to verify user identity. [1] 4. Anti-malware software: detects and removes viruses/spyware. [1] 5. Regular backups: enables data recovery after loss or corruption. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_70",
+        "topic": "Data Integrity",
+        "text": "A company is designing a data entry system for customer addresses. Describe five validation checks that could be used and explain what each check verifies.",
+        "answer": "1. Presence check: ensures address field is not left empty. [1] 2. Format check: ensures postcode follows correct pattern (e.g., AA11 1AA). [1] 3. Length check: ensures postcode has correct number of characters. [1] 4. Existence check: verifies postcode exists in database. [1] 5. Range check: ensures house number is within valid range. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_71",
+        "topic": "Data Security",
+        "text": "Explain five ways an organisation can protect against phishing attacks targeting its employees.",
+        "answer": "1. Regular security awareness training to identify phishing emails. [1] 2. Use email filtering to block known phishing domains. [1] 3. Implement anti-phishing toolbars in web browsers. [1] 4. Enforce policy of never clicking links in suspicious emails. [1] 5. Conduct simulated phishing tests to assess employee awareness. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_72",
+        "topic": "Data Integrity",
+        "text": "A system uses odd parity with parity block checking. The following 5 bytes are received: 10110010, 11011011, 10101011, 01101011, 11101011. The parity byte is 01001011. Identify if there is an error, locate it, and explain your step-by-step reasoning.",
+        "answer": "1. Check horizontal parity: Byte1 has four 1s (even) - error (needs odd). Byte2 has six 1s (even) - error. Byte3 has five 1s (odd) - OK. Byte4 has five 1s (odd) - OK. Byte5 has six 1s (even) - error. [1] 2. Error in multiple bytes suggests need vertical check. [1] 3. Check vertical parity column by column against parity byte to find column with mismatch. [1] 4. Intersection of any error row and mismatched column identifies bit(s). [1] 5. With multiple errors, parity block may not locate all errors; retransmission needed. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_73",
+        "topic": "Data Security",
+        "text": "A bank wants to implement biometric authentication for customer accounts. Describe five types of biometric authentication and evaluate the security of each.",
+        "answer": "1. Fingerprint scan: accuracy 1 in 500; easy to use but can be copied from surfaces. [1] 2. Retina scan: accuracy 1 in 10 million; very secure but expensive and requires stillness. [1] 3. Face recognition: accuracy improving; can be fooled by photos/videos without liveness detection. [1] 4. Voice recognition: convenient but can be recorded and replayed. [1] 5. Iris scan: very accurate (1 in 2 million); non-contact but requires specialised camera. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_74",
+        "topic": "Data Security",
+        "text": "Explain five limitations of firewalls in protecting a network.",
+        "answer": "1. Cannot prevent employees from using personal modems to bypass firewall. [1] 2. Cannot prevent employee misconduct (sharing passwords or user accounts). [1] 3. Cannot protect against viruses in encrypted traffic if not inspected. [1] 4. Cannot prevent users on standalone computers from disabling firewall. [1] 5. Cannot protect against insider threats (authorised users with malicious intent). [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_75",
+        "topic": "Data Integrity",
+        "text": "Describe five methods of data verification and give an example of when each is most appropriate.",
+        "answer": "1. Double entry: when high accuracy needed (e.g., medical records, financial data). [1] 2. Visual check: when source document is available (e.g., data entry from paper forms). [1] 3. Checksum: during network file transfer to detect corruption. [1] 4. Parity check: during serial data transmission (e.g., RS-232). [1] 5. Check digit: for barcode/ISBN entry to detect common errors. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_76",
+        "topic": "Data Security",
+        "text": "A company has suffered a ransomware attack. Explain five measures they should have implemented to prevent this and five recovery steps after the attack.",
+        "answer": "Prevention: 1. Regular offline backups. [1] 2. Up-to-date anti-malware software. [1] 3. Email filtering to block malicious attachments. [1] 4. User awareness training. [1] 5. Application whitelisting. [1] Recovery: 1. Isolate infected systems. [1] 2. Identify attack source. [1] 3. Restore from clean backups. [1] 4. Patch vulnerabilities. [1] 5. Report to authorities if required. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_77",
+        "topic": "Data Integrity",
+        "text": "Calculate the check digit for the 7-digit number 9098121 using modulo-11 (weightings 7,6,5,4,3,2,1). Show all working and explain what the check digit detects.",
+        "answer": "1. Sum = (7×9)+(6×0)+(5×9)+(4×8)+(3×1)+(2×2)+(1×1) = 63+0+45+32+3+4+1 = 148. [1] 2. 148 ÷ 11 = 13 remainder 5. [1] 3. Check digit = 11 - 5 = 6. [1] 4. Final number: 90981216. [1] 5. Detects single digit errors, transpositions, omissions, and added digits. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_53",
+        "topic": "Ethics",
+        "text": "A software developer is offered a bribe to include a backdoor in a banking application. Explain five ethical principles this would violate and the potential consequences.",
+        "answer": "1. Violates public interest: could lead to customer data theft. [1] 2. Violates duty to client: software not secure as required. [1] 3. Violates IEEE principle of rejecting bribery. [1] 4. Violates professional integrity: dishonest conduct. [1] 5. Consequences: legal prosecution, job loss, professional disbarment, reputational damage, financial penalties. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_54",
+        "topic": "Software Licensing",
+        "text": "Compare and contrast five features of Free Software Foundation and Open Source Initiative licences.",
+        "answer": "1. Both allow free redistribution of software. [1] 2. Both require source code to be available. [1] 3. Both allow modifications and derived works. [1] 4. FSF focuses on user freedoms; OSI focuses on practical collaboration. [1] 5. FSF more philosophical; OSI has 10 specific criteria for certification. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_55",
+        "topic": "Artificial Intelligence",
+        "text": "Describe five positive and five negative social impacts of AI on society.",
+        "answer": "Positive: 1. Improved healthcare diagnosis. [1] 2. Safer autonomous vehicles. [1] 3. 24/7 customer service availability. [1] 4. Personalised education. [1] 5. Assistive technology for disabled. [1] Negative: 1. Job displacement. [1] 2. Privacy erosion. [1] 3. Algorithmic bias. [1] 4. Reduced human interaction. [1] 5. Autonomous weapons risks. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_56",
+        "topic": "Ethics",
+        "text": "A software company discovers its product is being used by a government for human rights violations. Describe five ethical obligations the company has.",
+        "answer": "1. Cease providing software to that government. [1] 2. Publicly disclose the misuse if allowed by law. [1] 3. Implement technical measures to prevent misuse (e.g., geofencing). [1] 4. Report to appropriate international bodies. [1] 5. Review and strengthen licence terms to prohibit such use. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_57",
+        "topic": "Artificial Intelligence",
+        "text": "Explain five ways AI can positively impact environmental sustainability.",
+        "answer": "1. Optimising renewable energy grid management. [1] 2. Real-time pollution detection and source identification. [1] 3. Precision agriculture reducing water/fertiliser use. [1] 4. Wildlife monitoring and anti-poaching drone patrols. [1] 5. Climate modelling for accurate predictions and policy making. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_58",
+        "topic": "Software Licensing",
+        "text": "Explain five differences between open source software and commercial software in terms of cost, source code, support, distribution, and modification rights.",
+        "answer": "1. Cost: open source usually free; commercial requires payment. [1] 2. Source code: open source accessible; commercial closed. [1] 3. Support: open source community-based; commercial vendor-provided. [1] 4. Distribution: open source freely distributable; commercial restricted. [1] 5. Modification: open source allowed; commercial prohibited. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_59",
+        "topic": "Ethics",
+        "text": "A programmer is asked to create software that collects user location data without consent. Describe five ethical and legal issues with this request.",
+        "answer": "1. Violates user privacy rights. [1] 2. May violate data protection laws. [1] 3. Violates IEEE code of acting in public interest. [1] 4. Violates requirement to be honest about software capabilities. [1] 5. Could lead to legal prosecution and professional disbarment. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_78",
+        "topic": "Data Security",
+        "text": "Describe five methods of malware protection and explain how each works.",
+        "answer": "1. Anti-virus: signature-based and heuristic detection. [1] 2. Firewall: blocks unauthorised network traffic. [1] 3. Application whitelisting: only approved programs can run. [1] 4. Email filtering: scans attachments and links before delivery. [1] 5. Sandboxing: runs suspicious code in isolated environment. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_79",
+        "topic": "Data Integrity",
+        "text": "A system uses even parity with parity block. The following 4 bytes are received: 10110010, 11011010, 10101011, 01101010. Parity byte is 00101010. Determine if there is an error. If yes, locate it and explain. If multiple errors, explain limitation.",
+        "answer": "1. Horizontal parity: Byte1 (4 ones-even OK), Byte2 (5 ones-odd ERROR), Byte3 (5 ones-odd ERROR), Byte4 (4 ones-even OK). [1] 2. Two errors detected; parity block can locate single errors but multiple errors may be ambiguous. [1] 3. Vertical parity check column by column may show mismatches. [1] 4. If two bits in same column have flipped, parity may appear correct (limitation). [1] 5. Recommendation: request retransmission of entire block. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_60",
+        "topic": "Artificial Intelligence",
+        "text": "Describe five potential negative economic impacts of AI and five strategies to mitigate them.",
+        "answer": "Impacts: 1. Job losses in manufacturing. [1] 2. Wage stagnation for low-skilled workers. [1] 3. Wealth concentration in AI-owning companies. [1] 4. Regional economic disparities. [1] 5. Small business failure. [1] Mitigation: 1. Retraining programmes. [1] 2. Universal basic income trials. [1] 3. Investment in education. [1] 4. Tax AI profits to fund social programmes. [1] 5. Support small business AI adoption. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_61",
+        "topic": "Copyright",
+        "text": "Explain five ways digital rights management (DRM) protects copyrighted software and media, and five criticisms of DRM.",
+        "answer": "Protection: 1. Prevents unauthorised copying. [1] 2. Limits number of devices that can access content. [1] 3. Requires online activation. [1] 4. Encrypts content requiring key. [1] 5. Watermarks for tracking. [1] Criticisms: 1. Restricts legitimate use (e.g., format shifting). [1] 2. Can prevent access if authentication servers shut down. [1] 3. May reduce performance. [1] 4. Can be cracked anyway. [1] 5. Punishes legitimate users more than pirates. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_80",
+        "topic": "Data Security",
+        "text": "An organisation wants to implement a defence-in-depth security strategy. Describe five layers of security they should implement and explain how each layer protects.",
+        "answer": "1. Perimeter firewall: blocks external unauthorised access. [1] 2. Internal network segmentation: limits lateral movement of attackers. [1] 3. Host-based firewall: protects individual computers. [1] 4. Anti-malware: detects and removes malicious software. [1] 5. Data encryption: protects data if storage is stolen. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_62",
+        "topic": "Ethics",
+        "text": "A software engineer is asked to sign off on a project that has known security vulnerabilities. Describe five ethical principles this violates and the potential consequences.",
+        "answer": "1. Violates public interest: public safety at risk. [1] 2. Violates product principle: software not meeting highest professional standards. [1] 3. Violates judgement principle: lack of professional integrity. [1] 4. Violates profession principle: damaging reputation of profession. [1] 5. Consequences: legal liability, professional disbarment, reputational damage, loss of client trust, potential harm to users. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_81",
+        "topic": "Data Integrity",
+        "text": "Describe five differences between validation and verification, with examples of each.",
+        "answer": "1. Validation checks reasonableness; verification checks accuracy. [1] 2. Validation example: range check on age (0-120); verification example: double entry. [1] 3. Validation done by software; verification may be manual or software. [1] 4. Validation prevents entry of invalid data; verification catches entry errors. [1] 5. Validation: format check on postcode; verification: visual check against source. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_63",
+        "topic": "Artificial Intelligence",
+        "text": "Describe five applications of AI in healthcare and explain the benefits and risks of each.",
+        "answer": "1. Medical imaging diagnosis: faster, accurate but may miss rare conditions. [1] 2. Drug discovery: faster development but high cost. [1] 3. Personalised treatment: tailored medicine but privacy concerns. [1] 4. Robot-assisted surgery: precision but high cost and training needed. [1] 5. Patient monitoring: 24/7 care but data security risks. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_82",
+        "topic": "Data Security",
+        "text": "Explain five ways an employee can accidentally compromise data security and five ways to prevent each.",
+        "answer": "Risks: 1. Weak passwords - use strong password policy. [1] 2. Writing down passwords - use password manager. [1] 3. Clicking phishing links - security awareness training. [1] 4. Leaving computer unlocked - auto-lock policy. [1] 5. Using unsecured WiFi - require VPN for remote access. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_64",
+        "topic": "Software Licensing",
+        "text": "Compare five features of shareware, freeware, commercial software, open source, and free software licences.",
+        "answer": "1. Shareware: free trial then pay; no source code access. [1] 2. Freeware: free permanently; no source code access. [1] 3. Commercial: pay before use; no source code access. [1] 4. Open source: free; source code accessible and modifiable. [1] 5. Free software: free; four freedoms including redistribution. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_83",
+        "topic": "Data Security",
+        "text": "A company has been a victim of a DNS spoofing (pharming) attack. Explain five ways this attack works and five prevention measures.",
+        "answer": "Attack: 1. DNS cache poisoning on DNS server. [1] 2. Malicious code on user computer altering hosts file. [1] 3. Man-in-the-middle DNS interception. [1] 4. Rogue DNS server configuration. [1] 5. Router compromise altering DNS settings. [1] Prevention: 1. Use DNSSEC. [1] 2. Keep anti-malware updated. [1] 3. Use trusted DNS servers (e.g., 8.8.8.8). [1] 4. Monitor DNS traffic for anomalies. [1] 5. Regular router firmware updates. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_65",
+        "topic": "Artificial Intelligence",
+        "text": "Describe five ethical principles that should govern the development and deployment of AI systems.",
+        "answer": "1. Transparency: AI decisions should be explainable. [1] 2. Fairness: AI should not discriminate against groups. [1] 3. Accountability: humans responsible for AI outcomes. [1] 4. Privacy: user data must be protected. [1] 5. Safety: AI must not cause harm to humans. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch6_84",
+        "topic": "Data Integrity",
+        "text": "Calculate the ISBN-13 check digit for 978139831828. Show all working and explain what errors this check digit can detect.",
+        "answer": "1. Digits: 9,7,8,1,3,9,8,3,1,8,2,8. [1] 2. Sum = (9×1)+(7×3)+(8×1)+(1×3)+(3×1)+(9×3)+(8×1)+(3×3)+(1×1)+(8×3)+(2×1)+(8×3) = 9+21+8+3+3+27+8+9+1+24+2+24 = 139. [1] 3. 139 ÷ 10 = 13 remainder 9. [1] 4. Check digit = 10 - 9 = 1. [1] 5. Detects single digit errors, transpositions, omitted/added digits. [1]",
+        "score": 5
+    },
+    {
+        "id": "q_ch7_66",
+        "topic": "Ethics",
+        "text": "A social media company uses AI to curate user feeds. Describe five ethical concerns with algorithmic content curation.",
+        "answer": "1. Filter bubbles: users only see reinforcing content. [1] 2. Echo chambers: polarisation of opinions. [1] 3. Misinformation spread: algorithms may promote sensational false content. [1] 4. Mental health impact: addiction and anxiety from engagement algorithms. [1] 5. Lack of transparency: users don't know why they see certain content. [1]",
+        "score": 5
+    }
+]

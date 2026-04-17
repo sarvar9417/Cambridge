@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "q_ch2_b1_01",
+        "topic": "Networking",
+        "text": "Define the term 'Local Area Network (LAN)'.",
+        "answer": "A network that covers a small geographical area, such as a single building or office.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_02",
+        "topic": "Networking",
+        "text": "State what WAN stands for.",
+        "answer": "Wide Area Network",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_03",
+        "topic": "Internet",
+        "text": "What does the acronym URL stand for?",
+        "answer": "Uniform Resource Locator",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_04",
+        "topic": "Internet",
+        "text": "State the function of a DNS server.",
+        "answer": "Converts domain names (e.g., www.example.com) into IP addresses.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_05",
+        "topic": "Networking",
+        "text": "Give one benefit of networking computers together.",
+        "answer": "Sharing of resources such as printers / sharing files and data / centralised backup.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_06",
+        "topic": "Networking",
+        "text": "State the role of a router in a network.",
+        "answer": "Routes data packets between different networks (e.g., connects a LAN to the internet).",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_07",
+        "topic": "Networking",
+        "text": "What does the acronym NIC stand for?",
+        "answer": "Network Interface Card",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_08",
+        "topic": "Networking",
+        "text": "State one disadvantage of a peer-to-peer network.",
+        "answer": "No central security management / data consistency may be difficult to maintain.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_09",
+        "topic": "Internet",
+        "text": "What is the purpose of an IP address?",
+        "answer": "Uniquely identifies a device on a network / used for routing data to the correct device.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_10",
+        "topic": "Networking",
+        "text": "State what is meant by 'bit streaming'.",
+        "answer": "A contiguous sequence of digital bits sent over a network/internet.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_11",
+        "topic": "Internet",
+        "text": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_12",
+        "topic": "Networking",
+        "text": "State one advantage of a star network topology.",
+        "answer": "Data collisions are greatly reduced / more secure / if one connection fails only that node is affected.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_13",
+        "topic": "Networking",
+        "text": "What is the function of a switch?",
+        "answer": "Connects devices on a LAN and forwards data packets only to the intended recipient device.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_14",
+        "topic": "Internet",
+        "text": "State what is meant by 'IPv4'.",
+        "answer": "Internet Protocol version 4, which uses 32-bit addresses (e.g., 192.168.1.1).",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_15",
+        "topic": "Networking",
+        "text": "State one drawback of a wireless network.",
+        "answer": "Increased chance of interference / less secure than wired / slower data transmission rates.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_16",
+        "topic": "Networking",
+        "text": "What does the acronym CSMA/CD stand for?",
+        "answer": "Carrier Sense Multiple Access with Collision Detection",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_17",
+        "topic": "Internet",
+        "text": "State the function of a web browser.",
+        "answer": "Connects to DNS to locate IP addresses and interprets web pages sent to the user's computer.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_18",
+        "topic": "Networking",
+        "text": "What is a 'node' on a network?",
+        "answer": "Any device connected to a network (e.g., computer, printer, storage device).",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_19",
+        "topic": "Networking",
+        "text": "State the role of a repeater in a network.",
+        "answer": "Boosts a signal so it can be transmitted over greater distances.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_20",
+        "topic": "Internet",
+        "text": "What does the acronym ISP stand for?",
+        "answer": "Internet Service Provider",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_21",
+        "topic": "Networking",
+        "text": "State one advantage of a mesh network topology.",
+        "answer": "Any broken links do not affect other nodes / good privacy and security / easy to identify faults.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_22",
+        "topic": "Networking",
+        "text": "What is a 'modem' used for?",
+        "answer": "Converts digital data to analogue data (and vice versa) for transmission over telephone lines.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_23",
+        "topic": "Internet",
+        "text": "State what is meant by 'IPv6'.",
+        "answer": "Internet Protocol version 6, which uses 128-bit addresses (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334).",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_24",
+        "topic": "Networking",
+        "text": "State one benefit of using cloud storage.",
+        "answer": "Files can be accessed from any device anywhere with internet access / remote backup.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_25",
+        "topic": "Networking",
+        "text": "What is a 'bridge' in networking?",
+        "answer": "A device that connects two LANs that use the same protocol.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_26",
+        "topic": "Internet",
+        "text": "State the function of VoIP.",
+        "answer": "Converts voice and webcam images into digital packets to be sent over the internet.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_27",
+        "topic": "Networking",
+        "text": "What does 'thick client' mean?",
+        "answer": "A device that can work offline and online, capable of processing without a network connection.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_28",
+        "topic": "Networking",
+        "text": "State one drawback of cloud storage.",
+        "answer": "Requires stable internet connection / potential security risks / ongoing costs.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_29",
+        "topic": "Internet",
+        "text": "What does the acronym HTML stand for?",
+        "answer": "HyperText Markup Language",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b1_30",
+        "topic": "Networking",
+        "text": "State the purpose of a Wireless Access Point (WAP).",
+        "answer": "Allows devices to access a LAN without a wired connection using Wi-Fi.",
+        "score": 1
+    },
+    {
+        "id": "q_ch2_b2_01",
+        "topic": "Networking",
+        "text": "Describe two differences between a LAN and a WAN.",
+        "answer": "1. LAN covers small area (building), WAN covers large area (cities/countries). 2. LAN uses private infrastructure, WAN uses public communication lines.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_02",
+        "topic": "Networking",
+        "text": "State two characteristics of a bus network topology.",
+        "answer": "All devices connected to a single central cable; data travels in one direction; terminators needed at each end.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_03",
+        "topic": "Internet",
+        "text": "Explain the difference between the internet and the World Wide Web.",
+        "answer": "Internet is the global network of interconnected computers; WWW is a collection of web pages accessed via the internet using HTTP.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_04",
+        "topic": "Networking",
+        "text": "Describe what is meant by 'client-server' network model.",
+        "answer": "A model with dedicated servers that provide services (e.g., files, authentication) to client workstations.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_05",
+        "topic": "Networking",
+        "text": "State two benefits of using a star network topology.",
+        "answer": "1. Data collisions are greatly reduced. 2. More secure as packets only travel to nodes with correct address.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_06",
+        "topic": "Networking",
+        "text": "Describe the role of a switch in a LAN.",
+        "answer": "Connects multiple devices; checks destination address of each packet and forwards it only to the intended recipient.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_07",
+        "topic": "Internet",
+        "text": "Explain how DNS is used when a user types a URL into a web browser.",
+        "answer": "DNS server looks up the domain name and returns the corresponding IP address so the browser can connect to the web server.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_08",
+        "topic": "Networking",
+        "text": "Describe one advantage and one disadvantage of a peer-to-peer network.",
+        "answer": "Advantage: no central server required, easy to set up. Disadvantage: low security, no central management.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_09",
+        "topic": "Networking",
+        "text": "Explain the difference between a hub and a switch.",
+        "answer": "Hub sends incoming data packets to all devices; switch sends packets only to the intended destination device.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_10",
+        "topic": "Internet",
+        "text": "State two differences between IPv4 and IPv6.",
+        "answer": "1. IPv4 uses 32 bits, IPv6 uses 128 bits. 2. IPv4 uses decimal notation with dots, IPv6 uses hexadecimal with colons.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_11",
+        "topic": "Networking",
+        "text": "Describe two drawbacks of a wireless network compared to a wired network.",
+        "answer": "1. Slower data transmission rates. 2. Less secure (easier to intercept signals). 3. Susceptible to interference.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_12",
+        "topic": "Networking",
+        "text": "Explain the difference between 'on-demand' and 'real-time' bit streaming.",
+        "answer": "On-demand: user can pause, rewind, fast forward (pre-recorded). Real-time: live broadcast, cannot be paused or rewound.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_13",
+        "topic": "Networking",
+        "text": "State two characteristics of a mesh network topology.",
+        "answer": "All devices are interlinked; data packets are sent via the shortest route; multiple paths between devices.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_14",
+        "topic": "Internet",
+        "text": "Describe the purpose of a private IP address.",
+        "answer": "Used for internal network communication behind a router; not accessible directly from the internet.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_15",
+        "topic": "Networking",
+        "text": "Explain what is meant by 'data collision' in Ethernet and how CSMA/CD helps.",
+        "answer": "When two devices transmit simultaneously on same channel. CSMA/CD detects collision, stops transmission, waits random time, then retransmits.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_16",
+        "topic": "Networking",
+        "text": "State two differences between thick clients and thin clients.",
+        "answer": "1. Thick clients can work offline; thin clients require constant server connection. 2. Thick clients have local storage; thin clients store data on server.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_17",
+        "topic": "Internet",
+        "text": "Describe the role of an ISP.",
+        "answer": "Provides a user with internet access for a monthly fee; supplies necessary hardware/software and connection to the internet backbone.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_18",
+        "topic": "Networking",
+        "text": "Explain why buffers are needed in bit streaming.",
+        "answer": "Temporarily stores data to smooth out variations in transmission speed, preventing playback interruptions.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_19",
+        "topic": "Networking",
+        "text": "State two benefits of using cloud computing for a business.",
+        "answer": "1. Reduced hardware costs. 2. Access data from anywhere. 3. Automatic backups and disaster recovery.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_20",
+        "topic": "Internet",
+        "text": "Describe the function of a Uniform Resource Locator (URL).",
+        "answer": "Specifies the location of a web resource, including protocol, domain name, path, and filename.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_21",
+        "topic": "Networking",
+        "text": "Explain the difference between a repeater and a bridge.",
+        "answer": "Repeater boosts signals to extend transmission distance; bridge connects two LANs using the same protocol.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_22",
+        "topic": "Networking",
+        "text": "State two advantages of using fibre optic cables over copper cables.",
+        "answer": "1. Higher bandwidth / faster data transfer. 2. Less signal interference. 3. Can be used over longer distances.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_23",
+        "topic": "Internet",
+        "text": "Describe what is meant by 'zero compression' in IPv6.",
+        "answer": "Replacing consecutive groups of zeros with a double colon (::) to shorten the IPv6 address. Can only be applied once to avoid ambiguity.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_24",
+        "topic": "Networking",
+        "text": "Explain the difference between public and private cloud.",
+        "answer": "Public cloud: services provided by third-party over the internet. Private cloud: dedicated environment behind a company firewall.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_25",
+        "topic": "Networking",
+        "text": "State two drawbacks of a bus network topology.",
+        "answer": "1. If main cable fails, whole network goes down. 2. Not secure as each packet passes through every node.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_26",
+        "topic": "Internet",
+        "text": "Describe the purpose of sub-netting.",
+        "answer": "Divides a network into two or more smaller subnetworks to reduce traffic, improve security, and hide network complexity.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_27",
+        "topic": "Networking",
+        "text": "Explain the role of a gateway in networking.",
+        "answer": "Acts as an entrance to another network; converts data packets from one protocol to another.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_28",
+        "topic": "Networking",
+        "text": "State two advantages of using Bluetooth over Wi-Fi.",
+        "answer": "1. Lower power consumption. 2. Simpler pairing. 3. Better for short-range, low-bandwidth applications.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_29",
+        "topic": "Internet",
+        "text": "Describe the function of PSTN in internet communication.",
+        "answer": "Public Switched Telephone Network; used to connect computers/devices between towns and cities using telephone lines.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b2_30",
+        "topic": "Networking",
+        "text": "Explain what is meant by 'data redundancy' in cloud storage.",
+        "answer": "Same data is stored on multiple servers so that if one server fails or needs maintenance, data remains accessible.",
+        "score": 2
+    },
+    {
+        "id": "q_ch2_b3_01",
+        "topic": "Networking",
+        "text": "Explain three benefits of networking computers in a school.",
+        "answer": "1. Sharing printers reduces costs. 2. Centralised backup of student work. 3. Easy sharing of resources and files between students and teachers.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_02",
+        "topic": "Internet",
+        "text": "Describe how a DNS server resolves a domain name to an IP address. Include all steps.",
+        "answer": "1. Browser sends request to DNS server. 2. DNS checks cache/database. 3. If not found, queries other DNS servers. 4. IP address returned to browser. 5. Browser connects to web server.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_03",
+        "topic": "Networking",
+        "text": "Compare the client-server and peer-to-peer network models. Give one scenario where each is appropriate.",
+        "answer": "Client-server: central server manages resources (e.g., school network). Peer-to-peer: no central server, each node shares resources (e.g., small home network with 5 computers).",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_04",
+        "topic": "Networking",
+        "text": "Explain how CSMA/CD detects and resolves collisions on an Ethernet network.",
+        "answer": "1. Listens to channel before transmitting. 2. If collision detected, stops transmission. 3. Sends jamming signal. 4. Waits random time. 5. Retransmits.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_05",
+        "topic": "Internet",
+        "text": "Describe three differences between IPv4 and IPv6 addressing.",
+        "answer": "1. IPv4 32-bit, IPv6 128-bit. 2. IPv4 decimal with dots, IPv6 hexadecimal with colons. 3. IPv6 has zero compression, IPv4 does not.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_06",
+        "topic": "Networking",
+        "text": "Explain the advantages and disadvantages of using a star topology in an office network.",
+        "answer": "Advantages: easy to add nodes, secure, collisions reduced. Disadvantages: central hub failure brings down network, higher installation cost.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_07",
+        "topic": "Networking",
+        "text": "Describe how data is transmitted using packet switching. Include the role of routers.",
+        "answer": "Data split into packets; each packet has header with source/destination IP; routers examine header and forward via best route; packets reassembled at destination.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_08",
+        "topic": "Internet",
+        "text": "Explain the difference between a public IP address and a private IP address. Give an example of each.",
+        "answer": "Public IP: accessible from internet (e.g., 8.8.8.8). Private IP: internal network only (e.g., 192.168.1.1). Private IPs are not routable on the internet.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_09",
+        "topic": "Networking",
+        "text": "Describe three factors to consider when choosing between wired and wireless networking.",
+        "answer": "1. Mobility: wireless allows movement. 2. Speed: wired is faster. 3. Security: wired is more secure. 4. Interference: wireless susceptible.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_10",
+        "topic": "Networking",
+        "text": "Explain how a router uses a routing table to forward packets.",
+        "answer": "Router examines destination IP in packet header; compares with routing table; determines next hop address; forwards packet accordingly.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_11",
+        "topic": "Networking",
+        "text": "Describe the function of a Wireless Network Interface Card (WNIC).",
+        "answer": "Allows device to connect to a wireless network; uses antenna to communicate via radio waves/microwaves; works in infrastructure or ad hoc mode.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_12",
+        "topic": "Internet",
+        "text": "Explain the purpose of subnetting and give one benefit.",
+        "answer": "Divides a network into smaller subnetworks. Benefit: reduces network traffic by localising communication within subnets.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_13",
+        "topic": "Networking",
+        "text": "Describe the difference between a hub and a switch. Why is a switch more secure?",
+        "answer": "Hub sends packets to all devices; switch sends only to destination. Switch is more secure because unintended devices don't receive packets.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_14",
+        "topic": "Networking",
+        "text": "Explain the concept of 'thin client' and give an example of where it would be used.",
+        "answer": "Device that relies on server for processing/storage. Example: POS terminal in supermarket that needs constant server connection.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_15",
+        "topic": "Internet",
+        "text": "Describe how VoIP works and state two advantages over traditional PSTN calls.",
+        "answer": "Converts voice to digital packets sent over internet. Advantages: lower cost, uses bandwidth only when talking, supports video calls.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_16",
+        "topic": "Networking",
+        "text": "Explain three disadvantages of cloud storage for businesses.",
+        "answer": "1. Requires reliable internet connection. 2. Security risks (data breaches). 3. Ongoing subscription costs. 4. Dependency on third-party provider.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_17",
+        "topic": "Networking",
+        "text": "Describe how a mesh network topology provides fault tolerance.",
+        "answer": "Multiple interconnections between nodes; if one link fails, data can be rerouted through alternative paths, so network continues functioning.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_18",
+        "topic": "Internet",
+        "text": "Explain the difference between a static IP address and a dynamic IP address.",
+        "answer": "Static IP: permanently assigned to device, never changes. Dynamic IP: temporarily assigned by DHCP server, may change each time device connects.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_19",
+        "topic": "Networking",
+        "text": "Describe the role of a modem in connecting a home network to the internet.",
+        "answer": "Converts digital signals from router to analogue signals for transmission over telephone/cable lines, and converts incoming analogue signals back to digital.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_20",
+        "topic": "Networking",
+        "text": "Explain why buffering is necessary for smooth video streaming.",
+        "answer": "Buffer stores downloaded data before playback; compensates for fluctuations in network speed; prevents video from pausing while waiting for more data.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_21",
+        "topic": "Internet",
+        "text": "Describe the components of a URL and their functions using an example.",
+        "answer": "Example: https://www.example.com/index.html. Protocol (https), domain host (www), domain name (example), domain type (.com), path/filename (index.html).",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_22",
+        "topic": "Networking",
+        "text": "Explain three benefits of using fibre optic cables over copper cables for WAN connections.",
+        "answer": "1. Higher bandwidth capacity. 2. Less signal attenuation over long distances. 3. Immune to electromagnetic interference. 4. More secure (harder to tap).",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_23",
+        "topic": "Networking",
+        "text": "Describe the difference between infrastructure mode and ad hoc mode in wireless networking.",
+        "answer": "Infrastructure mode: devices connect via WAP. Ad hoc mode: devices connect directly to each other without a central access point.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_24",
+        "topic": "Networking",
+        "text": "Explain the purpose of a hybrid network topology and give an example.",
+        "answer": "Combines two or more topologies. Example: connecting multiple bus networks (hotel chains) to a star network using hybrid topology.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_25",
+        "topic": "Internet",
+        "text": "Describe how classless inter-domain routing (CIDR) improves IPv4 addressing.",
+        "answer": "CIDR adds a suffix (e.g., /18) to increase flexibility in dividing netID and hostID bits, reducing waste of IP addresses.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_26",
+        "topic": "Networking",
+        "text": "Explain three security risks of wireless networks and how they can be mitigated.",
+        "answer": "1. Eavesdropping: use encryption (WPA2). 2. Unauthorised access: use strong passwords. 3. Interference: choose less congested channel.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_27",
+        "topic": "Networking",
+        "text": "Describe the function of a repeater in a wireless network and its limitation.",
+        "answer": "Boosts Wi-Fi signal to eliminate dead spots. Limitation: repeats all signals, including noise, and does not resolve collisions.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_28",
+        "topic": "Internet",
+        "text": "Explain the difference between circuit switching and packet switching in telephone networks.",
+        "answer": "Circuit switching: dedicated path for entire call (PSTN). Packet switching: data split into packets sent via different routes (VoIP).",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_29",
+        "topic": "Networking",
+        "text": "Describe three benefits of using cloud storage for a small business.",
+        "answer": "1. No need for in-house servers. 2. Automatic backups. 3. Access data remotely. 4. Scalable storage. 5. Reduced IT maintenance costs.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b3_30",
+        "topic": "Networking",
+        "text": "Explain how spread spectrum frequency hopping works in Bluetooth.",
+        "answer": "Device randomly picks one of 79 channels; if channel in use, picks another; constantly changes channels several times per second to avoid interference.",
+        "score": 3
+    },
+    {
+        "id": "q_ch2_b4_01",
+        "topic": "Networking",
+        "text": "Compare the bus, star, and mesh network topologies. Give one advantage and one disadvantage of each.",
+        "answer": "Bus: advantage - easy to expand; disadvantage - main cable fails whole network. Star: advantage - secure; disadvantage - hub fails whole network. Mesh: advantage - fault tolerant; disadvantage - expensive cabling.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_02",
+        "topic": "Internet",
+        "text": "Explain the process of packet switching when sending an email from one country to another. Include the role of routers and IP addresses.",
+        "answer": "Email split into packets; each packet has source/destination IP; routers examine headers and forward via best route; packets may take different paths; reassembled at destination.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_03",
+        "topic": "Networking",
+        "text": "Compare the use of twisted pair, coaxial, and fibre optic cables. Give a suitable application for each.",
+        "answer": "Twisted pair: Ethernet LANs (cheap, short distance). Coaxial: cable TV/broadband (better shielding). Fibre optic: WAN backbone (high speed, long distance).",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_04",
+        "topic": "Networking",
+        "text": "Explain how cloud computing can benefit a multinational company. Include advantages and potential drawbacks.",
+        "answer": "Advantages: global access, scalability, reduced IT costs. Drawbacks: data security, internet dependency, regulatory compliance issues.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_05",
+        "topic": "Internet",
+        "text": "Describe the structure of an IPv4 address and explain how subnetting is used to divide a network.",
+        "answer": "IPv4: 32 bits split into 4 octets (0-255). Subnetting: hostID bits are split into netID expansion and hostID, creating multiple sub-networks with same netID.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_06",
+        "topic": "Networking",
+        "text": "Compare the advantages and disadvantages of using a client-server model versus a peer-to-peer model for a school network with 500 computers.",
+        "answer": "Client-server: better security, central management, scalable but expensive. Peer-to-peer: cheap but insecure, not scalable beyond ~10 computers. Client-server recommended.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_07",
+        "topic": "Networking",
+        "text": "Explain how bit streaming works for on-demand video services like Netflix. Include the role of buffers and bandwidth.",
+        "answer": "Video compressed and stored on server; user clicks link; data sent in continuous stream; buffer stores data to prevent pauses; requires sufficient bandwidth.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_08",
+        "topic": "Internet",
+        "text": "Describe the TCP/IP protocol stack and explain the function of each of the four layers.",
+        "answer": "Application layer: HTTP, FTP, SMTP. Transport layer: TCP (packet assembly). Internet layer: IP (routing). Link layer: physical transmission (Ethernet).",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_09",
+        "topic": "Networking",
+        "text": "Compare the use of Wi-Fi and Bluetooth for different applications. Give two applications for each.",
+        "answer": "Wi-Fi: internet access, video streaming (high bandwidth). Bluetooth: headphones, file transfer between phone and laptop (low power, short range).",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_10",
+        "topic": "Networking",
+        "text": "Explain how a router uses NAT (Network Address Translation) to allow multiple devices to share a single public IP address.",
+        "answer": "Router assigns private IPs to LAN devices; when device sends packet, router replaces source IP with its public IP and tracks connection; replies routed back correctly.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_11",
+        "topic": "Internet",
+        "text": "Describe the differences between GEO, MEO, and LEO satellites. Give an application for each.",
+        "answer": "GEO: 24hr orbit, TV broadcasting. MEO: 2-12hr orbit, GPS. LEO: 80min-2hr orbit, mobile phone networks.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_12",
+        "topic": "Networking",
+        "text": "Explain the concept of 'thick client' versus 'thin client' in a business network. Give a scenario where each would be appropriate.",
+        "answer": "Thick client: offline processing (designer laptop). Thin client: always-online terminal (call centre). Thick has local storage; thin depends on server.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_13",
+        "topic": "Networking",
+        "text": "Describe how data collisions are detected and resolved using CSMA/CD on a bus network.",
+        "answer": "Device listens before transmitting; if channel busy, waits; if collision occurs during transmission, stops and sends jamming signal; waits random time; retransmits.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_14",
+        "topic": "Internet",
+        "text": "Explain the role of a DNS server when a user sends an email to someone@example.com.",
+        "answer": "Email client queries DNS for mail exchanger (MX) record of example.com; DNS returns IP address of mail server; email routed to that server.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_15",
+        "topic": "Networking",
+        "text": "Compare the advantages and disadvantages of using a mesh topology for a military communication network.",
+        "answer": "Advantages: fault tolerant, no single point of failure, secure. Disadvantages: expensive, complex to set up and maintain.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_16",
+        "topic": "Networking",
+        "text": "Explain how a VPN (Virtual Private Network) uses encryption to secure data transmission over the internet.",
+        "answer": "VPN creates encrypted tunnel between device and VPN server; all data encrypted before transmission; intercepted data cannot be read without decryption key.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_17",
+        "topic": "Internet",
+        "text": "Describe the structure of an IPv6 address and explain zero compression with an example.",
+        "answer": "IPv6: 8 groups of 4 hexadecimal digits (128 bits). Zero compression: replace consecutive zero groups with ::. Example: 2001:0000:0000:0000:0000:0000:0000:0001 becomes 2001::1.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_18",
+        "topic": "Networking",
+        "text": "Compare the use of a bridge and a gateway in network interconnection.",
+        "answer": "Bridge: connects two LANs using same protocol. Gateway: connects networks using different protocols, performs protocol conversion.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_19",
+        "topic": "Networking",
+        "text": "Explain three benefits and three drawbacks of using cloud storage for a photography business.",
+        "answer": "Benefits: off-site backup, access anywhere, scalable. Drawbacks: upload time for large files, ongoing costs, security concerns, internet dependency.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_20",
+        "topic": "Internet",
+        "text": "Describe the difference between HTTP and HTTPS. Explain when HTTPS should be used.",
+        "answer": "HTTP: unencrypted data transmission. HTTPS: encrypted using SSL/TLS. HTTPS should be used for sensitive data (banking, logins, payments).",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_21",
+        "topic": "Networking",
+        "text": "Explain how a repeater and a bridge differ in their operation and when each is used.",
+        "answer": "Repeater: amplifies signal to extend distance (physical layer). Bridge: connects two LAN segments with same protocol (data link layer).",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_22",
+        "topic": "Networking",
+        "text": "Compare the characteristics of a MAN (Metropolitan Area Network) with LAN and WAN.",
+        "answer": "MAN: between LAN and WAN in size (1-100km); connects multiple buildings in a city; e.g., university campus network.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_23",
+        "topic": "Internet",
+        "text": "Explain the concept of 'data redundancy' in cloud storage and why it is important.",
+        "answer": "Same data stored on multiple servers. Important for: fault tolerance (server failure), maintenance (one server offline), disaster recovery.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_24",
+        "topic": "Networking",
+        "text": "Describe the advantages and disadvantages of using a wireless network in a large warehouse.",
+        "answer": "Advantages: mobility for workers, easy to add devices. Disadvantages: interference from metal racks, signal attenuation over distance, security risks.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_25",
+        "topic": "Internet",
+        "text": "Explain how the PSTN (Public Switched Telephone Network) differs from VoIP for making phone calls.",
+        "answer": "PSTN: circuit switching, dedicated line for entire call, always open. VoIP: packet switching, uses internet, bandwidth only when talking.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_26",
+        "topic": "Networking",
+        "text": "Compare the use of a hub and a switch in a LAN. Explain why switches have replaced hubs in modern networks.",
+        "answer": "Hub broadcasts to all ports (collisions, insecure). Switch sends only to destination (efficient, secure). Switches replaced hubs for better performance and security.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_27",
+        "topic": "Networking",
+        "text": "Explain how spread spectrum technology works in Wi-Fi and why it is used.",
+        "answer": "Uses wideband radio frequency; spreads signal across multiple frequencies; reduces interference and eavesdropping; range 30-100 metres.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_28",
+        "topic": "Internet",
+        "text": "Describe the purpose of Classless Inter-Domain Routing (CIDR) and give an example of CIDR notation.",
+        "answer": "CIDR increases IPv4 flexibility by allowing variable length subnet masks. Example: 192.168.1.0/24 means 24 bits for network ID, 8 bits for host ID.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_29",
+        "topic": "Networking",
+        "text": "Compare the advantages of using a star topology over a bus topology for a school computer lab.",
+        "answer": "Star: more reliable (one cable failure affects only one computer), secure, easier to troubleshoot, better performance under heavy load.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b4_30",
+        "topic": "Internet",
+        "text": "Explain the difference between a public IP address and a private IP address. Give the reserved ranges for private IP addresses.",
+        "answer": "Public IP: routable on internet. Private IP: internal use only. Reserved ranges: Class A: 10.0.0.0-10.255.255.255, Class B: 172.16.0.0-172.31.255.255, Class C: 192.168.0.0-192.168.255.255.",
+        "score": 4
+    },
+    {
+        "id": "q_ch2_b5_01",
+        "topic": "Networking",
+        "text": "A company has offices in London, New York, and Tokyo. They need a secure, reliable network for video conferencing and file sharing. Recommend a network topology and model. Justify your choices.",
+        "answer": "WAN connecting all offices using mesh topology (redundancy) and client-server model (central management). Justification: fault tolerance, security, scalability.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_02",
+        "topic": "Internet",
+        "text": "Explain the complete process of accessing a website (www.example.com/index.html) from a web browser. Include DNS, TCP/IP, HTTP, and packet switching.",
+        "answer": "1. Browser parses URL. 2. DNS resolves domain to IP. 3. TCP handshake. 4. HTTP request sent. 5. Server responds with HTML. 6. Packets travel via routers. 7. Browser renders page.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_03",
+        "topic": "Networking",
+        "text": "A school wants to set up a network with 200 computers across 3 buildings. Compare the suitability of bus, star, and mesh topologies. Recommend the best option with justification.",
+        "answer": "Star topology with switches per building, interconnected with fibre optic. Bus not suitable (single point of failure). Mesh too expensive. Star provides reliability and manageability.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_04",
+        "topic": "Internet",
+        "text": "Explain the difference between IPv4 and IPv6 addressing. Why was IPv6 developed? Describe the features of IPv6 that address IPv4 limitations.",
+        "answer": "IPv4 32-bit (limited addresses), IPv6 128-bit (vast address space). IPv6 features: no NAT needed, built-in authentication, zero compression, more efficient routing.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_05",
+        "topic": "Networking",
+        "text": "A multinational company is considering moving to cloud computing. Evaluate the benefits and risks. Make a recommendation with justification.",
+        "answer": "Benefits: scalability, cost savings, global access. Risks: security, internet dependency, vendor lock-in. Recommendation: hybrid cloud for sensitive data.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_06",
+        "topic": "Networking",
+        "text": "Explain the role of each hardware device in a typical home network: modem, router, switch, WAP, and NIC.",
+        "answer": "Modem: connects to ISP. Router: routes between home network and internet. Switch: connects wired devices. WAP: wireless access. NIC: physical connection in device.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_07",
+        "topic": "Internet",
+        "text": "Describe the complete email sending and receiving process using SMTP, POP3/IMAP, and DNS. Include the role of MIME for attachments.",
+        "answer": "1. SMTP sends email to outgoing server. 2. DNS finds recipient mail server. 3. SMTP transfers between servers. 4. Recipient uses POP3/IMAP to retrieve. MIME handles attachments.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_08",
+        "topic": "Networking",
+        "text": "Compare the client-server and peer-to-peer models for a small business with 15 employees. Evaluate which model is more suitable.",
+        "answer": "Peer-to-peer: cheaper, simpler for small network (under 10 nodes). Client-server: better security, central backup, scalable. For 15 employees, client-server recommended.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_09",
+        "topic": "Networking",
+        "text": "Explain how CSMA/CD works on an Ethernet bus network. Describe what happens when a collision occurs and how the system recovers.",
+        "answer": "Devices listen before transmitting. If collision detected, stop, send jamming signal, wait random backoff time, then retransmit. Backoff time increases with repeated collisions.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_10",
+        "topic": "Internet",
+        "text": "Describe the function of a DNS server in detail. Explain how DNS caching improves performance and what DNS cache poisoning is.",
+        "answer": "DNS translates domain names to IPs. Caching stores recent lookups to reduce queries. Cache poisoning: altering cached IP addresses to redirect users to malicious sites.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_11",
+        "topic": "Networking",
+        "text": "A hospital needs a network for patient monitoring systems. Compare wired and wireless options. Recommend with justification considering reliability and security.",
+        "answer": "Wired recommended for critical systems: more reliable, secure, no interference. Wireless for non-critical mobility needs. Justification: patient safety requires reliability.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_12",
+        "topic": "Networking",
+        "text": "Explain how a router uses a routing table to forward packets. Describe the difference between static and dynamic routing.",
+        "answer": "Routing table contains destination networks, next hop, metrics. Static routing: manually configured routes. Dynamic routing: routers exchange information automatically (RIP, OSPF).",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_13",
+        "topic": "Internet",
+        "text": "Describe the differences between on-demand and real-time bit streaming. Give two applications for each type.",
+        "answer": "On-demand: Netflix, YouTube (pause/rewind). Real-time: live sports, video conferencing (no pause). On-demand uses stored content; real-time is live.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_14",
+        "topic": "Networking",
+        "text": "Evaluate the use of cloud storage versus local storage for a photography business with 5TB of images. Consider cost, accessibility, security, and backup.",
+        "answer": "Cloud: accessible anywhere, automatic backup, ongoing costs, security concerns. Local: one-time cost, faster access, responsible for backups. Hybrid recommended.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_15",
+        "topic": "Internet",
+        "text": "Explain the structure of a URL and how each component is used by a web browser to retrieve a web page.",
+        "answer": "Protocol (https): encryption method. Domain name: resolved by DNS to IP. Path/filename: resource location on server. Browser uses all to construct HTTP request.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_16",
+        "topic": "Networking",
+        "text": "Compare the characteristics of Wi-Fi and Bluetooth. For each, give two suitable applications and justify your choices.",
+        "answer": "Wi-Fi: high bandwidth, longer range (internet, streaming). Bluetooth: low power, short range (headphones, file transfer). Justification based on application requirements.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_17",
+        "topic": "Networking",
+        "text": "Explain how a gateway differs from a router. Give a scenario where a gateway is necessary.",
+        "answer": "Router: routes between same protocol networks. Gateway: converts between different protocols. Scenario: connecting a TCP/IP LAN to an old SNA network.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_18",
+        "topic": "Internet",
+        "text": "Describe the purpose of subnetting and explain how to calculate subnet addresses given an IP address and subnet mask.",
+        "answer": "Subnetting divides network for efficiency. Calculate: apply AND mask to IP address. Example: 192.168.1.100/24 gives network 192.168.1.0, host 100.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_19",
+        "topic": "Networking",
+        "text": "A university campus has 10 buildings, each with 50 computers. Design a network topology that balances cost, performance, and fault tolerance.",
+        "answer": "Star topology within buildings (switches), interconnected with mesh topology between buildings (fibre). Provides fault tolerance between buildings and easy management within.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_20",
+        "topic": "Networking",
+        "text": "Explain the concept of 'data redundancy' in cloud storage. Why do cloud providers use multiple geographic regions for redundancy?",
+        "answer": "Data stored on multiple servers across regions. Geographic redundancy protects against natural disasters, regional power outages, and provides low-latency access worldwide.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_21",
+        "topic": "Internet",
+        "text": "Describe the TCP/IP protocol stack layers and explain how data is encapsulated as it moves down the stack from application to physical layer.",
+        "answer": "Application data → Transport (TCP segment) → Internet (IP packet) → Link (frame) → physical bits. Each layer adds its own header.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_22",
+        "topic": "Networking",
+        "text": "Compare the advantages of using fibre optic cable over copper cable for a WAN connection between two cities 100km apart.",
+        "answer": "Fibre: higher bandwidth, lower attenuation (fewer repeaters), immune to EMI, more secure. Copper: cheaper but requires more repeaters, susceptible to interference.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_23",
+        "topic": "Networking",
+        "text": "Explain how a WAP (Wireless Access Point) functions in infrastructure mode. Include the roles of SSID, encryption, and authentication.",
+        "answer": "WAP broadcasts SSID; devices connect using authentication (password); encryption (WPA2) secures data; WAP bridges wireless to wired network.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_24",
+        "topic": "Internet",
+        "text": "Describe the function of classful addressing in early IPv4 networks. Explain why classless addressing (CIDR) was introduced.",
+        "answer": "Classful: fixed netID/hostID boundaries (Class A,B,C). Wasted addresses (e.g., Class B gave 65534 hosts). CIDR introduced variable length masks for efficiency.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_25",
+        "topic": "Networking",
+        "text": "A company wants to implement a VoIP system. Evaluate the requirements for bandwidth, QoS, and network infrastructure. Compare with traditional PBX.",
+        "answer": "VoIP requires sufficient bandwidth, QoS for voice priority, low latency. Benefits: lower cost, unified communications. Drawbacks: dependency on internet/power.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_26",
+        "topic": "Networking",
+        "text": "Explain how spread spectrum frequency hopping in Bluetooth prevents interference with other devices. Describe the 79-channel mechanism.",
+        "answer": "Device picks random channel from 79; if busy, picks another; constantly changes channels (1600 times/second). Minimises interference with Wi-Fi and other Bluetooth devices.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_27",
+        "topic": "Internet",
+        "text": "Describe the role of a DHCP server in a network. Explain how a device obtains an IP address dynamically.",
+        "answer": "DHCP server assigns IP addresses dynamically. Process: DISCOVER → OFFER → REQUEST → ACK. Prevents IP conflicts and simplifies network management.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_28",
+        "topic": "Networking",
+        "text": "Compare the advantages and disadvantages of using a hybrid cloud solution for a financial services company.",
+        "answer": "Hybrid: sensitive data on private cloud, less sensitive on public. Advantages: security, scalability, cost. Disadvantages: complexity, integration challenges.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_29",
+        "topic": "Internet",
+        "text": "Explain how voice data is transmitted using VoIP. Include the roles of codecs, packetisation, and jitter buffers.",
+        "answer": "Analog voice digitised by codec; split into packets with RTP headers; jitter buffers smooth arrival times; packets reassembled and converted back to voice.",
+        "score": 5
+    },
+    {
+        "id": "q_ch2_b5_30",
+        "topic": "Networking",
+        "text": "A global company wants to connect its offices using a WAN. Compare the use of leased lines, MPLS, and VPN over internet. Recommend the best option.",
+        "answer": "Leased lines: expensive but dedicated. MPLS: QoS guarantees, secure. VPN: cheapest but no QoS guarantee. Recommendation: MPLS for critical traffic, VPN for non-critical.",
+        "score": 5
+    }
+]

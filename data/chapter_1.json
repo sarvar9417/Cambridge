@@ -1,0 +1,703 @@
+[
+    {
+        "id": "q_b1_01",
+        "topic": "Number Systems",
+        "text": "Convert the denary number 15 into binary.",
+        "answer": "1111",
+        "score": 1
+    },
+    {
+        "id": "q_b1_02",
+        "topic": "Number Systems",
+        "text": "Convert the binary number 1010 into denary.",
+        "answer": "10",
+        "score": 1
+    },
+    {
+        "id": "q_b1_03",
+        "topic": "Number Systems",
+        "text": "State the number of bits in a byte.",
+        "answer": "8",
+        "score": 1
+    },
+    {
+        "id": "q_b1_04",
+        "topic": "Multimedia",
+        "text": "Define the term 'pixel'.",
+        "answer": "The smallest addressable element of a bitmap image / a single point of colour.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_05",
+        "topic": "Multimedia",
+        "text": "State what is meant by 'sampling rate' in sound recording.",
+        "answer": "The number of sound samples taken per second.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_06",
+        "topic": "Compression",
+        "text": "State one advantage of file compression.",
+        "answer": "Reduces storage space / reduces transmission time.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_07",
+        "topic": "Number Systems",
+        "text": "Convert the hexadecimal digit 'A' into denary.",
+        "answer": "10",
+        "score": 1
+    },
+    {
+        "id": "q_b1_08",
+        "topic": "Number Systems",
+        "text": "State the base of the hexadecimal number system.",
+        "answer": "16",
+        "score": 1
+    },
+    {
+        "id": "q_b1_09",
+        "topic": "Multimedia",
+        "text": "Define the term 'colour depth'.",
+        "answer": "The number of bits used to represent the colour of a single pixel.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_10",
+        "topic": "Number Systems",
+        "text": "How many bits are required to represent a single BCD digit?",
+        "answer": "4",
+        "score": 1
+    },
+    {
+        "id": "q_b1_11",
+        "topic": "Compression",
+        "text": "Give one example of a lossy file format.",
+        "answer": "JPEG / MP3",
+        "score": 1
+    },
+    {
+        "id": "q_b1_12",
+        "topic": "Number Systems",
+        "text": "Convert binary 1111 into hexadecimal.",
+        "answer": "F",
+        "score": 1
+    },
+    {
+        "id": "q_b1_13",
+        "topic": "Multimedia",
+        "text": "State the term for the number of video frames recorded per second.",
+        "answer": "Frame rate",
+        "score": 1
+    },
+    {
+        "id": "q_b1_14",
+        "topic": "Number Systems",
+        "text": "What is the denary value of the two's complement binary number 10000000?",
+        "answer": "-128",
+        "score": 1
+    },
+    {
+        "id": "q_b1_15",
+        "topic": "Multimedia",
+        "text": "Give one example of a vector graphic file format.",
+        "answer": ".svg / .cgm / .odg",
+        "score": 1
+    },
+    {
+        "id": "q_b1_16",
+        "topic": "Number Systems",
+        "text": "Convert 1 kilobyte to bytes (using decimal prefix).",
+        "answer": "1000",
+        "score": 1
+    },
+    {
+        "id": "q_b1_17",
+        "topic": "Compression",
+        "text": "Give one example of a lossless file format.",
+        "answer": "PNG / ZIP / RLE",
+        "score": 1
+    },
+    {
+        "id": "q_b1_18",
+        "topic": "Multimedia",
+        "text": "State the function of an Analogue to Digital Converter (ADC).",
+        "answer": "Converts analogue data (e.g., sound) into digital data.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_19",
+        "topic": "Number Systems",
+        "text": "What is the largest denary value representable by a 4-bit unsigned binary number?",
+        "answer": "15",
+        "score": 1
+    },
+    {
+        "id": "q_b1_20",
+        "topic": "Compression",
+        "text": "What does the acronym RLE stand for?",
+        "answer": "Run-Length Encoding",
+        "score": 1
+    }
+,
+    {
+        "id": "q_b2_01",
+        "topic": "Number Systems",
+        "text": "Convert the binary number 11001101 into hexadecimal.",
+        "answer": "CD",
+        "score": 2
+    },
+    {
+        "id": "q_b2_02",
+        "topic": "Number Systems",
+        "text": "Describe the difference between a kibibyte and a kilobyte.",
+        "answer": "Kibibyte uses binary prefix (1024 bytes), kilobyte uses decimal prefix (1000 bytes).",
+        "score": 2
+    },
+    {
+        "id": "q_b2_03",
+        "topic": "Multimedia",
+        "text": "Describe the difference between image resolution and screen resolution.",
+        "answer": "Image resolution is the number of pixels in the image; screen resolution is the number of pixels the screen can display.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_04",
+        "topic": "Number Systems",
+        "text": "Why is two's complement used instead of sign-and-magnitude?",
+        "answer": "Two's complement has only one representation for zero and makes binary addition/subtraction simpler.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_05",
+        "topic": "Compression",
+        "text": "Describe the basic principle of Run-Length Encoding (RLE).",
+        "answer": "Repeated sequences of identical data are stored as a single value and a count.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_06",
+        "topic": "Multimedia",
+        "text": "Give two reasons why vector graphics are often smaller in file size than bitmaps.",
+        "answer": "They store mathematical instructions instead of pixel data; they don't store data for every single pixel.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_07",
+        "topic": "Number Systems",
+        "text": "Convert denary 255 into 8-bit binary, hexadecimal, and BCD.",
+        "answer": "Binary: 11111111, Hexadecimal: FF, BCD: 0010 0101 0101",
+        "score": 2
+    },
+    {
+        "id": "q_b2_08",
+        "topic": "Multimedia",
+        "text": "Describe one disadvantage of using a high sampling rate for sound.",
+        "answer": "Produces a larger file size / requires more storage space.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_09",
+        "topic": "Number Systems",
+        "text": "Convert the BCD number 10010111 into denary.",
+        "answer": "97",
+        "score": 2
+    },
+    {
+        "id": "q_b2_10",
+        "topic": "Compression",
+        "text": "Describe a scenario where RLE would NOT be effective.",
+        "answer": "When data has few repeating patterns, e.g., a string of alternating characters like 'ABABABAB'.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_11",
+        "topic": "Multimedia",
+        "text": "Describe how a vector graphic is stored as a drawing list.",
+        "answer": "It stores commands, attributes (e.g., colour, line thickness), and relative positions for each geometric object.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_12",
+        "topic": "Number Systems",
+        "text": "Convert the two's complement binary number 11111000 into denary.",
+        "answer": "-8",
+        "score": 2
+    },
+    {
+        "id": "q_b2_13",
+        "topic": "Multimedia",
+        "text": "Give two examples of metadata stored in a bitmap file header.",
+        "answer": "File type (e.g., .bmp), image resolution, colour depth, compression type, file size.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_14",
+        "topic": "Number Systems",
+        "text": "Explain why hexadecimal is often used instead of binary in memory dumps.",
+        "answer": "Hexadecimal is more compact and easier for humans to read than long strings of binary digits.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_15",
+        "topic": "Compression",
+        "text": "Why is lossy compression not suitable for text files?",
+        "answer": "Loss of even a single character could change the meaning or corrupt the file entirely.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_16",
+        "topic": "Multimedia",
+        "text": "What is the effect of increasing the bit depth of a bitmap image?",
+        "answer": "It increases the number of possible colours but also increases the file size.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_17",
+        "topic": "Number Systems",
+        "text": "Perform binary addition: 00110101 + 01001000",
+        "answer": "01111101",
+        "score": 2
+    },
+    {
+        "id": "q_b2_18",
+        "topic": "Multimedia",
+        "text": "State one advantage of using vector graphics over bitmaps for logo design.",
+        "answer": "Can be scaled to any size without loss of quality / pixelation.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_19",
+        "topic": "Number Systems",
+        "text": "Convert the denary number 35 into 8-bit two's complement binary.",
+        "answer": "00100011",
+        "score": 2
+    },
+    {
+        "id": "q_b2_20",
+        "topic": "Compression",
+        "text": "Describe the term 'perceptual music shaping' in MP3 compression.",
+        "answer": "Removing sounds that are outside the range of human hearing or masked by louder sounds.",
+        "score": 2
+    },
+    {
+        "id": "q_b3_01",
+        "topic": "Number Systems",
+        "text": "Perform binary subtraction of 01101010 - 00011110 using two's complement. Show your working.",
+        "answer": "Working: two's complement of 00011110 is 11100010; 01101010 + 11100010 = 01001100 (which is 76).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_02",
+        "topic": "Multimedia",
+        "text": "Explain how changing the sampling resolution affects the quality and file size of a sound file.",
+        "answer": "Higher resolution means more bits per sample, giving better quality but larger file size.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_03",
+        "topic": "Compression",
+        "text": "Explain the difference between lossy and lossless compression. Give one example of each.",
+        "answer": "Lossy permanently removes data (JPEG, MP3); lossless retains all data (PNG, ZIP).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_04",
+        "topic": "Number Systems",
+        "text": "Convert denary 98 into 8-bit binary, then into BCD, then into hexadecimal.",
+        "answer": "Binary: 01100010, BCD: 10011000, Hexadecimal: 62",
+        "score": 3
+    },
+    {
+        "id": "q_b3_05",
+        "topic": "Multimedia",
+        "text": "Describe the process of sampling an analogue sound wave for digital storage.",
+        "answer": "Amplitude is measured at regular intervals (sampling rate); each measurement is assigned a binary value (sampling resolution).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_06",
+        "topic": "Number Systems",
+        "text": "Add binary 10101010 and 01010101. Show working and state if overflow occurs.",
+        "answer": "11111111. No overflow.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_07",
+        "topic": "Multimedia",
+        "text": "Compare the use of bitmaps and vector graphics for a realistic photograph.",
+        "answer": "Bitmaps are better for realism as they store colour data for each pixel; vectors are less realistic as they use geometric shapes.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_08",
+        "topic": "Number Systems",
+        "text": "Convert the hexadecimal number 2F3 into denary.",
+        "answer": "755",
+        "score": 3
+    },
+    {
+        "id": "q_b3_09",
+        "topic": "Compression",
+        "text": "Explain why MP3 files are much smaller than raw CD audio files.",
+        "answer": "MP3 uses lossy compression, removing inaudible sounds and using perceptual music shaping.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_10",
+        "topic": "Multimedia",
+        "text": "Explain the effect of increasing the frame rate on a video file.",
+        "answer": "Increases the number of frames per second, resulting in smoother motion but larger file size.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_11",
+        "topic": "Number Systems",
+        "text": "Subtract 00110011 from 01010101 using two's complement. Show working.",
+        "answer": "Two's complement of 00110011 is 11001101; 01010101 + 11001101 = 00100010 (34).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_12",
+        "topic": "Multimedia",
+        "text": "Describe one advantage and one disadvantage of using vector graphics.",
+        "answer": "Advantage: scalable without quality loss. Disadvantage: not suitable for realistic images/photos.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_13",
+        "topic": "Number Systems",
+        "text": "Convert denary 256 into binary and into BCD.",
+        "answer": "Binary: 1 0000 0000 (9 bits), BCD: 0010 0101 0110",
+        "score": 3
+    },
+    {
+        "id": "q_b3_14",
+        "topic": "Compression",
+        "text": "Describe how RLE would compress the string 'AAAABBBCCCCCC'.",
+        "answer": "4A 3B 6C",
+        "score": 3
+    },
+    {
+        "id": "q_b3_15",
+        "topic": "Multimedia",
+        "text": "Explain what is meant by 'bit depth' in the context of a bitmap image.",
+        "answer": "The number of bits used to represent the colour of each pixel; determines the number of possible colours.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_16",
+        "topic": "Number Systems",
+        "text": "Convert the two's complement binary number 10101010 into denary.",
+        "answer": "-86",
+        "score": 3
+    },
+    {
+        "id": "q_b3_17",
+        "topic": "Multimedia",
+        "text": "Why is a buffer required when streaming video?",
+        "answer": "To store data temporarily, smoothing out variations in transmission speed and preventing playback interruptions.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_18",
+        "topic": "Number Systems",
+        "text": "Explain why BCD is used in digital clocks and calculators.",
+        "answer": "Each digit is represented separately, making it easy to convert to display output without complex calculations.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_19",
+        "topic": "Compression",
+        "text": "Describe one limitation of Run-Length Encoding (RLE).",
+        "answer": "Ineffective for data with few repeated sequences; can increase file size if run-lengths are short.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_20",
+        "topic": "Number Systems",
+        "text": "Add the hexadecimal numbers 1A + 2F and convert the result to binary.",
+        "answer": "1A + 2F = 49 (hexadecimal); Binary: 01001001",
+        "score": 3
+    },
+     {
+        "id": "q_b4_01",
+        "topic": "Number Systems",
+        "text": "Calculate the file size in MiB for an image with resolution 2048x1024 and 16-bit colour depth. Show full working.",
+        "answer": "2048 x 1024 x 16 = 33,554,432 bits = 4,194,304 bytes = 4 MiB (since 1 MiB = 2^20 bytes).",
+        "score": 4
+    },
+    {
+        "id": "q_b4_02",
+        "topic": "Multimedia",
+        "text": "Explain three factors that affect the file size of a bitmap image.",
+        "answer": "Image resolution (more pixels = larger file), colour depth (more bits per pixel = larger file), compression used.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_03",
+        "topic": "Compression",
+        "text": "Explain, with an example, how RLE compresses a black-and-white image.",
+        "answer": "White squares and black squares are stored as values. E.g., 10 white, 5 black, 8 white becomes 10W 5B 8W.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_04",
+        "topic": "Number Systems",
+        "text": "Convert denary 47 into 8-bit two's complement, then subtract denary 25. Show binary working.",
+        "answer": "47 = 00101111, 25 = 00011001, two's complement of 25 = 11100111; 00101111 + 11100111 = 00010110 (22).",
+        "score": 4
+    },
+    {
+        "id": "q_b4_05",
+        "topic": "Multimedia",
+        "text": "Explain three differences between bitmap images and vector graphics.",
+        "answer": "1. Bitmaps use pixels, vectors use shapes. 2. Bitmaps lose quality when scaled, vectors don't. 3. Bitmaps are larger files.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_06",
+        "topic": "Number Systems",
+        "text": "Calculate the file size in KiB for a 1-minute sound recording at 44.1 kHz, 16-bit resolution (stereo).",
+        "answer": "44,100 x 60 x 16 x 2 = 84,672,000 bits = 10,584,000 bytes = 10,335.9375 KiB.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_07",
+        "topic": "Multimedia",
+        "text": "Describe the purpose of a file header in a bitmap image. Give four examples of data stored there.",
+        "answer": "Stores metadata. Examples: file type, file size, image resolution, colour depth, compression method.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_08",
+        "topic": "Number Systems",
+        "text": "Add the binary numbers 01101110 and 01011001. Explain why the result is valid or invalid for 8-bit signed representation.",
+        "answer": "01101110 + 01011001 = 11000111. This is valid as a signed number (-57), though overflow occurs if interpreted as unsigned.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_09",
+        "topic": "Compression",
+        "text": "Explain how MP3 compression removes sounds that are 'masked' by louder sounds.",
+        "answer": "If two sounds occur simultaneously, only the louder one is perceived, so the softer sound is discarded.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_10",
+        "topic": "Multimedia",
+        "text": "Explain the relationship between colour depth and the number of colours in an image.",
+        "answer": "Number of colours = 2^colour depth. 8-bit depth = 256 colours, 16-bit depth = 65,536 colours, 24-bit = 16.7 million colours.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_11",
+        "topic": "Number Systems",
+        "text": "Convert the hexadecimal number 7F into 8-bit binary, then into two's complement denary.",
+        "answer": "7F = 01111111 (binary). As two's complement, this is +127.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_12",
+        "topic": "Multimedia",
+        "text": "Describe how a vector graphic drawing list might represent a red circle with a blue outline.",
+        "answer": "Command: circle; attributes: centre coordinates, radius, fill colour=red, line colour=blue, line thickness=...",
+        "score": 4
+    },
+    {
+        "id": "q_b4_13",
+        "topic": "Number Systems",
+        "text": "Explain why overflow can occur in binary addition and give an example with 8-bit two's complement.",
+        "answer": "Overflow occurs when result is outside representable range (-128 to 127). Example: 64 + 64 = 128, which is 10000000 (-128).",
+        "score": 4
+    },
+    {
+        "id": "q_b4_14",
+        "topic": "Compression",
+        "text": "Describe how perceptual music shaping works in MP3 encoding. Give two examples of removed sounds.",
+        "answer": "Removes sounds humans can't hear or don't notice. Examples: frequencies outside 20Hz-20kHz, quieter sounds masked by louder ones.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_15",
+        "topic": "Number Systems",
+        "text": "Convert denary -37 into 8-bit two's complement and then into hexadecimal.",
+        "answer": "37 = 00100101; invert: 11011010; add 1: 11011011; hexadecimal: DB.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_16",
+        "topic": "Multimedia",
+        "text": "Compare the suitability of bitmap and vector graphics for a company logo and a passport photo.",
+        "answer": "Logo: vector (scalable for different sizes). Passport photo: bitmap (requires realism and fine detail).",
+        "score": 4
+    },
+    {
+        "id": "q_b4_17",
+        "topic": "Number Systems",
+        "text": "Calculate the storage required in bytes for an 8x8 black-and-white bitmap (1 bit per pixel).",
+        "answer": "8 x 8 = 64 pixels; 64 bits = 8 bytes.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_18",
+        "topic": "Multimedia",
+        "text": "Explain the effect of reducing both sampling rate and sampling resolution on a sound file.",
+        "answer": "File size decreases significantly, but sound quality also degrades (less accurate representation).",
+        "score": 4
+    },
+    {
+        "id": "q_b4_19",
+        "topic": "Compression",
+        "text": "Explain why lossless compression is used for medical images instead of lossy compression.",
+        "answer": "Loss of data could remove critical diagnostic information, affecting patient care and diagnosis accuracy.",
+        "score": 4
+    },
+    {
+        "id": "q_b4_20",
+        "topic": "Number Systems",
+        "text": "Perform the following BCD addition: 0.37 + 0.94. Show the correction steps.",
+        "answer": "0011 0111 + 1001 0100 = 1100 1011; add 0110 to 1100 (12) to get 0001 0010; final: 0001 0011 0001 0001 = 1.31.",
+        "score": 4
+    },
+    {
+        "id": "q_b5_01",
+        "topic": "Number Systems",
+        "text": "Explain the difference between binary prefixes (kibi, mebi) and decimal prefixes (kilo, mega). Give examples.",
+        "answer": "Binary prefixes use powers of 2 (1 KiB = 1024 bytes); decimal prefixes use powers of 10 (1 KB = 1000 bytes).",
+        "score": 5
+    },
+    {
+        "id": "q_b5_02",
+        "topic": "Multimedia",
+        "text": "Calculate the file size in MiB for an uncompressed 5-minute stereo audio file at 48 kHz and 24-bit resolution. Show full working.",
+        "answer": "48,000 x 300 x 24 x 2 = 691,200,000 bits = 86,400,000 bytes = 82.4 MiB.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_03",
+        "topic": "Number Systems",
+        "text": "Convert denary -123 into 8-bit two's complement, then add denary 85. Show binary working and state if overflow occurs.",
+        "answer": "-123 = 10000101; 85 = 01010101; sum = 11011010; overflow: No (result -38 is within range).",
+        "score": 5
+    },
+    {
+        "id": "q_b5_04",
+        "topic": "Compression",
+        "text": "Explain the difference between lossy and lossless compression. Describe a scenario where each is appropriate.",
+        "answer": "Lossy: permanent data loss (MP3, JPEG) for web images/streaming. Lossless: reversible (PNG, ZIP) for text/spreadsheets.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_05",
+        "topic": "Multimedia",
+        "text": "Explain the concept of pixel density and how it affects image quality when scaling an image.",
+        "answer": "Pixel density = pixels per inch. When scaling up, pixels spread out, reducing density and causing pixelation.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_06",
+        "topic": "Number Systems",
+        "text": "Explain why floating-point numbers cannot represent decimal values exactly and how BCD solves this for financial data.",
+        "answer": "Binary cannot represent fractions like 0.1 exactly. BCD stores each decimal digit separately, ensuring exact representation.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_07",
+        "topic": "Multimedia",
+        "text": "Describe the process of converting a vector graphic to a bitmap for printing. Include advantages/disadvantages.",
+        "answer": "Vector graphic is rasterized: shapes converted to pixels. Advantage: printer works with pixels; disadvantage: loses scalability.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_08",
+        "topic": "Compression",
+        "text": "Explain how RLE compression works on a coloured bitmap image. Include an example with RGB values.",
+        "answer": "Identifies consecutive identical pixels; stores colour and count. Example: Red,Red,Red,Blue,Blue -> 3Red 2Blue.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_09",
+        "topic": "Number Systems",
+        "text": "Subtract 00111100 from 01101010 using two's complement. Convert the result to denary and hexadecimal.",
+        "answer": "00111100 two's complement = 11000100; 01101010 + 11000100 = 00101110 (46 decimal, 2E hex).",
+        "score": 5
+    },
+    {
+        "id": "q_b5_10",
+        "topic": "Multimedia",
+        "text": "Explain the effect of increasing both frame rate and resolution on a video file. Give a real-world application.",
+        "answer": "File size increases significantly; quality improves. Example: 4K 60fps video for action sports.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_11",
+        "topic": "Number Systems",
+        "text": "Convert the denary number 0.625 into binary, then explain how it would be stored in a floating-point system.",
+        "answer": "0.625 = 0.101 binary. In floating-point: mantissa 0.101, exponent 0 (if normalised, 0.101 x 2^0).",
+        "score": 5
+    },
+    {
+        "id": "q_b5_12",
+        "topic": "Compression",
+        "text": "Describe the limitations of RLE and suggest a scenario where it would not reduce file size.",
+        "answer": "Ineffective with alternating data. Example: 'ABABABAB' becomes '1A1B1A1B1A1B1A1B', which is larger.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_13",
+        "topic": "Multimedia",
+        "text": "Compare the file size calculation methods for bitmaps and sound files. Give formulas for both.",
+        "answer": "Bitmap: resolution x colour depth. Sound: sampling rate x duration x resolution x channels.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_14",
+        "topic": "Number Systems",
+        "text": "Explain the purpose of the ASCII and Unicode character sets. Give two advantages of Unicode over ASCII.",
+        "answer": "ASCII: 128 characters (English). Unicode: supports all world languages, emojis, and has more bits per character.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_15",
+        "topic": "Multimedia",
+        "text": "Describe how a digital camera captures and stores a bitmap image. Include the role of pixels and colour depth.",
+        "answer": "Sensor captures light intensity per pixel; colour depth determines bits per pixel; data stored with file header.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_16",
+        "topic": "Number Systems",
+        "text": "Convert denary -64 into 8-bit two's complement and then into hexadecimal. Explain each step.",
+        "answer": "64 = 01000000; invert = 10111111; add 1 = 11000000; hex = C0.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_17",
+        "topic": "Compression",
+        "text": "Explain why JPEG compression is lossy and how it achieves high compression ratios.",
+        "answer": "Uses discrete cosine transform to discard high-frequency colour data the human eye barely notices.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_18",
+        "topic": "Number Systems",
+        "text": "Explain the difference between sign-and-magnitude and two's complement for representing negative numbers.",
+        "answer": "Sign-and-magnitude uses MSB as sign bit; two's complement inverts and adds 1. Two's complement has one zero and simpler arithmetic.",
+        "score": 5
+    },
+    {
+        "id": "q_b5_19",
+        "topic": "Multimedia",
+        "text": "Calculate the file size for a 10-second 1080p video (1920x1080) at 30 fps with 24-bit colour (uncompressed).",
+        "answer": "1920x1080x30x10x24 = 14,929,920,000 bits = 1.74 GB (approx).",
+        "score": 5
+    },
+    {
+        "id": "q_b5_20",
+        "topic": "Number Systems",
+        "text": "Explain how overflow and underflow can occur in binary arithmetic. Give one example of each.",
+        "answer": "Overflow: 100 + 30 = 130 (outside 8-bit signed range). Underflow: -128 - 1 = 129 (wraps around).",
+        "score": 5
+    }
+]

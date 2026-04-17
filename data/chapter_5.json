@@ -1,0 +1,1094 @@
+[
+    {
+        "id": "q_ss_5_01_001",
+        "topic": "Operating System",
+        "text": "State the main purpose of an operating system.",
+        "answer": "To provide an environment in which applications can run and to provide an interface between hardware and the user.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_002",
+        "topic": "Operating System",
+        "text": "Give one reason why early computers did not need an operating system.",
+        "answer": "They ran only one program at a time and the programmer had full control of the hardware.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_003",
+        "topic": "Operating System",
+        "text": "State what is stored in CMOS memory.",
+        "answer": "BIOS configuration settings.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_004",
+        "topic": "Operating System",
+        "text": "Name two common operating systems used on mobile phones and tablets.",
+        "answer": "Android, iOS",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_005",
+        "topic": "Operating System",
+        "text": "State the full meaning of GUI.",
+        "answer": "Graphical User Interface",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_006",
+        "topic": "Operating System",
+        "text": "State the full meaning of CLI.",
+        "answer": "Command Line Interface",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_007",
+        "topic": "Operating System",
+        "text": "Give one advantage of a command line interface (CLI) over a graphical user interface (GUI).",
+        "answer": "The user is in direct communication with the computer and is not restricted to pre-determined options.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_008",
+        "topic": "Operating System",
+        "text": "State what WIMP stands for.",
+        "answer": "Windows, Icons, Menu, Pointing device",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_009",
+        "topic": "Operating System",
+        "text": "Give one example of a post-WIMP interaction.",
+        "answer": "Pinching, rotating, tapping with finger on a touch screen.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_010",
+        "topic": "Operating System - Memory Management",
+        "text": "State the purpose of memory optimisation.",
+        "answer": "To determine how computer memory is allocated and deallocated when multiple applications are running simultaneously.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_011",
+        "topic": "Operating System - Memory Management",
+        "text": "State the purpose of memory protection.",
+        "answer": "To ensure that two competing applications cannot use the same memory locations at the same time.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_012",
+        "topic": "Operating System - Security Management",
+        "text": "State one way an operating system can help ensure data privacy.",
+        "answer": "Setting up user accounts with passwords and user IDs to prevent unauthorised access.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_013",
+        "topic": "Operating System - Hardware Management",
+        "text": "State the role of a device driver.",
+        "answer": "To communicate with the operating system and translate data into a format understood by the device.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_014",
+        "topic": "Operating System - File Management",
+        "text": "Give one example of a file management task.",
+        "answer": "Create, open, close, delete, rename, copy, move files (any one).",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_015",
+        "topic": "Operating System - File Management",
+        "text": "State what is meant by a file extension.",
+        "answer": "The suffix at the end of a filename that indicates the file type (e.g. .txt, .docx).",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_016",
+        "topic": "Operating System - Process Management",
+        "text": "State what is meant by a process.",
+        "answer": "A program which is being run on a computer.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_017",
+        "topic": "Utility Software",
+        "text": "State one purpose of a disk formatter.",
+        "answer": "To prepare a disk to allow data/files to be stored and retrieved.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_018",
+        "topic": "Utility Software",
+        "text": "State what is meant by a bad sector.",
+        "answer": "A faulty sector on a hard disk drive.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_019",
+        "topic": "Utility Software",
+        "text": "State what is meant by heuristic checking in antivirus software.",
+        "answer": "Checking software for behaviour that could indicate a possible virus.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_020",
+        "topic": "Utility Software",
+        "text": "State what is meant by a false positive in antivirus software.",
+        "answer": "A file or program identified by a virus checker as being infected when it is not.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_021",
+        "topic": "Utility Software",
+        "text": "State the purpose of disk defragmentation software.",
+        "answer": "To reorganise the sectors on a hard disk so that files can be stored in contiguous data blocks.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_022",
+        "topic": "Utility Software",
+        "text": "State the purpose of disk content analysis software.",
+        "answer": "To check disk drives for empty space and disk usage by reviewing files and folders.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_023",
+        "topic": "Utility Software",
+        "text": "State one benefit of file compression.",
+        "answer": "Saves storage space and makes it quicker to download/upload files.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_024",
+        "topic": "Utility Software",
+        "text": "State one disadvantage of using disk compression.",
+        "answer": "If disk compression software is uninstalled, previously saved data becomes unreadable.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_025",
+        "topic": "Utility Software - Backup",
+        "text": "State the purpose of a backup utility.",
+        "answer": "To make copies of files on another portable storage device for recovery in case of data loss.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_026",
+        "topic": "Program Libraries",
+        "text": "State what is meant by a program library.",
+        "answer": "A library on a computer where programs and routines are stored which can be freely accessed by other software developers.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_027",
+        "topic": "Program Libraries",
+        "text": "State what is meant by a library routine.",
+        "answer": "A tested and ready-to-use routine available in the development system that can be incorporated into a program.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_028",
+        "topic": "Program Libraries - DLL",
+        "text": "State the full meaning of DLL.",
+        "answer": "Dynamic Link Library",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_029",
+        "topic": "Language Translators",
+        "text": "State the purpose of a translator.",
+        "answer": "To translate a source program written in any language other than machine code into machine code.",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_01_030",
+        "topic": "Language Translators - IDE",
+        "text": "State the full meaning of IDE.",
+        "answer": "Integrated Development Environment",
+        "score": 1
+    },
+    {
+        "id": "q_ss_5_02_001",
+        "topic": "Operating System",
+        "text": "Explain why a computer needs an operating system.",
+        "answer": "An operating system provides an environment in which applications can run, manages hardware resources, and provides an interface between the user and the computer.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_002",
+        "topic": "Operating System",
+        "text": "Name two management tasks carried out by the operating system.",
+        "answer": "Memory management, file management, security management, hardware management, process management (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_003",
+        "topic": "Operating System",
+        "text": "Explain why embedded systems (e.g. microwave oven, washing machine) do not usually need a full operating system.",
+        "answer": "They perform a single dedicated task, have limited processing power, and do not require multitasking or user interface complexity.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_004",
+        "topic": "Operating System",
+        "text": "Give two differences between a GUI and a CLI.",
+        "answer": "GUI uses icons and pointing device, CLI uses typed commands; GUI is more user-friendly, CLI requires learning commands; GUI is slower for experienced users, CLI is faster for advanced tasks (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_005",
+        "topic": "Operating System - Memory Management",
+        "text": "Describe two types of memory organisation.",
+        "answer": "Single contiguous allocation (all memory to one application); Partitioned allocation (memory split into contiguous partitions); Paged memory (fixed-size partitions); Segmented memory (non-contiguous logical groupings) – any two.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_006",
+        "topic": "Operating System - Security Management",
+        "text": "Describe two methods an operating system uses to ensure data security.",
+        "answer": "User accounts with passwords to prevent unauthorised access; Access rights to control read/write permissions; Firewall integration to monitor traffic; Regular OS updates (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_007",
+        "topic": "Operating System - Hardware Management",
+        "text": "Explain the role of a printer manager within an operating system.",
+        "answer": "It locates and loads the printer driver, sends data to a printer buffer, manages printer queues, sends control commands, and handles error messages and interrupts from the printer.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_008",
+        "topic": "Operating System - File Management",
+        "text": "State two file naming conventions that an operating system might enforce.",
+        "answer": "Maximum filename length; Allowed characters (no slashes or colons); Case sensitivity; Required file extension (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_009",
+        "topic": "Utility Software - Disk Formatter",
+        "text": "Explain the difference between a hard bad sector and a soft bad sector.",
+        "answer": "Hard bad sectors are caused by physical damage (manufacturing errors, head touching disk) and are difficult to repair. Soft bad sectors are caused by data corruption (power loss, static electricity) and can be repaired by reformatting.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_010",
+        "topic": "Utility Software - Virus Checker",
+        "text": "Describe two features of antivirus software.",
+        "answer": "Compares files against a database of known viruses; Performs heuristic checking for suspicious behaviour; Quarantines infected files; Can be run in the background (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_011",
+        "topic": "Utility Software - Defragmentation",
+        "text": "Explain why defragmentation improves hard disk performance.",
+        "answer": "It reorganises files into contiguous sectors, reducing read-write head movements, which speeds up data access and retrieval.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_012",
+        "topic": "Utility Software - Defragmentation",
+        "text": "State why defragmentation is less important for SSDs than for HDDs.",
+        "answer": "SSDs have no moving read-write heads and access data electronically, so fragmentation does not significantly affect access speed.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_013",
+        "topic": "Utility Software - Backup",
+        "text": "Explain why it is important to have three versions of a file (current, local backup, remote backup).",
+        "answer": "Current version is for daily work; local backup protects against accidental deletion or drive failure; remote backup (cloud) protects against physical disasters like fire or theft.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_014",
+        "topic": "Utility Software - Backup",
+        "text": "Describe one feature of Windows File History backup utility.",
+        "answer": "Takes snapshots of files at regular intervals (default every hour) and stores past versions forever unless changed, allowing users to restore any previous version.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_015",
+        "topic": "Utility Software - Backup",
+        "text": "Describe one feature of Mac OS Time Machine backup utility.",
+        "answer": "Automatically backs up every hour, keeps daily backups for the past month, and weekly backups for all previous months. Oldest backups are deleted when the backup drive is full.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_016",
+        "topic": "Program Libraries",
+        "text": "Give two benefits of using library routines when developing software.",
+        "answer": "Saves development time (no need to rewrite routines); Routines are already tested and should be error-free; Allows modular programming with multiple programmers; Maintains consistency across software (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_017",
+        "topic": "Program Libraries - DLL",
+        "text": "Explain the difference between a static library and a dynamic link library (DLL).",
+        "answer": "In static libraries, code is linked at compile time and embedded into the program. In dynamic libraries (DLL), code is linked at run time and loaded only when needed.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_018",
+        "topic": "Program Libraries - DLL",
+        "text": "Describe two benefits of using DLL files.",
+        "answer": "Executable code is smaller because DLLs are loaded only when needed; DLLs can be updated without recompiling the main program; Multiple applications can share the same DLL, saving memory (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_019",
+        "topic": "Program Libraries - DLL",
+        "text": "State two drawbacks of using DLL files.",
+        "answer": "Executable code is not self-contained (all DLLs must be available at run time); Changes to DLLs can cause unexpected results or crashes; Malware can corrupt DLL files (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_020",
+        "topic": "Language Translators - Assembler",
+        "text": "State what an assembler translates and what it produces.",
+        "answer": "An assembler translates assembly language into machine code.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_021",
+        "topic": "Language Translators - Assembler",
+        "text": "Give two characteristics of assembly language programs.",
+        "answer": "Machine dependent (not portable); One assembly instruction generates one machine code instruction; Used for tasks requiring fast execution (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_022",
+        "topic": "Language Translators - Compiler",
+        "text": "Describe two characteristics of a compiler.",
+        "answer": "Translates the whole source program at once; Generates an object program (executable) stored on disk; Reports all errors at the end of compilation; The executable can run without the compiler (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_023",
+        "topic": "Language Translators - Interpreter",
+        "text": "Describe two characteristics of an interpreter.",
+        "answer": "Translates and executes one line at a time; No object program is generated; Stops when an error is encountered; Easier for debugging as errors can be corrected in real time (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_024",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "State one advantage of a compiler over an interpreter for the end user.",
+        "answer": "The end user only needs the executable code and does not need to purchase a compiler to run the program.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_025",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "State one advantage of an interpreter over a compiler during program development.",
+        "answer": "Errors can be corrected on each line and the program restarted from that point, making debugging easier.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_026",
+        "topic": "Language Translators - Partial Compiling",
+        "text": "Explain what is meant by intermediate code (bytecode).",
+        "answer": "A low-level, machine-independent code generated by a compiler from source code, which is then interpreted by a virtual machine.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_027",
+        "topic": "Language Translators - Partial Compiling",
+        "text": "Name two programming languages that use bytecode.",
+        "answer": "Java, Python",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_028",
+        "topic": "IDE - Source Code Editor",
+        "text": "State two features of a source code editor in an IDE.",
+        "answer": "Colour coding (prettyprinting); Context-sensitive prompts; Auto-completion; Dynamic syntax checking (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_029",
+        "topic": "IDE - Debugger",
+        "text": "State two debugging features found in a typical IDE.",
+        "answer": "Single stepping; Breakpoints; Report window to view variable contents (any two).",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_02_030",
+        "topic": "IDE",
+        "text": "State the purpose of a run-time environment in an IDE.",
+        "answer": "To execute the program and display results, and to provide debugging tools such as report windows.",
+        "score": 2
+    },
+    {
+        "id": "q_ss_5_03_001",
+        "topic": "Operating System",
+        "text": "Explain why a manufacturer needs to develop different versions of its operating system for laptops, mobile phones and tablets.",
+        "answer": "Different devices have different hardware architectures (e.g. processor types, memory sizes, input methods), power constraints, and user interface requirements (touch vs keyboard/mouse).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_002",
+        "topic": "Operating System - Memory Management",
+        "text": "Describe three functions of memory management.",
+        "answer": "Memory optimisation (allocating/deallocating memory); Memory organisation (determining how much memory each application gets); Memory protection (preventing applications from using the same memory locations).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_003",
+        "topic": "Operating System - Security Management",
+        "text": "Describe three ways an operating system ensures data security.",
+        "answer": "User authentication (passwords/user IDs); Access rights (read/write permissions); Firewall integration; Regular security updates; Data recovery options (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_004",
+        "topic": "Operating System - Process Management",
+        "text": "Describe three tasks of process management.",
+        "answer": "Allocation of resources (CPU time, memory); Permitting sharing and exchange of data between processes; Synchronising processes through scheduling and queues; Resolving software conflicts (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_005",
+        "topic": "Operating System - Hardware Management",
+        "text": "Describe three functions of hardware management.",
+        "answer": "Communicating with I/O devices using device drivers; Translating data into formats understood by devices; Ensuring each hardware resource has a priority; Managing queues and buffers (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_006",
+        "topic": "Operating System - File Management",
+        "text": "Describe three file management tasks.",
+        "answer": "Defining file naming conventions; Performing create/open/close/delete/copy/move operations; Maintaining directory structures; Enforcing access control mechanisms; Specifying logical file storage format (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_007",
+        "topic": "Utility Software - Disk Formatter",
+        "text": "Explain what happens during full formatting of a hard disk using NTFS.",
+        "answer": "All disk sectors are filled with zeros, which are read back to test the sector. Any existing data is lost. Bad sectors are flagged and replaced with unused sectors.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_008",
+        "topic": "Utility Software - Virus Checker",
+        "text": "Explain how heuristic checking works in antivirus software.",
+        "answer": "It checks software for types of behaviour that could indicate a possible virus (e.g. attempting to modify system files, replicating itself). This is useful for detecting unknown viruses not yet in the database.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_009",
+        "topic": "Utility Software - Defragmentation",
+        "text": "Using a diagram or description, explain how defragmentation works.",
+        "answer": "The utility scans the disk for fragmented files, moves data blocks so that each file is stored in contiguous sectors, and consolidates free space. This reduces read-write head movements and speeds up access.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_010",
+        "topic": "Utility Software - Disk Repair",
+        "text": "Explain how disk repair software handles a corrupted file in a bad sector.",
+        "answer": "The bad sector is flagged as 'bad' and replaced with a new unused sector. The damaged file will now contain an empty sector, so it becomes corrupted. It is recommended to delete the damaged file.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_011",
+        "topic": "Utility Software - Backup",
+        "text": "Describe the backup schedule of Windows File History and Mac OS Time Machine.",
+        "answer": "Windows File History defaults to backing up every hour and keeps past versions forever. Mac Time Machine backs up every hour, keeps daily backups for a month, and weekly backups for previous months.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_012",
+        "topic": "Program Libraries",
+        "text": "Describe three benefits of using program libraries during software development.",
+        "answer": "Saves time (no need to rewrite routines); Routines are pre-tested and error-free; Allows multiple programmers to work simultaneously (modular programming); Maintains corporate image across software (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_013",
+        "topic": "Program Libraries - DLL",
+        "text": "Explain the difference between static linking and dynamic linking.",
+        "answer": "Static linking: library code is embedded into the executable at compile time, making the executable larger but self-contained. Dynamic linking: library code is loaded at run time, making the executable smaller but dependent on DLL files being present.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_014",
+        "topic": "Program Libraries - DLL",
+        "text": "Describe three benefits of using DLL files.",
+        "answer": "Smaller executable size; DLLs can be updated without recompiling the main program; Multiple applications can share the same DLL, saving memory; Faster execution as DLLs are loaded only when needed (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_015",
+        "topic": "Language Translators - Assembler",
+        "text": "Describe the role of an assembler and give one example of when it is used.",
+        "answer": "An assembler translates assembly language into machine code. It is used for tasks requiring fast execution, such as parts of an operating system, controlling a robot, or embedded systems.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_016",
+        "topic": "Language Translators - Compiler",
+        "text": "Describe three characteristics of a compiler.",
+        "answer": "Translates entire source program at once; Generates object code (executable) stored on disk; Reports all syntax errors at the end; Optimises machine code; Executable can run without compiler (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_017",
+        "topic": "Language Translators - Interpreter",
+        "text": "Describe three characteristics of an interpreter.",
+        "answer": "Translates and executes one line at a time; No object code is generated; Stops at first error; Easier for debugging; Errors can be corrected in real time (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_018",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "Give three advantages of a compiler over an interpreter.",
+        "answer": "Faster execution (translation already done); End user does not need compiler; Source code is not distributed (protects intellectual property); Compiler can optimise code (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_019",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "Give three advantages of an interpreter over a compiler during development.",
+        "answer": "Easier to debug (errors found line by line); Partial results can be viewed; Program can be tested before completion; No need to recompile after every change (any three).",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_020",
+        "topic": "Language Translators - Partial Compiling",
+        "text": "Explain why Java and Python use a combination of compilation and interpretation.",
+        "answer": "To achieve shorter execution times while maintaining platform independence. Source code is compiled into bytecode (machine-independent), which is then interpreted by a virtual machine on any platform.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_021",
+        "topic": "Language Translators - Loader",
+        "text": "State the purpose of a loader program.",
+        "answer": "To load a stored translated program (object code) from disk into main memory before it can be executed.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_022",
+        "topic": "IDE - Source Code Editor",
+        "text": "Describe what is meant by prettyprinting in an IDE.",
+        "answer": "The practice of displaying or printing well set out and formatted source code, using colour coding, indentation, and spacing to make it easier to read and understand.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_023",
+        "topic": "IDE - Source Code Editor",
+        "text": "Explain the purpose of dynamic syntax checking in an IDE.",
+        "answer": "It finds possible syntax errors as the program code is being typed and alerts the programmer immediately, before the source code is interpreted or compiled.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_024",
+        "topic": "IDE - Debugger",
+        "text": "Describe what is meant by single stepping in a debugger.",
+        "answer": "Running a program one line or one instruction at a time, allowing the programmer to observe the effect of each line and check variable contents after each step.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_025",
+        "topic": "IDE - Debugger",
+        "text": "Describe what is meant by a breakpoint in a debugger.",
+        "answer": "A deliberate pause set in the execution of a program during testing so that the contents of variables, registers, etc. can be inspected to aid debugging.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_026",
+        "topic": "IDE - Debugger",
+        "text": "Describe the purpose of a report window in an IDE.",
+        "answer": "A separate window in the run-time environment that shows the contents of variables, data types, and expressions evaluated during program execution.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_027",
+        "topic": "IDE - Source Code Editor",
+        "text": "Explain the purpose of context-sensitive prompts in an IDE.",
+        "answer": "As the programmer types code, the IDE suggests possible completions for variable names, reserved words, and function names, speeding up coding and reducing typing errors.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_028",
+        "topic": "IDE - Source Code Editor",
+        "text": "Explain the purpose of expand and collapse code blocks in an IDE.",
+        "answer": "For larger programs with multiple code blocks, some blocks can be collapsed to a single line, allowing the programmer to focus only on the code blocks currently being developed.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_029",
+        "topic": "Operating System",
+        "text": "Explain why it is not necessary for a microwave oven to have an operating system.",
+        "answer": "A microwave oven performs a single dedicated task, has very limited processing power and memory, does not require multitasking, and does not need a user interface beyond simple buttons.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_03_030",
+        "topic": "Utility Software - Backup",
+        "text": "Explain why the 'turn back the internal computer clock' feature in backup utilities is important.",
+        "answer": "It allows the user to restore the computer to a previous state (restore point), which is useful if an important file was deleted and cannot be recovered, or if the system becomes unstable after an update.",
+        "score": 3
+    },
+    {
+        "id": "q_ss_5_04_001",
+        "topic": "Operating System - Memory Management",
+        "text": "Explain how memory optimisation, memory organisation, and memory protection work together in an operating system.",
+        "answer": "Memory optimisation allocates and deallocates memory for running applications and tracks free memory. Memory organisation determines how much memory each application gets (e.g. paging or segmentation). Memory protection ensures that no two applications use the same memory locations, preventing data loss, crashes, and security issues.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_002",
+        "topic": "Operating System - Security Management",
+        "text": "Describe four methods an operating system uses to ensure data security, confidentiality, and integrity.",
+        "answer": "1. User authentication (passwords/user IDs) for access control. 2. Access rights to prevent unauthorised read/write. 3. Firewall integration to monitor network traffic. 4. Regular OS updates to patch vulnerabilities. 5. Data recovery options (system restore). 6. Encryption of stored data (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_003",
+        "topic": "Operating System - Hardware Management",
+        "text": "Explain the role of buffers and interrupts when a printing job is sent to an inkjet printer.",
+        "answer": "A buffer temporarily stores print data, allowing the processor to continue working while the printer prints at its slower speed. An interrupt is sent to the processor when the buffer is empty (requesting more data) or when an error occurs (paper jam, out of paper, out of ink). Higher priority interrupts may pause the current process.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_004",
+        "topic": "Operating System - File Management",
+        "text": "Describe four tasks of file management in an operating system.",
+        "answer": "1. Defining file naming conventions (e.g. extensions). 2. Performing file operations (create, open, close, delete, rename, copy, move). 3. Maintaining directory structures (folders). 4. Enforcing access control (read/write permissions, passwords). 5. Specifying logical file storage format (FAT, NTFS). 6. Allocating memory for files (loading from disk to RAM).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_005",
+        "topic": "Operating System - Process Management",
+        "text": "Describe four tasks of process management.",
+        "answer": "1. Allocation of resources (CPU time, memory, I/O). 2. Permitting sharing and exchange of data between processes. 3. Synchronising processes through scheduling and queues. 4. Resolving software conflicts. 5. Handling process priorities and interrupts. 6. Managing multitasking (switching between processes).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_006",
+        "topic": "Utility Software",
+        "text": "Name and describe the function of four utility programs a company would use on its computers.",
+        "answer": "1. Disk formatter – prepares a disk for storage. 2. Virus checker – scans for and removes malware. 3. Defragmentation – reorganises files into contiguous sectors. 4. Backup software – makes copies of files for recovery. 5. Disk repair – identifies and fixes bad sectors. 6. File compression – reduces file size for storage/transmission (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_007",
+        "topic": "Utility Software - Disk Formatter",
+        "text": "Explain the process of formatting a hard disk, including what happens to bad sectors.",
+        "answer": "The disk formatter organises storage space into partitions (contiguous blocks). Each partition is formatted by writing files that hold directory data and tables of contents. During full formatting (e.g. NTFS), all sectors are filled with zeros and read back to test them. Bad sectors are flagged and replaced with unused sectors, effectively repairing the disk but corrupting any file that contained that sector.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_008",
+        "topic": "Utility Software - Virus Checker",
+        "text": "Describe four features of antivirus software.",
+        "answer": "1. Checks software/files before they are run. 2. Compares against a database of known viruses. 3. Performs heuristic checking for suspicious behaviour. 4. Quarantines infected files. 5. Allows user to decide whether to delete a file. 6. Can be run constantly in the background. 7. Requires regular updates to detect new viruses (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_009",
+        "topic": "Utility Software - Defragmentation",
+        "text": "Using a diagram description, explain how defragmentation software works and why it improves performance.",
+        "answer": "The software scans the disk for fragmented files (files stored in non-contiguous sectors). It then moves data blocks so that each file occupies contiguous sectors and free space is consolidated. This reduces read-write head movements, speeding up data access and retrieval.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_010",
+        "topic": "Utility Software - Backup",
+        "text": "Compare Windows File History and Mac OS Time Machine backup utilities.",
+        "answer": "Windows File History: default backup every hour, keeps past versions forever, stores on external HDD. Mac Time Machine: backup every hour, keeps daily backups for a month, weekly for previous months, deletes oldest when drive is full. Both allow restoring previous file versions and 'turning back the clock'.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_011",
+        "topic": "Program Libraries - DLL",
+        "text": "Describe four benefits of using Dynamic Link Library (DLL) files.",
+        "answer": "1. Smaller executable size (DLLs loaded only when needed). 2. DLLs can be updated without recompiling the main program. 3. Multiple applications can share the same DLL, saving memory. 4. Faster execution as DLLs are loaded only at run time. 5. Easier maintenance (DLL separate from main program) (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_012",
+        "topic": "Program Libraries - DLL",
+        "text": "Describe four drawbacks of using Dynamic Link Library (DLL) files.",
+        "answer": "1. Executable is not self-contained (all DLLs must be available at run time). 2. Missing DLL causes 'missing .dll' error and may crash software. 3. Changes to DLLs can cause unexpected results or crashes. 4. Malware can corrupt DLL files. 5. Linking must be available at run time (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_013",
+        "topic": "Language Translators",
+        "text": "Compare assemblers, compilers, and interpreters in terms of source language, machine dependence, object code generation, and line translation ratio.",
+        "answer": "Assembler: source = assembly language, machine dependent, generates object code, 1:1 translation. Compiler: source = high-level language, machine independent, generates object code, many instructions per line (instruction explosion). Interpreter: source = high-level language, machine independent, no object code, many instructions per line, executed line by line.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_014",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "Describe four advantages of using a compiler over an interpreter for the end user.",
+        "answer": "1. End user does not need to purchase a compiler. 2. Faster execution (already translated). 3. Source code is not distributed (protects intellectual property). 4. Executable can be run many times without retranslation. 5. Code can be optimised by the compiler (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_015",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "Describe four advantages of using an interpreter over a compiler during program development.",
+        "answer": "1. Easier debugging (errors found line by line). 2. Errors can be corrected in real time. 3. Partial results can be viewed. 4. Program can be tested before completion. 5. No need to recompile after every change. 6. Untested programs are less likely to crash the computer (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_016",
+        "topic": "Language Translators - Partial Compiling",
+        "text": "Explain how Java uses partial compilation and interpretation (bytecode).",
+        "answer": "Java source code is compiled by a compiler into bytecode (machine-independent intermediate code). The bytecode is then interpreted by the Java Virtual Machine (JVM) on any platform. This achieves platform independence while maintaining reasonable execution speed.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_017",
+        "topic": "Language Translators - Partial Compiling",
+        "text": "Explain how Python uses partial compilation and interpretation (bytecode).",
+        "answer": "Python source code is compiled into bytecode (.pyc files). This bytecode is then interpreted by the Python Virtual Machine. This combination allows Python to be platform-independent while improving execution speed compared to pure interpretation.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_018",
+        "topic": "IDE",
+        "text": "Describe four features of a typical Integrated Development Environment (IDE).",
+        "answer": "1. Source code editor with prettyprinting and syntax highlighting. 2. Compiler and/or interpreter for translation. 3. Run-time environment with debugger. 4. Auto-documenter. 5. Context-sensitive prompts. 6. Dynamic syntax checking. 7. Breakpoints and single stepping. 8. Report window for variable inspection (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_019",
+        "topic": "IDE - Source Code Editor",
+        "text": "Describe four features of a source code editor in an IDE.",
+        "answer": "1. Colour coding (prettyprinting) for readability. 2. Context-sensitive prompts for auto-completion. 3. Dynamic syntax checking as code is typed. 4. Expand and collapse code blocks for large programs. 5. Auto-indentation for structured code (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_020",
+        "topic": "IDE - Debugger",
+        "text": "Describe how single stepping, breakpoints, and report windows help in debugging.",
+        "answer": "Single stepping runs code one line at a time to observe effects. Breakpoints pause execution at a set line to inspect state. Report windows show variable contents, data types, and expression values at that point, allowing the programmer to identify logic errors.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_021",
+        "topic": "Operating System - File Management",
+        "text": "Explain the importance of maintaining directory structures and access control mechanisms in file management.",
+        "answer": "Directory structures organise files hierarchically, making them easier to find and manage. Access control mechanisms (passwords, read/write permissions, file locking) prevent unauthorised access, protect sensitive data, and ensure that multiple users do not corrupt each other's files.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_022",
+        "topic": "Operating System - Memory Management",
+        "text": "Explain the difference between paged memory and segmented memory.",
+        "answer": "Paged memory splits memory into fixed-size partitions (pages). Any process can be assigned to any available page. Segmented memory splits memory into logical groupings (e.g. array data, code, stack) which are not necessarily contiguous. Segmentation allows variable-sized blocks but can lead to external fragmentation.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_023",
+        "topic": "Utility Software",
+        "text": "A user has five issues. Name a utility for each and give a reason: (a) large email attachments (b) accidentally deleted files (c) slow HDD access (d) malware (e) corrupted files.",
+        "answer": "(a) File compression – reduces file size. (b) Backup software – allows file recovery. (c) Defragmentation – makes files contiguous. (d) Virus checker – removes malware. (e) Disk repair – flags bad sectors and repairs disk.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_024",
+        "topic": "Program Libraries",
+        "text": "Describe four benefits of using program libraries during software development.",
+        "answer": "1. Saves development time (no need to rewrite routines). 2. Routines are pre-tested and should be error-free. 3. Allows modular programming with multiple programmers. 4. Maintains consistency (corporate image) across software. 5. Reduces development cost (any four).",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_025",
+        "topic": "Language Translators - Assembler",
+        "text": "Explain why assembly language is machine dependent and give an example of where it is still used.",
+        "answer": "Assembly language uses mnemonics that correspond directly to the machine code of a specific processor architecture. Different processors (e.g. X86, ARM) have different instruction sets. Assembly is still used for parts of operating systems, embedded systems, device drivers, and real-time applications where speed is critical.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_026",
+        "topic": "IDE - Debugger",
+        "text": "Explain the difference between a syntax error and a logic error, and how an IDE helps with each.",
+        "answer": "Syntax errors are grammar mistakes in code (e.g. missing semicolon). The IDE's dynamic syntax checking finds these as you type. Logic errors are mistakes in program logic (e.g. infinite loop). The IDE's debugger (single stepping, breakpoints, report window) helps find logic errors by inspecting variable values during execution.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_027",
+        "topic": "Utility Software - Disk Compression",
+        "text": "Explain why disk compression is less common today and what risk it carries.",
+        "answer": "Disk compression is less common because modern hard disks have very large capacities (often >2TB). The risk is that if disk compression software is uninstalled, any previously saved data becomes unreadable. Disk compression overrides other OS routines and is a high-priority utility.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_028",
+        "topic": "Operating System - Hardware Management",
+        "text": "Explain the role of a keyboard manager when a user types text using a word processor.",
+        "answer": "The keyboard manager detects key presses, uses a device driver to translate the signal into a scan code, converts the scan code into a character using the selected keyboard layout, stores the character in a keyboard buffer, and sends an interrupt to the processor to retrieve the character.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_029",
+        "topic": "Language Translators - Loader",
+        "text": "Explain the relationship between a compiler, object code, and a loader.",
+        "answer": "A compiler translates source code into object code (machine code) and stores it on disk. A loader is then needed to load this object code from disk into main memory before it can be executed. The loader also resolves addresses and links with libraries if necessary.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_04_030",
+        "topic": "Operating System - Virtual Memory",
+        "text": "Explain what is meant by virtual memory and why it is used.",
+        "answer": "Virtual memory is a memory management technique that uses part of the hard disk as if it were RAM. It allows a computer to run more applications than physical memory would permit by swapping data between RAM and disk. It compensates for shortage of actual physical memory.",
+        "score": 4
+    },
+    {
+        "id": "q_ss_5_05_001",
+        "topic": "Operating System - Memory Management",
+        "text": "Explain in detail the three parts of memory management: optimisation, organisation, and protection. Give examples of each.",
+        "answer": "Optimisation: allocates and deallocates memory for running applications, tracks free memory, swaps data to/from disk. Example: moving inactive program data to virtual memory. Organisation: determines how memory is split (paging, segmentation, contiguous allocation). Example: using 4KB pages for virtual memory. Protection: prevents applications from accessing each other's memory. Example: each process runs in its own address space.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_002",
+        "topic": "Operating System - Security Management",
+        "text": "Describe five methods an operating system uses to ensure the integrity, confidentiality, and availability of data.",
+        "answer": "1. User authentication (passwords, biometrics). 2. Access rights (read/write permissions). 3. Firewall integration to block unauthorised traffic. 4. Regular security updates to patch vulnerabilities. 5. Data encryption. 6. System restore points for recovery. 7. Antivirus integration. 8. Auditing and logging of user activity (any five).",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_003",
+        "topic": "Operating System - Hardware Management",
+        "text": "Describe in detail how an operating system manages a printing job, including buffers, queues, drivers, and interrupts. Include potential error scenarios.",
+        "answer": "Printer manager loads the printer driver into memory. Print data is sent to a printer buffer (temporary storage). If printer is busy or job has low priority, data goes to a printer queue. Buffer allows processor to continue working while printer prints slowly. Interrupts are sent when buffer is empty (request more data) or on errors (paper jam, out of paper, out of ink). Higher priority interrupts may pause current process.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_004",
+        "topic": "Operating System - File Management",
+        "text": "Explain in detail the file management tasks of an operating system, including naming conventions, operations, directory structures, access control, and logical storage formats.",
+        "answer": "1. Naming conventions: defines allowed characters, maximum length, extensions (.txt, .docx). 2. Operations: create, open, close, delete, rename, copy, move. 3. Directory structures: hierarchical organisation (folders) for easy navigation. 4. Access control: read/write permissions, password protection, file locking. 5. Logical storage formats: FAT, NTFS, ext4 determine how files are stored on disk. 6. Memory allocation: loads files from disk into RAM.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_005",
+        "topic": "Operating System - Process Management",
+        "text": "Explain in detail the process management tasks of an operating system, including resource allocation, data sharing, synchronisation, and conflict resolution.",
+        "answer": "1. Resource allocation: allocates CPU time, memory, I/O devices to processes. 2. Data sharing: permits processes to exchange data safely. 3. Synchronisation: uses scheduling (round-robin, priority queues) to ensure fair access. 4. Conflict resolution: prevents deadlock and race conditions. 5. Multitasking: switches between processes so multiple appear to run simultaneously. 6. Interrupt handling: responds to hardware/software interrupts.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_006",
+        "topic": "Utility Software - Defragmentation",
+        "text": "Explain with a detailed diagram description how defragmentation works and why it improves HDD performance. Include an example of fragmentation before and after.",
+        "answer": "Before: File 1 stored in sectors 1,2,5,8; File 2 in sectors 3,6,9; File 3 in sectors 4,7,10. Fragmented files require multiple head movements. Defragmentation: software reads all file blocks, writes them back in contiguous order. After: File 1 in sectors 1-4, File 2 in sectors 5-7, File 3 in sectors 8-10. Head movements reduced, access time improved.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_007",
+        "topic": "Utility Software - Disk Formatter",
+        "text": "Explain the complete process of hard disk formatting, including partitioning, NTFS formatting, bad sector handling, and the difference between hard and soft bad sectors.",
+        "answer": "1. Partitioning: disk space divided into contiguous blocks. 2. Formatting: writes file system structures (FAT/NTFS) and directory tables. 3. Full NTFS formatting: fills all sectors with zeros and reads back to test. 4. Bad sectors: hard (physical damage, difficult to repair) and soft (data corruption, repairable). 5. Bad sector handling: flagged as 'bad', replaced with unused sectors. Damaged files become corrupted.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_008",
+        "topic": "Utility Software - Backup",
+        "text": "Compare Windows File History and Mac OS Time Machine in detail, including backup schedules, retention policies, restore features, and the 'turn back the clock' function.",
+        "answer": "Windows File History: default backup every hour, keeps past versions forever unless changed, stores on external HDD, allows restoring any previous version. Mac Time Machine: backup every hour, keeps daily backups for past month, weekly for previous months, deletes oldest when drive full. Both allow 'turning back the clock' – restoring entire system to a previous point in time, useful after accidental deletion or system instability.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_009",
+        "topic": "Program Libraries - DLL",
+        "text": "Explain in detail the difference between static linking and dynamic linking, including when linking occurs, memory usage, executable size, and maintenance implications.",
+        "answer": "Static linking: at compile time, library code is copied into the executable. Result: larger executable, self-contained, memory used per application, updates require recompilation. Dynamic linking: at run time, library is loaded when needed. Result: smaller executable, not self-contained (DLLs must be present), shared across applications (saves memory), updates to DLL do not require recompiling main program.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_010",
+        "topic": "Program Libraries - DLL",
+        "text": "Describe five benefits and five drawbacks of using Dynamic Link Library (DLL) files.",
+        "answer": "Benefits: 1. Smaller executable size. 2. DLLs updated without recompiling main program. 3. Multiple apps share same DLL (saves memory). 4. Faster execution (loaded only when needed). 5. Easier maintenance. Drawbacks: 1. Not self-contained (DLLs must be available). 2. Missing DLL causes errors/crashes. 3. Changes to DLL can cause unexpected results. 4. Malware can corrupt DLLs. 5. Linking overhead at run time.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_011",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "Compare compilers and interpreters in detail, covering execution time, error reporting, debugging, distribution, memory usage, and optimisation. Provide at least five differences.",
+        "answer": "1. Execution time: compiled faster (already translated), interpreted slower (translated each run). 2. Error reporting: compiler reports all at end, interpreter stops at first error. 3. Debugging: interpreter easier (real-time correction), compiler requires recompilation. 4. Distribution: compiler produces executable (no source code), interpreter requires source code. 5. Optimisation: compiler can optimise code, interpreter cannot. 6. Memory: compiler generates object code on disk, interpreter does not.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_012",
+        "topic": "Language Translators - Partial Compiling",
+        "text": "Explain in detail how Java and Python use partial compilation and interpretation (bytecode). Include the roles of compiler, bytecode, virtual machine, and interpreter.",
+        "answer": "Java: source code → javac compiler → bytecode (.class) → JVM (Java Virtual Machine) interprets bytecode. Python: source code → compiler → bytecode (.pyc) → PVM (Python Virtual Machine) interprets bytecode. Bytecode is machine-independent, allowing platform independence. Virtual machine provides run-time environment. This combines compilation speed benefits with interpretation portability.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_013",
+        "topic": "IDE",
+        "text": "Describe five features of a typical Integrated Development Environment (IDE) and explain how each helps a programmer.",
+        "answer": "1. Source code editor (prettyprinting, colour coding) – makes code readable. 2. Compiler/interpreter – translates code. 3. Debugger (single stepping) – runs code line by line. 4. Breakpoints – pauses execution to inspect variables. 5. Report window – shows variable contents. 6. Context-sensitive prompts – auto-completes code. 7. Dynamic syntax checking – finds errors as you type. 8. Auto-documenter – generates documentation (any five).",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_014",
+        "topic": "IDE - Debugger",
+        "text": "Explain in detail how a programmer uses single stepping, breakpoints, and report windows to find and fix logic errors.",
+        "answer": "1. Set breakpoint at suspected line. 2. Run program – execution stops at breakpoint. 3. Use single stepping to execute one line at a time. 4. After each step, check report window for variable values. 5. Compare actual values with expected values. 6. Identify where values deviate from expected. 7. Fix the logic error. 8. Remove breakpoint and retest. This isolates the exact location of the error.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_015",
+        "topic": "Utility Software - Virus Checker",
+        "text": "Explain in detail how antivirus software works, including signature detection, heuristic checking, quarantine, false positives, and the importance of regular updates.",
+        "answer": "1. Signature detection: compares files against database of known virus signatures. 2. Heuristic checking: analyses behaviour (e.g. attempting to modify system files) to detect unknown viruses. 3. Quarantine: isolates infected files before deletion. 4. False positive: legitimate file flagged as virus (drawback). 5. Regular updates: new viruses discovered daily, database must be updated. 6. Background scanning: constantly checks for threats. 7. Full system scans: weekly to detect dormant viruses.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_016",
+        "topic": "Operating System - Virtual Memory",
+        "text": "Explain in detail what virtual memory is, how it works (paging), and the trade-offs (benefits vs performance impact).",
+        "answer": "Virtual memory uses part of hard disk as additional RAM. Memory is divided into fixed-size pages (e.g. 4KB). When RAM is full, inactive pages are swapped to disk (page file). When needed, they are swapped back. Benefits: allows more applications to run than physical RAM permits. Drawbacks: disk access is much slower than RAM, causing performance degradation (thrashing if excessive swapping).",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_017",
+        "topic": "Operating System",
+        "text": "Discuss the different roles played by assemblers, compilers, and interpreters in program translation. Include their similarities and differences.",
+        "answer": "Assembler: translates assembly language to machine code (1:1), machine dependent, generates object code. Compiler: translates HLL to machine code (1:many), machine independent, generates object code, optimises, reports all errors at end. Interpreter: translates and executes HLL line by line, machine independent, no object code, stops at first error, easier debugging. Similarities: all translate to machine code; all can be part of an IDE.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_018",
+        "topic": "Utility Software - Disk Compression",
+        "text": "Explain what disk compression is, why it is less common today, and the risks associated with it.",
+        "answer": "Disk compression compresses data before writing to hard disk and decompresses when reading. It overrides other OS routines and is high priority. Less common today because modern HDDs have very large capacities (2TB+). Risk: if disk compression software is uninstalled, all previously compressed data becomes unreadable. Also, compression/decompression adds CPU overhead.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_019",
+        "topic": "IDE - Source Code Editor",
+        "text": "Explain the purpose and benefits of prettyprinting, dynamic syntax checking, and expand/collapse code blocks in an IDE source code editor.",
+        "answer": "Prettyprinting: colour coding, indentation, formatting – makes code readable, helps spot errors. Dynamic syntax checking: highlights syntax errors as you type – catches errors early, saves debugging time. Expand/collapse code blocks: hides code not currently being worked on – reduces clutter, allows focus on specific sections, especially useful for large programs with many functions/classes.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_020",
+        "topic": "Program Libraries",
+        "text": "Explain why using program libraries leads to modular programming, continuity, and cost savings.",
+        "answer": "Modular programming: different programmers can work on different library routines simultaneously. Continuity: same library routines used across multiple projects maintains consistent look/behaviour (corporate image). Cost savings: less time rewriting code, less testing (routines already tested), fewer bugs, faster development cycles, reduced maintenance costs.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_021",
+        "topic": "Language Translators",
+        "text": "Explain the concept of 'instruction explosion' in compilers and interpreters compared to assemblers.",
+        "answer": "Assembler: one assembly instruction translates to one machine code instruction (1:1). Compiler: one high-level instruction (e.g. x = y + z) can translate to many machine code instructions (LOAD, ADD, STORE) – instruction explosion. Interpreter: also has instruction explosion, but translation occurs at run time. This is why compiled code executes faster than interpreted code.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_022",
+        "topic": "Utility Software",
+        "text": "A user has five issues. For each, name the appropriate utility software and explain in detail how it solves the problem: (a) HDD storage full of video files (b) accidentally deleted document (c) HDD becoming slow (d) suspected virus (e) HDD reporting bad sectors.",
+        "answer": "(a) File compression – reduces file size, freeing space. (b) Backup software – restore from backup. (c) Defragmentation – makes files contiguous, reduces head movement. (d) Virus checker – scans, detects, quarantines/deletes virus. (e) Disk repair – flags bad sectors, replaces with unused sectors, repairs disk.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_023",
+        "topic": "Operating System - Memory Management",
+        "text": "Explain the difference between single contiguous allocation, partitioned allocation, paged memory, and segmented memory. Give an example of when each might be used.",
+        "answer": "Single contiguous: all memory to one application – used by MS-DOS, embedded systems. Partitioned allocation: memory split into variable-sized contiguous partitions – early multitasking OS. Paged memory: fixed-size pages, any process to any page – modern virtual memory systems. Segmented memory: non-contiguous logical groupings (code, data, stack) – some OS kernels.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_024",
+        "topic": "Operating System - File Management",
+        "text": "Explain the purpose of file allocation tables (FAT) and NTFS in file management.",
+        "answer": "FAT (File Allocation Table): simple file system, maintains table of cluster addresses for each file, used in older Windows systems, limited file size and partition size. NTFS (New Technology File System): modern Windows file system, supports larger files/partitions, includes journaling (recovery), permissions (security), compression, encryption. Both specify how files are stored on disk and allow OS to locate file clusters.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_025",
+        "topic": "Utility Software - Defragmentation",
+        "text": "Explain why SSDs do not require defragmentation and why defragmenting an SSD can actually be harmful.",
+        "answer": "SSDs have no moving read-write heads; access time is the same for all memory locations regardless of fragmentation. Defragmentation would cause unnecessary write cycles, reducing SSD lifespan (each cell has limited write endurance). Additionally, wear leveling algorithms in SSDs already distribute writes evenly, making defragmentation redundant.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_026",
+        "topic": "Program Libraries - DLL",
+        "text": "Explain the potential security risks of using DLL files, including malware and DLL hijacking.",
+        "answer": "Malware can replace legitimate DLL files with infected versions. DLL hijacking: an attacker places a malicious DLL in a directory where an application looks before the legitimate DLL. When the application runs, it loads the malicious DLL instead, executing attacker code. Risks can be reduced by using absolute paths, digital signatures, and keeping systems updated.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_027",
+        "topic": "Language Translators - Compiler vs Interpreter",
+        "text": "Explain why a programmer might use an interpreter during development and a compiler for the final version of the same program.",
+        "answer": "During development: interpreter allows rapid testing, real-time error correction, partial results viewing – speeds up debugging. For final version: compiler produces optimised machine code (faster execution), creates standalone executable (end user doesn't need compiler), protects source code (intellectual property). Many IDEs provide both, switching between them as needed.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_028",
+        "topic": "IDE",
+        "text": "Explain the purpose of an auto-documenter in an IDE and why it is useful for large projects.",
+        "answer": "Auto-documenter automatically generates documentation from source code comments (e.g. Javadoc, Doxygen). It extracts descriptions of functions, parameters, return values, and classes into readable HTML or PDF. For large projects with multiple programmers, it ensures consistent, up-to-date documentation, saves time writing docs manually, and helps new team members understand the code.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_029",
+        "topic": "Operating System - Hardware Management",
+        "text": "Explain how an operating system uses device drivers to manage different hardware devices.",
+        "answer": "Device drivers are software that communicate with the operating system and translate data into a format understood by the device. Each hardware device (printer, keyboard, graphics card) has its own driver. The OS loads the appropriate driver into memory when the device is needed. The driver handles low-level hardware control, allowing the OS to use the device without knowing its internal details.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_030",
+        "topic": "Utility Software - Backup",
+        "text": "Explain the 3-2-1 backup rule and why it is important for data security.",
+        "answer": "3-2-1 rule: 3 copies of data (1 working + 2 backups), on 2 different types of media (e.g. HDD + cloud), with 1 copy offsite (remote). Importance: working copy lost if drive fails; local backup protects against accidental deletion or drive failure; remote backup protects against physical disasters (fire, flood, theft). This ensures data can be recovered from almost any failure scenario.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_031",
+        "topic": "Language Translators - Assembler",
+        "text": "Explain why assembly language is still used today despite high-level languages being easier to use.",
+        "answer": "Assembly language produces very efficient, fast code (1:1 translation, no overhead). It gives the programmer complete control over hardware (registers, memory, interrupts). It is still used for: operating system kernels, device drivers, embedded systems, real-time applications, boot loaders, and performance-critical code (e.g. graphics rendering, cryptography) where every instruction counts.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_032",
+        "topic": "IDE - Debugger",
+        "text": "Explain how a report window helps a programmer find a logic error compared to using print statements.",
+        "answer": "Report window shows variable contents, data types, and expression values automatically at breakpoints or during single stepping. No need to add and later remove print statements. Report window updates in real time as you step through code. It can show complex data structures (arrays, objects) in a readable format. This saves time and reduces clutter in the source code.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_033",
+        "topic": "Operating System - Security Management",
+        "text": "Explain the difference between data security, data integrity, and data privacy, and how an OS helps with each.",
+        "answer": "Security: protecting data from unauthorised access or loss – OS uses passwords, firewalls, encryption. Integrity: ensuring data is accurate and consistent – OS uses file system checks, access controls, backup/restore. Privacy: ensuring personal data is only accessible to authorised users – OS uses user accounts, permissions, data encryption. All three are managed by the OS security management subsystem.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_034",
+        "topic": "Utility Software",
+        "text": "Explain the difference between disk compression and file compression, and give a use case for each.",
+        "answer": "Disk compression: compresses all data before writing to hard disk, decompresses on read – operates at file system level, transparent to applications. Use case: older systems with small HDDs. File compression: compresses individual files/folders (e.g. ZIP, RAR) – user initiated. Use case: reducing email attachment size, archiving old files, saving bandwidth for downloads.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_035",
+        "topic": "Language Translators - Partial Compiling",
+        "text": "Explain the role of the Java Virtual Machine (JVM) in executing Java bytecode and why this makes Java platform-independent.",
+        "answer": "JVM is an interpreter for Java bytecode. Each platform (Windows, Mac, Linux) has its own JVM implementation. Java source code is compiled into bytecode (machine-independent). The bytecode is then interpreted by the JVM on the target platform. This means the same bytecode runs on any platform with a JVM, achieving 'write once, run anywhere'.",
+        "score": 5
+    },
+    {
+        "id": "q_ss_5_05_036",
+        "topic": "Operating System - Process Management",
+        "text": "Explain the concept of multitasking and how an operating system achieves it through process scheduling.",
+        "answer": "Multitasking allows multiple processes to appear to run simultaneously on a single CPU. The OS uses process scheduling: each process is given a small time slice (e.g. milliseconds). The OS rapidly switches between processes (context switching), saving the state of one process and loading another. This happens so fast that users perceive simultaneous execution. Scheduling algorithms (round-robin, priority) determine which process runs next.",
+        "score": 5
+    }
+]
