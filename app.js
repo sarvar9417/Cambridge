@@ -21,7 +21,7 @@ let showResult = false;
 let submittedAnswer = '';
 let pendingAnswer = '';
 
-const chapterFiles = ['chapter_1.json', 'chapter_2.json', 'chapter_3.json', 'chapter_4.json','chapter_6_7.json','chapter_8.json', 'chapter_15.json', 'chapter_16.json','chapter_17_18.json', 'chapter_19_20.json'];
+const chapterFiles = ['chapter_1.json', 'chapter_2.json', 'chapter_3.json', 'chapter_4.json','chapter_6_7.json','chapter_8.json', 'chapter_15.json', 'chapter_16.json','chapter_17_18.json', 'chapter_19_20.json','chapter_9_10_11_12.json'];
 
 // ========== INIT ==========
 document.addEventListener('DOMContentLoaded', async () => {
