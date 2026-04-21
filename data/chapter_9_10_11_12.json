@@ -1,0 +1,1053 @@
+[
+    {
+        "id": "q_b1_01",
+        "topic": "Algorithm Design",
+        "text": "State the purpose of a program flowchart.",
+        "answer": "To represent an algorithm / the steps in a process / the flow of control diagrammatically.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_02",
+        "topic": "Computational Thinking",
+        "text": "Identify the computational thinking skill that involves extracting only essential information.",
+        "answer": "Abstraction",
+        "score": 1
+    },
+    {
+        "id": "q_b1_03",
+        "topic": "Computational Thinking",
+        "text": "Identify the computational thinking skill that involves breaking a problem into smaller, manageable parts.",
+        "answer": "Decomposition",
+        "score": 1
+    },
+    {
+        "id": "q_b1_04",
+        "topic": "Data Types",
+        "text": "State the most appropriate data type to store whether a light is ON or OFF.",
+        "answer": "BOOLEAN",
+        "score": 1
+    },
+    {
+        "id": "q_b1_05",
+        "topic": "Data Types",
+        "text": "State the most appropriate data type to store the number of students in a class.",
+        "answer": "INTEGER",
+        "score": 1
+    },
+    {
+        "id": "q_b1_06",
+        "topic": "Data Types",
+        "text": "State the most appropriate data type to store a customer's name.",
+        "answer": "STRING",
+        "score": 1
+    },
+    {
+        "id": "q_b1_07",
+        "topic": "Data Types",
+        "text": "State the most appropriate data type to store the date of birth of a person.",
+        "answer": "DATE",
+        "score": 1
+    },
+    {
+        "id": "q_b1_08",
+        "topic": "Arrays",
+        "text": "Give the technical term for the numerical position of an element in an array.",
+        "answer": "Index / Subscript",
+        "score": 1
+    },
+    {
+        "id": "q_b1_09",
+        "topic": "Arrays",
+        "text": "State the lower bound of the array declared as: DECLARE MyArray : ARRAY[1:10] OF INTEGER",
+        "answer": "1",
+        "score": 1
+    },
+    {
+        "id": "q_b1_10",
+        "topic": "Files",
+        "text": "Write the pseudocode statement to open a text file 'MyData.txt' for reading.",
+        "answer": "OPENFILE 'MyData.txt' FOR READ",
+        "score": 1
+    },
+    {
+        "id": "q_b1_11",
+        "topic": "Files",
+        "text": "Identify the file mode that should be used to add new data to the end of an existing text file.",
+        "answer": "APPEND",
+        "score": 1
+    },
+    {
+        "id": "q_b1_12",
+        "topic": "Files",
+        "text": "State the name of the function used to check if the end of a file has been reached in pseudocode.",
+        "answer": "EOF()",
+        "score": 1
+    },
+    {
+        "id": "q_b1_13",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Identify the Abstract Data Type (ADT) that operates on a Last In, First Out (LIFO) principle.",
+        "answer": "Stack",
+        "score": 1
+    },
+    {
+        "id": "q_b1_14",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Identify the Abstract Data Type (ADT) that operates on a First In, First Out (FIFO) principle.",
+        "answer": "Queue",
+        "score": 1
+    },
+    {
+        "id": "q_b1_15",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "State the term for the operation that adds an item to a stack.",
+        "answer": "Push",
+        "score": 1
+    },
+    {
+        "id": "q_b1_16",
+        "topic": "Programming Constructs",
+        "text": "Give the name of the loop structure that repeats a block of code a fixed number of times.",
+        "answer": "Count-controlled loop / FOR loop",
+        "score": 1
+    },
+    {
+        "id": "q_b1_17",
+        "topic": "Structured Programming",
+        "text": "Identify the type of subroutine that always returns a single value to the calling code.",
+        "answer": "Function",
+        "score": 1
+    },
+    {
+        "id": "q_b1_18",
+        "topic": "Structured Programming",
+        "text": "State the term for the variables listed in the brackets of a procedure or function header.",
+        "answer": "Parameters / Arguments",
+        "score": 1
+    },
+    {
+        "id": "q_b1_19",
+        "topic": "Software Development Lifecycle",
+        "text": "Identify the stage of the program development lifecycle where the requirements specification is produced.",
+        "answer": "Analysis",
+        "score": 1
+    },
+    {
+        "id": "q_b1_20",
+        "topic": "Software Development Lifecycle",
+        "text": "Identify the stage of the program development lifecycle where structure charts are produced.",
+        "answer": "Design",
+        "score": 1
+    },
+    {
+        "id": "q_b1_21",
+        "topic": "Software Development Lifecycle",
+        "text": "State the type of maintenance performed to fix a bug found after the software has been released.",
+        "answer": "Corrective maintenance",
+        "score": 1
+    },
+    {
+        "id": "q_b1_22",
+        "topic": "Program Testing",
+        "text": "Identify the type of testing performed by the development team on a completed program before release to users.",
+        "answer": "Alpha testing",
+        "score": 1
+    },
+    {
+        "id": "q_b1_23",
+        "topic": "Program Testing",
+        "text": "State the type of test data that should be accepted by a program.",
+        "answer": "Normal data",
+        "score": 1
+    },
+    {
+        "id": "q_b1_24",
+        "topic": "Program Testing",
+        "text": "Give the name of the error type caused by incorrect grammar or spelling in the source code.",
+        "answer": "Syntax error",
+        "score": 1
+    },
+    {
+        "id": "q_b1_25",
+        "topic": "Algorithm Design",
+        "text": "In pseudocode, which symbol is used for the assignment operator?",
+        "answer": "← (Left arrow)",
+        "score": 1
+    },
+    {
+        "id": "q_b1_26",
+        "topic": "Data Types",
+        "text": "State the data type of the expression: LENGTH('Hello')",
+        "answer": "INTEGER",
+        "score": 1
+    },
+    {
+        "id": "q_b1_27",
+        "topic": "Arrays",
+        "text": "State the number of dimensions for the array: DECLARE Grid : ARRAY[1:3, 1:3] OF INTEGER",
+        "answer": "2 (Two-dimensional)",
+        "score": 1
+    },
+    {
+        "id": "q_b1_28",
+        "topic": "Files",
+        "text": "What happens to the existing content of a file if it is opened in WRITE mode?",
+        "answer": "It is overwritten / deleted / lost.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_29",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "In a linked list, what does the pointer of the last node contain?",
+        "answer": "Null pointer / -1 / 0",
+        "score": 1
+    },
+    {
+        "id": "q_b1_30",
+        "topic": "Programming Constructs",
+        "text": "In a CASE statement, which keyword is used to specify actions when no other matches are found?",
+        "answer": "OTHERWISE",
+        "score": 1
+    },
+    {
+        "id": "q_b1_31",
+        "topic": "Structured Programming",
+        "text": "State the method of passing a parameter that allows the subroutine to modify the original variable's value.",
+        "answer": "By reference (BYREF)",
+        "score": 1
+    },
+    {
+        "id": "q_b1_32",
+        "topic": "Software Development Lifecycle",
+        "text": "Name the linear sequential development model where each stage is fully completed before the next begins.",
+        "answer": "Waterfall model",
+        "score": 1
+    },
+    {
+        "id": "q_b1_33",
+        "topic": "Program Testing",
+        "text": "Identify the testing method that involves testing individual modules of a program combined together.",
+        "answer": "Integration testing",
+        "score": 1
+    },
+    {
+        "id": "q_b1_34",
+        "topic": "Algorithm Design",
+        "text": "Which symbol in a flowchart represents a decision or selection?",
+        "answer": "Diamond",
+        "score": 1
+    },
+    {
+        "id": "q_b1_35",
+        "topic": "Computational Thinking",
+        "text": "What is the benefit of using abstraction in program design?",
+        "answer": "Reduces complexity / simplifies the problem / reduces development time.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_36",
+        "topic": "Data Types",
+        "text": "State the data type that would store a single character like 'A' or '7'.",
+        "answer": "CHAR",
+        "score": 1
+    },
+    {
+        "id": "q_b1_37",
+        "topic": "Arrays",
+        "text": "What is the upper bound of the array: DECLARE Scores : ARRAY[0:9] OF INTEGER?",
+        "answer": "9",
+        "score": 1
+    },
+    {
+        "id": "q_b1_38",
+        "topic": "Files",
+        "text": "Write the pseudocode statement to close a file associated with the variable 'File1'.",
+        "answer": "CLOSEFILE File1",
+        "score": 1
+    },
+    {
+        "id": "q_b1_39",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "What condition indicates a stack is empty in a pointer-based implementation?",
+        "answer": "Top pointer = Base pointer - 1 / Top pointer = 0",
+        "score": 1
+    },
+    {
+        "id": "q_b1_40",
+        "topic": "Programming Constructs",
+        "text": "Which loop structure guarantees the code inside it executes at least once?",
+        "answer": "Post-condition loop (REPEAT...UNTIL)",
+        "score": 1
+    },
+    {
+        "id": "q_b1_41",
+        "topic": "Structured Programming",
+        "text": "In pseudocode, which keyword is used to return a value from a function?",
+        "answer": "RETURN",
+        "score": 1
+    },
+    {
+        "id": "q_b1_42",
+        "topic": "Software Development Lifecycle",
+        "text": "State the type of maintenance performed to make the program run on a new operating system.",
+        "answer": "Adaptive maintenance",
+        "score": 1
+    },
+    {
+        "id": "q_b1_43",
+        "topic": "Program Testing",
+        "text": "What type of test data are values at the limit of the acceptable range?",
+        "answer": "Boundary / Extreme data",
+        "score": 1
+    },
+    {
+        "id": "q_b1_44",
+        "topic": "Algorithm Design",
+        "text": "What shape is used to represent the start and end of a flowchart?",
+        "answer": "Oval / Rounded rectangle",
+        "score": 1
+    },
+    {
+        "id": "q_b1_45",
+        "topic": "Data Types",
+        "text": "Which data type is used to store values like 3.14 or -0.001?",
+        "answer": "REAL",
+        "score": 1
+    },
+    {
+        "id": "q_b1_46",
+        "topic": "Arrays",
+        "text": "State the term for the process of finding a specific value in an array.",
+        "answer": "Searching",
+        "score": 1
+    },
+    {
+        "id": "q_b1_47",
+        "topic": "Files",
+        "text": "What is the purpose of the APPEND file mode?",
+        "answer": "To add data to the end of an existing file without erasing current contents.",
+        "score": 1
+    },
+    {
+        "id": "q_b1_48",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "In a linked list, what does each node consist of?",
+        "answer": "Data and a Pointer",
+        "score": 1
+    },
+    {
+        "id": "q_b1_49",
+        "topic": "Programming Constructs",
+        "text": "What is the name of the iterative construct that repeats while a condition is true and checks at the beginning?",
+        "answer": "Pre-condition loop (WHILE...ENDWHILE)",
+        "score": 1
+    },
+    {
+        "id": "q_b1_50",
+        "topic": "Structured Programming",
+        "text": "State the term for the first line of a procedure or function definition.",
+        "answer": "Header / Signature / Interface",
+        "score": 1
+    },
+    {
+        "id": "q_b2_01",
+        "topic": "Computational Thinking",
+        "text": "Describe the purpose of abstraction in program design.",
+        "answer": "MP1: To filter out / ignore unnecessary details.\nMP2: To keep only the essential information needed to solve the problem.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_02",
+        "topic": "Computational Thinking",
+        "text": "Explain how decomposition aids in program development.",
+        "answer": "MP1: It breaks a complex problem into smaller, more manageable sub-problems.\nMP2: Each sub-problem can be developed as a separate module / procedure / function.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_03",
+        "topic": "Algorithm Design",
+        "text": "State two differences between a procedure and a function.",
+        "answer": "MP1: A function always returns a single value; a procedure does not return a value.\nMP2: A function call is used within an expression; a procedure call is a standalone statement.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_04",
+        "topic": "Algorithm Design",
+        "text": "State two benefits of using a CASE statement instead of multiple nested IF statements.",
+        "answer": "MP1: Code is easier to read and understand.\nMP2: Code is more efficient / easier to debug and maintain.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_05",
+        "topic": "Algorithm Design",
+        "text": "Explain why a pre-condition loop (WHILE...ENDWHILE) may be more suitable than a post-condition loop (REPEAT...UNTIL) in certain scenarios.",
+        "answer": "MP1: A pre-condition loop tests the condition at the beginning.\nMP2: It allows the loop body to be skipped entirely (zero iterations) if the condition is initially false.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_06",
+        "topic": "Algorithm Design",
+        "text": "State two advantages of using pseudocode over a program flowchart.",
+        "answer": "MP1: Pseudocode is easier to modify and update than a diagram.\nMP2: Pseudocode is closer to actual programming language syntax / easier to translate to code.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_07",
+        "topic": "Algorithm Design",
+        "text": "Explain the purpose of stepwise refinement.",
+        "answer": "MP1: To break down the steps of an algorithm into increasing levels of detail.\nMP2: To reach a level where each step can be directly translated into a programming statement.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_08",
+        "topic": "Data Types",
+        "text": "Explain the purpose of a record data structure.",
+        "answer": "MP1: To group related data items of different data types under a single identifier.\nMP2: To allow logical organisation and easier manipulation of related data.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_09",
+        "topic": "Data Types",
+        "text": "Explain why a DATE data type is more suitable than using three separate INTEGER variables.",
+        "answer": "MP1: It ensures the data is handled as a single logical unit.\nMP2: It prevents invalid dates / allows use of built-in date functions (e.g., DAY, MONTH).",
+        "score": 2
+    },
+    {
+        "id": "q_b2_10",
+        "topic": "Arrays",
+        "text": "State the upper and lower bounds of the array declared as: `DECLARE Scores : ARRAY[0:49] OF INTEGER`.",
+        "answer": "MP1: Lower bound = 0.\nMP2: Upper bound = 49.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_11",
+        "topic": "Arrays",
+        "text": "State two benefits of using arrays to store multiple data items of the same type.",
+        "answer": "MP1: Allows iteration / looping through data using an index.\nMP2: Uses a single identifier for many items / reduces the number of variable declarations.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_12",
+        "topic": "Arrays",
+        "text": "Describe how a linear search algorithm works.",
+        "answer": "MP1: It starts at the first element and checks each element in sequence.\nMP2: It stops when the search item is found or the end of the array is reached.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_13",
+        "topic": "Arrays",
+        "text": "State one advantage and one disadvantage of using a bubble sort.",
+        "answer": "MP1: Advantage: It is simple to understand and implement.\nMP2: Disadvantage: It is inefficient for large datasets / has O(n^2) time complexity.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_14",
+        "topic": "Files",
+        "text": "State two differences between opening a file in WRITE mode and APPEND mode.",
+        "answer": "MP1: WRITE mode overwrites existing file contents; APPEND mode adds to the end of the file.\nMP2: WRITE mode creates a new file if it does not exist; APPEND mode may cause an error if the file does not exist (depending on language).",
+        "score": 2
+    },
+    {
+        "id": "q_b2_15",
+        "topic": "Files",
+        "text": "Explain why files are needed for data storage when arrays can store data during execution.",
+        "answer": "MP1: Data in files is non-volatile / permanent; it is retained after the program closes.\nMP2: Files can store larger amounts of data without being limited by RAM / array size constraints.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_16",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "State two key features of a stack data structure.",
+        "answer": "MP1: It is a Last In First Out (LIFO) structure.\nMP2: It uses a single pointer (Top of Stack) to access items / Items are pushed and popped from the top.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_17",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "State two key features of a queue data structure.",
+        "answer": "MP1: It is a First In First Out (FIFO) structure.\nMP2: It uses two pointers (Front and Rear) / Items are added at the rear and removed from the front.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_18",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "State two differences between a stack and a queue.",
+        "answer": "MP1: Stack is LIFO; Queue is FIFO.\nMP2: Stack uses one pointer (Top); Queue uses two pointers (Front and Rear).",
+        "score": 2
+    },
+    {
+        "id": "q_b2_19",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Explain why a linked list is more efficient than an array for inserting new items.",
+        "answer": "MP1: In a linked list, only pointers need to be updated.\nMP2: In an array, elements may need to be physically shifted to make space.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_20",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Describe how a stack can be implemented using a 1D array and a pointer.",
+        "answer": "MP1: The array stores the stack data.\nMP2: An integer variable (Top of Stack pointer) stores the index of the last added element.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_21",
+        "topic": "Programming Constructs",
+        "text": "State the difference between a pre-condition loop and a post-condition loop.",
+        "answer": "MP1: A pre-condition loop (WHILE) tests the condition before the loop body executes (may execute zero times).\nMP2: A post-condition loop (REPEAT...UNTIL) tests the condition after the loop body executes (executes at least once).",
+        "score": 2
+    },
+    {
+        "id": "q_b2_22",
+        "topic": "Programming Constructs",
+        "text": "Explain why a FOR loop is most appropriate when the number of iterations is known.",
+        "answer": "MP1: It is a count-controlled loop.\nMP2: The loop counter is automatically initialised, incremented, and checked against a final value / requires less code.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_23",
+        "topic": "Structured Programming",
+        "text": "State two benefits of using subroutines (procedures/functions).",
+        "answer": "MP1: Reduces code duplication / promotes code reuse.\nMP2: Makes the program easier to test, debug, and maintain / improves readability.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_24",
+        "topic": "Structured Programming",
+        "text": "Explain the difference between passing a parameter BYVALUE and BYREFERENCE.",
+        "answer": "MP1: BYVALUE passes a copy of the data; changes inside the subroutine do not affect the original variable.\nMP2: BYREFERENCE passes the address of the data; changes inside the subroutine DO affect the original variable.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_25",
+        "topic": "Structured Programming",
+        "text": "State two benefits of using local variables instead of global variables.",
+        "answer": "MP1: Prevents accidental modification of data from other parts of the program.\nMP2: Saves memory, as they are created and destroyed when the subroutine is called and exits.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_26",
+        "topic": "Software Development Lifecycle",
+        "text": "State two principles of the Waterfall model.",
+        "answer": "MP1: Linear sequential process / each stage is fully completed before the next begins.\nMP2: Low customer involvement after the initial requirements stage.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_27",
+        "topic": "Software Development Lifecycle",
+        "text": "State two benefits of the Iterative model compared to the Waterfall model.",
+        "answer": "MP1: Produces a working version of the software early in the lifecycle.\nMP2: Easier to accommodate changes in requirements during development.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_28",
+        "topic": "Software Development Lifecycle",
+        "text": "State two principles of Rapid Application Development (RAD).",
+        "answer": "MP1: Uses prototyping to get early user feedback.\nMP2: Development of different parts can happen in parallel / high customer involvement.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_29",
+        "topic": "Program Design",
+        "text": "State two purposes of a structure chart.",
+        "answer": "MP1: To show the hierarchical breakdown of a problem into modules.\nMP2: To show the flow of data / parameters between modules.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_30",
+        "topic": "Program Design",
+        "text": "Explain the meaning of a diamond symbol in a structure chart.",
+        "answer": "MP1: It represents selection / a decision.\nMP2: It indicates that the parent module calls one of several possible child modules based on a condition.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_31",
+        "topic": "Program Design",
+        "text": "Explain the meaning of a curved arrow looping back on a module in a structure chart.",
+        "answer": "MP1: It represents iteration / repetition.\nMP2: It indicates that the parent module calls the child modules repeatedly.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_32",
+        "topic": "Program Design",
+        "text": "State the purpose of a state-transition diagram.",
+        "answer": "MP1: To show the possible states a system can be in.\nMP2: To show the events/inputs that cause a transition from one state to another.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_33",
+        "topic": "Program Testing",
+        "text": "Explain the difference between a syntax error and a logic error.",
+        "answer": "MP1: A syntax error is a mistake in the grammar/rules of the language and prevents compilation.\nMP2: A logic error is a mistake in the algorithm design; the program runs but produces incorrect results.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_34",
+        "topic": "Program Testing",
+        "text": "Explain the difference between black-box testing and white-box testing.",
+        "answer": "MP1: Black-box testing focuses on inputs and outputs without knowledge of internal code structure.\nMP2: White-box testing examines the internal logic and paths of the code.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_35",
+        "topic": "Program Testing",
+        "text": "State the purpose of stub testing.",
+        "answer": "MP1: To allow testing of high-level modules before low-level modules are complete.\nMP2: Stubs are temporary dummy modules that simulate the missing modules' behaviour (e.g., return fixed values).",
+        "score": 2
+    },
+    {
+        "id": "q_b2_36",
+        "topic": "Program Testing",
+        "text": "State two differences between alpha testing and beta testing.",
+        "answer": "MP1: Alpha testing is carried out by the development team in-house; Beta testing is carried out by potential end-users.\nMP2: Alpha testing is done before Beta testing.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_37",
+        "topic": "Program Testing",
+        "text": "Explain the purpose of using boundary test data.",
+        "answer": "MP1: To test the limits of validation rules.\nMP2: To ensure the program correctly accepts valid boundary values and rejects invalid ones just outside the boundary.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_38",
+        "topic": "Program Testing",
+        "text": "Describe a dry run and state one tool used to record it.",
+        "answer": "MP1: A manual process where the programmer steps through code/algorithm line by line with test data.\nMP2: A trace table is used to record the changing values of variables.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_39",
+        "topic": "Program Testing",
+        "text": "Explain what is meant by integration testing.",
+        "answer": "MP1: Testing the interaction between groups of modules that have been combined.\nMP2: To verify that data is passed correctly between them and they function together as expected.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_40",
+        "topic": "Program Maintenance",
+        "text": "State the difference between corrective and adaptive maintenance.",
+        "answer": "MP1: Corrective maintenance fixes bugs/errors discovered after release.\nMP2: Adaptive maintenance modifies the software to work in a new environment (e.g., new OS) or meet changed legal requirements.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_41",
+        "topic": "Program Maintenance",
+        "text": "State the difference between perfective and adaptive maintenance.",
+        "answer": "MP1: Perfective maintenance improves performance or usability.\nMP2: Adaptive maintenance modifies the software to meet new requirements or work in a new environment.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_42",
+        "topic": "Data Types",
+        "text": "A variable `Count` stores the number of students. State the most appropriate data type and give a reason.",
+        "answer": "MP1: INTEGER.\nMP2: Because the number of students is a whole number / discrete value.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_43",
+        "topic": "Arrays",
+        "text": "A 2D array `Grid` is declared as `DECLARE Grid : ARRAY[1:3, 1:3] OF INTEGER`. State the number of elements and one advantage of this structure.",
+        "answer": "MP1: 9 elements.\nMP2: Suitable for representing a table / matrix / board game layout.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_44",
+        "topic": "Files",
+        "text": "Describe the process of reading all lines from a text file until the end is reached.",
+        "answer": "MP1: Open the file in READ mode. Use a `WHILE NOT EOF(File)` loop.\nMP2: Inside the loop, use `READFILE File, Line` to read each line. Close the file after the loop.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_45",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Explain what is meant by a 'circular queue'.",
+        "answer": "MP1: A queue implemented using an array where the front and rear pointers wrap around to the beginning when they reach the end.\nMP2: This allows efficient reuse of empty array spaces without shifting elements.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_46",
+        "topic": "Programming Constructs",
+        "text": "Explain why a `REPEAT...UNTIL` loop is often preferred for input validation.",
+        "answer": "MP1: The input statement must be executed at least once to get the value to validate.\nMP2: `REPEAT...UNTIL` checks the condition after the loop body, avoiding the need for an extra input statement before the loop.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_47",
+        "topic": "Structured Programming",
+        "text": "State two benefits of using constants.",
+        "answer": "MP1: Improves code readability / makes the purpose of the value clear.\nMP2: Simplifies maintenance, as the value only needs to be changed in one place.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_48",
+        "topic": "Software Development Lifecycle",
+        "text": "State two activities carried out during the Design stage.",
+        "answer": "MP1: Designing data structures / algorithms.\nMP2: Producing structure charts / state-transition diagrams / writing pseudocode.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_49",
+        "topic": "Program Testing",
+        "text": "Give an example of a run-time error and explain why it occurs.",
+        "answer": "MP1: Division by zero.\nMP2: Occurs when the program attempts an illegal mathematical operation during execution.",
+        "score": 2
+    },
+    {
+        "id": "q_b2_50",
+        "topic": "Algorithm Design",
+        "text": "Explain the importance of using meaningful identifier names.",
+        "answer": "MP1: Makes the algorithm/code self-documenting and easier for humans to read.\nMP2: Simplifies debugging and future maintenance by other programmers.",
+        "score": 2
+    },
+
+    {
+        "id": "q_b3_01",
+        "topic": "Computational Thinking",
+        "text": "A program is being developed to manage a car hire business. Explain the process of abstraction and state four items of data that should be stored each time a car is hired.",
+        "answer": "MP1: Abstraction filters out unnecessary details and keeps only essential information needed for the task.\nMP2: Car details: ID, Registration, Type.\nMP3: Customer details: ID, Name, Licence.\nMP4: Start date / Return date / Number of days / Cost of hire.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_02",
+        "topic": "Computational Thinking",
+        "text": "Describe three benefits of applying decomposition to a complex programming problem.",
+        "answer": "MP1: Breaks a complex problem into smaller, more manageable parts.\nMP2: Each part can be developed independently by different teams.\nMP3: Individual modules can be tested and debugged separately / reused in other projects.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_03",
+        "topic": "Algorithm Design",
+        "text": "State the type of loop structure most appropriate for validating input and give two reasons why it is better than the alternative.",
+        "answer": "MP1: Post-condition loop / REPEAT...UNTIL.\nMP2: The input must be received at least once before validation.\nMP3: Avoids code duplication (extra INPUT statement before the loop).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_04",
+        "topic": "Algorithm Design",
+        "text": "Explain the difference between a procedure and a function, and state when it would be appropriate to use a function.",
+        "answer": "MP1: A procedure performs a task but does not return a value.\nMP2: A function performs a task and always returns a single value to the calling code.\nMP3: Use a function when a calculation is performed and the result is needed in an expression / assignment.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_05",
+        "topic": "Algorithm Design",
+        "text": "Describe three features of well-written pseudocode that make it easy to understand and translate.",
+        "answer": "MP1: Meaningful identifier names / variables.\nMP2: Consistent indentation to show block structures (IF, WHILE, etc.).\nMP3: Use of comments / capitalised keywords.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_06",
+        "topic": "Data Types",
+        "text": "Explain why an array of records is a more efficient structure than multiple separate arrays for storing student data (Name, DOB, Mark). Give three benefits.",
+        "answer": "MP1: Different data types can be stored under one logical structure.\nMP2: Related data items are kept together / prevents mismatch of data across arrays.\nMP3: Easier to pass as a parameter / iterate through all records using a single index.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_07",
+        "topic": "Arrays",
+        "text": "Describe the bubble sort algorithm. Include references to comparisons, swaps, and the number of passes.",
+        "answer": "MP1: Repeatedly compares adjacent elements and swaps them if they are in the wrong order.\nMP2: After each pass, the largest (or smallest) element is placed in its correct position.\nMP3: The number of passes required is at most (n-1), where n is the number of elements.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_08",
+        "topic": "Arrays",
+        "text": "State three benefits of using arrays to store multiple data items instead of separate variables.",
+        "answer": "MP1: Allows iteration / looping through data using an index.\nMP2: Uses a single identifier for many items / reduces the number of variable declarations.\nMP3: Makes the program easier to write / maintain / modify.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_09",
+        "topic": "Files",
+        "text": "Explain how a text file can be used to store data items of different types and variable lengths on a single line. Suggest a suitable method.",
+        "answer": "MP1: Data items are converted to strings.\nMP2: They are concatenated to form a single string / line.\nMP3: Data items are separated by a special character / or each item is made a fixed length.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_10",
+        "topic": "Files",
+        "text": "Explain the three different file modes (READ, WRITE, APPEND) and state when each should be used.",
+        "answer": "MP1: READ - Used to retrieve data from an existing file. (Fails if file not found).\nMP2: WRITE - Used to create a new file or completely replace the contents of an existing file.\nMP3: APPEND - Used to add new data to the end of an existing file without erasing current contents.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_11",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Describe three key features of a stack Abstract Data Type (ADT).",
+        "answer": "MP1: It operates on a Last In First Out (LIFO) principle.\nMP2: Data is added using a Push operation and removed using a Pop operation.\nMP3: Only the top element is accessible / uses a single pointer (Top of Stack).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_12",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Describe three key features of a queue Abstract Data Type (ADT).",
+        "answer": "MP1: It operates on a First In First Out (FIFO) principle.\nMP2: Items are added (Enqueue) at the rear and removed (Dequeue) from the front.\nMP3: Uses two pointers (Front and Rear) / may be implemented as a circular queue to reuse space.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_13",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Explain three differences between a stack and a queue.",
+        "answer": "MP1: Stack is LIFO; Queue is FIFO.\nMP2: Stack uses one pointer (Top); Queue uses two pointers (Front and Rear).\nMP3: In a stack, items are added and removed from the same end; in a queue, they are added and removed from opposite ends.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_14",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Describe how a linked list is structured and explain one advantage it has over an array for storing data.",
+        "answer": "MP1: Each node contains data and a pointer to the next node.\nMP2: The start pointer points to the first node; the last node has a null pointer.\nMP3: Advantage: Insertion and deletion of nodes is efficient as only pointers need changing (no shifting of data).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_15",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Describe how a stack can be implemented using a 1D array and a single pointer variable.",
+        "answer": "MP1: The array stores the stack data; size determines maximum capacity.\nMP2: An integer pointer (Top of Stack) stores the index of the last added element.\nMP3: Push increments the pointer and adds data; Pop reads data and decrements the pointer.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_16",
+        "topic": "Programming Constructs",
+        "text": "Explain the difference between FOR, REPEAT...UNTIL, and WHILE...ENDWHILE loops. State a suitable scenario for each.",
+        "answer": "MP1: FOR loop is count-controlled; used when the number of iterations is known.\nMP2: REPEAT...UNTIL is post-condition; used when loop body must execute at least once (e.g., input validation).\nMP3: WHILE...ENDWHILE is pre-condition; used when the loop body may execute zero times.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_17",
+        "topic": "Structured Programming",
+        "text": "Explain the difference between passing parameters by value and by reference, and give an example of when BYREF is essential.",
+        "answer": "MP1: BYVAL passes a copy; changes inside the subroutine do not affect the original variable.\nMP2: BYREF passes the address; changes inside the subroutine DO affect the original variable.\nMP3: BYREF is essential when the subroutine needs to return multiple values / modify the input directly.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_18",
+        "topic": "Structured Programming",
+        "text": "State three benefits of using local variables instead of global variables.",
+        "answer": "MP1: Prevents accidental modification / side effects from other parts of the program.\nMP2: Saves memory, as they are created and destroyed when the subroutine is called and exits.\nMP3: Makes modules self-contained / easier to reuse and debug.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_19",
+        "topic": "Software Development Lifecycle",
+        "text": "Describe the five stages of the program development lifecycle.",
+        "answer": "MP1: Analysis: Gathering requirements and defining the problem.\nMP2: Design: Planning the solution (structure charts, pseudocode, data structures).\nMP3: Coding: Writing the actual program code.\nMP4: Testing: Running the program to find and fix errors.\nMP5: Maintenance: Ongoing updates and fixes after release.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_20",
+        "topic": "Software Development Lifecycle",
+        "text": "Compare the Waterfall model and the Iterative model. State one benefit and one drawback of each.",
+        "answer": "MP1: Waterfall Benefit: Easy to manage, stages are clearly defined.\nMP2: Waterfall Drawback: Difficult to change requirements later.\nMP3: Iterative Benefit: Working software produced early / easier to accommodate changes.\nMP4: Iterative Drawback: Requires more planning for each iteration.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_21",
+        "topic": "Software Development Lifecycle",
+        "text": "State three principles of Rapid Application Development (RAD).",
+        "answer": "MP1: Uses prototyping and iterative development.\nMP2: High customer involvement and frequent feedback.\nMP3: Development can be parallel / uses automated code generation / minimal planning.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_22",
+        "topic": "Program Design",
+        "text": "Explain the purpose of a structure chart and describe three elements it contains.",
+        "answer": "MP1: Purpose: To show the hierarchical breakdown of a problem into modules and their relationships.\nMP2: Boxes represent program modules.\nMP3: Arrows represent parameters and return values passed between modules.\nMP4: Diamond symbol represents selection; curved arrow represents iteration.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_23",
+        "topic": "Program Design",
+        "text": "Describe the symbols used in a structure chart to represent selection and iteration.",
+        "answer": "MP1: Selection is represented by a diamond symbol at the bottom of a parent module box.\nMP2: It indicates that the parent calls one of the child modules depending on a condition.\nMP3: Iteration is represented by a curved arrow looping back from the parent module.\nMP4: It indicates that the parent calls the child modules repeatedly.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_24",
+        "topic": "Program Design",
+        "text": "Explain the purpose of a state-transition diagram and identify its three main components.",
+        "answer": "MP1: Purpose: To show the behavior of a finite state machine / system with limited states.\nMP2: States (nodes/circles): Represent the different conditions the system can be in.\nMP3: Transitions (arrows): Show how the system moves from one state to another.\nMP4: Events/Labels: Indicate the input or condition that triggers the transition.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_25",
+        "topic": "Program Testing",
+        "text": "Explain the difference between syntax, logic, and run-time errors, giving an example of each.",
+        "answer": "MP1: Syntax error: Mistake in language grammar (e.g., missing comma, misspelled keyword). Program won't compile.\nMP2: Logic error: Flaw in algorithm design (e.g., using > instead of <). Program runs but gives wrong results.\nMP3: Run-time error: Error during execution (e.g., division by zero, infinite loop). Program crashes.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_26",
+        "topic": "Program Testing",
+        "text": "Describe black-box testing and white-box testing. State one advantage of each.",
+        "answer": "MP1: Black-box: Tests inputs and outputs without knowledge of internal code. Advantage: Tests from user's perspective.\nMP2: White-box: Tests internal logic and structure of code (every path). Advantage: Ensures all code paths are executed.\nMP3: (Either advantage counts as third point).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_27",
+        "topic": "Program Testing",
+        "text": "Explain the purpose of stub testing and describe how it is implemented.",
+        "answer": "MP1: To allow testing of high-level modules before low-level modules are complete.\nMP2: Stubs are temporary dummy modules that replace missing modules.\nMP3: Stubs output a message indicating they were called / return a fixed/expected value.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_28",
+        "topic": "Program Testing",
+        "text": "Explain the difference between alpha, beta, and acceptance testing.",
+        "answer": "MP1: Alpha testing is carried out in-house by the development team before release to users.\nMP2: Beta testing is carried out by a limited group of potential users in a real-world environment.\nMP3: Acceptance testing is carried out by the customer to confirm the software meets requirements before final sign-off.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_29",
+        "topic": "Program Testing",
+        "text": "A program validates a password to be 8-15 characters. Give examples of normal, abnormal, and boundary test data, explaining each choice.",
+        "answer": "MP1: Normal: 'Password123' (within length range).\nMP2: Abnormal: 'Pass' (too short) or 'PasswordIsTooLong' (too long).\nMP3: Boundary: 'Passwor1' (8 chars, valid) and 'Passwo' (7 chars, invalid); 'PasswordIsLong' (15 chars, valid) and 'PasswordIsLonger' (16 chars, invalid).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_30",
+        "topic": "Program Maintenance",
+        "text": "Describe the three types of program maintenance: corrective, adaptive, and perfective. Give an example of each.",
+        "answer": "MP1: Corrective: Fixing bugs/errors discovered after release (e.g., patching a security hole).\nMP2: Adaptive: Modifying software to work in a new environment or meet new requirements (e.g., updating for a new OS version).\nMP3: Perfective: Improving performance or usability without changing functionality (e.g., making the interface faster).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_31",
+        "topic": "Algorithm Design",
+        "text": "Write pseudocode to input a number and output 'Even' or 'Odd' using an IF...THEN...ELSE statement.",
+        "answer": "MP1: INPUT Number\nMP2: IF Number MOD 2 = 0 THEN\nMP3: OUTPUT 'Even'\nMP4: ELSE OUTPUT 'Odd'\nMP5: ENDIF",
+        "score": 3
+    },
+    {
+        "id": "q_b3_32",
+        "topic": "Data Types",
+        "text": "Write pseudocode to declare a record type `Book` with fields: `Title` (String), `Author` (String), `Year` (Integer), `Fiction` (Boolean).",
+        "answer": "MP1: TYPE Book\nMP2: DECLARE Title : STRING\nMP3: DECLARE Author : STRING\nMP4: DECLARE Year : INTEGER\nMP5: DECLARE Fiction : BOOLEAN\nMP6: ENDTYPE",
+        "score": 3
+    },
+    {
+        "id": "q_b3_33",
+        "topic": "Arrays",
+        "text": "Write pseudocode to declare a 1D array `Temperatures` of size 7 (1 to 7) of type REAL and initialise all elements to 0.0.",
+        "answer": "MP1: DECLARE Temperatures : ARRAY[1:7] OF REAL\nMP2: DECLARE Index : INTEGER\nMP3: FOR Index <- 1 TO 7\nMP4: Temperatures[Index] <- 0.0\nMP5: NEXT Index",
+        "score": 3
+    },
+    {
+        "id": "q_b3_34",
+        "topic": "Files",
+        "text": "Write pseudocode to open a file 'Scores.txt', read each line, and output it to the console until the end of the file is reached.",
+        "answer": "MP1: DECLARE Line : STRING\nMP2: OPENFILE 'Scores.txt' FOR READ\nMP3: WHILE NOT EOF('Scores.txt')\nMP4: READFILE 'Scores.txt', Line\nMP5: OUTPUT Line\nMP6: ENDWHILE\nMP7: CLOSEFILE 'Scores.txt'",
+        "score": 3
+    },
+    {
+        "id": "q_b3_35",
+        "topic": "Programming Constructs",
+        "text": "Write pseudocode for a CASE statement that outputs the day of the week based on an integer input `DayNum` (1 to 7). Include OTHERWISE.",
+        "answer": "MP1: INPUT DayNum\nMP2: CASE OF DayNum\nMP3: 1: OUTPUT 'Monday'\nMP4: 2: OUTPUT 'Tuesday'\n...\nMP5: 7: OUTPUT 'Sunday'\nMP6: OTHERWISE OUTPUT 'Invalid Day'\nMP7: ENDCASE",
+        "score": 3
+    },
+    {
+        "id": "q_b3_36",
+        "topic": "Structured Programming",
+        "text": "Write a function header in pseudocode for `CalculateArea` that takes radius (REAL) and returns area (REAL).",
+        "answer": "MP1: FUNCTION CalculateArea(radius : REAL) RETURNS REAL\nMP2: (Header must include FUNCTION, identifier, parameter with type, RETURNS type)",
+        "score": 2
+    },
+    {
+        "id": "q_b3_37",
+        "topic": "Structured Programming",
+        "text": "Write a procedure header in pseudocode for `SwapValues` that takes two INTEGER parameters by reference.",
+        "answer": "MP1: PROCEDURE SwapValues(BYREF Val1 : INTEGER, BYREF Val2 : INTEGER)\nMP2: (Header must include PROCEDURE, identifier, parameters with BYREF and type)",
+        "score": 2
+    },
+    {
+        "id": "q_b3_38",
+        "topic": "Program Design",
+        "text": "A program has modules `Main`, `InputData`, `Calculate`, `OutputResults`. `Main` calls `InputData` then `Calculate`, and finally `OutputResults`. Draw a simple structure chart for this.",
+        "answer": "MP1: Box for `Main` at top level.\nMP2: Boxes for `InputData`, `Calculate`, `OutputResults` at lower level connected to `Main`.\nMP3: Correct hierarchical layout (top-down).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_39",
+        "topic": "Program Testing",
+        "text": "State three items that should be included in a test plan.",
+        "answer": "MP1: Test number / ID.\nMP2: Purpose of the test / description.\nMP3: Test data used.\nMP4: Expected outcome / result.\nMP5: Actual outcome / result (filled in after testing).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_40",
+        "topic": "Algorithm Design",
+        "text": "Write pseudocode for a FOR loop that outputs numbers from 10 down to 1.",
+        "answer": "MP1: DECLARE Count : INTEGER\nMP2: FOR Count <- 10 TO 1 STEP -1\nMP3: OUTPUT Count\nMP4: NEXT Count",
+        "score": 3
+    },
+    {
+        "id": "q_b3_41",
+        "topic": "Data Types",
+        "text": "State the most appropriate data type for storing: (i) A person's name, (ii) Their age, (iii) Their exact height in meters. Justify each.",
+        "answer": "MP1: Name: STRING (sequence of characters).\nMP2: Age: INTEGER (whole number of years).\nMP3: Height: REAL (requires decimal precision).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_42",
+        "topic": "Arrays",
+        "text": "Write pseudocode to find the maximum value in a 1D array `Data` of 100 integers.",
+        "answer": "MP1: DECLARE Max, Index : INTEGER\nMP2: Max <- Data[1]\nMP3: FOR Index <- 2 TO 100\nMP4: IF Data[Index] > Max THEN Max <- Data[Index]\nMP5: ENDIF\nMP6: NEXT Index\nMP7: OUTPUT Max",
+        "score": 3
+    },
+    {
+        "id": "q_b3_43",
+        "topic": "Files",
+        "text": "Write pseudocode to append the string 'New Record' to an existing file 'Log.txt'.",
+        "answer": "MP1: OPENFILE 'Log.txt' FOR APPEND\nMP2: WRITEFILE 'Log.txt', 'New Record'\nMP3: CLOSEFILE 'Log.txt'",
+        "score": 3
+    },
+    {
+        "id": "q_b3_44",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Draw a diagram showing a stack after the following operations on an empty stack: Push 'A', Push 'B', Pop, Push 'C'. Show the final stack contents and Top pointer.",
+        "answer": "MP1: Diagram shows stack array.\nMP2: Bottom element is 'A', Top element is 'C'.\nMP3: Top of Stack pointer points to 'C'.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_45",
+        "topic": "Abstract Data Types (ADT)",
+        "text": "Draw a diagram showing a queue after the following operations on an empty queue: Enqueue 'X', Enqueue 'Y', Dequeue, Enqueue 'Z'. Show final queue contents and Front/Rear pointers.",
+        "answer": "MP1: Diagram shows queue array.\nMP2: Front pointer points to 'Y', Rear pointer points to 'Z'.\nMP3: Queue contents are 'Y' followed by 'Z'.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_46",
+        "topic": "Programming Constructs",
+        "text": "Write pseudocode for a pre-condition loop that asks the user to enter a positive number and repeats until the input is > 0.",
+        "answer": "MP1: DECLARE Num : INTEGER\nMP2: Num <- 0\nMP3: WHILE Num <= 0\nMP4: INPUT Num\nMP5: ENDWHILE",
+        "score": 3
+    },
+    {
+        "id": "q_b3_47",
+        "topic": "Structured Programming",
+        "text": "Explain the term 'function signature' or 'procedure header' and state three pieces of information it provides.",
+        "answer": "MP1: It is the first line defining the subroutine's interface.\nMP2: Specifies whether it is a PROCEDURE or FUNCTION.\nMP3: Specifies the identifier (name).\nMP4: Specifies the parameters (and their data types).\nMP5: For functions, specifies the return data type.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_48",
+        "topic": "Software Development Lifecycle",
+        "text": "State three activities that occur during the Analysis stage of the program development lifecycle.",
+        "answer": "MP1: Feasibility study.\nMP2: Investigation and fact finding (interviews, observations).\nMP3: Producing the requirements specification / problem definition.",
+        "score": 3
+    },
+    {
+        "id": "q_b3_49",
+        "topic": "Program Testing",
+        "text": "Explain the difference between a dry run and a walkthrough.",
+        "answer": "MP1: A dry run is an informal manual test performed by an individual programmer using a trace table.\nMP2: A walkthrough is a more formal review process, often involving other team members, using pre-defined test cases.\nMP3: (Either can be used to find logic errors).",
+        "score": 3
+    },
+    {
+        "id": "q_b3_50",
+        "topic": "Program Maintenance",
+        "text": "Explain why program maintenance is necessary even for perfectly working software.",
+        "answer": "MP1: Requirements change over time (Adaptive maintenance).\nMP2: Performance can be improved or usability enhanced (Perfective maintenance).\nMP3: Underlying hardware or operating systems change (Adaptive maintenance).",
+        "score": 3
+    }
+]
